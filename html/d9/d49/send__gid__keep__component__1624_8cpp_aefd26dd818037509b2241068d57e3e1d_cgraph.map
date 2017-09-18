@@ -1,0 +1,9 @@
+<map id="hpx_main" name="hpx_main">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="154,38,257,65"/>
+<area shape="rect" id="node6" href="$d0/db9/structclient_1_1viewer.html#ad5b4fdbd84d16820cb5806a3512aa3ae" title="client::viewer::register\l_region" alt="" coords="132,89,279,131"/>
+<area shape="rect" id="node7" href="$db/d7a/structclient_1_1view__registry.html#a7171f441cc811c2113989b00958cd9b8" title="client::view_registry\l::update" alt="" coords="138,155,273,196"/>
+<area shape="rect" id="node8" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="160,221,251,247"/>
+<area shape="rect" id="node3" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="327,13,509,39"/>
+<area shape="rect" id="node5" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="338,63,498,90"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="557,5,720,47"/>
+</map>

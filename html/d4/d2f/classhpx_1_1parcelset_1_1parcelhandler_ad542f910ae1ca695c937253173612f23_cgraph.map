@@ -1,0 +1,5 @@
+<map id="hpx::parcelset::parcelhandler::get_message_send_count" name="hpx::parcelset::parcelhandler::get_message_send_count">
+<area shape="rect" id="node2" href="$d9/d67/classhpx_1_1parcelset_1_1parcelport.html#a7912be5704603945354f4ca175729186" title="number of messages sent " alt="" coords="243,13,425,54"/>
+<area shape="rect" id="node3" href="$de/db4/classhpx_1_1performance__counters_1_1parcels_1_1detail_1_1gatherer.html#a0e1ea4e201b4fc3e1f1dad05d502b2d6" title="hpx::performance_counters\l::parcels::detail::gatherer\l::num_messages" alt="" coords="473,5,652,61"/>
+<area shape="rect" id="node4" href="$df/dad/namespacehpx_1_1util.html#ad5c4989e2aa44d2be2a0c236d87b9239" title="hpx::util::get_and\l_reset_value" alt="" coords="700,13,823,54"/>
+</map>

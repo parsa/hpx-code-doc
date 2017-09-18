@@ -1,0 +1,20 @@
+<map id="launch_policy.hpp" name="launch_policy.hpp">
+<area shape="rect" id="node2" href="$d8/dfd/config_8hpp.html" title="hpx/config.hpp" alt="" coords="1012,348,1119,375"/>
+<area shape="rect" id="node17" href="$db/d7d/thread__enums_8hpp.html" title="hpx/runtime/threads\l/thread_enums.hpp" alt="" coords="1002,80,1139,121"/>
+<area shape="rect" id="node26" href="$d4/d93/serialization__fwd_8hpp.html" title="hpx/runtime/serialization\l/serialization_fwd.hpp" alt="" coords="1229,80,1392,121"/>
+<area shape="rect" id="node3" href="$df/d6a/attributes_8hpp.html" title="hpx/config/attributes.hpp" alt="" coords="611,430,775,457"/>
+<area shape="rect" id="node5" href="$d2/d97/compiler__specific_8hpp.html" title="hpx/config/compiler\l_specific.hpp" alt="" coords="515,512,650,553"/>
+<area shape="rect" id="node6" href="$de/d38/branch__hints_8hpp.html" title="hpx/config/branch_hints.hpp" alt="" coords="5,430,189,457"/>
+<area shape="rect" id="node7" href="$d4/dce/constexpr_8hpp.html" title="hpx/config/constexpr.hpp" alt="" coords="774,519,941,546"/>
+<area shape="rect" id="node8" href="$d6/de2/emulate__deleted_8hpp.html" title="hpx/config/emulate\l_deleted.hpp" alt="" coords="405,423,536,464"/>
+<area shape="rect" id="node9" href="$d8/df6/config_2export__definitions_8hpp.html" title="hpx/config/export_definitions.hpp" alt="" coords="973,519,1184,546"/>
+<area shape="rect" id="node10" href="$d7/d7f/forceinline_8hpp.html" title="hpx/config/forceinline.hpp" alt="" coords="213,430,381,457"/>
+<area shape="rect" id="node11" href="$de/d75/manual__profiling_8hpp.html" title="hpx/config/manual_profiling.hpp" alt="" coords="800,430,1003,457"/>
+<area shape="rect" id="node12" href="$d5/ddd/config_2version_8hpp.html" title="hpx/config/version.hpp" alt="" coords="1129,430,1279,457"/>
+<area shape="rect" id="node13" href="$d0/d47/cat_8hpp.html" title="hpx/util/detail/pp\l/cat.hpp" alt="" coords="1405,512,1523,553"/>
+<area shape="rect" id="node16" href="$de/ded/stringize_8hpp.html" title="hpx/util/detail/pp\l/stringize.hpp" alt="" coords="1547,512,1664,553"/>
+<area shape="rect" id="node14" href="$d2/d1a/util_2detail_2pp_2config_8hpp.html" title="hpx/util/detail/pp\l/config.hpp" alt="" coords="1476,601,1593,643"/>
+<area shape="rect" id="node18" href="$d4/d8e/combined__tagged__state_8hpp.html" title="hpx/runtime/threads\l/detail/combined_tagged\l_state.hpp" alt="" coords="871,169,1033,225"/>
+<area shape="rect" id="node19" href="$d2/d54/assert_8hpp.html" title="hpx/util/assert.hpp" alt="" coords="735,273,865,300"/>
+<area shape="rect" id="node27" href="$d1/dcf/strip__parens_8hpp.html" title="Defines the HPX_PP_STRIP_PARENS macro. " alt="" coords="1265,177,1388,218"/>
+</map>

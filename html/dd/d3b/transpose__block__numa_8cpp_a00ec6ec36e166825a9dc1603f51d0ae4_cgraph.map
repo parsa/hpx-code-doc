@@ -1,0 +1,5 @@
+<map id="get_num_numa_nodes" name="get_num_numa_nodes">
+<area shape="rect" id="node2" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a1d9640c6881db1bc293767cb139d30ef" title="Return the number of available NUMA domains. " alt="" coords="207,5,403,47"/>
+<area shape="rect" id="node3" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a0df3d82a468c182ee628ce76b81cc343" title="Return the number of available NUMA domains. " alt="" coords="221,71,389,112"/>
+<area shape="rect" id="node4" href="$df/dad/namespacehpx_1_1util.html#aca0372e368b829ebac21ebfb2f50a82b" title="hpx::util::safe_lexical_cast" alt="" coords="217,137,393,163"/>
+</map>

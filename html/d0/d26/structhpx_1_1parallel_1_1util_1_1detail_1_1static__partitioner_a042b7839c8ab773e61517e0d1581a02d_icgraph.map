@@ -1,0 +1,4 @@
+<map id="hpx::parallel::util::detail::static_partitioner::call_with_index" name="hpx::parallel::util::detail::static_partitioner::call_with_index">
+<area shape="rect" id="node2" href="$d9/da6/structhpx_1_1parallel_1_1util_1_1detail_1_1partitioner_3_01_ex_policy___00_01_r_00_01_result_00_f9188a728fbca94eb87dd779d6a026dd.html#ace9998b92da4f0f522b791aaefbe6db4" title="hpx::parallel::util\l::detail::partitioner\l\&lt; ExPolicy_, R, Result,\l parallel::traits::static\l_partitioner_tag \&gt;::call\l_with_index" alt="" coords="249,5,407,105"/>
+<area shape="rect" id="node3" href="$d2/d63/structhpx_1_1parallel_1_1util_1_1detail_1_1partitioner_3_01execution_1_1parallel__task__policy_0969c76df517dcec21fca7bbe6c5e8dec.html#ae29ad3ded2e96492f8b0d3f89630c55b" title="hpx::parallel::util\l::detail::partitioner\l\&lt; execution::parallel\l_task_policy, R, Result,\l parallel::traits::static\l_partitioner_tag \&gt;::call_with_index" alt="" coords="219,129,437,229"/>
+</map>

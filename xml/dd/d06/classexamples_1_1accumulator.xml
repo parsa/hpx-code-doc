@@ -1,0 +1,341 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="dd/d06/classexamples_1_1accumulator" kind="class" language="C++" prot="public">
+    <compoundname>examples::accumulator</compoundname>
+    <basecompoundref refid="d9/dad/classhpx_1_1components_1_1client__base" prot="public" virt="non-virtual">hpx::components::client_base&lt; accumulator, server::accumulator &gt;</basecompoundref>
+    <includes refid="d8/d5e/accumulator_8hpp" local="no">accumulator.hpp</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="dd/d06/classexamples_1_1accumulator_1ad856c5ce2d5c22d6137e9f4fb1de6d1e" prot="private" static="no">
+        <type><ref refid="d9/dad/classhpx_1_1components_1_1client__base" kindref="compound">hpx::components::client_base</ref>&lt; <ref refid="dd/d06/classexamples_1_1accumulator" kindref="compound">accumulator</ref>, <ref refid="d8/d8d/classexamples_1_1server_1_1accumulator" kindref="compound">server::accumulator</ref> &gt;</type>
+        <definition>typedef hpx::components::client_base&lt; accumulator, server::accumulator &gt; examples::accumulator::base_type</definition>
+        <argsstring></argsstring>
+        <name>base_type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" line="31" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="dd/d06/classexamples_1_1accumulator_1ae17bd2f5d1e6bc9e1e20ed50ea04f2dc" prot="private" static="no">
+        <type><ref refid="d8/d8d/classexamples_1_1server_1_1accumulator_1a42aefb576ace3abbdc4b3dc212aff23d" kindref="member">server::accumulator::argument_type</ref></type>
+        <definition>typedef server::accumulator::argument_type examples::accumulator::argument_type</definition>
+        <argsstring></argsstring>
+        <name>argument_type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" line="34" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" bodystart="34" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="dd/d06/classexamples_1_1accumulator_1a32c10417844e4541cda2d3419b5bd124" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>examples::accumulator::accumulator</definition>
+        <argsstring>()</argsstring>
+        <name>accumulator</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Default construct an empty client side representation (not connected to any existing component). </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" line="39" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" bodystart="39" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="dd/d06/classexamples_1_1accumulator_1a26306b54c3f9be065879259b04473be7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>examples::accumulator::accumulator</definition>
+        <argsstring>(hpx::future&lt; hpx::id_type &gt; &amp;&amp;gid)</argsstring>
+        <name>accumulator</name>
+        <param>
+          <type><ref refid="d0/d33/classhpx_1_1lcos_1_1future" kindref="compound">hpx::future</ref>&lt; <ref refid="db/dee/structhpx_1_1naming_1_1id__type" kindref="compound">hpx::id_type</ref> &gt; &amp;&amp;</type>
+          <declname>gid</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Create a client side representation for the existing <emphasis><ref refid="d8/d8d/classexamples_1_1server_1_1accumulator" kindref="compound">server::accumulator</ref></emphasis> instance with the given GID. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" line="44" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" bodystart="44" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="function" id="dd/d06/classexamples_1_1accumulator_1a650f90fce24729b392c26932b1b520e1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void examples::accumulator::reset</definition>
+        <argsstring>(hpx::launch::apply_policy)</argsstring>
+        <name>reset</name>
+        <param>
+          <type>hpx::launch::apply_policy</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Reset the accumulator&apos;s value to 0.</para><para><simplesect kind="note"><para>This function has fire-and-forget semantics. It will not wait for the action to be executed. Instead, it will return immediately after the action has has been dispatched. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" line="55" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" bodystart="55" bodyend="61"/>
+        <references refid="d2/d54/assert_8hpp_1a8d1e72f13bfab6a86ea41d879f6ce8c1" compoundref="d2/d54/assert_8hpp" startline="60">HPX_ASSERT</references>
+        <references refid="d9/dad/classhpx_1_1components_1_1client__base_1a0cdfe4b8fed578eb1ce34222c0f07b03" compoundref="dc/d95/client__base_8hpp" startline="373" endline="376">hpx::components::client_base&lt; accumulator, server::accumulator &gt;::get_id</references>
+        <referencedby refid="d4/d7b/hpx__start_8hpp_1aefd26dd818037509b2241068d57e3e1d" compoundref="d7/dd0/accumulator__client_8cpp" startline="24" endline="91">hpx_main</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="dd/d06/classexamples_1_1accumulator_1ac3e9334498e1d47350465e1ffeaab576" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void examples::accumulator::reset</definition>
+        <argsstring>(hpx::launch::sync_policy=hpx::launch::sync)</argsstring>
+        <name>reset</name>
+        <param>
+          <type>hpx::launch::sync_policy</type>
+          <defval><ref refid="d2/d20/structhpx_1_1launch_1a63234dfc5eb5ddbd51fe2d0de1ecfa3c" kindref="member">hpx::launch::sync</ref></defval>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Reset the accumulator&apos;s value to 0.</para><para><simplesect kind="note"><para>This function is fully synchronous. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" line="67" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" bodystart="67" bodyend="73"/>
+        <references refid="d2/d54/assert_8hpp_1a8d1e72f13bfab6a86ea41d879f6ce8c1" compoundref="d2/d54/assert_8hpp" startline="60">HPX_ASSERT</references>
+        <references refid="d9/dad/classhpx_1_1components_1_1client__base_1a0cdfe4b8fed578eb1ce34222c0f07b03" compoundref="dc/d95/client__base_8hpp" startline="373" endline="376">hpx::components::client_base&lt; accumulator, server::accumulator &gt;::get_id</references>
+      </memberdef>
+      <memberdef kind="function" id="dd/d06/classexamples_1_1accumulator_1a2f3b1bbdc347c3f2ce2456c28712195c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void examples::accumulator::add</definition>
+        <argsstring>(hpx::launch::apply_policy, argument_type arg)</argsstring>
+        <name>add</name>
+        <param>
+          <type>hpx::launch::apply_policy</type>
+        </param>
+        <param>
+          <type>argument_type</type>
+          <declname>arg</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Add <computeroutput>arg</computeroutput> to the accumulator&apos;s value.</para><para><simplesect kind="note"><para>This function has fire-and-forget semantics. It will not wait for the action to be executed. Instead, it will return immediately after the action has has been dispatched. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" line="81" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" bodystart="81" bodyend="87"/>
+        <references refid="d2/d54/assert_8hpp_1a8d1e72f13bfab6a86ea41d879f6ce8c1" compoundref="d2/d54/assert_8hpp" startline="60">HPX_ASSERT</references>
+        <references refid="d9/dad/classhpx_1_1components_1_1client__base_1a0cdfe4b8fed578eb1ce34222c0f07b03" compoundref="dc/d95/client__base_8hpp" startline="373" endline="376">hpx::components::client_base&lt; accumulator, server::accumulator &gt;::get_id</references>
+        <referencedby refid="d4/d7b/hpx__start_8hpp_1aefd26dd818037509b2241068d57e3e1d" compoundref="d7/dd0/accumulator__client_8cpp" startline="24" endline="91">hpx_main</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="dd/d06/classexamples_1_1accumulator_1a797c48b10d55138c516008e49a57691c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void examples::accumulator::add</definition>
+        <argsstring>(argument_type arg)</argsstring>
+        <name>add</name>
+        <param>
+          <type>argument_type</type>
+          <declname>arg</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Add <computeroutput>arg</computeroutput> to the accumulator&apos;s value.</para><para><simplesect kind="note"><para>This function is fully synchronous. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" line="93" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" bodystart="93" bodyend="99"/>
+        <references refid="d2/d54/assert_8hpp_1a8d1e72f13bfab6a86ea41d879f6ce8c1" compoundref="d2/d54/assert_8hpp" startline="60">HPX_ASSERT</references>
+        <references refid="d9/dad/classhpx_1_1components_1_1client__base_1a0cdfe4b8fed578eb1ce34222c0f07b03" compoundref="dc/d95/client__base_8hpp" startline="373" endline="376">hpx::components::client_base&lt; accumulator, server::accumulator &gt;::get_id</references>
+      </memberdef>
+      <memberdef kind="function" id="dd/d06/classexamples_1_1accumulator_1a5bbc4d7cce27f344eef3bfbf17d471fc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="d0/d33/classhpx_1_1lcos_1_1future" kindref="compound">hpx::future</ref>&lt; argument_type &gt;</type>
+        <definition>hpx::future&lt;argument_type&gt; examples::accumulator::query</definition>
+        <argsstring>(hpx::launch::async_policy)</argsstring>
+        <name>query</name>
+        <param>
+          <type>hpx::launch::async_policy</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Asynchronously query the current value of the accumulator.</para><para><simplesect kind="return"><para>This function returns an <emphasis><ref refid="d0/d33/classhpx_1_1lcos_1_1future" kindref="compound">hpx::lcos::future</ref></emphasis>. When the value of this computation is needed, the <ref refid="d9/dad/classhpx_1_1components_1_1client__base_1a6d59aae0bee4da523a27bea9719d97c0" kindref="member">get()</ref> method of the future should be called. If the value is available, <ref refid="d9/dad/classhpx_1_1components_1_1client__base_1a6d59aae0bee4da523a27bea9719d97c0" kindref="member">get()</ref> will return immediately; otherwise, it will block until the value is ready. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" line="111" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" bodystart="111" bodyend="117"/>
+        <references refid="d2/d54/assert_8hpp_1a8d1e72f13bfab6a86ea41d879f6ce8c1" compoundref="d2/d54/assert_8hpp" startline="60">HPX_ASSERT</references>
+        <references refid="d9/dad/classhpx_1_1components_1_1client__base_1a0cdfe4b8fed578eb1ce34222c0f07b03" compoundref="dc/d95/client__base_8hpp" startline="373" endline="376">hpx::components::client_base&lt; accumulator, server::accumulator &gt;::get_id</references>
+        <references refid="d8/d83/namespacehpx_1acb7d8e37b73b823956ce144f9a57eaa4" compoundref="d5/d2c/async_8hpp" startline="343" endline="351">hpx::async</references>
+        <referencedby refid="d4/d7b/hpx__start_8hpp_1aefd26dd818037509b2241068d57e3e1d" compoundref="d7/dd0/accumulator__client_8cpp" startline="24" endline="91">hpx_main</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="dd/d06/classexamples_1_1accumulator_1a5d14ab2672219b841481dfe509e73fd9" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>argument_type</type>
+        <definition>argument_type examples::accumulator::query</definition>
+        <argsstring>(hpx::launch::sync_policy=hpx::launch::sync)</argsstring>
+        <name>query</name>
+        <param>
+          <type>hpx::launch::sync_policy</type>
+          <defval><ref refid="d2/d20/structhpx_1_1launch_1a63234dfc5eb5ddbd51fe2d0de1ecfa3c" kindref="member">hpx::launch::sync</ref></defval>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Query the current value of the accumulator.</para><para><simplesect kind="note"><para>This function is fully synchronous. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" line="123" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" bodystart="123" bodyend="129"/>
+        <references refid="d2/d54/assert_8hpp_1a8d1e72f13bfab6a86ea41d879f6ce8c1" compoundref="d2/d54/assert_8hpp" startline="60">HPX_ASSERT</references>
+        <references refid="d9/dad/classhpx_1_1components_1_1client__base_1a0cdfe4b8fed578eb1ce34222c0f07b03" compoundref="dc/d95/client__base_8hpp" startline="373" endline="376">hpx::components::client_base&lt; accumulator, server::accumulator &gt;::get_id</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Client for the <emphasis><ref refid="d8/d8d/classexamples_1_1server_1_1accumulator" kindref="compound">server::accumulator</ref></emphasis> component. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="162">
+        <label>detail::make_stub&lt; Stub &gt;::type</label>
+        <link refid="de/dfa/structhpx_1_1components_1_1stub__base"/>
+      </node>
+      <node id="158">
+        <label>examples::accumulator</label>
+        <link refid="dd/d06/classexamples_1_1accumulator"/>
+        <childnode refid="159" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="161">
+        <label>hpx::components::client_base&lt; Derived, Stub &gt;</label>
+        <link refid="d9/dad/classhpx_1_1components_1_1client__base"/>
+        <childnode refid="162" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="160">
+        <label>detail::make_stub&lt; server::accumulator  &gt;::type</label>
+        <link refid="de/dfa/structhpx_1_1components_1_1stub__base"/>
+      </node>
+      <node id="159">
+        <label>hpx::components::client_base&lt; accumulator, server::accumulator &gt;</label>
+        <link refid="d9/dad/classhpx_1_1components_1_1client__base"/>
+        <childnode refid="160" relation="public-inheritance">
+        </childnode>
+        <childnode refid="161" relation="template-instance">
+          <edgelabel>&lt; accumulator, server::accumulator &gt;</edgelabel>
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="168">
+        <label>detail::make_stub&lt; Stub &gt;::type</label>
+        <link refid="de/dfa/structhpx_1_1components_1_1stub__base"/>
+      </node>
+      <node id="163">
+        <label>examples::accumulator</label>
+        <link refid="dd/d06/classexamples_1_1accumulator"/>
+        <childnode refid="164" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="166">
+        <label>string</label>
+      </node>
+      <node id="167">
+        <label>hpx::components::client_base&lt; Derived, Stub &gt;</label>
+        <link refid="d9/dad/classhpx_1_1components_1_1client__base"/>
+        <childnode refid="168" relation="public-inheritance">
+        </childnode>
+        <childnode refid="166" relation="usage">
+          <edgelabel>registered_name_</edgelabel>
+        </childnode>
+      </node>
+      <node id="165">
+        <label>detail::make_stub&lt; server::accumulator  &gt;::type</label>
+        <link refid="de/dfa/structhpx_1_1components_1_1stub__base"/>
+      </node>
+      <node id="164">
+        <label>hpx::components::client_base&lt; accumulator, server::accumulator &gt;</label>
+        <link refid="d9/dad/classhpx_1_1components_1_1client__base"/>
+        <childnode refid="165" relation="public-inheritance">
+        </childnode>
+        <childnode refid="166" relation="usage">
+          <edgelabel>registered_name_</edgelabel>
+        </childnode>
+        <childnode refid="167" relation="template-instance">
+          <edgelabel>&lt; accumulator, server::accumulator &gt;</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" line="27" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/accumulator.hpp" bodystart="22" bodyend="130"/>
+    <listofallmembers>
+      <member refid="dd/d06/classexamples_1_1accumulator_1a32c10417844e4541cda2d3419b5bd124" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>accumulator</name></member>
+      <member refid="dd/d06/classexamples_1_1accumulator_1a26306b54c3f9be065879259b04473be7" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>accumulator</name></member>
+      <member refid="dd/d06/classexamples_1_1accumulator_1a2f3b1bbdc347c3f2ce2456c28712195c" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>add</name></member>
+      <member refid="dd/d06/classexamples_1_1accumulator_1a797c48b10d55138c516008e49a57691c" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>add</name></member>
+      <member refid="dd/d06/classexamples_1_1accumulator_1ae17bd2f5d1e6bc9e1e20ed50ea04f2dc" prot="private" virt="non-virtual"><scope>examples::accumulator</scope><name>argument_type</name></member>
+      <member refid="dd/d06/classexamples_1_1accumulator_1ad856c5ce2d5c22d6137e9f4fb1de6d1e" prot="private" virt="non-virtual"><scope>examples::accumulator</scope><name>base_type</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1a268ea33c68c29f4c3f5221afd6ca42a3" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>bulk_create</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1a6a68ca7a26f10ac3d61e8f2167bee5ac" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>bulk_create_async</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1ad551b512974d7d4bf11f6b76b589e096" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>bulk_create_colocated</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1af4dca498f0cb050e876cd5b6c22f4ca0" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>bulk_create_colocated_async</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a985910e9959283a960582f3605f803ce" prot="protected" virt="non-virtual"><scope>examples::accumulator</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1abf3065ef0a2f690b7e69b3f7bcac4860" prot="protected" virt="non-virtual"><scope>examples::accumulator</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a24458d3bbcf126e3d50a3c41a92252cb" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1acb082f5bdae60cda0783f38a61969ddd" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1ac4af911d43b9bf85c414d7f3dafe2897" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a25ea6bb1d3df8e461787977d8bafc30d" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a0348743631c6db4d3f17275da74336e0" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a4939abece4a52d909ce402a3d4073bf8" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a054b62ecd95907355a79254aaa40ea2b" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1aaa9897134576cbb8ecd33d5818692a63" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1aff75713e7a147f2aefd7d85092560be7" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a799b739d230d80abb078dce9845dc277" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>connect_to</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1ab57228eb99827ba33f2e47febd266608" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>create</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1a352a867161e19ad1e6f5ebd321e6b2d3" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>create_async</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1ad8269573e1872281578b0e5c31e508c3" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>create_colocated</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1abd66d6f66b31a32cb547eb3de2dc63a6" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>create_colocated_async</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1aa1af310d69b8c1b29ba076fb61e9ca29" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>detach</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a5f9ce510e65ead00da165d79c0c3d93c" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>free</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1ae572f0885b90806fc41c4e5feeb99d03" prot="public" virt="non-virtual" ambiguityscope="hpx::components::stub_base::"><scope>examples::accumulator</scope><name>free</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1acbc8b7903b53744c08b7079fcb587df2" prot="public" virt="non-virtual" ambiguityscope="hpx::components::stub_base::"><scope>examples::accumulator</scope><name>free</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a41c6f42cb3acf6f5066418a4176c9063" prot="protected" virt="non-virtual"><scope>examples::accumulator</scope><name>future_type</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a6d59aae0bee4da523a27bea9719d97c0" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>get</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1abc28ca541f2e2eb38bb5fd4f0e057185" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>get_component_type</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1ae3afee0d00a1a21908aa72cb70817454" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>get_exception_ptr</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a0cdfe4b8fed578eb1ce34222c0f07b03" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>get_id</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a64effbd49c5a286e087a0d9a2855c8c3" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>get_raw_gid</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1af3e419678e593a74390deb23e69be72f" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>has_exception</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a78565ed46ca28ad0edf4fd44118d0fcb" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>has_value</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a487c8eb8743958b58ac966b9b2a0c6fe" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>is_client_tag</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a32168236d71eca86ffc30b65eed10e65" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>is_ready</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1ae5c54fadd8bdfbb4eb5e939bac76bf1c" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>operator bool</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a38712560bf9ebcb302de09d252a8c135" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>operator=</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a62a9f57ac6fd6237a4d253bcca4315b3" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>operator=</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a406f42578020ddfe8a65940bc55f8fb5" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>operator=</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a3ff2046eac3d45e9caf173ea97c99e2f" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>operator=</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a850f6f6cf716674db71228015ec5ef08" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>operator=</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a25b0d7435d871de95f6cbef5fc46f6c7" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>operator=</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1aa7d58d05fd086c06c4c658a16d66c9e1" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>operator=</name></member>
+      <member refid="dd/d06/classexamples_1_1accumulator_1a5bbc4d7cce27f344eef3bfbf17d471fc" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>query</name></member>
+      <member refid="dd/d06/classexamples_1_1accumulator_1a5d14ab2672219b841481dfe509e73fd9" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>query</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a632d14405be3f73ace2827cf3e0d71a0" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>register_as</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1adbd7a338e8bc364ed4b67270d2046fcf" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>registered_name</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a26d8a0e6a063e6899035a50c00d29f0e" prot="protected" virt="non-virtual"><scope>examples::accumulator</scope><name>registered_name_</name></member>
+      <member refid="dd/d06/classexamples_1_1accumulator_1a650f90fce24729b392c26932b1b520e1" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>reset</name></member>
+      <member refid="dd/d06/classexamples_1_1accumulator_1ac3e9334498e1d47350465e1ffeaab576" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>reset</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a92804c0497b7fd54232dc4349768a52c" prot="public" virt="non-virtual" ambiguityscope="client_base&lt; accumulator, server::accumulator &gt;::"><scope>examples::accumulator</scope><name>reset</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a7a0944e64e08254a335197504ec4e316" prot="public" virt="non-virtual" ambiguityscope="client_base&lt; accumulator, server::accumulator &gt;::"><scope>examples::accumulator</scope><name>reset</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a12510e0ea5b7eae57c990ed070aae3c1" prot="public" virt="non-virtual" ambiguityscope="client_base&lt; accumulator, server::accumulator &gt;::"><scope>examples::accumulator</scope><name>reset</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a721825e8fc102f50618c448a2d188c57" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>reset_registered_name</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a2a7fd42d01aa2979965363d7f1829797" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>server_component_type</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1ac5af75af2b3ac752427f3bf3b3f459f4" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>share</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a943f9ddbe1506baf328132a6dd7d67e7" prot="protected" virt="non-virtual"><scope>examples::accumulator</scope><name>shared_state_</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1aadbfac4a28c367bd4d6ab83a5ae04486" prot="protected" virt="non-virtual"><scope>examples::accumulator</scope><name>shared_state_type</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1adf5772f9c27974fe616fac5882b3652c" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>stub_argument_type</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a46a769df4a97557c3069cd3a5734ce8d" prot="protected" virt="non-virtual"><scope>examples::accumulator</scope><name>stub_type</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a195e205b5917c50455e9eab169045a2f" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>then</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1ab3df549067cef8df0708874bbfa3f570" prot="protected" virt="non-virtual"><scope>examples::accumulator</scope><name>unregister_held_object</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1ac63f8aa0c5da91cc79c8b4d030cc5713" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>valid</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1ae26e4c559c4567d1e3b8f65e141f4ff0" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>wait</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1aca5e3161dac9ac330693b35f157b21d0" prot="public" virt="non-virtual"><scope>examples::accumulator</scope><name>~client_base</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

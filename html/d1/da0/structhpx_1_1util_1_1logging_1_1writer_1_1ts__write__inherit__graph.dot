@@ -1,0 +1,13 @@
+digraph "hpx::util::logging::writer::ts_write&lt; base_type &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::logging\l::writer::ts_write\<\l base_type \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="base_type",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node2 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::util::logging\l::manipulator::non_const\l_context\< detail::ts_write\l_context \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/db7/structhpx_1_1util_1_1logging_1_1manipulator_1_1non__const__context.html"];
+  Node3 -> Node2 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< detail::ts_write\l_context \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::util::logging\l::manipulator::non_const\l_context\< context_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/db7/structhpx_1_1util_1_1logging_1_1manipulator_1_1non__const__context.html",tooltip="In case your manipulator (formatter or destination) needs to hold non-const context information..."];
+}

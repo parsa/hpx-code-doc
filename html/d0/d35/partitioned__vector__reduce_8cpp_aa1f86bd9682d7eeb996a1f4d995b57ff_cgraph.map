@@ -1,0 +1,10 @@
+<map id="reduce_tests" name="reduce_tests">
+<area shape="rect" id="node2" href="$d0/d35/partitioned__vector__reduce_8cpp.html#a6b1931f002b5b3fc1ae207e090a509cc" title="test_reduce" alt="" coords="171,123,262,149"/>
+<area shape="rect" id="node6" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="402,173,441,200"/>
+<area shape="rect" id="node9" href="$d0/d35/partitioned__vector__reduce_8cpp.html#af3b45a8f9f9be3bfea00d388449b3436" title="test_reduce_async" alt="" coords="151,72,283,99"/>
+<area shape="rect" id="node3" href="$d1/db5/rnd__future__reduce_8cpp.html#a26146ff43c56a412c2e0dc5e33c7d55e" title="reduce" alt="" coords="391,5,452,32"/>
+<area shape="rect" id="node4" href="$d1/d60/classhpx_1_1partitioned__vector.html#ae49064cd21aee5d77e2484c194a55f2b" title="hpx::partitioned_vector\l::begin" alt="" coords="345,57,497,98"/>
+<area shape="rect" id="node5" href="$d1/d60/classhpx_1_1partitioned__vector.html#a66108302ad511b83709063b9874158e7" title="Return the iterator at the end of the vector. " alt="" coords="331,123,512,149"/>
+<area shape="rect" id="node7" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="560,173,647,200"/>
+<area shape="rect" id="node8" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="695,166,860,207"/>
+</map>

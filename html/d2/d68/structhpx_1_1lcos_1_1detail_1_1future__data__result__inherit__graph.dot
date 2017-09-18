@@ -1,0 +1,15 @@
+digraph "hpx::lcos::detail::future_data_result&lt; Result &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::lcos::detail::\lfuture_data_result\<\l Result \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< T \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::lcos::detail::\lfuture_data_result\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d1f/structhpx_1_1lcos_1_1detail_1_1future__data__result.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::lcos::detail::\lfuture_value\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d54/structhpx_1_1lcos_1_1detail_1_1future__value.html"];
+  Node0 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< T &\>" ,fontname="Helvetica"];
+  Node3 [label="hpx::lcos::detail::\lfuture_data_result\< T &\>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d1f/structhpx_1_1lcos_1_1detail_1_1future__data__result.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::lcos::detail::\lfuture_value\< T & \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d18/structhpx_1_1lcos_1_1detail_1_1future__value_3_01_t_01_6_01_4.html"];
+}

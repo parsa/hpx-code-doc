@@ -1,0 +1,10 @@
+digraph "hpx::traits::is_future_tuple&lt; util::tuple&lt; Ts... &gt; &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node3 [label="hpx::traits::is_future\l_tuple\< util::tuple\< Ts... \> \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::util::detail::\lall_of\< is_future\< Ts\l \>... \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d4d/structhpx_1_1util_1_1detail_1_1all__of.html"];
+  Node5 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< is_future\< Ts \>... \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::util::detail::\lall_of\< Ts \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d4d/structhpx_1_1util_1_1detail_1_1all__of.html"];
+}

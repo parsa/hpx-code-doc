@@ -1,0 +1,6 @@
+<map id="test_task_returning_void" name="test_task_returning_void">
+<area shape="rect" id="node2" href="$d6/d4d/future_8cpp.html#a15196b401013e8f2274566f6432b4ba4" title="do_nothing" alt="" coords="264,5,349,32"/>
+<area shape="rect" id="node3" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a628625094362627e776fe22b68404111" title="hpx::lcos::detail::\lfuture_base::is_ready" alt="" coords="233,57,380,98"/>
+<area shape="rect" id="node4" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a21423c49daa024230c4e4e85d7e0aa0a" title="hpx::lcos::detail::\lfuture_base::has_value" alt="" coords="229,122,384,163"/>
+<area shape="rect" id="node5" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#aa95b01f70ad95706ae420ff1db2e5b99" title="hpx::lcos::detail::\lfuture_base::has_exception" alt="" coords="216,187,397,229"/>
+</map>

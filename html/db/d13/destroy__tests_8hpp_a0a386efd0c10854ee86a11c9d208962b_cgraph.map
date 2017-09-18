@@ -1,0 +1,9 @@
+<map id="test_destroy_async" name="test_destroy_async">
+<area shape="rect" id="node2" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a7669848e3e4ff6cee42c8f645101970f" title="hpx::parallel::v1::\lfor_each" alt="" coords="189,74,309,115"/>
+<area shape="rect" id="node3" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="357,81,400,108"/>
+<area shape="rect" id="node4" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="483,5,558,32"/>
+<area shape="rect" id="node5" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="448,56,593,83"/>
+<area shape="rect" id="node6" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="485,157,557,184"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="695,107,782,133"/>
+<area shape="rect" id="node8" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="641,158,836,199"/>
+</map>

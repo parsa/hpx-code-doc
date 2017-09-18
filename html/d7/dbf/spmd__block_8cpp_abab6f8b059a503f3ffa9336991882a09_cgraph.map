@@ -1,0 +1,6 @@
+<map id="bulk_test_function" name="bulk_test_function">
+<area shape="rect" id="node2" href="$d7/d67/structhpx_1_1lcos_1_1local_1_1spmd__block.html#aeb861dbdf26296a15d5fa6f68dcbe48d" title="hpx::lcos::local::spmd\l_block::get_num_images" alt="" coords="180,5,347,47"/>
+<area shape="rect" id="node3" href="$d7/d67/structhpx_1_1lcos_1_1local_1_1spmd__block.html#af3245e2fc29b43906fc4c39960430e71" title="hpx::lcos::local::spmd\l_block::this_image" alt="" coords="188,71,339,112"/>
+<area shape="rect" id="node4" href="$d7/d67/structhpx_1_1lcos_1_1local_1_1spmd__block.html#af0b38c71a1006e522d00bc116eb5996c" title="hpx::lcos::local::spmd\l_block::sync_all" alt="" coords="188,136,339,177"/>
+<area shape="rect" id="node5" href="$d7/d67/structhpx_1_1lcos_1_1local_1_1spmd__block.html#ab8eb4a06a249c9982586d0a476973721" title="hpx::lcos::local::spmd\l_block::sync_images" alt="" coords="188,201,339,243"/>
+</map>

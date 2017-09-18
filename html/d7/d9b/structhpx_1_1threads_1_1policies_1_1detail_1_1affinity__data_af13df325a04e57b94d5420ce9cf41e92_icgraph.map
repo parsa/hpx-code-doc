@@ -1,0 +1,4 @@
+<map id="hpx::threads::policies::detail::affinity_data::set_pu_nums" name="hpx::threads::policies::detail::affinity_data::set_pu_nums">
+<area shape="rect" id="node2" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a11483ef960b429a24d9856cba726bd04" title="hpx::resource::detail\l::partitioner::assign_cores" alt="" coords="200,13,372,54"/>
+<area shape="rect" id="node3" href="$d0/d7b/classhpx_1_1runtime.html#ab3c29b4713d734dea0e6a5799bfe24e5" title="hpx::runtime::assign\l_cores" alt="" coords="420,13,560,54"/>
+</map>

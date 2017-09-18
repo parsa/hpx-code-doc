@@ -1,0 +1,5 @@
+<map id="partition_server::HPX_DEFINE_COMPONENT_ACTION" name="partition_server::HPX_DEFINE_COMPONENT_ACTION">
+<area shape="rect" id="node2" href="$d9/dbd/structpartition__server.html#a80906893b5b6771003acbf3fcfec37cf" title="partition_server::partition\l_server" alt="" coords="273,5,436,47"/>
+<area shape="rect" id="node3" href="$d9/dbd/structpartition__server.html#a8709146408bc4acedc24c6dcf0e09ed3" title="partition_server::from\l_right" alt="" coords="283,71,426,112"/>
+<area shape="rect" id="node4" href="$d9/dbd/structpartition__server.html#a2a270eea4a4895f79d10898aa9c4c68e" title="partition_server::release\l_dependencies" alt="" coords="275,136,434,177"/>
+</map>

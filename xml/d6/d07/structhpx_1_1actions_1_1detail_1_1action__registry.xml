@@ -1,0 +1,451 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::actions::detail::action_registry</compoundname>
+    <includes refid="d1/d61/action__factory_8hpp" local="no">action_factory.hpp</includes>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a59ac6247de3352a8707836e7f75589bf" prot="public" static="no">
+        <type><ref refid="d9/de8/structhpx_1_1actions_1_1base__action" kindref="compound">base_action</ref> *(*</type>
+        <definition>typedef base_action*(* hpx::actions::detail::action_registry::ctor_t) (bool)</definition>
+        <argsstring>)(bool)</argsstring>
+        <name>ctor_t</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="28" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a24203d8cbadff834904d74e216b4d3f3" prot="public" static="no">
+        <type>std::unordered_map&lt; std::string, <ref refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a59ac6247de3352a8707836e7f75589bf" kindref="member">ctor_t</ref> &gt;</type>
+        <definition>typedef std::unordered_map&lt;std::string, ctor_t&gt; hpx::actions::detail::action_registry::typename_to_ctor_t</definition>
+        <argsstring></argsstring>
+        <name>typename_to_ctor_t</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="29" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1aebf8ad6bf822c440e68516f46110b45d" prot="public" static="no">
+        <type>std::unordered_map&lt; std::string, std::uint32_t &gt;</type>
+        <definition>typedef std::unordered_map&lt;std::string, std::uint32_t&gt; hpx::actions::detail::action_registry::typename_to_id_t</definition>
+        <argsstring></argsstring>
+        <name>typename_to_id_t</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="30" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1abcb78bd3fab987208174f3fd4ecad0c4" prot="public" static="no">
+        <type>std::vector&lt; <ref refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a59ac6247de3352a8707836e7f75589bf" kindref="member">ctor_t</ref> &gt;</type>
+        <definition>typedef std::vector&lt;ctor_t&gt; hpx::actions::detail::action_registry::cache_t</definition>
+        <argsstring></argsstring>
+        <name>cache_t</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="31" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a6254dcf5e77818d1659b675a5b71f440" prot="public" static="no" mutable="no">
+        <type><ref refid="d4/dce/constexpr_8hpp_1ac3293373fed9c5497e8d716acc9aa30d" kindref="member">HPX_STATIC_CONSTEXPR</ref> std::uint32_t</type>
+        <definition>HPX_STATIC_CONSTEXPR std::uint32_t hpx::actions::detail::action_registry::invalid_id</definition>
+        <argsstring></argsstring>
+        <name>invalid_id</name>
+        <initializer>= ~0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="33" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" bodystart="33" bodyend="-1"/>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a7352d14b8ad4d97a880c8ff247f0e04a" compoundref="d1/d52/action__factory_8cpp" startline="34" endline="57">register_typename</referencedby>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a76ee685c892012c7fe05c8e29eb6e83a" compoundref="d1/d52/action__factory_8cpp" startline="87" endline="95">try_get_id</referencedby>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1ab7be6b90099c019bb69d12f03eee4d46" compoundref="d1/d52/action__factory_8cpp" startline="110" endline="123">get_id</referencedby>
+        <referencedby refid="dd/d18/structhpx_1_1agas_1_1detail_1_1assigned__id__sequence_1a99a379110ec6aa07c3f1d650769e59b8" compoundref="d9/d5e/big__boot__barrier_8cpp" startline="123" endline="127">hpx::agas::detail::assigned_id_sequence::load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a3ea7725158184fe0ec2d1ff5094448ae" prot="public" static="no" mutable="no">
+        <type>std::uint32_t</type>
+        <definition>std::uint32_t hpx::actions::detail::action_registry::max_id_</definition>
+        <argsstring></argsstring>
+        <name>max_id_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="53" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" bodystart="53" bodyend="-1"/>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a7352d14b8ad4d97a880c8ff247f0e04a" compoundref="d1/d52/action__factory_8cpp" startline="34" endline="57">register_typename</referencedby>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1ad0b2659af6636d76d4b39d64eac81e3c" compoundref="d1/d52/action__factory_8cpp" startline="60" endline="85">fill_missing_typenames</referencedby>
+        <referencedby refid="dd/d18/structhpx_1_1agas_1_1detail_1_1assigned__id__sequence_1a99a379110ec6aa07c3f1d650769e59b8" compoundref="d9/d5e/big__boot__barrier_8cpp" startline="123" endline="127">hpx::agas::detail::assigned_id_sequence::load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a677e5f0bda039e7eeb1292040a891da7" prot="public" static="no" mutable="no">
+        <type><ref refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a24203d8cbadff834904d74e216b4d3f3" kindref="member">typename_to_ctor_t</ref></type>
+        <definition>typename_to_ctor_t hpx::actions::detail::action_registry::typename_to_ctor_</definition>
+        <argsstring></argsstring>
+        <name>typename_to_ctor_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="54" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" bodystart="54" bodyend="-1"/>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a589ee44aeca676637b0b3a4de1b42fe0" compoundref="d1/d52/action__factory_8cpp" startline="22" endline="32">register_factory</referencedby>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a7352d14b8ad4d97a880c8ff247f0e04a" compoundref="d1/d52/action__factory_8cpp" startline="34" endline="57">register_typename</referencedby>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1ad0b2659af6636d76d4b39d64eac81e3c" compoundref="d1/d52/action__factory_8cpp" startline="60" endline="85">fill_missing_typenames</referencedby>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a5216619c74ba5ee2d7a82626fe3f42cd" compoundref="d1/d52/action__factory_8cpp" startline="97" endline="108">get_unassigned_typenames</referencedby>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a57e4ab73981e3ccea844113dac3d97e1" compoundref="d1/d52/action__factory_8cpp" startline="184" endline="204">collect_registered_typenames</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a441a1e26c360ed096a53dbddfc8cb725" prot="public" static="no" mutable="no">
+        <type><ref refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1aebf8ad6bf822c440e68516f46110b45d" kindref="member">typename_to_id_t</ref></type>
+        <definition>typename_to_id_t hpx::actions::detail::action_registry::typename_to_id_</definition>
+        <argsstring></argsstring>
+        <name>typename_to_id_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="55" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" bodystart="55" bodyend="-1"/>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a589ee44aeca676637b0b3a4de1b42fe0" compoundref="d1/d52/action__factory_8cpp" startline="22" endline="32">register_factory</referencedby>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a7352d14b8ad4d97a880c8ff247f0e04a" compoundref="d1/d52/action__factory_8cpp" startline="34" endline="57">register_typename</referencedby>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1ad0b2659af6636d76d4b39d64eac81e3c" compoundref="d1/d52/action__factory_8cpp" startline="60" endline="85">fill_missing_typenames</referencedby>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a76ee685c892012c7fe05c8e29eb6e83a" compoundref="d1/d52/action__factory_8cpp" startline="87" endline="95">try_get_id</referencedby>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a5216619c74ba5ee2d7a82626fe3f42cd" compoundref="d1/d52/action__factory_8cpp" startline="97" endline="108">get_unassigned_typenames</referencedby>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a57e4ab73981e3ccea844113dac3d97e1" compoundref="d1/d52/action__factory_8cpp" startline="184" endline="204">collect_registered_typenames</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a86b2834fd4ac3eabedc99281cd997528" prot="public" static="no" mutable="no">
+        <type><ref refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1abcb78bd3fab987208174f3fd4ecad0c4" kindref="member">cache_t</ref></type>
+        <definition>cache_t hpx::actions::detail::action_registry::cache_</definition>
+        <argsstring></argsstring>
+        <name>cache_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="56" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" bodystart="56" bodyend="-1"/>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a8f4100629b85e1eea1d05fe066665fe7" compoundref="d1/d52/action__factory_8cpp" startline="125" endline="161">create</referencedby>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a241539d91aa05a0cb41e6949b4f7ffb6" compoundref="d1/d52/action__factory_8cpp" startline="169" endline="182">cache_id</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a32ed6659969390e89cf253ecbcbe0086" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>hpx::actions::detail::action_registry::HPX_NON_COPYABLE</definition>
+        <argsstring>(action_registry)</argsstring>
+        <name>HPX_NON_COPYABLE</name>
+        <param>
+          <type><ref refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry" kindref="compound">action_registry</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="25" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a00a42672411394b8a31cdddbc982fe0e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="d8/df6/config_2export__definitions_8hpp_1af09bd4629094eeddf095955080614127" kindref="member">HPX_EXPORT</ref></type>
+        <definition>hpx::actions::detail::action_registry::action_registry</definition>
+        <argsstring>()</argsstring>
+        <name>action_registry</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="35" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/src/runtime/actions/detail/action_factory.cpp" bodystart="18" bodyend="20"/>
+      </memberdef>
+      <memberdef kind="function" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a589ee44aeca676637b0b3a4de1b42fe0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="d8/df6/config_2export__definitions_8hpp_1af09bd4629094eeddf095955080614127" kindref="member">HPX_EXPORT</ref> void</type>
+        <definition>void hpx::actions::detail::action_registry::register_factory</definition>
+        <argsstring>(std::string const &amp;type_name, ctor_t ctor)</argsstring>
+        <name>register_factory</name>
+        <param>
+          <type>std::string const &amp;</type>
+          <declname>type_name</declname>
+        </param>
+        <param>
+          <type><ref refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a59ac6247de3352a8707836e7f75589bf" kindref="member">ctor_t</ref></type>
+          <declname>ctor</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="36" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/src/runtime/actions/detail/action_factory.cpp" bodystart="22" bodyend="32"/>
+        <references refid="d2/d54/assert_8hpp_1a8d1e72f13bfab6a86ea41d879f6ce8c1" compoundref="d2/d54/assert_8hpp" startline="60">HPX_ASSERT</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a677e5f0bda039e7eeb1292040a891da7" compoundref="d1/d61/action__factory_8hpp" startline="54">typename_to_ctor_</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a441a1e26c360ed096a53dbddfc8cb725" compoundref="d1/d61/action__factory_8hpp" startline="55">typename_to_id_</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a241539d91aa05a0cb41e6949b4f7ffb6" compoundref="d1/d52/action__factory_8cpp" startline="169" endline="182">cache_id</references>
+        <referencedby refid="d3/dcf/structhpx_1_1actions_1_1detail_1_1register__action_1a51136044b384532f86470e142ce0697b" compoundref="d1/d61/action__factory_8hpp" startline="77" endline="82">hpx::actions::detail::register_action&lt; Action &gt;::register_action</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a7352d14b8ad4d97a880c8ff247f0e04a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="d8/df6/config_2export__definitions_8hpp_1af09bd4629094eeddf095955080614127" kindref="member">HPX_EXPORT</ref> void</type>
+        <definition>void hpx::actions::detail::action_registry::register_typename</definition>
+        <argsstring>(std::string const &amp;type_name, std::uint32_t id)</argsstring>
+        <name>register_typename</name>
+        <param>
+          <type>std::string const &amp;</type>
+          <declname>type_name</declname>
+        </param>
+        <param>
+          <type>std::uint32_t</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="38" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/src/runtime/actions/detail/action_factory.cpp" bodystart="34" bodyend="57"/>
+        <references refid="d2/d54/assert_8hpp_1a8d1e72f13bfab6a86ea41d879f6ce8c1" compoundref="d2/d54/assert_8hpp" startline="60">HPX_ASSERT</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a6254dcf5e77818d1659b675a5b71f440" compoundref="d1/d61/action__factory_8hpp" startline="33">invalid_id</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a441a1e26c360ed096a53dbddfc8cb725" compoundref="d1/d61/action__factory_8hpp" startline="55">typename_to_id_</references>
+        <references refid="d7/d3a/throw__exception_8hpp_1a3ada9b97bab2221332a6db245fe2067a" compoundref="d7/d3a/throw__exception_8hpp" startline="160">HPX_THROW_EXCEPTION</references>
+        <references refid="d8/d83/namespacehpx_1aac5bec895c3a4b279fb5d442a87a6663abfb0c9b0ab71f8bcbe9a40c88b6b6959" compoundref="d9/d99/error_8hpp" startline="53">hpx::invalid_status</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a677e5f0bda039e7eeb1292040a891da7" compoundref="d1/d61/action__factory_8hpp" startline="54">typename_to_ctor_</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a241539d91aa05a0cb41e6949b4f7ffb6" compoundref="d1/d52/action__factory_8cpp" startline="169" endline="182">cache_id</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a3ea7725158184fe0ec2d1ff5094448ae" compoundref="d1/d61/action__factory_8hpp" startline="53">max_id_</references>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1ad0b2659af6636d76d4b39d64eac81e3c" compoundref="d1/d52/action__factory_8cpp" startline="60" endline="85">fill_missing_typenames</referencedby>
+        <referencedby refid="da/db2/structhpx_1_1actions_1_1detail_1_1add__constant__entry_1a2d449359176040fecb87bcaa6b8047ca" compoundref="d1/d61/action__factory_8hpp" startline="117" endline="121">hpx::actions::detail::add_constant_entry&lt; Id &gt;::add_constant_entry</referencedby>
+        <referencedby refid="dd/d18/structhpx_1_1agas_1_1detail_1_1assigned__id__sequence_1a99a379110ec6aa07c3f1d650769e59b8" compoundref="d9/d5e/big__boot__barrier_8cpp" startline="123" endline="127">hpx::agas::detail::assigned_id_sequence::load</referencedby>
+        <referencedby refid="dd/d18/structhpx_1_1agas_1_1detail_1_1assigned__id__sequence_1a35eae836c4f5b4b971e74572c990c689" compoundref="d9/d5e/big__boot__barrier_8cpp" startline="171" endline="217">hpx::agas::detail::assigned_id_sequence::register_ids_on_worker_loc</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1ad0b2659af6636d76d4b39d64eac81e3c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="d8/df6/config_2export__definitions_8hpp_1af09bd4629094eeddf095955080614127" kindref="member">HPX_EXPORT</ref> void</type>
+        <definition>void hpx::actions::detail::action_registry::fill_missing_typenames</definition>
+        <argsstring>()</argsstring>
+        <name>fill_missing_typenames</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="40" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/src/runtime/actions/detail/action_factory.cpp" bodystart="60" bodyend="85"/>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a5216619c74ba5ee2d7a82626fe3f42cd" compoundref="d1/d52/action__factory_8cpp" startline="97" endline="108">get_unassigned_typenames</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a7352d14b8ad4d97a880c8ff247f0e04a" compoundref="d1/d52/action__factory_8cpp" startline="34" endline="57">register_typename</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a3ea7725158184fe0ec2d1ff5094448ae" compoundref="d1/d61/action__factory_8hpp" startline="53">max_id_</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a441a1e26c360ed096a53dbddfc8cb725" compoundref="d1/d61/action__factory_8hpp" startline="55">typename_to_id_</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a677e5f0bda039e7eeb1292040a891da7" compoundref="d1/d61/action__factory_8hpp" startline="54">typename_to_ctor_</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a241539d91aa05a0cb41e6949b4f7ffb6" compoundref="d1/d52/action__factory_8cpp" startline="169" endline="182">cache_id</references>
+        <references refid="d2/d54/assert_8hpp_1a8d1e72f13bfab6a86ea41d879f6ce8c1" compoundref="d2/d54/assert_8hpp" startline="60">HPX_ASSERT</references>
+        <referencedby refid="dd/dd0/namespacehpx_1_1agas_1_1detail_1a69a4d9fbe321b26f2eeeacaae98c05bb" compoundref="d9/d5e/big__boot__barrier_8cpp" startline="60" endline="72">hpx::agas::detail::register_unassigned_typenames</referencedby>
+        <referencedby refid="dd/d18/structhpx_1_1agas_1_1detail_1_1assigned__id__sequence_1a35eae836c4f5b4b971e74572c990c689" compoundref="d9/d5e/big__boot__barrier_8cpp" startline="171" endline="217">hpx::agas::detail::assigned_id_sequence::register_ids_on_worker_loc</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a76ee685c892012c7fe05c8e29eb6e83a" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="d8/df6/config_2export__definitions_8hpp_1af09bd4629094eeddf095955080614127" kindref="member">HPX_EXPORT</ref> std::uint32_t</type>
+        <definition>std::uint32_t hpx::actions::detail::action_registry::try_get_id</definition>
+        <argsstring>(std::string const &amp;type_name) const</argsstring>
+        <name>try_get_id</name>
+        <param>
+          <type>std::string const &amp;</type>
+          <declname>type_name</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="41" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/src/runtime/actions/detail/action_factory.cpp" bodystart="87" bodyend="95"/>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a441a1e26c360ed096a53dbddfc8cb725" compoundref="d1/d61/action__factory_8hpp" startline="55">typename_to_id_</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a6254dcf5e77818d1659b675a5b71f440" compoundref="d1/d61/action__factory_8hpp" startline="33">invalid_id</references>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1ab7be6b90099c019bb69d12f03eee4d46" compoundref="d1/d52/action__factory_8cpp" startline="110" endline="123">get_id</referencedby>
+        <referencedby refid="dd/d18/structhpx_1_1agas_1_1detail_1_1assigned__id__sequence_1a99a379110ec6aa07c3f1d650769e59b8" compoundref="d9/d5e/big__boot__barrier_8cpp" startline="123" endline="127">hpx::agas::detail::assigned_id_sequence::load</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a5216619c74ba5ee2d7a82626fe3f42cd" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="d8/df6/config_2export__definitions_8hpp_1af09bd4629094eeddf095955080614127" kindref="member">HPX_EXPORT</ref> std::vector&lt; std::string &gt;</type>
+        <definition>std::vector&lt; std::string &gt; hpx::actions::detail::action_registry::get_unassigned_typenames</definition>
+        <argsstring>() const</argsstring>
+        <name>get_unassigned_typenames</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="42" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/src/runtime/actions/detail/action_factory.cpp" bodystart="97" bodyend="108"/>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a677e5f0bda039e7eeb1292040a891da7" compoundref="d1/d61/action__factory_8hpp" startline="54">typename_to_ctor_</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a441a1e26c360ed096a53dbddfc8cb725" compoundref="d1/d61/action__factory_8hpp" startline="55">typename_to_id_</references>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1ad0b2659af6636d76d4b39d64eac81e3c" compoundref="d1/d52/action__factory_8cpp" startline="60" endline="85">fill_missing_typenames</referencedby>
+        <referencedby refid="dd/d18/structhpx_1_1agas_1_1detail_1_1assigned__id__sequence_1a35eae836c4f5b4b971e74572c990c689" compoundref="d9/d5e/big__boot__barrier_8cpp" startline="171" endline="217">hpx::agas::detail::assigned_id_sequence::register_ids_on_worker_loc</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a241539d91aa05a0cb41e6949b4f7ffb6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void hpx::actions::detail::action_registry::cache_id</definition>
+        <argsstring>(std::uint32_t id, ctor_t ctor)</argsstring>
+        <name>cache_id</name>
+        <param>
+          <type>std::uint32_t</type>
+          <declname>id</declname>
+        </param>
+        <param>
+          <type><ref refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a59ac6247de3352a8707836e7f75589bf" kindref="member">ctor_t</ref></type>
+          <declname>ctor</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="50" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/src/runtime/actions/detail/action_factory.cpp" bodystart="169" bodyend="182"/>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a86b2834fd4ac3eabedc99281cd997528" compoundref="d1/d61/action__factory_8hpp" startline="56">cache_</references>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a589ee44aeca676637b0b3a4de1b42fe0" compoundref="d1/d52/action__factory_8cpp" startline="22" endline="32">register_factory</referencedby>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a7352d14b8ad4d97a880c8ff247f0e04a" compoundref="d1/d52/action__factory_8cpp" startline="34" endline="57">register_typename</referencedby>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1ad0b2659af6636d76d4b39d64eac81e3c" compoundref="d1/d52/action__factory_8cpp" startline="60" endline="85">fill_missing_typenames</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a57e4ab73981e3ccea844113dac3d97e1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>std::string</type>
+        <definition>std::string hpx::actions::detail::action_registry::collect_registered_typenames</definition>
+        <argsstring>()</argsstring>
+        <name>collect_registered_typenames</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="51" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/src/runtime/actions/detail/action_factory.cpp" bodystart="184" bodyend="204"/>
+        <references refid="dd/dde/reduce__by__key_8cpp_1a84232f9d16ffc27ce82772d011761d23" compoundref="dd/dde/reduce__by__key_8cpp" startline="56">msg</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a677e5f0bda039e7eeb1292040a891da7" compoundref="d1/d61/action__factory_8hpp" startline="54">typename_to_ctor_</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a441a1e26c360ed096a53dbddfc8cb725" compoundref="d1/d61/action__factory_8hpp" startline="55">typename_to_id_</references>
+        <references refid="d4/d2c/make__continuation__1615_8cpp_1acbdae3e81403e1ffc527c18dc1cd51dd" compoundref="d4/d2c/make__continuation__1615_8cpp" startline="24" endline="27">to_string</references>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1ab7be6b90099c019bb69d12f03eee4d46" compoundref="d1/d52/action__factory_8cpp" startline="110" endline="123">get_id</referencedby>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a8f4100629b85e1eea1d05fe066665fe7" compoundref="d1/d52/action__factory_8cpp" startline="125" endline="161">create</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1ab7be6b90099c019bb69d12f03eee4d46" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="d8/df6/config_2export__definitions_8hpp_1af09bd4629094eeddf095955080614127" kindref="member">HPX_EXPORT</ref> std::uint32_t</type>
+        <definition>std::uint32_t hpx::actions::detail::action_registry::get_id</definition>
+        <argsstring>(std::string const &amp;type_name)</argsstring>
+        <name>get_id</name>
+        <param>
+          <type>std::string const &amp;</type>
+          <declname>type_name</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="44" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/src/runtime/actions/detail/action_factory.cpp" bodystart="110" bodyend="123"/>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a4d8a8074f8a91fdc5a62e8067ef6472c" compoundref="d1/d52/action__factory_8cpp" startline="163" endline="167">instance</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a76ee685c892012c7fe05c8e29eb6e83a" compoundref="d1/d52/action__factory_8cpp" startline="87" endline="95">try_get_id</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a6254dcf5e77818d1659b675a5b71f440" compoundref="d1/d61/action__factory_8hpp" startline="33">invalid_id</references>
+        <references refid="d7/d3a/throw__exception_8hpp_1a3ada9b97bab2221332a6db245fe2067a" compoundref="d7/d3a/throw__exception_8hpp" startline="160">HPX_THROW_EXCEPTION</references>
+        <references refid="d8/d83/namespacehpx_1aac5bec895c3a4b279fb5d442a87a6663a9cbfcd0d11f67e98346743910f0a8734" compoundref="d9/d99/error_8hpp" startline="91">hpx::serialization_error</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a57e4ab73981e3ccea844113dac3d97e1" compoundref="d1/d52/action__factory_8cpp" startline="184" endline="204">collect_registered_typenames</references>
+        <referencedby refid="df/d7f/namespacehpx_1_1actions_1_1detail_1af4c016b298446c17144dbadd1eeab696" compoundref="d1/d52/action__factory_8cpp" startline="207" endline="211">hpx::actions::detail::get_action_id_from_name</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a8f4100629b85e1eea1d05fe066665fe7" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="d8/df6/config_2export__definitions_8hpp_1af09bd4629094eeddf095955080614127" kindref="member">HPX_EXPORT</ref> <ref refid="d9/de8/structhpx_1_1actions_1_1base__action" kindref="compound">base_action</ref> *</type>
+        <definition>base_action * hpx::actions::detail::action_registry::create</definition>
+        <argsstring>(std::uint32_t id, bool, std::string const *name=nullptr)</argsstring>
+        <name>create</name>
+        <param>
+          <type>std::uint32_t</type>
+          <declname>id</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <defname>with_continuation</defname>
+        </param>
+        <param>
+          <type>std::string const *</type>
+          <declname>name</declname>
+          <defval>nullptr</defval>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="45" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/src/runtime/actions/detail/action_factory.cpp" bodystart="125" bodyend="161"/>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a4d8a8074f8a91fdc5a62e8067ef6472c" compoundref="d1/d52/action__factory_8cpp" startline="163" endline="167">instance</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a86b2834fd4ac3eabedc99281cd997528" compoundref="d1/d61/action__factory_8hpp" startline="56">cache_</references>
+        <references refid="dd/dde/reduce__by__key_8cpp_1a84232f9d16ffc27ce82772d011761d23" compoundref="dd/dde/reduce__by__key_8cpp" startline="56">msg</references>
+        <references refid="d4/d2c/make__continuation__1615_8cpp_1acbdae3e81403e1ffc527c18dc1cd51dd" compoundref="d4/d2c/make__continuation__1615_8cpp" startline="24" endline="27">to_string</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a57e4ab73981e3ccea844113dac3d97e1" compoundref="d1/d52/action__factory_8cpp" startline="184" endline="204">collect_registered_typenames</references>
+        <references refid="d7/d3a/throw__exception_8hpp_1a3ada9b97bab2221332a6db245fe2067a" compoundref="d7/d3a/throw__exception_8hpp" startline="160">HPX_THROW_EXCEPTION</references>
+        <references refid="d8/d83/namespacehpx_1aac5bec895c3a4b279fb5d442a87a6663a9cbfcd0d11f67e98346743910f0a8734" compoundref="d9/d99/error_8hpp" startline="91">hpx::serialization_error</references>
+        <referencedby refid="d3/dcf/structhpx_1_1actions_1_1detail_1_1register__action_1a51136044b384532f86470e142ce0697b" compoundref="d1/d61/action__factory_8hpp" startline="77" endline="82">hpx::actions::detail::register_action&lt; Action &gt;::register_action</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a4d8a8074f8a91fdc5a62e8067ef6472c" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="d8/df6/config_2export__definitions_8hpp_1af09bd4629094eeddf095955080614127" kindref="member">HPX_EXPORT</ref> <ref refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry" kindref="compound">action_registry</ref> &amp;</type>
+        <definition>action_registry &amp; hpx::actions::detail::action_registry::instance</definition>
+        <argsstring>()</argsstring>
+        <name>instance</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="48" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/src/runtime/actions/detail/action_factory.cpp" bodystart="163" bodyend="167"/>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1ab7be6b90099c019bb69d12f03eee4d46" compoundref="d1/d52/action__factory_8cpp" startline="110" endline="123">get_id</referencedby>
+        <referencedby refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a8f4100629b85e1eea1d05fe066665fe7" compoundref="d1/d52/action__factory_8cpp" startline="125" endline="161">create</referencedby>
+        <referencedby refid="d3/dcf/structhpx_1_1actions_1_1detail_1_1register__action_1a51136044b384532f86470e142ce0697b" compoundref="d1/d61/action__factory_8hpp" startline="77" endline="82">hpx::actions::detail::register_action&lt; Action &gt;::register_action</referencedby>
+        <referencedby refid="da/db2/structhpx_1_1actions_1_1detail_1_1add__constant__entry_1a2d449359176040fecb87bcaa6b8047ca" compoundref="d1/d61/action__factory_8hpp" startline="117" endline="121">hpx::actions::detail::add_constant_entry&lt; Id &gt;::add_constant_entry</referencedby>
+        <referencedby refid="dd/dd0/namespacehpx_1_1agas_1_1detail_1a69a4d9fbe321b26f2eeeacaae98c05bb" compoundref="d9/d5e/big__boot__barrier_8cpp" startline="60" endline="72">hpx::agas::detail::register_unassigned_typenames</referencedby>
+        <referencedby refid="dd/d18/structhpx_1_1agas_1_1detail_1_1assigned__id__sequence_1a99a379110ec6aa07c3f1d650769e59b8" compoundref="d9/d5e/big__boot__barrier_8cpp" startline="123" endline="127">hpx::agas::detail::assigned_id_sequence::load</referencedby>
+        <referencedby refid="dd/d18/structhpx_1_1agas_1_1detail_1_1assigned__id__sequence_1a35eae836c4f5b4b971e74572c990c689" compoundref="d9/d5e/big__boot__barrier_8cpp" startline="171" endline="217">hpx::agas::detail::assigned_id_sequence::register_ids_on_worker_loc</referencedby>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="23" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" bodystart="22" bodyend="57"/>
+    <listofallmembers>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a00a42672411394b8a31cdddbc982fe0e" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>action_registry</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a86b2834fd4ac3eabedc99281cd997528" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>cache_</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a241539d91aa05a0cb41e6949b4f7ffb6" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>cache_id</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1abcb78bd3fab987208174f3fd4ecad0c4" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>cache_t</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a57e4ab73981e3ccea844113dac3d97e1" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>collect_registered_typenames</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a8f4100629b85e1eea1d05fe066665fe7" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>create</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a59ac6247de3352a8707836e7f75589bf" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>ctor_t</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1ad0b2659af6636d76d4b39d64eac81e3c" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>fill_missing_typenames</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1ab7be6b90099c019bb69d12f03eee4d46" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>get_id</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a5216619c74ba5ee2d7a82626fe3f42cd" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>get_unassigned_typenames</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a32ed6659969390e89cf253ecbcbe0086" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>HPX_NON_COPYABLE</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a4d8a8074f8a91fdc5a62e8067ef6472c" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>instance</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a6254dcf5e77818d1659b675a5b71f440" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>invalid_id</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a3ea7725158184fe0ec2d1ff5094448ae" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>max_id_</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a589ee44aeca676637b0b3a4de1b42fe0" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>register_factory</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a7352d14b8ad4d97a880c8ff247f0e04a" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>register_typename</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a76ee685c892012c7fe05c8e29eb6e83a" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>try_get_id</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a677e5f0bda039e7eeb1292040a891da7" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>typename_to_ctor_</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a24203d8cbadff834904d74e216b4d3f3" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>typename_to_ctor_t</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a441a1e26c360ed096a53dbddfc8cb725" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>typename_to_id_</name></member>
+      <member refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1aebf8ad6bf822c440e68516f46110b45d" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_registry</scope><name>typename_to_id_t</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

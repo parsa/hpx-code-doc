@@ -1,0 +1,7 @@
+<map id="hpx::resource::get_num_thread_pools" name="hpx::resource::get_num_thread_pools">
+<area shape="rect" id="node2" href="$dd/da5/namespacehpx_1_1resource.html#af91354c369d9a22a00581d6b6da7d0ee" title="hpx::resource::get\l_partitioner" alt="" coords="216,23,343,65"/>
+<area shape="rect" id="node6" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a4731d3b9d6380746b0bf6dc34364a97f" title="hpx::resource::detail\l::partitioner::get_num_pools" alt="" coords="188,89,371,130"/>
+<area shape="rect" id="node3" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a2967c633948a3bf17a3b5405ef5a8318" title="hpx::util::static_::get" alt="" coords="419,5,560,32"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="419,56,560,83"/>
+<area shape="rect" id="node5" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="608,49,771,90"/>
+</map>

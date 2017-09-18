@@ -1,0 +1,10 @@
+<map id="FlipDWORD" name="FlipDWORD">
+<area shape="rect" id="node2" href="$d7/d2a/class_b_m_f_h.html#a749e4bb6cfa10ed9fa77c3578c471110" title="BMFH::SwitchEndianess" alt="" coords="147,56,313,83"/>
+<area shape="rect" id="node7" href="$dc/d50/class_b_m_i_h.html#aece3c1b46fe1712b5926d0b47eb1739f" title="BMIH::SwitchEndianess" alt="" coords="149,107,311,133"/>
+<area shape="rect" id="node3" href="$d6/dd1/class_b_m_p.html#abb9f9f6a073c1eb9dfcc3799a25d15ab" title="BMP::WriteToFile" alt="" coords="369,56,494,83"/>
+<area shape="rect" id="node4" href="$d6/dd1/class_b_m_p.html#ae396a195224d9ab9f4659d4d84683cc2" title="BMP::ReadFromFile" alt="" coords="361,107,501,133"/>
+<area shape="rect" id="node5" href="$d5/dfb/_easy_b_m_p___various_b_m_putilities_8h.html#a66cd5022854084cc377337cced3866e6" title="GetBMFH" alt="" coords="391,5,471,32"/>
+<area shape="rect" id="node6" href="$d5/dfb/_easy_b_m_p___various_b_m_putilities_8h.html#af5917ccb612d45cdb324804c573052e6" title="DisplayBitmapInfo" alt="" coords="560,56,687,83"/>
+<area shape="rect" id="node8" href="$d5/dfb/_easy_b_m_p___various_b_m_putilities_8h.html#ad3884939602af9979dab7e63b8892ce6" title="GetBMIH" alt="" coords="394,157,469,184"/>
+<area shape="rect" id="node9" href="$d5/dfb/_easy_b_m_p___various_b_m_putilities_8h.html#a8a847e3d65680531be233837bccd46e1" title="GetBitmapColorDepth" alt="" coords="549,157,697,184"/>
+</map>

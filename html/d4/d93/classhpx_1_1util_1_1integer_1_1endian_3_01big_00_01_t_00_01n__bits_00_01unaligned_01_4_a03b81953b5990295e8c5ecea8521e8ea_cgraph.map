@@ -1,0 +1,7 @@
+<map id="hpx::util::integer::endian&lt; big, T, n_bits, unaligned &gt;::endian" name="hpx::util::integer::endian&lt; big, T, n_bits, unaligned &gt;::endian">
+<area shape="rect" id="node2" href="$d2/d8e/namespacehpx_1_1util_1_1detail.html#a1e2f41ba3d72396375ff37bab7b4b475" title="hpx::util::detail::\lstore_big_endian" alt="" coords="224,15,344,57"/>
+<area shape="rect" id="node4" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="265,83,303,109"/>
+<area shape="rect" id="node3" href="$d2/d29/structhpx_1_1util_1_1detail_1_1unrolled__byte__loops.html#a35aa3f729f0a630c45c3f0e0b6cdf2f9" title="hpx::util::detail::\lunrolled_byte_loops\l::store_big" alt="" coords="392,5,529,61"/>
+<area shape="rect" id="node5" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="417,85,504,112"/>
+<area shape="rect" id="node6" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="577,78,743,119"/>
+</map>

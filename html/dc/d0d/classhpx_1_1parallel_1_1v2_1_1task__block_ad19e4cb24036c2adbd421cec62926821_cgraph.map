@@ -1,0 +1,14 @@
+<map id="hpx::parallel::v2::task_block::run" name="hpx::parallel::v2::task_block::run">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#afafe0f900b9fac3d4ed3c747625c1cfe" title="hpx::threads::get_self_id" alt="" coords="173,5,337,32"/>
+<area shape="rect" id="node5" href="$d7/d28/namespacehpx_1_1threads.html#a6c49fc6d131e6aa7ef6eda2ef52bb920" title="hpx::threads::async\l_execute" alt="" coords="187,57,324,98"/>
+<area shape="rect" id="node12" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="180,123,331,149"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="385,5,555,32"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="603,5,749,32"/>
+<area shape="rect" id="node6" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="427,64,513,91"/>
+<area shape="rect" id="node7" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="655,60,697,87"/>
+<area shape="rect" id="node8" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="833,9,907,36"/>
+<area shape="rect" id="node9" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="797,60,943,87"/>
+<area shape="rect" id="node10" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="834,111,906,137"/>
+<area shape="rect" id="node11" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="991,103,1185,145"/>
+<area shape="rect" id="node13" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="410,115,530,157"/>
+</map>

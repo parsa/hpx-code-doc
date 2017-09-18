@@ -1,0 +1,9 @@
+<map id="hpx::performance_counters::server::statistics_counter::stop" name="hpx::performance_counters::server::statistics_counter::stop">
+<area shape="rect" id="node2" href="$dc/d46/classhpx_1_1util_1_1interval__timer.html#afdfceea087d27f5b5ef557facac42aa5" title="hpx::util::interval\l_timer::is_started" alt="" coords="312,5,435,47"/>
+<area shape="rect" id="node3" href="$dc/d46/classhpx_1_1util_1_1interval__timer.html#a9e6a0d60415323874c41cfc8128ed744" title="hpx::util::interval\l_timer::stop" alt="" coords="315,71,431,112"/>
+<area shape="rect" id="node4" href="$d6/d3f/classhpx_1_1performance__counters_1_1server_1_1statistics__counter.html#ae6c43d5422e5422c7fc67e28720fc395" title="hpx::performance_counters\l::server::statistics_counter\l::ensure_base_counter" alt="" coords="284,137,463,193"/>
+<area shape="rect" id="node8" href="$dc/d43/structhpx_1_1performance__counters_1_1stubs_1_1performance__counter.html#a2078f7b352a0e3ce18d741e189b0edcf" title="hpx::performance_counters\l::stubs::performance_counter::stop" alt="" coords="261,217,485,259"/>
+<area shape="rect" id="node5" href="$d0/d36/namespacehpx_1_1performance__counters.html#ab7849064e361c28c8975a47717e5f05e" title="hpx::performance_counters\l::get_counter" alt="" coords="533,144,712,185"/>
+<area shape="rect" id="node6" href="$d0/d36/namespacehpx_1_1performance__counters.html#aa69496dbba46619d8d3179c86801f1c7" title="Get the global id of an existing performance counter, if the counter does not exist yet..." alt="" coords="760,115,939,156"/>
+<area shape="rect" id="node7" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="779,181,920,207"/>
+</map>

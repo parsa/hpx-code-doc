@@ -1,0 +1,7 @@
+<map id="hpx::lcos::server::object_semaphore::~object_semaphore" name="hpx::lcos::server::object_semaphore::~object_semaphore">
+<area shape="rect" id="node2" href="$dd/de6/structhpx_1_1lcos_1_1server_1_1object__semaphore.html#a78ec326abf04ae1ff09cd4a084cc82ee" title="hpx::lcos::server::\lobject_semaphore::abort\l_pending" alt="" coords="232,5,397,61"/>
+<area shape="rect" id="node3" href="$d8/dcb/namespacehpx_1_1applier.html#afb70d3f57636ccb271dc9faab57233fd" title="hpx::applier::trigger\l_error" alt="" coords="445,13,579,54"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#af0c26df1ee631f99d7bb04ec2507c900" title="Set the error state for the LCO referenced by the given id. " alt="" coords="627,20,753,47"/>
+<area shape="rect" id="node5" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="801,20,952,47"/>
+<area shape="rect" id="node6" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="1000,13,1120,54"/>
+</map>

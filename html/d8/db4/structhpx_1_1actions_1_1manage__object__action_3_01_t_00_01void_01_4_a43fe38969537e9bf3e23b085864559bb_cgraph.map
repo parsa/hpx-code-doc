@@ -1,0 +1,9 @@
+<map id="hpx::actions::manage_object_action&lt; T, void &gt;::~manage_object_action" name="hpx::actions::manage_object_action&lt; T, void &gt;::~manage_object_action">
+<area shape="rect" id="node2" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="301,13,340,39"/>
+<area shape="rect" id="node5" href="$d8/d25/namespacehpx_1_1components_1_1server_1_1detail.html#aa2ab57ed4111277774c44e9ed4faece4" title="hpx::components::server\l::detail::construct_function" alt="" coords="233,64,408,105"/>
+<area shape="rect" id="node8" href="$d2/da2/namespacehpx_1_1components_1_1server.html#aa5f1f2dd52562115aa4331d8ab614404" title="hpx::components::server\l::construct" alt="" coords="239,129,403,171"/>
+<area shape="rect" id="node3" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="477,13,564,39"/>
+<area shape="rect" id="node4" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="633,5,799,47"/>
+<area shape="rect" id="node6" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="471,67,571,94"/>
+<area shape="rect" id="node7" href="$df/dad/namespacehpx_1_1util.html#a273e61be42a72415291e0ec0a4f28c7a" title="hpx::util::one_shot" alt="" coords="456,118,585,145"/>
+</map>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d1/dfc/structhpx_1_1traits_1_1action__remote__result" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::traits::action_remote_result</compoundname>
+    <basecompoundref refid="d8/d1b/structhpx_1_1traits_1_1detail_1_1action__remote__result__customization__point" prot="public" virt="non-virtual">hpx::traits::detail::action_remote_result_customization_point&lt; Result &gt;</basecompoundref>
+    <includes refid="d2/d7e/action__remote__result_8hpp" local="no">action_remote_result.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>typename</type>
+        <declname>Result</declname>
+        <defname>Result</defname>
+      </param>
+    </templateparamlist>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="252">
+        <label>hpx::traits::detail::action_remote_result_customization_point&lt; Result &gt;</label>
+        <link refid="d8/d1b/structhpx_1_1traits_1_1detail_1_1action__remote__result__customization__point"/>
+        <childnode refid="253" relation="template-instance">
+          <edgelabel>&lt; Result &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="251">
+        <label>hpx::traits::action_remote_result&lt; Result &gt;</label>
+        <link refid="d1/dfc/structhpx_1_1traits_1_1action__remote__result"/>
+        <childnode refid="252" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="254">
+        <label>hpx::traits::action_remote_result&lt; util::invoke_result&lt; util::decay&lt; Cont &gt;::type, naming::id_type, hpx::traits::extract_action&lt; Action &gt;::remote_result_type &gt;::type &gt;</label>
+        <link refid="d1/dfc/structhpx_1_1traits_1_1action__remote__result"/>
+        <childnode refid="251" relation="template-instance">
+          <edgelabel>&lt; util::invoke_result&lt; util::decay&lt; Cont &gt;::type, naming::id_type, hpx::traits::extract_action&lt; Action &gt;::remote_result_type &gt;::type &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="253">
+        <label>hpx::traits::detail::action_remote_result_customization_point&lt; Result, Enable &gt;</label>
+        <link refid="d8/d1b/structhpx_1_1traits_1_1detail_1_1action__remote__result__customization__point"/>
+      </node>
+      <node id="255">
+        <label>hpx::detail::result_of_async_continue&lt; Action, Cont &gt;</label>
+        <link refid="d4/d60/structhpx_1_1detail_1_1result__of__async__continue"/>
+        <childnode refid="254" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="257">
+        <label>hpx::traits::detail::action_remote_result_customization_point&lt; Result &gt;</label>
+        <link refid="d8/d1b/structhpx_1_1traits_1_1detail_1_1action__remote__result__customization__point"/>
+        <childnode refid="258" relation="template-instance">
+          <edgelabel>&lt; Result &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="256">
+        <label>hpx::traits::action_remote_result&lt; Result &gt;</label>
+        <link refid="d1/dfc/structhpx_1_1traits_1_1action__remote__result"/>
+        <childnode refid="257" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="258">
+        <label>hpx::traits::detail::action_remote_result_customization_point&lt; Result, Enable &gt;</label>
+        <link refid="d8/d1b/structhpx_1_1traits_1_1detail_1_1action__remote__result__customization__point"/>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/action_remote_result.hpp" line="25" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/action_remote_result.hpp" bodystart="23" bodyend="25"/>
+    <listofallmembers>
+      <member refid="d8/d1b/structhpx_1_1traits_1_1detail_1_1action__remote__result__customization__point_1a4bfc519623440d4251a2c5e664448caf" prot="public" virt="non-virtual"><scope>hpx::traits::action_remote_result</scope><name>type</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

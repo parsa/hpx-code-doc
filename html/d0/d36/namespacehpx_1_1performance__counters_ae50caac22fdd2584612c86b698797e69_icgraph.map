@@ -1,0 +1,7 @@
+<map id="hpx::performance_counters::expand_counter_info" name="hpx::performance_counters::expand_counter_info">
+<area shape="rect" id="node2" href="$d0/d36/namespacehpx_1_1performance__counters.html#a341ddf2635c40e95b499b09cb73940f4" title="hpx::performance_counters\l::add_counter_type" alt="" coords="251,5,430,47"/>
+<area shape="rect" id="node3" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#ac5d5529492185cf592a5ba9ca68c8a3f" title="Call the supplied function for the given registered counter type. " alt="" coords="235,136,446,177"/>
+<area shape="rect" id="node6" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#ab12b425d4bd5c0b9530997376fa5e09f" title="Call the supplied function for all registered counter types. " alt="" coords="232,71,449,112"/>
+<area shape="rect" id="node4" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#a39e66fcf0626e1a403c69c4758b750a6" title="hpx::performance_counters\l::registry::registry" alt="" coords="513,71,692,112"/>
+<area shape="rect" id="node5" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#af060ad9ba59fefe302c89bd8e80227d9" title="hpx::performance_counters\l::registry::discover_counter_type" alt="" coords="497,136,708,177"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="hpx::parallel::v1::partition_copy" name="hpx::parallel::v1::partition_copy">
+<area shape="rect" id="node2" href="$d3/d0e/benchmark__partition__copy_8cpp.html#a9dfb246e7eae99b9dbf9a322ce884e3b" title="run_partition_copy\l_benchmark_std" alt="" coords="175,5,303,47"/>
+<area shape="rect" id="node3" href="$d3/d0e/benchmark__partition__copy_8cpp.html#a2e3e2d2b3967f9d47c81046f1c3c96f3" title="run_partition_copy\l_benchmark_hpx" alt="" coords="175,71,303,112"/>
+<area shape="rect" id="node4" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a85718940775712c16d794b47aad3dda6" title="hpx::parallel::v1::\lpartition" alt="" coords="179,136,299,177"/>
+<area shape="rect" id="node7" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a8426f43b741f9c3591828d54a3852c8e" title="hpx::parallel::v1::\lpartition_copy" alt="" coords="179,201,299,243"/>
+<area shape="rect" id="node8" href="$d9/dfa/partition__copy__tests_8hpp.html#ad9ddd8ab895684ada0894aaab61eb447" title="test_partition_copy" alt="" coords="173,267,305,294"/>
+<area shape="rect" id="node10" href="$d9/dfa/partition__copy__tests_8hpp.html#ac159394185d42c0081d696f41aff774c" title="test_partition_copy\l_async" alt="" coords="173,319,305,360"/>
+<area shape="rect" id="node11" href="$d9/dfa/partition__copy__tests_8hpp.html#ad30d71ecc17f3e75601efb6521010c0f" title="test_partition_copy\l_exception" alt="" coords="173,384,305,425"/>
+<area shape="rect" id="node13" href="$d9/dfa/partition__copy__tests_8hpp.html#a09907cc440193dfa694450debf74dc6f" title="test_partition_copy\l_exception_async" alt="" coords="173,449,305,491"/>
+<area shape="rect" id="node14" href="$d9/dfa/partition__copy__tests_8hpp.html#ad40fcd2681c3356c8c4ad99ff0486b8e" title="test_partition_copy\l_bad_alloc" alt="" coords="173,515,305,556"/>
+<area shape="rect" id="node16" href="$d9/dfa/partition__copy__tests_8hpp.html#a1238f72e7aecd1435274b6c74fdee2a3" title="test_partition_copy\l_bad_alloc_async" alt="" coords="173,580,305,621"/>
+<area shape="rect" id="node5" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aed728fb959fc65925bdf19b9ae48d206" title="hpx::parallel::v1::\lstable_partition" alt="" coords="359,104,479,145"/>
+<area shape="rect" id="node6" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a7e425125482d6bde70adb89bf6d03507" title="hpx::parallel::v1::\lpartition" alt="" coords="359,169,479,211"/>
+<area shape="rect" id="node9" href="$d9/dfa/partition__copy__tests_8hpp.html#a5096dfa0bc38fc345992a0392cdd7dfd" title="test_partition_copy" alt="" coords="353,267,485,294"/>
+<area shape="rect" id="node12" href="$d9/dfa/partition__copy__tests_8hpp.html#a4e94a16393f07f7720134f705cdd649a" title="test_partition_copy\l_exception" alt="" coords="353,433,485,475"/>
+<area shape="rect" id="node15" href="$d9/dfa/partition__copy__tests_8hpp.html#a28205bcbe2d42b6caf97253bad673145" title="test_partition_copy\l_bad_alloc" alt="" coords="353,531,485,572"/>
+</map>

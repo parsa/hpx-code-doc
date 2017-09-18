@@ -1,0 +1,7 @@
+<map id="BMIH::SwitchEndianess" name="BMIH::SwitchEndianess">
+<area shape="rect" id="node2" href="$d6/dd1/class_b_m_p.html#abb9f9f6a073c1eb9dfcc3799a25d15ab" title="BMP::WriteToFile" alt="" coords="223,5,349,32"/>
+<area shape="rect" id="node3" href="$d6/dd1/class_b_m_p.html#ae396a195224d9ab9f4659d4d84683cc2" title="BMP::ReadFromFile" alt="" coords="216,56,356,83"/>
+<area shape="rect" id="node4" href="$d5/dfb/_easy_b_m_p___various_b_m_putilities_8h.html#ad3884939602af9979dab7e63b8892ce6" title="GetBMIH" alt="" coords="249,107,323,133"/>
+<area shape="rect" id="node5" href="$d5/dfb/_easy_b_m_p___various_b_m_putilities_8h.html#af5917ccb612d45cdb324804c573052e6" title="DisplayBitmapInfo" alt="" coords="415,81,541,108"/>
+<area shape="rect" id="node6" href="$d5/dfb/_easy_b_m_p___various_b_m_putilities_8h.html#a8a847e3d65680531be233837bccd46e1" title="GetBitmapColorDepth" alt="" coords="404,132,552,159"/>
+</map>

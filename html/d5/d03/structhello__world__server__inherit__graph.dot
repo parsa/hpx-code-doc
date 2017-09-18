@@ -1,0 +1,21 @@
+digraph "hello_world_server"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hello_world_server",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::components::executor\l_component\< hpx::parallel\l::local_priority_queue_executor,\l hpx::components::component_base\l\< hello_world_server \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d54/structhpx_1_1components_1_1executor__component.html"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::components::component\l_base\< hello_world_server \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/de6/classhpx_1_1components_1_1component__base.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hpx::traits::detail\l::component_tag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag.html"];
+  Node4 -> Node2 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hello_world_server \>" ,fontname="Helvetica"];
+  Node4 [label="hpx::components::component\l_base\< Component \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/de6/classhpx_1_1components_1_1component__base.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::parallel::local\l_priority_queue_executor,\l hpx::components::component\l_base\< hello_world_server \> \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::components::executor\l_component\< Executor, BaseComponent \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d54/structhpx_1_1components_1_1executor__component.html"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="BaseComponent",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node2 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

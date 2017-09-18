@@ -1,0 +1,16 @@
+digraph "hpx::local_vector_iterator&lt; T, Data &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::local_vector_iterator\l\< T, Data \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::util::iterator\l_facade\< local_vector\l_iterator\< T, Data \>,\l T, std::random_access\l_iterator_tag, detail::local\l_vector_value_proxy\< T, Data \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d7c/structhpx_1_1util_1_1iterator__facade.html"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::util::detail::\literator_facade_base\l\< local_vector_iterator\l\< T, Data \>, T, std::random\l_access_iterator_tag, detail\l::local_vector_value_proxy\<\l T, Data \>, std::ptrdiff_t, void \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d11/classhpx_1_1util_1_1detail_1_1iterator__facade__base.html"];
+  Node3 -> Node2 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< local_vector_iterator\l\< T, Data \>, T, std::random\l_access_iterator_tag, detail\l::local_vector_value_proxy\<\l T, Data \>, std::ptrdiff_t, void \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::util::detail::\literator_facade_base\l\< Derived, T, Category,\l Reference, Distance, Pointer \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d11/classhpx_1_1util_1_1detail_1_1iterator__facade__base.html"];
+  Node4 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< local_vector_iterator\l\< T, Data \>, T, std::random\l_access_iterator_tag, detail\l::local_vector_value_proxy\<\l T, Data \> \>" ,fontname="Helvetica"];
+  Node4 [label="hpx::util::iterator\l_facade\< Derived, T,\l Category, Reference,\l Distance, Pointer \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d7c/structhpx_1_1util_1_1iterator__facade.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

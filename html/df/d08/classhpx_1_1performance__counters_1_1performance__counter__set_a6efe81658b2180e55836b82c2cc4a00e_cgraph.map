@@ -1,0 +1,11 @@
+<map id="hpx::performance_counters::performance_counter_set::get_counter_values" name="hpx::performance_counters::performance_counter_set::get_counter_values">
+<area shape="rect" id="node2" href="$db/d1c/structhpx_1_1performance__counters_1_1performance__counter.html#a3d2d51a0052bee160e9cf697c66a6381" title="hpx::performance_counters\l::performance_counter::\lget_value" alt="" coords="232,37,411,93"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="278,117,365,144"/>
+<area shape="rect" id="node3" href="$d0/d6b/1d__stencil__4__repart_8cpp.html#a8e0f0439eca934090d2b0c1f9e20baa9" title="get_counter_value" alt="" coords="459,5,585,32"/>
+<area shape="rect" id="node4" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="472,56,572,83"/>
+<area shape="rect" id="node6" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="501,113,543,140"/>
+<area shape="rect" id="node7" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="669,63,743,89"/>
+<area shape="rect" id="node8" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="633,113,779,140"/>
+<area shape="rect" id="node9" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="670,164,742,191"/>
+<area shape="rect" id="node10" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="827,157,1021,198"/>
+</map>

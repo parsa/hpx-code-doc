@@ -1,0 +1,10 @@
+<map id="A::foo" name="A::foo">
+<area shape="rect" id="node2" href="$d7/da0/struct_a.html#a306a106439aaf029619bc1ddea711319" title="A::~A" alt="" coords="143,5,199,32"/>
+<area shape="rect" id="node3" href="$d7/da0/struct_a.html#ae2c86b18e2718eb8bd3bea2f6b945955" title="A::A" alt="" coords="147,56,195,83"/>
+<area shape="rect" id="node4" href="$de/d8b/struct_d.html#a446ce3f55ec46158811fc575c6614203" title="D::~D" alt="" coords="143,107,199,133"/>
+<area shape="rect" id="node5" href="$d3/dad/structfoo.html#aae7c36c48972eb38c43037548b8d2262" title="foo::operator==" alt="" coords="115,157,226,184"/>
+<area shape="rect" id="node6" href="$d8/da8/tuple_8cpp.html#ae052f76581ea524dcb1e194d4a059527" title="construction_test" alt="" coords="109,208,232,235"/>
+<area shape="rect" id="node8" href="$d8/da8/tuple_8cpp.html#a53c0266efae76e29f92ec048fe0b3472" title="mutate_test" alt="" coords="125,259,216,285"/>
+<area shape="rect" id="node9" href="$d8/da8/tuple_8cpp.html#a8ee7470737646c4cb19ab40792372001" title="tie_test" alt="" coords="138,309,203,336"/>
+<area shape="rect" id="node7" href="$d8/da8/tuple_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="280,259,331,285"/>
+</map>

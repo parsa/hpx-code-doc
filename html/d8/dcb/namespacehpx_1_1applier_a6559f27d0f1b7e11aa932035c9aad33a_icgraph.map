@@ -1,0 +1,12 @@
+<map id="hpx::applier::register_work" name="hpx::applier::register_work">
+<area shape="rect" id="node2" href="$d7/d92/block__os__threads__1036_8cpp.html#ae9ddc20736959bf5b800cd4660f2a0a1" title="blocker" alt="" coords="282,5,346,32"/>
+<area shape="rect" id="node3" href="$d7/d92/block__os__threads__1036_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="495,31,573,57"/>
+<area shape="rect" id="node4" href="$df/d10/structhpx__driver.html#a18f4851aebac8f2b382fae393675108f" title="hpx_driver::run" alt="" coords="261,107,367,133"/>
+<area shape="rect" id="node5" href="$dd/d40/classhpx_1_1util_1_1one__size__heap__list.html#adb4c24b314dfba950b55a641bbbbd7b4" title="hpx::util::one_size\l_heap_list::reschedule" alt="" coords="238,158,390,199"/>
+<area shape="rect" id="node7" href="$d9/d52/namespacehpx_1_1this__thread.html#a15c12bd6b0b99c9a65e1a3669492805d" title="hpx::this_thread::suspend" alt="" coords="228,224,400,251"/>
+<area shape="rect" id="node10" href="$df/de1/timed__task__spawn_8cpp.html#a9343f118f9876c51c2ce9a733a41320f" title="wait_for_tasks" alt="" coords="261,275,367,301"/>
+<area shape="rect" id="node11" href="$df/de1/timed__task__spawn_8cpp.html#ac922a66704f973e08e6680fb368830df" title="stage_workers" alt="" coords="261,325,367,352"/>
+<area shape="rect" id="node6" href="$dd/d40/classhpx_1_1util_1_1one__size__heap__list.html#a7b3caa304f907038a3d51ee27d674e8d" title="hpx::util::one_size\l_heap_list::free" alt="" coords="470,155,598,197"/>
+<area shape="rect" id="node8" href="$d7/d28/namespacehpx_1_1threads.html#ae3f683ad072d61249bf20c67134d604c" title="hpx::threads::interrupt\l_thread" alt="" coords="459,221,609,262"/>
+<area shape="rect" id="node9" href="$d9/d52/namespacehpx_1_1this__thread.html#a13faad4167a300676b16c76733aac1df" title="hpx::this_thread::suspend" alt="" coords="448,287,620,313"/>
+</map>

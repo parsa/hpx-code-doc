@@ -1,0 +1,4 @@
+<map id="hpx::performance_counters::server::raw_values_counter::finalize" name="hpx::performance_counters::server::raw_values_counter::finalize">
+<area shape="rect" id="node2" href="$d7/d92/classhpx_1_1performance__counters_1_1server_1_1base__performance__counter.html#a26613dcedd3469b1eea78540e2d27d90" title="finalize() will be called just before the instance gets destructed " alt="" coords="239,5,417,61"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="283,85,373,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="hpx::threads::policies::thread_queue::increment_num_pending_accesses" name="hpx::threads::policies::thread_queue::increment_num_pending_accesses">
+<area shape="rect" id="node2" href="$d7/d87/classhpx_1_1threads_1_1policies_1_1local__priority__queue__scheduler.html#a7570e6e17ee6b21c31e9a3e891a8b7d7" title="hpx::threads::policies\l::local_priority_queue\l_scheduler::get_next_thread" alt="" coords="227,5,413,61"/>
+<area shape="rect" id="node3" href="$d8/d52/classhpx_1_1threads_1_1policies_1_1shared__priority__scheduler.html#a309284fa93f9949de2e70cf80fb3bd8e" title="Return the next thread to be executed, return false if none available. " alt="" coords="231,85,409,141"/>
+</map>

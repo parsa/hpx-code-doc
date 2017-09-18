@@ -1,0 +1,12 @@
+<map id="hpx::performance_counters::performance_counter::get_name" name="hpx::performance_counters::performance_counter::get_name">
+<area shape="rect" id="node2" href="$db/d1c/structhpx_1_1performance__counters_1_1performance__counter.html#a2f1835b6e832694101be438754bd3657" title="hpx::performance_counters\l::performance_counter::\lget_name" alt="" coords="232,99,411,155"/>
+<area shape="rect" id="node3" href="$db/d1c/structhpx_1_1performance__counters_1_1performance__counter.html#a80fc8f48f4b43acddefca6b22d8569d0" title="hpx::performance_counters\l::performance_counter::\lget_info" alt="" coords="459,99,637,155"/>
+<area shape="rect" id="node4" href="$dc/d43/structhpx_1_1performance__counters_1_1stubs_1_1performance__counter.html#a50a7599bfe3bd237bbc0ba74265bb091" title="hpx::performance_counters\l::stubs::performance_counter\l::get_info" alt="" coords="687,33,878,89"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="928,81,1015,108"/>
+<area shape="rect" id="node11" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a0cdfe4b8fed578eb1ce34222c0f07b03" title="hpx::components::client\l_base\&lt; performance_counter,\l stubs::performance_counter\l \&gt;::get_id" alt="" coords="685,165,880,235"/>
+<area shape="rect" id="node6" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="1063,56,1105,83"/>
+<area shape="rect" id="node7" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="1189,5,1263,32"/>
+<area shape="rect" id="node8" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="1153,56,1299,83"/>
+<area shape="rect" id="node9" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="1190,107,1262,133"/>
+<area shape="rect" id="node10" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="1347,99,1541,141"/>
+</map>

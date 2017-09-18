@@ -1,0 +1,6 @@
+<map id="hpx::lcos::detail::future_data_refcnt_base::future_data_refcnt_base" name="hpx::lcos::detail::future_data_refcnt_base::future_data_refcnt_base">
+<area shape="rect" id="node2" href="$d4/d6c/namespacehpx_1_1lcos_1_1detail.html#a0fca0ab19a4b79ad2f3ce9053143bd51" title="support functions for boost::intrusive_ptr " alt="" coords="221,5,361,47"/>
+<area shape="rect" id="node3" href="$d4/d6c/namespacehpx_1_1lcos_1_1detail.html#a07e286ebbbab253f32065b2943790e11" title="hpx::lcos::detail::\lintrusive_ptr_release" alt="" coords="221,71,361,112"/>
+<area shape="rect" id="node4" href="$da/d11/structhpx_1_1lcos_1_1detail_1_1future__data__refcnt__base.html#ace7f78a871903ef1d017ea1190614fee" title="hpx::lcos::detail::\lfuture_data_refcnt_base\l::requires_delete" alt="" coords="409,23,569,79"/>
+<area shape="rect" id="node5" href="$da/d11/structhpx_1_1lcos_1_1detail_1_1future__data__refcnt__base.html#a8718641792a16aaeeb206ef631443cda" title="hpx::lcos::detail::\lfuture_data_refcnt_base\l::destroy" alt="" coords="409,103,569,159"/>
+</map>

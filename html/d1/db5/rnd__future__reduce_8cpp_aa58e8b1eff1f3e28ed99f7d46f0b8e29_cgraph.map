@@ -1,0 +1,24 @@
+<map id="test_reduce" name="test_reduce">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="1175,13,1262,39"/>
+<area shape="rect" id="node8" href="$d1/db5/rnd__future__reduce_8cpp.html#a5165b365d1be426a27b0730102bfcd24" title="generate_one" alt="" coords="168,421,268,447"/>
+<area shape="rect" id="node11" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="1143,341,1294,367"/>
+<area shape="rect" id="node13" href="$d2/dc9/namespacehpx_1_1lcos.html#a1a6fb024d8690923fb185d5aee204d54" title="hpx::lcos::when_all" alt="" coords="151,282,285,309"/>
+<area shape="rect" id="node22" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a17045dee172c36e208b2cbd400fa8797" title="hpx::lcos::future::then" alt="" coords="144,471,292,498"/>
+<area shape="rect" id="node23" href="$d1/db5/rnd__future__reduce_8cpp.html#a26146ff43c56a412c2e0dc5e33c7d55e" title="reduce" alt="" coords="187,522,249,549"/>
+<area shape="rect" id="node3" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="1395,63,1437,90"/>
+<area shape="rect" id="node4" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="1559,114,1634,141"/>
+<area shape="rect" id="node5" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="1524,63,1669,90"/>
+<area shape="rect" id="node6" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="1561,13,1633,39"/>
+<area shape="rect" id="node7" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="1717,5,1912,47"/>
+<area shape="rect" id="node9" href="$d1/db5/rnd__future__reduce_8cpp.html#ad2fedcc0ce462f15ef747e83bb65d6b6" title="dist" alt="" coords="401,471,443,498"/>
+<area shape="rect" id="node10" href="$d1/db5/rnd__future__reduce_8cpp.html#a4621694235e63056ade9557eed1948a4" title="gen" alt="" coords="401,421,443,447"/>
+<area shape="rect" id="node12" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="1356,333,1476,375"/>
+<area shape="rect" id="node14" href="$df/dad/namespacehpx_1_1util.html#ab7c31e3f24c3302a4f67b6735a6fa597" title="hpx::util::forward\l_as_tuple" alt="" coords="363,304,481,345"/>
+<area shape="rect" id="node15" href="$d2/da2/namespacehpx_1_1components_1_1server.html#ac776c89f3d68ceb910e8cee9fa937ab4" title="Create arrays of components using their default constructor. " alt="" coords="340,185,504,227"/>
+<area shape="rect" id="node16" href="$d2/da2/namespacehpx_1_1components_1_1server.html#a77d26de181c97b444565e230577981bd" title="hpx::components::server\l::create" alt="" coords="552,185,716,227"/>
+<area shape="rect" id="node18" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#acf303558375048e8a7cc9a2c2e09477f" title="hpx::parallel::v1::\ldestroy" alt="" coords="779,121,899,163"/>
+<area shape="rect" id="node17" href="$d4/dcb/namespacehpx_1_1lcos_1_1local_1_1detail.html#a55a940f019734e9bb045dc123cd80e48" title="hpx::lcos::local::detail\l::free" alt="" coords="764,187,913,228"/>
+<area shape="rect" id="node19" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a71d0691132a300690163f5636bcd5bd3" title="hpx::parallel::v1::\ldestroy_n" alt="" coords="961,187,1081,228"/>
+<area shape="rect" id="node20" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#adf2e40fc4b20ad0fd442ee3118a4d527" title="hpx::parallel::v1::\ldetail::is_negative" alt="" coords="1156,275,1281,316"/>
+<area shape="rect" id="node21" href="$d2/d42/structhpx_1_1parallel_1_1util_1_1detail_1_1algorithm__result__impl.html#ab5b051e8ec74eff5e0e62fd63f5d377e" title="hpx::parallel::util\l::detail::algorithm\l_result_impl\&lt; hpx::util\l::decay\&lt; ExPolicy \&gt;::type,\l T \&gt;::get" alt="" coords="1129,114,1308,199"/>
+</map>

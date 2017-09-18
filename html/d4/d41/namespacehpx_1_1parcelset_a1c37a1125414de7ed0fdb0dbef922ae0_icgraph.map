@@ -1,0 +1,8 @@
+<map id="hpx::parcelset::do_background_work" name="hpx::parcelset::do_background_work">
+<area shape="rect" id="node2" href="$db/dd5/namespace_storage.html#afc22ee9d2a21b6e473f85bb8b98c93b0" title="Storage::CopyFromStorage" alt="" coords="192,5,372,32"/>
+<area shape="rect" id="node3" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a938c1c4259b1be845dc0197465969a17" title="hpx::parcelset::parcelhandler\l::~parcelhandler" alt="" coords="187,57,377,98"/>
+<area shape="rect" id="node4" href="$dd/d7e/structhpx_1_1threads_1_1policies_1_1scheduler__base.html#a956709c6ebb9953e01eb3426faf083d5" title="hpx::threads::policies\l::scheduler_base::background\l_callback" alt="" coords="184,123,380,179"/>
+<area shape="rect" id="node5" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a32d8c1d6d55b20d42149c5710792142f" title="hpx::threads::detail\l::scheduled_thread_pool\l::thread_func" alt="" coords="428,123,591,179"/>
+<area shape="rect" id="node6" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a18f2b38df9ce10cde72b3a19174b18fe" title="hpx::threads::detail\l::scheduled_thread_pool\l::get_os_thread_handle" alt="" coords="639,83,801,139"/>
+<area shape="rect" id="node7" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a83df1a54306c268c2cc95d0c4b9b9eb6" title="hpx::threads::detail\l::scheduled_thread_pool\l::add_processing_unit" alt="" coords="639,163,801,219"/>
+</map>

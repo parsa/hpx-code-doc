@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d8/d3b/structhpx_1_1parallel_1_1util_1_1detail_1_1accumulate__n" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::parallel::util::detail::accumulate_n</compoundname>
+    <includes refid="d3/d67/util_2loop_8hpp" local="no">loop.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>typename IterCat</type>
+      </param>
+    </templateparamlist>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="d8/d3b/structhpx_1_1parallel_1_1util_1_1detail_1_1accumulate__n_1a765aceb8ab313fc92f7c4aaf70ccca8f" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename Iter</type>
+          </param>
+          <param>
+            <type>typename <ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          </param>
+          <param>
+            <type>typename Pred</type>
+          </param>
+        </templateparamlist>
+        <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+        <definition>static T hpx::parallel::util::detail::accumulate_n&lt; IterCat &gt;::call</definition>
+        <argsstring>(Iter it, std::size_t count, T init, Pred &amp;&amp;f)</argsstring>
+        <name>call</name>
+        <param>
+          <type>Iter</type>
+          <declname>it</declname>
+        </param>
+        <param>
+          <type>std::size_t</type>
+          <declname>count</declname>
+        </param>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>init</declname>
+        </param>
+        <param>
+          <type>Pred &amp;&amp;</type>
+          <declname>f</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/parallel/util/loop.hpp" line="525" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/parallel/util/loop.hpp" bodystart="525" bodyend="530"/>
+        <references refid="d8/de8/cxx11__decltype_8cpp_1a7f662ae1bc1219fffd3a04e4eb570942" compoundref="d8/de8/cxx11__decltype_8cpp" startline="24" endline="24">f</references>
+        <references refid="d8/d83/namespacehpx_1a3c694ea960b47c56b33351ba16e3d76b" compoundref="d3/d6b/hpx__init__impl_8hpp" startline="58" endline="77">hpx::init</references>
+        <references refid="d7/d7f/forceinline_8hpp_1a6c8f31b01feb29751470093a9a75b04f" compoundref="d7/d7f/forceinline_8hpp" startline="19">HPX_FORCEINLINE</references>
+        <references refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" compoundref="db/d33/polymorphic__semiintrusive__template_8cpp" startline="76" endline="101">T</references>
+        <referencedby refid="df/dc6/namespacehpx_1_1parallel_1_1util_1af19f9a2722f97c2247ea5d0dbb5e2d25" compoundref="d3/d67/util_2loop_8hpp" startline="537" endline="542">hpx::parallel::util::accumulate_n</referencedby>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/parallel/util/loop.hpp" line="523" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/parallel/util/loop.hpp" bodystart="522" bodyend="531"/>
+    <listofallmembers>
+      <member refid="d8/d3b/structhpx_1_1parallel_1_1util_1_1detail_1_1accumulate__n_1a765aceb8ab313fc92f7c4aaf70ccca8f" prot="public" virt="non-virtual"><scope>hpx::parallel::util::detail::accumulate_n</scope><name>call</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

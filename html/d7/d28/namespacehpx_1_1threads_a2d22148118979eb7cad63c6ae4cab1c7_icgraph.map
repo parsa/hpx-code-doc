@@ -1,0 +1,12 @@
+<map id="hpx::threads::get_topology" name="hpx::threads::get_topology">
+<area shape="rect" id="node2" href="$d2/de8/structhpx_1_1compute_1_1host_1_1block__allocator.html#a4e7e43af2aebdd6b603730bc1e5bdd7c" title="hpx::compute::host\l::block_allocator::allocate" alt="" coords="239,5,409,47"/>
+<area shape="rect" id="node5" href="$d2/de8/structhpx_1_1compute_1_1host_1_1block__allocator.html#a58162ea233b9f35cbb076a0b449e2767" title="hpx::compute::host\l::block_allocator::deallocate" alt="" coords="232,71,416,112"/>
+<area shape="rect" id="node7" href="$d4/da7/namespacehpx_1_1compute_1_1host.html#a148bd526927f3b5f85a108c890973588" title="hpx::compute::host\l::numa_domains" alt="" coords="257,136,391,177"/>
+<area shape="rect" id="node10" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a932efced0bbfee361094b8552334d931" title="hpx::resource::detail\l::partitioner::get_affinity_data" alt="" coords="229,201,419,243"/>
+<area shape="rect" id="node11" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a67c5a4444b8889b1de56aa7a17459734" title="hpx::threads::topology\l::~topology" alt="" coords="249,267,399,308"/>
+<area shape="rect" id="node3" href="$dc/d4a/block__allocator_8cpp.html#a7724967e3eafa4b9cfd8f80dad98af00" title="test_block_allocation" alt="" coords="478,17,622,43"/>
+<area shape="rect" id="node4" href="$dc/d4a/block__allocator_8cpp.html#aad021fb470ac159eac4609ba96066d4d" title="test_bulk_allocator" alt="" coords="681,46,812,73"/>
+<area shape="rect" id="node6" href="$dc/d4a/block__allocator_8cpp.html#aa27a8ee0dd50d1f98b2b0d39a3d93618" title="test_block_deallocation" alt="" coords="471,74,629,101"/>
+<area shape="rect" id="node8" href="$dc/d38/classhpx_1_1resource_1_1partitioner.html#ae994b2afde4fe9414c8e0b158615387b" title="hpx::resource::partitioner\l::add_resource" alt="" coords="467,131,633,172"/>
+<area shape="rect" id="node9" href="$da/d5f/stream_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="511,197,589,223"/>
+</map>

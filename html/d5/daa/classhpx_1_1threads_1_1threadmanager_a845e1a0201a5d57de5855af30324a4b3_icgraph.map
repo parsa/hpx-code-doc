@@ -1,0 +1,8 @@
+<map id="hpx::threads::threadmanager::get_pool" name="hpx::threads::threadmanager::get_pool">
+<area shape="rect" id="node2" href="$dd/da5/namespacehpx_1_1resource.html#a2e20247c053e087e94a40d50b9689ed7" title="Return the name of the pool given its name. " alt="" coords="272,35,399,76"/>
+<area shape="rect" id="node5" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#a7515176a43e6e2f947c539c44adf9089" title="hpx::threads::threadmanager\l::get_pool" alt="" coords="241,100,429,141"/>
+<area shape="rect" id="node6" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#a29170722b44bd7e3b8722d39fdff704c" title="hpx::threads::threadmanager\l::shrink_pool" alt="" coords="241,165,429,207"/>
+<area shape="rect" id="node7" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#a4f3cf57d4561a7cca4c47d6bc05ccc58" title="hpx::threads::threadmanager\l::expand_pool" alt="" coords="241,231,429,272"/>
+<area shape="rect" id="node3" href="$dd/da5/namespacehpx_1_1resource.html#a8ab78d95eaa6f193a085a1d983ea9f5b" title="Return the thread pool given its internal index. " alt="" coords="477,5,604,47"/>
+<area shape="rect" id="node4" href="$d8/dd8/resource__partitioner_8cpp.html#ab1825231fb9efbfb464404767c072654" title="hpx_main" alt="" coords="501,71,580,98"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="hpx::lcos::local::detail::channel_base&lt; T &gt;" name="hpx::lcos::local::detail::channel_base&lt; T &gt;">
+<area shape="rect" id="node2" href="$d5/d55/classhpx_1_1lcos_1_1local_1_1channel.html" title="hpx::lcos::local::channel\&lt; T \&gt;" alt="" coords="203,5,397,32"/>
+<area shape="rect" id="node3" href="$d2/daf/classhpx_1_1lcos_1_1local_1_1one__element__channel.html" title="hpx::lcos::local::one\l_element_channel\&lt; T \&gt;" alt="" coords="221,57,379,98"/>
+<area shape="rect" id="node4" href="$d9/d37/classhpx_1_1lcos_1_1local_1_1receive__channel.html" title="hpx::lcos::local::receive\l_channel\&lt; T \&gt;" alt="" coords="221,122,379,163"/>
+<area shape="rect" id="node5" href="$d5/d77/classhpx_1_1lcos_1_1local_1_1send__channel.html" title="hpx::lcos::local::send\l_channel\&lt; T \&gt;" alt="" coords="227,187,373,229"/>
+</map>

@@ -1,0 +1,13 @@
+digraph "hpx::util::detail::invoke_bound_result&lt; F, Ts, Us &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::detail::\linvoke_bound_result\l\< F, Ts, Us \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="std::conditional::type\l\< !detail::is_simple_bind\l\< Ts \>::value, invoke_bound\l_result_impl\< F, Ts, Us \>,\l invoke_bound_result_simple\l_impl\< F, Ts \> \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node0 -> Node2 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< F, util::tuple\< Ts\l const ... \>, Us \>" ,fontname="Helvetica"];
+  Node2 [label="hpx::util::detail::\linvoke_bound_result\l\< F, util::tuple\< Ts\l const ... \>, Us \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d32/structhpx_1_1util_1_1detail_1_1invoke__bound__result.html"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hpx::util::detail::\linvoke_bound_result\l\< F, util::tuple\< Ts...\l \> const, Us \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/dec/structhpx_1_1util_1_1detail_1_1invoke__bound__result_3_01_f_00_01util_1_1tuple_3_01_ts_8_8_8_01_4_01const_00_01_us_01_4.html"];
+}

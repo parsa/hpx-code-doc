@@ -1,0 +1,39 @@
+<map id="managed_refcnt_checker.hpp" name="managed_refcnt_checker.hpp">
+<area shape="rect" id="node3" href="$d0/daa/hpx_8hpp.html" title="hpx/hpx.hpp" alt="" coords="4184,80,4277,107"/>
+<area shape="rect" id="node26" href="$d9/da6/component__action_8hpp.html" title="hpx/runtime/actions\l/component_action.hpp" alt="" coords="2669,319,2827,360"/>
+<area shape="rect" id="node43" href="$d9/d8b/managed__component__base_8hpp.html" title="hpx/runtime/components\l/server/managed_component\l_base.hpp" alt="" coords="1662,587,1850,643"/>
+<area shape="rect" id="node4" href="$d7/d1e/exception_8hpp.html" title="hpx/exception.hpp" alt="" coords="3821,505,3949,531"/>
+<area shape="rect" id="node24" href="$d5/deb/lcos_8hpp.html" title="hpx/include/lcos.hpp" alt="" coords="4247,155,4388,181"/>
+<area shape="rect" id="node40" href="$d6/dac/performance__counters_8hpp.html" title="hpx/include/performance\l_counters.hpp" alt="" coords="4996,229,5159,271"/>
+<area shape="rect" id="node41" href="$d5/d15/include_2runtime_8hpp.html" title="hpx/include/runtime.hpp" alt="" coords="4063,155,4223,181"/>
+<area shape="rect" id="node42" href="$df/d72/include_2util_8hpp.html" title="hpx/include/util.hpp" alt="" coords="435,415,570,442"/>
+<area shape="rect" id="node5" href="$d8/dfd/config_8hpp.html" title="hpx/config.hpp" alt="" coords="3080,1070,3187,1097"/>
+<area shape="rect" id="node7" href="$d9/d99/error_8hpp.html" title="hpx/error.hpp" alt="" coords="4351,981,4449,1007"/>
+<area shape="rect" id="node10" href="$d3/d5f/error__code_8hpp.html" title="hpx/error_code.hpp" alt="" coords="4159,705,4292,732"/>
+<area shape="rect" id="node11" href="$de/dd9/exception__fwd_8hpp.html" title="hpx/exception_fwd.hpp" alt="" coords="4260,802,4415,829"/>
+<area shape="rect" id="node12" href="$d7/d3a/throw__exception_8hpp.html" title="hpx/throw_exception.hpp" alt="" coords="4058,891,4225,918"/>
+<area shape="rect" id="node14" href="$dd/d54/warnings__prefix_8hpp.html" title="hpx/config/warnings\l_prefix.hpp" alt="" coords="3839,973,3975,1015"/>
+<area shape="rect" id="node15" href="$dc/dd1/warnings__suffix_8hpp.html" title="hpx/config/warnings\l_suffix.hpp" alt="" coords="3661,973,3797,1015"/>
+<area shape="rect" id="node17" href="$d3/d4f/exception__info_8hpp.html" title="hpx/exception_info.hpp" alt="" coords="3317,601,3472,628"/>
+<area shape="rect" id="node21" href="$d5/d24/naming__fwd_8hpp.html" title="hpx/runtime/naming\l_fwd.hpp" alt="" coords="2935,884,3071,925"/>
+<area shape="rect" id="node6" href="$d0/d47/cat_8hpp.html" title="hpx/util/detail/pp\l/cat.hpp" alt="" coords="195,1152,312,1193"/>
+<area shape="rect" id="node25" href="$d4/dad/actions_8hpp.html" title="hpx/include/actions.hpp" alt="" coords="4063,237,4222,263"/>
+<area shape="rect" id="node28" href="$d3/d82/continuation_8hpp.html" title="hpx/runtime/actions\l/continuation.hpp" alt="" coords="3492,698,3628,739"/>
+<area shape="rect" id="node27" href="$d1/d7e/basic__action_8hpp.html" title="hpx/runtime/actions\l/basic_action.hpp" alt="" coords="2525,408,2661,449"/>
+<area shape="rect" id="node30" href="$dc/d2e/address_8hpp.html" title="hpx/runtime/naming\l/address.hpp" alt="" coords="2884,795,3020,836"/>
+<area shape="rect" id="node34" href="$d1/dcf/strip__parens_8hpp.html" title="Defines the HPX_PP_STRIP_PARENS macro. " alt="" coords="93,973,216,1015"/>
+<area shape="rect" id="node35" href="$d7/d63/expand_8hpp.html" title="hpx/util/detail/pp\l/expand.hpp" alt="" coords="655,594,772,635"/>
+<area shape="rect" id="node36" href="$dd/d99/nargs_8hpp.html" title="hpx/util/detail/pp\l/nargs.hpp" alt="" coords="1076,497,1193,539"/>
+<area shape="rect" id="node38" href="$d9/dc1/console__error__sink_8hpp.html" title="hpx/runtime/components\l/console_error_sink.hpp" alt="" coords="3095,698,3260,739"/>
+<area shape="rect" id="node39" href="$dd/d26/unused_8hpp.html" title="hpx/util/unused.hpp" alt="" coords="3217,505,3351,531"/>
+<area shape="rect" id="node29" href="$da/d32/unique__function_8hpp.html" title="hpx/util/unique_function.hpp" alt="" coords="1965,802,2147,829"/>
+<area shape="rect" id="node31" href="$d3/d08/component__type_8hpp.html" title="hpx/runtime/components\l/component_type.hpp" alt="" coords="697,884,863,925"/>
+<area shape="rect" id="node32" href="$d2/d54/assert_8hpp.html" title="hpx/util/assert.hpp" alt="" coords="545,981,674,1007"/>
+<area shape="rect" id="node44" href="$d7/d39/create__component__fwd_8hpp.html" title="hpx/runtime/components\l/server/create_component\l_fwd.hpp" alt="" coords="2063,691,2233,747"/>
+<area shape="rect" id="node45" href="$d6/dbc/wrapper__heap_8hpp.html" title="hpx/runtime/components\l/server/wrapper_heap.hpp" alt="" coords="697,795,866,836"/>
+<area shape="rect" id="node46" href="$d1/d8f/wrapper__heap__list_8hpp.html" title="hpx/runtime/components\l/server/wrapper_heap_list.hpp" alt="" coords="1050,698,1243,739"/>
+<area shape="rect" id="node47" href="$d5/d6a/runtime_2components__fwd_8hpp.html" title="hpx/runtime/components\l_fwd.hpp" alt="" coords="1673,795,1839,836"/>
+<area shape="rect" id="node48" href="$d5/d93/managed__component__policies_8hpp.html" title="hpx/traits/managed\l_component_policies.hpp" alt="" coords="1794,884,1963,925"/>
+<area shape="rect" id="node49" href="$d9/d27/is__component_8hpp.html" title="hpx/traits/is_component.hpp" alt="" coords="1311,802,1497,829"/>
+<area shape="rect" id="node50" href="$db/d9b/util_2reinitializable__static_8hpp.html" title="hpx/util/reinitializable\l_static.hpp" alt="" coords="890,795,1033,836"/>
+</map>

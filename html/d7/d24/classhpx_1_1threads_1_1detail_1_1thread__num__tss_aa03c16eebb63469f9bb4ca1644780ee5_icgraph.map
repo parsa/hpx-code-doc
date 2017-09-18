@@ -1,0 +1,4 @@
+<map id="hpx::threads::detail::thread_num_tss::deinit_tss" name="hpx::threads::detail::thread_num_tss::deinit_tss">
+<area shape="rect" id="node2" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#a1f4c8c7394b387f4b5d222e01c15fd91" title="hpx::threads::threadmanager\l::deinit_tss" alt="" coords="240,5,428,47"/>
+<area shape="rect" id="node3" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#a08a2db158e18672b8237e36a3e82597f" title="Forcefully stop the thread&#45;manager. " alt="" coords="476,5,664,47"/>
+</map>

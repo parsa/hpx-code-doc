@@ -1,0 +1,5 @@
+<map id="hpx::parcelset::policies::libfabric::locality::fabric_data" name="hpx::parcelset::policies::libfabric::locality::fabric_data">
+<area shape="rect" id="node2" href="$db/d9f/classhpx_1_1parcelset_1_1policies_1_1libfabric_1_1libfabric__controller.html#a8107a3c0779afb2b6f59b6f2d7fed085" title="hpx::parcelset::policies\l::libfabric::libfabric\l_controller::boot_PMI" alt="" coords="229,5,385,61"/>
+<area shape="rect" id="node3" href="$db/d9f/classhpx_1_1parcelset_1_1policies_1_1libfabric_1_1libfabric__controller.html#ae74361f3aa7f92bccf07fbe94d2ed71b" title="hpx::parcelset::policies\l::libfabric::libfabric\l_controller::insert_address" alt="" coords="219,85,394,141"/>
+<area shape="rect" id="node4" href="$db/d9f/classhpx_1_1parcelset_1_1policies_1_1libfabric_1_1libfabric__controller.html#a1bc4bee2233cd9e35f594dc194919090" title="hpx::parcelset::policies\l::libfabric::libfabric\l_controller::connect_to_server" alt="" coords="209,165,404,221"/>
+</map>

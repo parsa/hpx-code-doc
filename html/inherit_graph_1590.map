@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$db/de9/structhpx_1_1util_1_1logging_1_1gather_1_1out__base.html" title="In case your gather class returns anything else than a std::basic_ostream, that returned class must d..." alt="" coords="5,20,132,61"/>
+<area shape="rect" id="node2" href="$df/d3c/structhpx_1_1util_1_1logging_1_1gather_1_1ostream__like_1_1return__tag__holder.html" title="Returns a tag holder. " alt="" coords="180,5,357,76"/>
+</map>

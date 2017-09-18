@@ -1,0 +1,11 @@
+<map id="hpx::threads::thread_data::get_description" name="hpx::threads::thread_data::get_description">
+<area shape="rect" id="node2" href="$d5/d1a/namespacehpx_1_1threads_1_1policies_1_1detail.html#ababe430ee0cc877dc815b46d16e2e1ce" title="hpx::threads::policies\l::detail::dump_suspended\l_threads" alt="" coords="213,5,384,61"/>
+<area shape="rect" id="node4" href="$d2/dd1/namespacehpx_1_1threads_1_1detail.html#a95423d5318edde160ecb7eb957660e03" title="hpx::threads::detail\l::write_new_state_log_debug" alt="" coords="204,86,393,127"/>
+<area shape="rect" id="node5" href="$d2/dd1/namespacehpx_1_1threads_1_1detail.html#a0c53bf447ad243ff79dd5e0397f07290" title="hpx::threads::detail\l::write_new_state_log\l_warning" alt="" coords="225,152,372,208"/>
+<area shape="rect" id="node6" href="$d2/dd1/namespacehpx_1_1threads_1_1detail.html#aa11d8d4f93faf9b514d46d9ad1546d39" title="hpx::threads::detail\l::write_old_state_log" alt="" coords="228,233,369,274"/>
+<area shape="rect" id="node3" href="$d0/d44/classhpx_1_1threads_1_1policies_1_1thread__queue.html#ac9e8ca8885064986290252e96efc53bb" title="hpx::threads::policies\l::thread_queue::dump_suspended\l_threads" alt="" coords="441,5,660,61"/>
+<area shape="rect" id="node7" href="$d2/dd1/namespacehpx_1_1threads_1_1detail.html#a68a95dd6ac6606418b859ac45da10a5a" title="hpx::threads::detail\l::scheduling_loop" alt="" coords="484,233,617,274"/>
+<area shape="rect" id="node8" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a32d8c1d6d55b20d42149c5710792142f" title="hpx::threads::detail\l::scheduled_thread_pool\l::thread_func" alt="" coords="708,225,871,281"/>
+<area shape="rect" id="node9" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a18f2b38df9ce10cde72b3a19174b18fe" title="hpx::threads::detail\l::scheduled_thread_pool\l::get_os_thread_handle" alt="" coords="919,185,1081,241"/>
+<area shape="rect" id="node10" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a83df1a54306c268c2cc95d0c4b9b9eb6" title="hpx::threads::detail\l::scheduled_thread_pool\l::add_processing_unit" alt="" coords="919,265,1081,321"/>
+</map>

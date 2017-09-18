@@ -1,0 +1,12 @@
+<map id="hpx::performance_counters::registry::remove_counter" name="hpx::performance_counters::registry::remove_counter">
+<area shape="rect" id="node2" href="$d0/d36/namespacehpx_1_1performance__counters.html#a0256857d76e12ec08c01ac2f020b1f48" title="Complement the counter info if parent instance name is missing. " alt="" coords="234,5,413,47"/>
+<area shape="rect" id="node3" href="$d0/d36/namespacehpx_1_1performance__counters.html#af277aab5e2e75f4d32dedcb1f4cdf21d" title="Create a full name of a counter from the contents of the given counter_path_elements instance..." alt="" coords="234,71,413,112"/>
+<area shape="rect" id="node4" href="$d0/d36/namespacehpx_1_1performance__counters.html#a02f879175b5bb99013a8c79f66e57213" title="hpx::performance_counters\l::status_is_valid" alt="" coords="234,136,413,177"/>
+<area shape="rect" id="node5" href="$d0/d36/namespacehpx_1_1performance__counters.html#af0b1efba2df501bf2e11f2b55f1b35ef" title="hpx::performance_counters\l::ensure_counter_prefix" alt="" coords="234,201,413,243"/>
+<area shape="rect" id="node6" href="$dc/d54/namespacehpx_1_1agas.html#a4bb445d0aa556ce729cddab9dc49152a" title="hpx::agas::unregister_name" alt="" coords="232,267,415,294"/>
+<area shape="rect" id="node7" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="472,227,627,268"/>
+<area shape="rect" id="node10" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a510af72cebe74e33944d43773f3ec64a" title="hpx::agas::addressing\l_service::unregister_name" alt="" coords="463,292,636,333"/>
+<area shape="rect" id="node8" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="726,175,845,202"/>
+<area shape="rect" id="node9" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="708,227,863,268"/>
+<area shape="rect" id="node11" href="$dd/d5e/structhpx_1_1agas_1_1symbol__namespace.html#aeedb5bc47d003b876f9887cdd29f331b" title="hpx::agas::symbol_namespace\l::unbind" alt="" coords="684,292,887,333"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="hpx::threads::detail::set_tss_data" name="hpx::threads::detail::set_tss_data">
+<area shape="rect" id="node2" href="$d6/d43/classhpx_1_1threads_1_1scheduler__specific__ptr.html#a71d0afbcac6d1dc8bc39b8d155635853" title="hpx::threads::scheduler\l_specific_ptr::~scheduler\l_specific_ptr" alt="" coords="187,5,353,61"/>
+<area shape="rect" id="node3" href="$d6/d43/classhpx_1_1threads_1_1scheduler__specific__ptr.html#a1ba253c9b0395fbdeb26247f0d4f4dcf" title="hpx::threads::scheduler\l_specific_ptr::release" alt="" coords="191,86,349,127"/>
+<area shape="rect" id="node4" href="$d6/d43/classhpx_1_1threads_1_1scheduler__specific__ptr.html#a399e66ee790fb71af3a96f21af4a7795" title="hpx::threads::scheduler\l_specific_ptr::reset" alt="" coords="191,151,349,193"/>
+</map>

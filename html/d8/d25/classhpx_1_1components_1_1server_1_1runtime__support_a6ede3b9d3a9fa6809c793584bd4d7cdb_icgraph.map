@@ -1,0 +1,6 @@
+<map id="hpx::components::server::runtime_support::terminate" name="hpx::components::server::runtime_support::terminate">
+<area shape="rect" id="node2" href="$d3/d41/classhpx_1_1process_1_1process.html#a8c96317a0d57a9dfd75375b25e434b8b" title="hpx.process.process.\l__init__" alt="" coords="271,5,417,47"/>
+<area shape="rect" id="node3" href="$d8/d25/classhpx_1_1components_1_1server_1_1runtime__support.html#a17d89675ad9c0e530b4194b5fc4da440" title="hpx::components::server\l::runtime_support::is\l_target_valid" alt="" coords="262,71,426,127"/>
+<area shape="rect" id="node4" href="$d8/d25/classhpx_1_1components_1_1server_1_1runtime__support.html#ab8d213f0608ced6f22c2fa8c4c776769" title="hpx::components::server\l::runtime_support::terminate_act" alt="" coords="239,152,449,193"/>
+<area shape="rect" id="node5" href="$d8/d25/classhpx_1_1components_1_1server_1_1runtime__support.html#abdc7ac3f7e99dfa63b7872cda6937a00" title="hpx::components::server\l::runtime_support::terminate\l_all_act" alt="" coords="497,145,683,201"/>
+</map>

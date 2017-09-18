@@ -1,0 +1,4 @@
+<map id="hpx::parallel::util::detail::chunk_size_idx_iterator&lt; Iterator &gt;" name="hpx::parallel::util::detail::chunk_size_idx_iterator&lt; Iterator &gt;">
+<area shape="rect" id="node2" href="$db/d7c/structhpx_1_1util_1_1iterator__facade.html" title="hpx::util::iterator\l_facade\&lt; chunk_size\l_idx_iterator\&lt; Iterator\l \&gt;, hpx::util::tuple\&lt; Iterator,\l std::size_t, std::size_t \&gt;\l const, std::forward_iterator_tag \&gt;" alt="" coords="251,35,468,135"/>
+<area shape="rect" id="node3" href="$d5/d11/classhpx_1_1util_1_1detail_1_1iterator__facade__base.html" title="hpx::util::detail::\literator_facade_base\l\&lt; chunk_size_idx_iterator\l\&lt; Iterator \&gt;, hpx::util\l::tuple\&lt; Iterator, std::size\l_t, std::size_t \&gt; const, std\l::forward_iterator_tag, hpx::\lutil::tuple\&lt; Iterator, std::size\l_t, std::size_t \&gt; const &amp;, std::\lptrdiff_t, void \&gt;" alt="" coords="5,5,203,164"/>
+</map>

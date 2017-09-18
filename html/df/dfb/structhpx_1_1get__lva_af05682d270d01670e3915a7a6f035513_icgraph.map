@@ -1,0 +1,5 @@
+<map id="hpx::get_lva::call" name="hpx::get_lva::call">
+<area shape="rect" id="node2" href="$d8/d54/structhpx_1_1components_1_1executor__component.html#a9185764ddb5fa1ca8c071b5eafa3aa53" title="hpx::components::executor\l_component\&lt; hpx::parallel\l::local_priority_queue_executor,\l hpx::components::component_base\l\&lt; hello_world_server \&gt; \&gt;::schedule_thread" alt="" coords="172,5,439,91"/>
+<area shape="rect" id="node3" href="$dc/de7/classhpx_1_1components_1_1detail_1_1pinned__ptr.html#a668114d60095a0f3bab0c46693017e1a" title="hpx::components::detail\l::pinned_ptr::pin" alt="" coords="225,115,386,157"/>
+<area shape="rect" id="node4" href="$dc/de7/classhpx_1_1components_1_1detail_1_1pinned__ptr.html#a0f1512560a18f663c42080c650dda39e" title="hpx::components::detail\l::pinned_ptr::unpin" alt="" coords="225,181,386,222"/>
+</map>

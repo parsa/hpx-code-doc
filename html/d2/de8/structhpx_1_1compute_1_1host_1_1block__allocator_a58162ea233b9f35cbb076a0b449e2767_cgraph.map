@@ -1,0 +1,51 @@
+<map id="hpx::compute::host::block_allocator::deallocate" name="hpx::compute::host::block_allocator::deallocate">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#a2d22148118979eb7cad63c6ae4cab1c7" title="hpx::threads::get_topology" alt="" coords="237,428,413,455"/>
+<area shape="rect" id="node50" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a305642afa5d7e3b9b4dbd56b83cdc462" title="Free memory that was previously allocated by allocate. " alt="" coords="250,480,401,521"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="1155,344,1296,371"/>
+<area shape="rect" id="node5" href="$d0/d7b/classhpx_1_1runtime.html#aa55a57060c6d0c1ea5ce4e6ef818526e" title="hpx::runtime::get_topology" alt="" coords="461,862,637,888"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="1355,337,1517,378"/>
+<area shape="rect" id="node6" href="$df/d90/qt_8cpp.html#a7e15a887e130d217ac6841a6b3409c88" title="run" alt="" coords="744,1014,784,1040"/>
+<area shape="rect" id="node10" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="1145,760,1305,787"/>
+<area shape="rect" id="node12" href="$d2/dc9/namespacehpx_1_1lcos.html#afff729d1ecad56e04dee234689931b12" title="hpx::lcos::wait" alt="" coords="940,1080,1047,1107"/>
+<area shape="rect" id="node14" href="$d8/dfd/id__type__ref__counting__1032_8cpp.html#ab811b86ea5107ffb3351fcaa29d2c652" title="func" alt="" coords="741,1395,787,1422"/>
+<area shape="rect" id="node16" href="$d5/dbe/namespacehpx_1_1detail.html#aee8c9834a58f5c303ab3458b3b47d557" title="hpx::detail::rethrow\l_exception" alt="" coords="698,145,830,186"/>
+<area shape="rect" id="node21" href="$d8/d83/namespacehpx.html#a7e832bd3c4af93a4619dbe97a5b1c3d2" title="Main non&#45;blocking entry point for launching the HPX runtime system. " alt="" coords="725,467,803,494"/>
+<area shape="rect" id="node22" href="$d8/d83/namespacehpx.html#a01a3c286e028da685dd9d616fb7c33c7" title="Stop the runtime system. " alt="" coords="726,518,802,544"/>
+<area shape="rect" id="node23" href="$d7/d28/namespacehpx_1_1threads.html#a076973c3a53beadde7d967e22c4f6cce" title="hpx::threads::get_thread\l_manager" alt="" coords="912,812,1075,853"/>
+<area shape="rect" id="node26" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="916,1182,1071,1224"/>
+<area shape="rect" id="node28" href="$d8/d83/namespacehpx.html#ad3a47f9cb15f1800be181e4f249a0ede" title="The function report_error reports the given exception to the console. " alt="" coords="705,619,823,646"/>
+<area shape="rect" id="node34" href="$dc/d54/namespacehpx_1_1agas.html#a60ba57eced2a11f9dfa8e011cfed1ddb" title="hpx::agas::get_next_id" alt="" coords="687,1190,841,1216"/>
+<area shape="rect" id="node37" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a19d058114a2bd44801aab4176b188e23" title="hpx::parallel::v1::\lcount" alt="" coords="933,1365,1053,1406"/>
+<area shape="rect" id="node46" href="$d8/d83/namespacehpx.html#a70e0fdd6c4daa17767b9d1bf6d25d813" title="hpx::keep_factory_alive" alt="" coords="685,568,843,595"/>
+<area shape="rect" id="node47" href="$d8/d83/namespacehpx.html#a028d0bc1a7bf003e699001e1321d8d11" title="hpx::get_thread_pool" alt="" coords="693,963,835,990"/>
+<area shape="rect" id="node48" href="$d8/d83/namespacehpx.html#a0bdf7871dfff58e68ae5eab9af23f2aa" title="hpx::register_thread" alt="" coords="695,811,833,838"/>
+<area shape="rect" id="node49" href="$d8/d83/namespacehpx.html#ae6fab9f567417d9f1fa0772537b5dc2b" title="hpx::unregister_thread" alt="" coords="689,862,839,888"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="950,1030,1037,1056"/>
+<area shape="rect" id="node9" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="942,878,1045,904"/>
+<area shape="rect" id="node11" href="$de/db3/1d__stencil__1__omp_8cpp.html#a89e9667753dccfac455bd37a7a3a7b16" title="now" alt="" coords="971,979,1016,1006"/>
+<area shape="rect" id="node8" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="1204,1103,1247,1130"/>
+<area shape="rect" id="node13" href="$d8/d8b/broadcast_8cpp.html#a1751fbd41f2529b84514a9dbd767959a" title="f1" alt="" coords="1206,1154,1245,1180"/>
+<area shape="rect" id="node15" href="$d8/dfd/id__type__ref__counting__1032_8cpp.html#a5264b94bf7c262ac0e521fb290d476d5" title="ensure_garbage_collect" alt="" coords="914,1431,1073,1458"/>
+<area shape="rect" id="node17" href="$d5/dbe/namespacehpx_1_1detail.html#a6366f24c7da7fddd56679cb4f108689d" title="hpx::detail::throw\l_exception" alt="" coords="933,112,1054,153"/>
+<area shape="rect" id="node18" href="$de/d25/classhpx_1_1exception.html#a427fc21f422d4a796cf7e8f7b74c1fe1" title="hpx::exception::get\l_error" alt="" coords="927,177,1060,218"/>
+<area shape="rect" id="node19" href="$d8/d83/namespacehpx.html#a0af92c8ff70bbc40c078ef06a2ff4647" title="Return the (source code) file name of the function from which the exception was thrown. " alt="" coords="911,243,1075,270"/>
+<area shape="rect" id="node20" href="$d8/d83/namespacehpx.html#ae0112fceccd5a51798ed81d88906468e" title="Return the line number in the (source code) file of the function from which the exception was thrown..." alt="" coords="929,46,1058,88"/>
+<area shape="rect" id="node24" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="1166,928,1285,955"/>
+<area shape="rect" id="node25" href="$d0/d7b/classhpx_1_1runtime.html#a865b12d57fcd44a8d3dda3e35414f563" title="hpx::runtime::get_thread\l_manager" alt="" coords="1144,608,1307,649"/>
+<area shape="rect" id="node27" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="1148,1037,1303,1078"/>
+<area shape="rect" id="node29" href="$d7/d28/namespacehpx_1_1threads.html#a79ebd37a6bd090d20a14cc85df4b6f73" title="hpx::threads::threadmanager_is" alt="" coords="891,527,1096,554"/>
+<area shape="rect" id="node30" href="$d0/d7b/classhpx_1_1runtime.html#a4145758864f4163a0dae50f0943a299a" title="hpx::runtime::report\l_error" alt="" coords="926,461,1061,502"/>
+<area shape="rect" id="node31" href="$d5/dbe/namespacehpx_1_1detail.html#a9a5760040a99bb3999e3b3ab7568c2bd" title="hpx::detail::report\l_exception_and_terminate" alt="" coords="906,578,1081,620"/>
+<area shape="rect" id="node32" href="$da/dcb/classhpx_1_1applier_1_1applier.html#acc36d583973701e573be39da97bba866" title="Access the thread&#45;manager instance associated with this applier. " alt="" coords="919,644,1067,685"/>
+<area shape="rect" id="node33" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#a5a58356c968bebc3aafc1276b5ca8ff2" title="API functions forwarding to notification policy. " alt="" coords="899,396,1087,437"/>
+<area shape="rect" id="node35" href="$d0/d7b/classhpx_1_1runtime.html#ab405f80e060dac95d624520f38b0524c" title="hpx::runtime::get_state" alt="" coords="915,1248,1071,1275"/>
+<area shape="rect" id="node36" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a27b89e96c9cc33313aefa315411e07c8" title="Get unique range of freely assignable global ids. " alt="" coords="918,1300,1069,1341"/>
+<area shape="rect" id="node38" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#ad836ff017ec208c2d6388a9b47b05ce0" title="hpx::parallel::v1::\lcount_if" alt="" coords="1165,1606,1285,1648"/>
+<area shape="rect" id="node39" href="$df/dc6/namespacehpx_1_1parallel_1_1util.html#a3f434e00f42929aac85debb8c5782213" title="hpx::parallel::util\l::loop" alt="" coords="1167,1541,1284,1582"/>
+<area shape="rect" id="node40" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="1175,1372,1275,1399"/>
+<area shape="rect" id="node41" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="1361,1242,1511,1268"/>
+<area shape="rect" id="node42" href="$df/dad/namespacehpx_1_1util.html#a5cbd3c41f03f4d4acaedaa4777e3cc02" title="hpx::util::get" alt="" coords="1178,1322,1273,1348"/>
+<area shape="rect" id="node43" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#a6bea3c6a5f470cad11f27ee6bab4a33f" title="hpx::parallel::v1::\ldetail::distance" alt="" coords="1165,1424,1285,1465"/>
+<area shape="rect" id="node44" href="$df/dad/namespacehpx_1_1util.html#a7529d9ac687684c33403cdd1f9cef8e4" title="hpx::util::unwrapping" alt="" coords="1155,1490,1296,1516"/>
+<area shape="rect" id="node45" href="$df/dc6/namespacehpx_1_1parallel_1_1util.html#af19f9a2722f97c2247ea5d0dbb5e2d25" title="hpx::parallel::util\l::accumulate_n" alt="" coords="1167,1205,1284,1246"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="hpx::test::movable_object::get_count" name="hpx::test::movable_object::get_count">
+<area shape="rect" id="node2" href="$da/d04/structhpx_1_1test_1_1server_1_1action__move__semantics.html#a459f81d4542874e7a754b847200d70fa" title="hpx::test::server::\laction_move_semantics\l::test_movable" alt="" coords="183,5,344,61"/>
+<area shape="rect" id="node4" href="$db/d0f/plain__action__move__semantics_8cpp.html#a1aa96da9a182395098e58fca43948eb6" title="pass_movable_object" alt="" coords="190,85,337,112"/>
+<area shape="rect" id="node5" href="$db/d0f/plain__action__move__semantics_8cpp.html#a9e42b88367fe1dd8b5935b521f6c09f4" title="pass_movable_object\l_value" alt="" coords="190,137,337,178"/>
+<area shape="rect" id="node3" href="$da/d04/structhpx_1_1test_1_1server_1_1action__move__semantics.html#ac186f7b105c9cb2a9d84fb698e0364c9" title="hpx::test::server::\laction_move_semantics\l::return_test_non_movable" alt="" coords="392,5,567,61"/>
+</map>

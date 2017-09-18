@@ -1,0 +1,29 @@
+digraph "hpx::parcelset::detail::parcels_await"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node5 [label="hpx::parcelset::detail\l::parcels_await",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hpx::parcelset::detail\l::parcel_await_base\< std\l::vector\< parcel \>, std\l::vector\< write_handler_type\l \>, parcels_await \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d99/structhpx_1_1parcelset_1_1detail_1_1parcel__await__base.html"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="std::enable_shared\l_from_this\< parcels\l_await \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node8 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" preprocess_" ,fontname="Helvetica"];
+  Node8 [label="hpx::serialization\l::detail::preprocess",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/db6/classhpx_1_1serialization_1_1detail_1_1preprocess.html"];
+  Node9 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" archive_" ,fontname="Helvetica"];
+  Node9 [label="hpx::serialization\l::output_archive",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d01/structhpx_1_1serialization_1_1output__archive.html"];
+  Node10 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="hpx::serialization\l::basic_archive\< output\l_archive \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d15/structhpx_1_1serialization_1_1basic__archive.html"];
+  Node11 -> Node10 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< output_archive \>" ,fontname="Helvetica"];
+  Node11 [label="hpx::serialization\l::basic_archive\< Archive \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d15/structhpx_1_1serialization_1_1basic__archive.html"];
+  Node12 -> Node6 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< std::vector\< parcel\l \>, std::vector\< write\l_handler_type \>, parcels\l_await \>" ,fontname="Helvetica"];
+  Node12 [label="hpx::parcelset::detail\l::parcel_await_base\< Parcel,\l Handler, Derived \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d99/structhpx_1_1parcelset_1_1detail_1_1parcel__await__base.html"];
+  Node13 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="std::enable_shared\l_from_this\< Derived \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node8 -> Node12 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" preprocess_" ,fontname="Helvetica"];
+  Node9 -> Node12 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" archive_" ,fontname="Helvetica"];
+  Node14 -> Node12 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" parcel_" ,fontname="Helvetica"];
+  Node14 [label="Parcel",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node15 -> Node12 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" handler_" ,fontname="Helvetica"];
+  Node15 [label="Handler",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

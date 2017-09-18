@@ -1,0 +1,6 @@
+<map id="HPX_REGISTER_DERIVED_COMPONENT_FACTORY" name="HPX_REGISTER_DERIVED_COMPONENT_FACTORY">
+<area shape="rect" id="node2" href="$d0/df8/namespacehpx_1_1performance__counters_1_1detail.html#aeb7270225851650502f791b41fa36204" title="hpx::performance_counters\l::detail::statistics_counter\l_creator" alt="" coords="242,5,421,61"/>
+<area shape="rect" id="node3" href="$d0/d36/namespacehpx_1_1performance__counters.html#a20efd215ad44c2a1d6bf36731b07094c" title="Fill the given counter_path_elements instance from the given full name of a counter. " alt="" coords="236,86,427,127"/>
+<area shape="rect" id="node4" href="$d0/d36/namespacehpx_1_1performance__counters.html#af277aab5e2e75f4d32dedcb1f4cdf21d" title="Create a full name of a counter from the contents of the given counter_path_elements instance..." alt="" coords="242,151,421,193"/>
+<area shape="rect" id="node5" href="$d0/df8/namespacehpx_1_1performance__counters_1_1detail.html#a804e8a94836c9a7460f1cb15a0966591" title="hpx::performance_counters\l::detail::create_statistics\l_counter" alt="" coords="242,217,421,273"/>
+</map>

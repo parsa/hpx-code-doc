@@ -1,0 +1,10 @@
+<map id="test_server::HPX_DEFINE_COMPONENT_ACTION" name="test_server::HPX_DEFINE_COMPONENT_ACTION">
+<area shape="rect" id="node2" href="$d5/d5d/structtest__server.html#a6e4453a08c3db0ea21b51cca14a38d37" title="test_server::call_future_void" alt="" coords="225,5,407,32"/>
+<area shape="rect" id="node3" href="$d5/d5d/structtest__server.html#a7b57b8d8ccb5b5b8ecd4df4eefafe979" title="test_server::call" alt="" coords="259,56,373,83"/>
+<area shape="rect" id="node4" href="$d5/d5d/structtest__server.html#a97a2e1233004dcf8fc83452fe6607c1b" title="test_server::operator=" alt="" coords="242,107,390,133"/>
+<area shape="rect" id="node5" href="$d5/d5d/structtest__server.html#ab93a607f83d4e7f393f8c3811ebaf4ef" title="test_server::check_gid" alt="" coords="240,157,392,184"/>
+<area shape="rect" id="node6" href="$d5/d5d/structtest__server.html#ad2617bef680694f64c05f5db96e4fffc" title="test_server::check_ptr" alt="" coords="241,208,391,235"/>
+<area shape="rect" id="node7" href="$d5/d5d/structtest__server.html#a2374034d1718ee93e8071a3917c8b3cf" title="test_server::~test\l_server" alt="" coords="255,259,377,301"/>
+<area shape="rect" id="node8" href="$d5/d5d/structtest__server.html#a24e6dadc25bcc7aefa59e23b0050cee5" title="test_server::test1" alt="" coords="255,349,377,376"/>
+<area shape="rect" id="node9" href="$d5/d5d/structtest__server.html#a2ceb904d6fc340db974f6010c2e91fc7" title="test_server::call_future_int" alt="" coords="229,400,403,427"/>
+</map>

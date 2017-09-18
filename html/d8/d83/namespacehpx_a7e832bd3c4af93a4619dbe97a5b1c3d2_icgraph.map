@@ -1,0 +1,44 @@
+<map id="hpx::start" name="hpx::start">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a80ae064c776b7fb0f824cc936d7298ab" title="Main non&#45;blocking entry point for launching the HPX runtime system. " alt="" coords="201,5,279,32"/>
+<area shape="rect" id="node3" href="$dc/d10/includes_8cpp.html#aa28131ce41bfe9d6f55063ecaaa95d0b" title="test_includes2" alt="" coords="187,56,293,83"/>
+<area shape="rect" id="node5" href="$dc/d10/includes_8cpp.html#a74f23df4b3d3dfced1942f74518c545e" title="test_includes2_async" alt="" coords="166,107,314,133"/>
+<area shape="rect" id="node6" href="$dc/d10/includes_8cpp.html#a82379db75fe754b2257db1ea5b16f7cc" title="test_includes_exception" alt="" coords="159,157,321,184"/>
+<area shape="rect" id="node8" href="$dc/d10/includes_8cpp.html#a3cf0ba03ce5a22f33818333a9575aab2" title="test_includes_exception\l_async" alt="" coords="159,209,321,250"/>
+<area shape="rect" id="node9" href="$dc/d10/includes_8cpp.html#ae4b6d81a09a97be55d18fd28c6e61935" title="test_includes_bad_alloc" alt="" coords="159,275,321,301"/>
+<area shape="rect" id="node11" href="$dc/d10/includes_8cpp.html#aa91b6de09626bd0f6309ddb397b9a3a5" title="test_includes_bad_alloc\l_async" alt="" coords="159,326,321,367"/>
+<area shape="rect" id="node12" href="$d8/dc7/structmanage__global__runtime.html#accea1b87c9196da01f90ffb4ad46cb6e" title="manage_global_runtime\l::manage_global_runtime" alt="" coords="157,391,323,433"/>
+<area shape="rect" id="node13" href="$db/dd5/papi__counters__active__interface_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="215,457,265,484"/>
+<area shape="rect" id="node14" href="$db/d1c/structhpx_1_1performance__counters_1_1performance__counter.html#ae8739351a4019426bf376116f74f8dec" title="hpx::performance_counters\l::performance_counter::\lperformance_counter" alt="" coords="151,508,329,564"/>
+<area shape="rect" id="node15" href="$df/d08/classhpx_1_1performance__counters_1_1performance__counter__set.html#a08c9c7275b1d7ec58c27e329d89add67" title="Create an empty set of performance counters. " alt="" coords="151,588,329,644"/>
+<area shape="rect" id="node16" href="$d0/df8/namespacehpx_1_1performance__counters_1_1detail.html#ac305c0b7328b67a6ccaf4fe7b0ad33e7" title="hpx::performance_counters\l::detail::regex_from_character_set" alt="" coords="131,669,349,710"/>
+<area shape="rect" id="node26" href="$d0/d7b/classhpx_1_1runtime.html#aa55a57060c6d0c1ea5ce4e6ef818526e" title="hpx::runtime::get_topology" alt="" coords="152,735,328,761"/>
+<area shape="rect" id="node39" href="$d6/d3f/classhpx_1_1performance__counters_1_1server_1_1statistics__counter.html#a522990f865a9f9a33499da08513f9858" title="hpx::performance_counters\l::server::statistics_counter\l::statistics_counter" alt="" coords="151,785,329,841"/>
+<area shape="rect" id="node40" href="$db/d9e/stencil3__iterators_8cpp.html#a1f05f6eaafb7e6d765645cf9f6007912" title="bench_stencil3_iterator_full" alt="" coords="151,865,329,892"/>
+<area shape="rect" id="node41" href="$db/d9e/stencil3__iterators_8cpp.html#a083980ded9a2b4b180896116b3172840" title="bench_stencil3_iterator_v1" alt="" coords="153,916,327,943"/>
+<area shape="rect" id="node42" href="$db/d9e/stencil3__iterators_8cpp.html#a9eb0fdf489f85984dfe6094fb9afaddc" title="bench_stencil3_iterator_v2" alt="" coords="153,967,327,993"/>
+<area shape="rect" id="node43" href="$db/d9e/stencil3__iterators_8cpp.html#af68781c1addb0ed46175e921402943b4" title="bench_stencil3_iterator\l_explicit" alt="" coords="162,1018,318,1059"/>
+<area shape="rect" id="node4" href="$dc/d10/includes_8cpp.html#a094e019ec3ea270d55f1b58f7e08cfd0" title="test_includes2" alt="" coords="439,81,545,108"/>
+<area shape="rect" id="node7" href="$dc/d10/includes_8cpp.html#afa63fb944441b34e50c6a4a6c03b3bc2" title="test_includes_exception" alt="" coords="411,187,573,213"/>
+<area shape="rect" id="node10" href="$dc/d10/includes_8cpp.html#a45a17dcc1f61c65b248353ce13e53161" title="test_includes_bad_alloc" alt="" coords="411,304,573,331"/>
+<area shape="rect" id="node17" href="$d0/df8/namespacehpx_1_1performance__counters_1_1detail.html#ab6413c4f17884bc8d3c30b52e7f0ca63" title="hpx::performance_counters\l::detail::regex_from_pattern" alt="" coords="402,621,582,662"/>
+<area shape="rect" id="node18" href="$dc/d69/classhpx_1_1actions_1_1detail_1_1invocation__count__registry.html#a838ee8cb433ee3130a3ea25e3c310410" title="hpx::actions::detail\l::invocation_count_registry\l::counter_discoverer" alt="" coords="652,519,828,575"/>
+<area shape="rect" id="node23" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#ac5d5529492185cf592a5ba9ca68c8a3f" title="Call the supplied function for the given registered counter type. " alt="" coords="635,621,845,662"/>
+<area shape="rect" id="node19" href="$d0/d36/namespacehpx_1_1performance__counters.html#a9e812951395bffe91f57e564388cbc3d" title="hpx::performance_counters\l::action_invocation_counter\l_discoverer" alt="" coords="909,507,1088,563"/>
+<area shape="rect" id="node20" href="$d0/d36/namespacehpx_1_1performance__counters.html#adf96f2c1aff5c91cb5291103b2bb2324" title="hpx::performance_counters\l::local_action_invocation\l_counter_discoverer" alt="" coords="1152,467,1331,523"/>
+<area shape="rect" id="node22" href="$d0/d36/namespacehpx_1_1performance__counters.html#acec53c2a94f14082c5832a836b1e91d7" title="hpx::performance_counters\l::remote_action_invocation\l_counter_discoverer" alt="" coords="1152,547,1331,603"/>
+<area shape="rect" id="node21" href="$d0/d7b/classhpx_1_1runtime.html#ad04cc0d74dd608aedf3824c8b067eea9" title="Install all performance counters related to this runtime instance. " alt="" coords="1379,514,1524,555"/>
+<area shape="rect" id="node24" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#a39e66fcf0626e1a403c69c4758b750a6" title="hpx::performance_counters\l::registry::registry" alt="" coords="909,587,1088,629"/>
+<area shape="rect" id="node25" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#af060ad9ba59fefe302c89bd8e80227d9" title="hpx::performance_counters\l::registry::discover_counter_type" alt="" coords="893,653,1104,694"/>
+<area shape="rect" id="node27" href="$d0/d07/system__characteristics_8hpp.html#ab89dcd3f8f12bd35634d3849f0e93d90" title="print_system_characteristics" alt="" coords="397,735,587,761"/>
+<area shape="rect" id="node28" href="$d7/d28/namespacehpx_1_1threads.html#a2d22148118979eb7cad63c6ae4cab1c7" title="hpx::threads::get_topology" alt="" coords="404,811,580,837"/>
+<area shape="rect" id="node29" href="$d2/de8/structhpx_1_1compute_1_1host_1_1block__allocator.html#a4e7e43af2aebdd6b603730bc1e5bdd7c" title="hpx::compute::host\l::block_allocator::allocate" alt="" coords="655,697,825,738"/>
+<area shape="rect" id="node32" href="$d2/de8/structhpx_1_1compute_1_1host_1_1block__allocator.html#a58162ea233b9f35cbb076a0b449e2767" title="hpx::compute::host\l::block_allocator::deallocate" alt="" coords="648,762,832,803"/>
+<area shape="rect" id="node34" href="$d4/da7/namespacehpx_1_1compute_1_1host.html#a148bd526927f3b5f85a108c890973588" title="hpx::compute::host\l::numa_domains" alt="" coords="673,827,807,869"/>
+<area shape="rect" id="node37" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a932efced0bbfee361094b8552334d931" title="hpx::resource::detail\l::partitioner::get_affinity_data" alt="" coords="645,893,835,934"/>
+<area shape="rect" id="node38" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a67c5a4444b8889b1de56aa7a17459734" title="hpx::threads::topology\l::~topology" alt="" coords="665,958,815,999"/>
+<area shape="rect" id="node30" href="$dc/d4a/block__allocator_8cpp.html#a7724967e3eafa4b9cfd8f80dad98af00" title="test_block_allocation" alt="" coords="927,719,1071,745"/>
+<area shape="rect" id="node31" href="$dc/d4a/block__allocator_8cpp.html#aad021fb470ac159eac4609ba96066d4d" title="test_bulk_allocator" alt="" coords="1176,744,1307,771"/>
+<area shape="rect" id="node33" href="$dc/d4a/block__allocator_8cpp.html#aa27a8ee0dd50d1f98b2b0d39a3d93618" title="test_block_deallocation" alt="" coords="919,769,1078,796"/>
+<area shape="rect" id="node35" href="$dc/d38/classhpx_1_1resource_1_1partitioner.html#ae994b2afde4fe9414c8e0b158615387b" title="hpx::resource::partitioner\l::add_resource" alt="" coords="915,825,1082,866"/>
+<area shape="rect" id="node36" href="$da/d5f/stream_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="959,891,1038,917"/>
+</map>

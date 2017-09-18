@@ -1,0 +1,6 @@
+<map id="hpx::agas::server::primary_namespace::unbind_gid" name="hpx::agas::server::primary_namespace::unbind_gid">
+<area shape="rect" id="node2" href="$dc/d72/structhpx_1_1agas_1_1server_1_1locality__namespace.html#a53c05de8b43cbdb17edf4930b0fc0ac6" title="hpx::agas::server::\llocality_namespace::free" alt="" coords="263,5,429,47"/>
+<area shape="rect" id="node3" href="$d2/d28/structhpx_1_1agas_1_1detail_1_1bootstrap__locality__namespace.html#a2830ab98d14d3fadcec97a72783f9221" title="hpx::agas::detail::\lbootstrap_locality_namespace::free" alt="" coords="477,5,704,47"/>
+<area shape="rect" id="node4" href="$d2/d28/structhpx_1_1agas_1_1detail_1_1bootstrap__locality__namespace.html#a5d4dcef228d9a8e6040f2e404546a7b8" title="hpx::agas::detail::\lbootstrap_locality_namespace::ptr" alt="" coords="752,5,973,47"/>
+<area shape="rect" id="node5" href="$d2/d28/structhpx_1_1agas_1_1detail_1_1bootstrap__locality__namespace.html#a6a5b1a39f25283d49aae9a42b5c4388a" title="hpx::agas::detail::\lbootstrap_locality_namespace::addr" alt="" coords="1021,5,1252,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hpx::util::detail::get_number_of_default_cores" name="hpx::util::detail::get_number_of_default_cores">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#aa4cc56111111c0910b6705047d8e6588" title="hpx::threads::create\l_topology" alt="" coords="269,5,407,47"/>
+<area shape="rect" id="node4" href="$d1/d33/structhpx_1_1util_1_1batch__environment.html#aa9a3bc866be4f260720c53b0695e955c" title="hpx::util::batch_environment\l::retrieve_number_of_threads" alt="" coords="244,71,432,112"/>
+<area shape="rect" id="node5" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a9cb80b28851c76bd97e46c635defe7dd" title="Return the number of available cores. " alt="" coords="261,136,415,177"/>
+<area shape="rect" id="node6" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a1b632e123ba3ee570f0fe1fa5ccf0583" title="Return number of processing units in given core. " alt="" coords="251,201,425,243"/>
+<area shape="rect" id="node3" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a2967c633948a3bf17a3b5405ef5a8318" title="hpx::util::static_::get" alt="" coords="480,13,621,39"/>
+</map>

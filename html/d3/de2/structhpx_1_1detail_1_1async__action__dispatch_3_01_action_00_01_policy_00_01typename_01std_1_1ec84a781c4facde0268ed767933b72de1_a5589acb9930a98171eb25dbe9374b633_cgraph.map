@@ -1,0 +1,7 @@
+<map id="hpx::detail::async_action_dispatch&lt; Action, Policy, typename std::enable_if&lt; traits::is_launch_policy&lt; Policy &gt;::value &gt;::type &gt;::call" name="hpx::detail::async_action_dispatch&lt; Action, Policy, typename std::enable_if&lt; traits::is_launch_policy&lt; Policy &gt;::value &gt;::type &gt;::call">
+<area shape="rect" id="node2" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a32168236d71eca86ffc30b65eed10e65" title="hpx::components::client\l_base::is_ready" alt="" coords="231,5,392,47"/>
+<area shape="rect" id="node3" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a0cdfe4b8fed578eb1ce34222c0f07b03" title="hpx::components::client\l_base::get_id" alt="" coords="231,71,392,112"/>
+<area shape="rect" id="node4" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a195e205b5917c50455e9eab169045a2f" title="hpx::components::client\l_base::then" alt="" coords="231,136,392,177"/>
+<area shape="rect" id="node5" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="261,202,361,229"/>
+<area shape="rect" id="node6" href="$df/dad/namespacehpx_1_1util.html#a273e61be42a72415291e0ec0a4f28c7a" title="hpx::util::one_shot" alt="" coords="247,253,376,279"/>
+</map>

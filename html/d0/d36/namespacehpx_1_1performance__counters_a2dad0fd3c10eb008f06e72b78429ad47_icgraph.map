@@ -1,0 +1,4 @@
+<map id="hpx::performance_counters::wrap_counter" name="hpx::performance_counters::wrap_counter">
+<area shape="rect" id="node2" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#ae62a3b3a510612a40cbe50cb59082197" title="Create a new performance counter instance of type raw_counter based on given counter value..." alt="" coords="232,5,411,61"/>
+<area shape="rect" id="node3" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#af060ad9ba59fefe302c89bd8e80227d9" title="hpx::performance_counters\l::registry::discover_counter_type" alt="" coords="459,13,669,54"/>
+</map>

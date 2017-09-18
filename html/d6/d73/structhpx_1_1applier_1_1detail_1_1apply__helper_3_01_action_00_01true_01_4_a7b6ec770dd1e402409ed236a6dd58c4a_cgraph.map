@@ -1,0 +1,26 @@
+<map id="hpx::applier::detail::apply_helper&lt; Action, true &gt;::call" name="hpx::applier::detail::apply_helper&lt; Action, true &gt;::call">
+<area shape="rect" id="node2" href="$d9/d52/namespacehpx_1_1this__thread.html#a84fe264361690c8b1a88964b8ebd4427" title="hpx::this_thread::has\l_sufficient_stack_space" alt="" coords="209,172,371,213"/>
+<area shape="rect" id="node17" href="$d7/d28/namespacehpx_1_1threads.html#a031c3fabaed88facc2f1a52c7c2d546d" title="hpx::threads::threadmanager\l_is_at_least" alt="" coords="427,249,615,291"/>
+<area shape="rect" id="node18" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="269,366,311,393"/>
+<area shape="rect" id="node24" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="215,471,365,498"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="685,53,854,79"/>
+<area shape="rect" id="node5" href="$d9/d52/namespacehpx_1_1this__thread.html#a1d6a6513eb9f9da7e9dc28da7fb198ef" title="hpx::this_thread::get\l_available_stack_space" alt="" coords="442,47,601,88"/>
+<area shape="rect" id="node6" href="$d7/d28/namespacehpx_1_1threads.html#a79ebd37a6bd090d20a14cc85df4b6f73" title="hpx::threads::threadmanager_is" alt="" coords="419,194,624,221"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="923,19,1069,46"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="699,257,840,283"/>
+<area shape="rect" id="node9" href="$d0/d7b/classhpx_1_1runtime.html#a865b12d57fcd44a8d3dda3e35414f563" title="hpx::runtime::get_thread\l_manager" alt="" coords="1361,195,1524,236"/>
+<area shape="rect" id="node10" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#ad356526186c9d3ebfd1677bea135141c" title="Return whether the thread manager is still running This returns the &quot;minimal state&quot;, i.e. the state of the least advanced thread pool. " alt="" coords="675,136,863,177"/>
+<area shape="rect" id="node8" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="915,253,1077,295"/>
+<area shape="rect" id="node11" href="$d7/d28/namespacehpx_1_1threads.html#ae2b675b9517381442c7201c041033680" title="hpx::threads::get_thread\l_count" alt="" coords="915,136,1077,177"/>
+<area shape="rect" id="node15" href="$d7/d28/namespacehpx_1_1threads.html#a5dd2cea272f81a19d4f61470851a29cf" title="hpx::threads::enumerate\l_threads" alt="" coords="915,71,1077,112"/>
+<area shape="rect" id="node12" href="$d7/d28/namespacehpx_1_1threads.html#a076973c3a53beadde7d967e22c4f6cce" title="hpx::threads::get_thread\l_manager" alt="" coords="1138,71,1301,112"/>
+<area shape="rect" id="node14" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#a99c0004e6ed0e91a033720b7f52ab5b8" title="return the number of HPX&#45;threads with the given state " alt="" coords="1125,136,1313,177"/>
+<area shape="rect" id="node13" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="1383,78,1502,105"/>
+<area shape="rect" id="node16" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#a8cdd7f11e2411b7943e10fb628aab40a" title="hpx::threads::threadmanager\l::enumerate_threads" alt="" coords="1125,5,1313,47"/>
+<area shape="rect" id="node19" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="484,467,559,494"/>
+<area shape="rect" id="node20" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="449,315,594,342"/>
+<area shape="rect" id="node21" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="485,417,557,443"/>
+<area shape="rect" id="node22" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="726,370,813,397"/>
+<area shape="rect" id="node23" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="672,421,867,463"/>
+<area shape="rect" id="node25" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="461,519,581,560"/>
+</map>

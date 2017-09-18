@@ -1,0 +1,10 @@
+<map id="hpx::compute::traits::allocator_traits::bulk_destroy" name="hpx::compute::traits::allocator_traits::bulk_destroy">
+<area shape="rect" id="node2" href="$d4/d56/structhpx_1_1compute_1_1traits_1_1detail_1_1bulk__construct.html#ac74edb5f18b085d23c7ad03af163598d" title="hpx::compute::traits\l::detail::bulk_construct::call" alt="" coords="200,13,383,54"/>
+<area shape="rect" id="node6" href="$d3/d81/classhpx_1_1compute_1_1vector.html#a41a36d1562bc3b393601a0fa1daddebc" title="hpx::compute::vector\l::~vector" alt="" coords="220,78,363,119"/>
+<area shape="rect" id="node7" href="$d3/d81/classhpx_1_1compute_1_1vector.html#af7a661d2859bd3450d264abbe91705c0" title="hpx::compute::vector\l::operator=" alt="" coords="220,143,363,185"/>
+<area shape="rect" id="node8" href="$d3/d81/classhpx_1_1compute_1_1vector.html#a78bbb0340ae717182e48a19de09b4d82" title="hpx::compute::vector\l::clear" alt="" coords="220,209,363,250"/>
+<area shape="rect" id="node3" href="$d5/df2/namespacehpx_1_1compute_1_1traits_1_1detail.html#af161f27a44ee388e391ecd25340ebd79" title="hpx::compute::traits\l::detail::call_bulk_construct" alt="" coords="431,13,612,54"/>
+<area shape="rect" id="node4" href="$dc/d38/structhpx_1_1compute_1_1traits_1_1allocator__traits.html#a2dd9aeb4b06efb1ea6578e99a01703e2" title="hpx::compute::traits\l::allocator_traits::bulk\l_construct" alt="" coords="660,5,807,61"/>
+<area shape="rect" id="node5" href="$d3/d81/classhpx_1_1compute_1_1vector.html#a8715945509fe36d6e38f58df843e8fec" title="hpx::compute::vector\l::vector" alt="" coords="855,13,997,54"/>
+<area shape="rect" id="node9" href="$d5/d3c/namespacehpx_1_1serialization.html#a9b1611bfc67fde6a1c768fc99011e91d" title="hpx::serialization\l::serialize" alt="" coords="461,209,581,250"/>
+</map>

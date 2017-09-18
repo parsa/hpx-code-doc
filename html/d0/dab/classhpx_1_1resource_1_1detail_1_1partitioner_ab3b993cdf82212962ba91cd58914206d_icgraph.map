@@ -1,0 +1,5 @@
+<map id="hpx::resource::detail::partitioner::get_pool_index" name="hpx::resource::detail::partitioner::get_pool_index">
+<area shape="rect" id="node2" href="$dd/da5/namespacehpx_1_1resource.html#ac7e9a020183708e907604dbf16260e84" title="Return the internal index of the pool given its name. " alt="" coords="236,35,363,76"/>
+<area shape="rect" id="node3" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a932efced0bbfee361094b8552334d931" title="hpx::resource::detail\l::partitioner::get_affinity_data" alt="" coords="411,5,600,47"/>
+<area shape="rect" id="node4" href="$d8/dd8/resource__partitioner_8cpp.html#ab1825231fb9efbfb464404767c072654" title="hpx_main" alt="" coords="466,71,545,98"/>
+</map>

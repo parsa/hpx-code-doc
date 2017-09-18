@@ -1,0 +1,24 @@
+digraph "hpx::traits::detail::shared_state_ptr&lt; R &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::traits::detail\l::shared_state_ptr\< R \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< traits::future_traits\l\< Future \>::type \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::traits::detail\l::shared_state_ptr\<\l traits::future_traits\l\< Future \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d87/structhpx_1_1traits_1_1detail_1_1shared__state__ptr.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::traits::detail\l::shared_state_ptr_for\l\< Future, Enable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d7e/structhpx_1_1traits_1_1detail_1_1shared__state__ptr__for.html"];
+  Node2 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Future \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::traits::detail\l::shared_state_ptr_for\l\< Future \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d7e/structhpx_1_1traits_1_1detail_1_1shared__state__ptr__for.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::traits::detail\l::shared_state_ptr_for\l\< Future & \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/df3/structhpx_1_1traits_1_1detail_1_1shared__state__ptr__for_3_01_future_01_6_01_4.html"];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="hpx::traits::detail\l::shared_state_ptr_for\l\< Future && \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d9b/structhpx_1_1traits_1_1detail_1_1shared__state__ptr__for_3_01_future_01_6_6_01_4.html"];
+  Node3 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hpx::traits::detail\l::shared_state_ptr_for\l\< Future const \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/db3/structhpx_1_1traits_1_1detail_1_1shared__state__ptr__for_3_01_future_01const_01_4.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 -> Node7 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< traits::future_traits\l\< Derived \>::type \>" ,fontname="Helvetica"];
+  Node7 [label="hpx::traits::detail\l::shared_state_ptr\<\l traits::future_traits\l\< Derived \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d87/structhpx_1_1traits_1_1detail_1_1shared__state__ptr.html"];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="hpx::traits::detail\l::shared_state_ptr_for\l\< Derived, typename std\l::enable_if\< is_client\<\l Derived \>::value \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d24/structhpx_1_1traits_1_1detail_1_1shared__state__ptr__for_3_01_derived_00_01typename_01std_1_1ena8c78f4e28b5e59b3ca07ca498951b387.html"];
+}

@@ -1,0 +1,10 @@
+<map id="IntPow" name="IntPow">
+<area shape="rect" id="node2" href="$d6/dd1/class_b_m_p.html#a2db1f1954c322028359d2c8db084f8d6" title="BMP::TellNumberOfColors" alt="" coords="115,81,289,108"/>
+<area shape="rect" id="node4" href="$d6/dd1/class_b_m_p.html#a8274e16938a5ae0a71210f140e2fc016" title="BMP::SetBitDepth" alt="" coords="137,31,267,57"/>
+<area shape="rect" id="node7" href="$d6/dd1/class_b_m_p.html#abb9f9f6a073c1eb9dfcc3799a25d15ab" title="BMP::WriteToFile" alt="" coords="139,132,265,159"/>
+<area shape="rect" id="node8" href="$d6/dd1/class_b_m_p.html#ae396a195224d9ab9f4659d4d84683cc2" title="BMP::ReadFromFile" alt="" coords="132,183,272,209"/>
+<area shape="rect" id="node9" href="$d2/df6/_easy_b_m_p___data_structures_8h.html#a11374fd1247aaf2dd8e95e5c4853ba05" title="IntSquare" alt="" coords="163,233,241,260"/>
+<area shape="rect" id="node3" href="$d5/dfb/_easy_b_m_p___various_b_m_putilities_8h.html#a64446d5ba994ea2d9e15f1fb2bdcf213" title="CreateGrayscaleColorTable" alt="" coords="337,171,517,197"/>
+<area shape="rect" id="node5" href="$d5/dfb/_easy_b_m_p___various_b_m_putilities_8h.html#a27f69b10b344a0bb9f82175f1973ffe6" title="Rescale" alt="" coords="393,56,462,83"/>
+<area shape="rect" id="node6" href="$d8/d58/fractals_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="388,5,467,32"/>
+</map>

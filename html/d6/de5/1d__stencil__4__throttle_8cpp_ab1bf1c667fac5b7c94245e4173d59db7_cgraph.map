@@ -1,0 +1,21 @@
+<map id="setup_counters" name="setup_counters">
+<area shape="rect" id="node2" href="$d6/de5/1d__stencil__4__throttle_8cpp.html#a244d1f7245f95f51debac25fb31b52b7" title="get_counter_id" alt="" coords="200,186,307,213"/>
+<area shape="rect" id="node16" href="$d5/d2b/structhpx_1_1performance__counters_1_1counter__value.html#a6b3d9b08f72082bbca3d82e2f61985aa" title="Retrieve the &#39;real&#39; value of the counter_value, converted to the requested type T. " alt="" coords="164,244,343,285"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#a158d7c54a657bb364c1704033010697b" title="Return the number of the locality this function is being called from. " alt="" coords="413,126,547,153"/>
+<area shape="rect" id="node13" href="$d0/d36/namespacehpx_1_1performance__counters.html#ab7849064e361c28c8975a47717e5f05e" title="hpx::performance_counters\l::get_counter" alt="" coords="391,179,569,220"/>
+<area shape="rect" id="node4" href="$dc/d54/namespacehpx_1_1agas.html#a491cc2ddecdf0f1a9129900caa6a4d3e" title="hpx::agas::get_locality_id" alt="" coords="621,123,792,150"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="862,13,1003,39"/>
+<area shape="rect" id="node7" href="$d0/d7b/classhpx_1_1runtime.html#ab405f80e060dac95d624520f38b0524c" title="hpx::runtime::get_state" alt="" coords="855,63,1011,90"/>
+<area shape="rect" id="node8" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="855,115,1010,156"/>
+<area shape="rect" id="node11" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ab52c19a37c2a7a006c6c15f90ad0539c" title="hpx::agas::addressing\l_service::get_local_locality" alt="" coords="844,180,1021,221"/>
+<area shape="rect" id="node12" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="849,245,1016,287"/>
+<area shape="rect" id="node6" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="1069,5,1232,47"/>
+<area shape="rect" id="node9" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="1091,97,1210,123"/>
+<area shape="rect" id="node10" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="1073,148,1228,189"/>
+<area shape="rect" id="node14" href="$d0/d36/namespacehpx_1_1performance__counters.html#aa69496dbba46619d8d3179c86801f1c7" title="Get the global id of an existing performance counter, if the counter does not exist yet..." alt="" coords="617,177,796,219"/>
+<area shape="rect" id="node15" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="636,243,777,270"/>
+<area shape="rect" id="node17" href="$d0/d36/namespacehpx_1_1performance__counters.html#a02f879175b5bb99013a8c79f66e57213" title="hpx::performance_counters\l::status_is_valid" alt="" coords="391,244,569,285"/>
+<area shape="rect" id="node18" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="461,310,499,337"/>
+<area shape="rect" id="node19" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="663,311,750,338"/>
+<area shape="rect" id="node20" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="850,311,1015,352"/>
+</map>

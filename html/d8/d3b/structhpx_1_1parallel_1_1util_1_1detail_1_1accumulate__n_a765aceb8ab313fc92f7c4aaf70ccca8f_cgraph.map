@@ -1,0 +1,10 @@
+<map id="hpx::parallel::util::detail::accumulate_n::call" name="hpx::parallel::util::detail::accumulate_n::call">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a3c694ea960b47c56b33351ba16e3d76b" title="Main entry point for launching the HPX runtime system. " alt="" coords="189,137,257,163"/>
+<area shape="rect" id="node7" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="204,191,243,218"/>
+<area shape="rect" id="node3" href="$df/dad/namespacehpx_1_1util.html#ae40a23c1ba0a48d9304dcf717a95793e" title="hpx::util::set_hpx\l_prefix" alt="" coords="323,5,446,47"/>
+<area shape="rect" id="node4" href="$d3/dd2/namespacehpx__startup.html#aaac571d88bd3912a4225a23eb3261637" title="hpx_startup::user_main\l_config" alt="" coords="305,71,464,112"/>
+<area shape="rect" id="node5" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="309,137,460,163"/>
+<area shape="rect" id="node6" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="535,127,655,168"/>
+<area shape="rect" id="node8" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="341,193,428,219"/>
+<area shape="rect" id="node9" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="512,192,677,233"/>
+</map>

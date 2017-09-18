@@ -1,0 +1,8 @@
+<map id="split_credits" name="split_credits">
+<area shape="rect" id="node2" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#ab2f9863a9fdf1ca9b7990f6005b912be" title="hpx::naming::detail\l::split_credits_for_gid" alt="" coords="145,71,291,112"/>
+<area shape="rect" id="node3" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a66dfb706e0b0fe738646b762b2b5403b" title="hpx::naming::detail\l::split_credits_for\l_gid_locked" alt="" coords="339,63,471,119"/>
+<area shape="rect" id="node4" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a65b5a75f9576e0c15d372d20f0ed37d0" title="hpx::naming::detail\l::get_log2credit_from_gid" alt="" coords="519,5,685,47"/>
+<area shape="rect" id="node6" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#ac466e44115ff62134192cea0735b147e" title="hpx::naming::detail\l::set_log2credit_for_gid" alt="" coords="524,71,680,112"/>
+<area shape="rect" id="node7" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a514fb4fd603d267bd438c27ea2fb1e7d" title="hpx::naming::detail\l::set_credit_split_mask\l_for_gid" alt="" coords="523,137,681,193"/>
+<area shape="rect" id="node5" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#afb823cf706d95f298c25af22fe39653b" title="hpx::naming::detail\l::has_credits" alt="" coords="733,5,865,47"/>
+</map>

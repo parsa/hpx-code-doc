@@ -1,0 +1,4 @@
+<map id="hpx::threads::executors::detail::customized_pool_executor::num_pending_closures" name="hpx::threads::executors::detail::customized_pool_executor::num_pending_closures">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="273,5,448,32"/>
+<area shape="rect" id="node3" href="$de/dae/classhpx_1_1threads_1_1detail_1_1thread__pool__base.html#a7918416af700d45b6e7dbbcb7060e1f4" title="hpx::threads::detail\l::thread_pool_base::get\l_thread_count" alt="" coords="281,56,440,112"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hpx::threads::policies::thread_queue::recycle_thread" name="hpx::threads::policies::thread_queue::recycle_thread">
+<area shape="rect" id="node2" href="$d9/d52/namespacehpx_1_1this__thread.html#a0c1679dbf05a641aba0eb61d03e9f77b" title="hpx::this_thread::get\l_stack_size" alt="" coords="212,23,353,65"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#af597241b3c2785150be206737ca04aa6" title="The get_stack_size function is part of the thread related API. It. " alt="" coords="401,5,592,32"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#afafe0f900b9fac3d4ed3c747625c1cfe" title="hpx::threads::get_self_id" alt="" coords="415,56,579,83"/>
+<area shape="rect" id="node5" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="640,56,809,83"/>
+<area shape="rect" id="node6" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="857,56,1004,83"/>
+</map>

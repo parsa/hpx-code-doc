@@ -1,0 +1,9 @@
+<map id="hpx::resource::detail::partitioner::get_num_threads" name="hpx::resource::detail::partitioner::get_num_threads">
+<area shape="rect" id="node2" href="$d8/d1e/namespacehpx_1_1resource_1_1detail.html#a77b1448d28e15489e1d69793250bba9c" title="hpx::resource::detail\l::throw_invalid_argument" alt="" coords="199,63,363,104"/>
+<area shape="rect" id="node7" href="$d4/d2c/make__continuation__1615_8cpp.html#acbdae3e81403e1ffc527c18dc1cd51dd" title="to_string" alt="" coords="245,129,317,155"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="415,17,557,43"/>
+<area shape="rect" id="node5" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="411,74,561,101"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="609,5,772,47"/>
+<area shape="rect" id="node6" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="631,71,751,112"/>
+<area shape="rect" id="node8" href="$d4/d2c/make__continuation__1615_8cpp.html#a8b2f8a7c58b490fcb1260f36bac46541" title="HPX_PLAIN_ACTION" alt="" coords="413,129,559,155"/>
+</map>

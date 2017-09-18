@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d0/d34/structadd__one" kind="struct" language="C++" prot="public">
+    <compoundname>add_one</compoundname>
+    <includes refid="de/db6/transform__tests_8hpp" local="no">transform_tests.hpp</includes>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d0/d34/structadd__one_1af60a8da3a5568db7fafaf719acc5d49d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename <ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          </param>
+        </templateparamlist>
+        <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+        <definition>T add_one::operator()</definition>
+        <argsstring>(T const &amp;v)</argsstring>
+        <name>operator()</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref> const &amp;</type>
+          <declname>v</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/parallel/algorithms/transform_tests.hpp" line="24" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/parallel/algorithms/transform_tests.hpp" bodystart="24" bodyend="27"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/parallel/algorithms/transform_tests.hpp" line="22" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/parallel/algorithms/transform_tests.hpp" bodystart="21" bodyend="28"/>
+    <listofallmembers>
+      <member refid="d0/d34/structadd__one_1af60a8da3a5568db7fafaf719acc5d49d" prot="public" virt="non-virtual"><scope>add_one</scope><name>operator()</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

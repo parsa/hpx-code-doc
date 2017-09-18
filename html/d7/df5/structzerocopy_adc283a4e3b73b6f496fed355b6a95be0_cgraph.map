@@ -1,0 +1,12 @@
+<map id="zerocopy::get_here" name="zerocopy::get_here">
+<area shape="rect" id="node2" href="$dd/d44/classhpx_1_1serialization_1_1serialize__buffer.html#a826ee4de07eb34ff950dd04259ffe040" title="hpx::serialization\l::serialize_buffer::data" alt="" coords="187,15,336,57"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="218,81,305,108"/>
+<area shape="rect" id="node9" href="$d8/d3c/simple__future__continuation_8cpp.html#a64b28a4bbb16e7f78fc14c60466ddd8d" title="get_id" alt="" coords="233,132,290,159"/>
+<area shape="rect" id="node10" href="$dd/d44/classhpx_1_1serialization_1_1serialize__buffer.html#a354ee58bd7f29f8f9cac5b06d81173ed" title="hpx::serialization\l::serialize_buffer::size" alt="" coords="187,183,335,225"/>
+<area shape="rect" id="node11" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="211,249,311,276"/>
+<area shape="rect" id="node4" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="384,56,427,83"/>
+<area shape="rect" id="node5" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="510,5,585,32"/>
+<area shape="rect" id="node6" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="475,56,620,83"/>
+<area shape="rect" id="node7" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="511,107,583,133"/>
+<area shape="rect" id="node8" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="668,99,863,141"/>
+</map>

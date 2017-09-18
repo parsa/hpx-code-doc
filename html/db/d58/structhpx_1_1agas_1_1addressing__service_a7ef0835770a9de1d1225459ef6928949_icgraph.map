@@ -1,0 +1,6 @@
+<map id="hpx::agas::addressing_service::get_num_threads_async" name="hpx::agas::addressing_service::get_num_threads_async">
+<area shape="rect" id="node2" href="$dc/d54/namespacehpx_1_1agas.html#a0c9fca905aa25f0ef727249d10884107" title="hpx::agas::get_num\l_threads" alt="" coords="272,64,409,105"/>
+<area shape="rect" id="node3" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a66a76d30b0f6a01e0ad2f87079f405ef" title="hpx::agas::addressing\l_service::get_num_localities" alt="" coords="457,5,643,47"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#a1db549da58aaa9b452db490fda2f09e4" title="Return the number of localities which are currently registered for the running application. " alt="" coords="471,71,629,98"/>
+<area shape="rect" id="node5" href="$dc/d72/structhpx_1_1agas_1_1server_1_1locality__namespace.html#aa9f3ea539ff11605d5e9620e200f56d2" title="hpx::agas::server::\llocality_namespace::\llocality_namespace" alt="" coords="477,122,623,178"/>
+</map>

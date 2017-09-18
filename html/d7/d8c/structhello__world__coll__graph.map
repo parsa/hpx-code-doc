@@ -1,0 +1,4 @@
+<map id="hello_world" name="hello_world">
+<area shape="rect" id="node2" href="$d9/dad/classhpx_1_1components_1_1client__base.html" title="hpx::components::client\l_base\&lt; hello_world, hpx\l::components::stub_base\l\&lt; hello_world_server \&gt; \&gt;" alt="" coords="336,43,505,113"/>
+<area shape="rect" id="node3" href="$de/dfa/structhpx_1_1components_1_1stub__base.html" title="detail::make_stub\&lt;\l hpx::components::stub\l_base\&lt; hello_world_server\l \&gt; &#160;\&gt;::type" alt="" coords="5,5,180,76"/>
+</map>

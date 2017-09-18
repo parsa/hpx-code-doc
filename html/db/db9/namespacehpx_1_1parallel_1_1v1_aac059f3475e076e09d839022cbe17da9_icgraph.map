@@ -1,0 +1,24 @@
+<map id="hpx::parallel::v1::is_heap" name="hpx::parallel::v1::is_heap">
+<area shape="rect" id="node2" href="$da/d4f/benchmark__is__heap_8cpp.html#a67b63c5bbcc73a1ccbd7fc8a8b75e2df" title="run_is_heap_benchmark_std" alt="" coords="175,5,363,32"/>
+<area shape="rect" id="node4" href="$da/d4f/benchmark__is__heap_8cpp.html#a163836cb641572dca14893cb27f0ef33" title="run_is_heap_benchmark_seq" alt="" coords="173,56,364,83"/>
+<area shape="rect" id="node5" href="$da/d4f/benchmark__is__heap_8cpp.html#a9f7882904c572b17cbab75fb2d8c5d2f" title="run_is_heap_benchmark_par" alt="" coords="175,107,363,133"/>
+<area shape="rect" id="node6" href="$da/d4f/benchmark__is__heap_8cpp.html#a2305e6d99c57032a780d74edc565ab75" title="run_is_heap_benchmark\l_par_unseq" alt="" coords="187,158,350,199"/>
+<area shape="rect" id="node7" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#ad8c2d2188062370ab5af09c140857ee0" title="hpx::parallel::v1::\lis_heap" alt="" coords="209,223,329,265"/>
+<area shape="rect" id="node8" href="$d3/df7/is__heap__range_8cpp.html#a64b1b4eccfc0fce2470a27d76cfbf542" title="test_is_heap" alt="" coords="221,340,317,367"/>
+<area shape="rect" id="node11" href="$d3/df7/is__heap__range_8cpp.html#a22dbd4fdaef2c034398a1dace1c5b988" title="test_is_heap_async" alt="" coords="199,289,338,316"/>
+<area shape="rect" id="node12" href="$d7/ddd/is__heap__tests_8hpp.html#a700ce85ae9bf8c7797da4ccf4244787b" title="test_is_heap_with_pred" alt="" coords="189,391,348,417"/>
+<area shape="rect" id="node14" href="$d7/ddd/is__heap__tests_8hpp.html#a6c4f521d090ca52874901ebaf28f47f7" title="test_is_heap_exception" alt="" coords="189,441,348,468"/>
+<area shape="rect" id="node16" href="$d7/ddd/is__heap__tests_8hpp.html#a6f17dafff6282cfdc509858ded1153d6" title="test_is_heap_exception\l_async" alt="" coords="189,493,348,534"/>
+<area shape="rect" id="node17" href="$d7/ddd/is__heap__tests_8hpp.html#a9f667f8b91845e9da03ca353fac5e93c" title="test_is_heap_bad_alloc" alt="" coords="189,559,348,585"/>
+<area shape="rect" id="node19" href="$d7/ddd/is__heap__tests_8hpp.html#a5b8ef435e18474976533d3ddc7c84ae2" title="test_is_heap_bad_alloc\l_async" alt="" coords="189,610,348,651"/>
+<area shape="rect" id="node20" href="$de/d98/classhpx_1_1util_1_1cache_1_1local__cache.html#ade545064292b0e53bde4adc34e6d679a" title="hpx::util::cache::local\l_cache::free_space" alt="" coords="195,675,342,717"/>
+<area shape="rect" id="node3" href="$da/d4f/benchmark__is__heap_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="452,81,531,108"/>
+<area shape="rect" id="node9" href="$d3/df7/is__heap__range_8cpp.html#aab78c440f9ee4dc9b73cba62911946c8" title="test_is_heap" alt="" coords="443,289,539,316"/>
+<area shape="rect" id="node10" href="$d3/df7/is__heap__range_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="452,340,531,367"/>
+<area shape="rect" id="node13" href="$d7/ddd/is__heap__tests_8hpp.html#abe5c0792894c2f84e9808a300fade956" title="test_is_heap" alt="" coords="443,391,539,417"/>
+<area shape="rect" id="node15" href="$d7/ddd/is__heap__tests_8hpp.html#ac49b5f2f9b5b3e31afd6145ac92b1cba" title="test_is_heap_exception" alt="" coords="412,471,571,497"/>
+<area shape="rect" id="node18" href="$d7/ddd/is__heap__tests_8hpp.html#a6e9728429f4dea4e58dee90db91cb472" title="test_is_heap_bad_alloc" alt="" coords="412,559,571,585"/>
+<area shape="rect" id="node21" href="$de/d98/classhpx_1_1util_1_1cache_1_1local__cache.html#a0f633ccdb1bf77cbcc9ed440ca70265e" title="Change the maximum size this cache can grow to. " alt="" coords="418,642,565,683"/>
+<area shape="rect" id="node23" href="$de/d98/classhpx_1_1util_1_1cache_1_1local__cache.html#a164b687f9b63e40eb0efc9dff2ca4e76" title="Insert a new entry into this cache. " alt="" coords="418,707,565,749"/>
+<area shape="rect" id="node22" href="$dd/d37/agas__cache__timings_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="619,649,697,676"/>
+</map>

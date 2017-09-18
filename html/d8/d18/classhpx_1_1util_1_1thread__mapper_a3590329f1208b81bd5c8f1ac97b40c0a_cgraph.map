@@ -1,0 +1,16 @@
+<map id="hpx::util::thread_mapper::thread_mapper" name="hpx::util::thread_mapper::thread_mapper">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a0bdf7871dfff58e68ae5eab9af23f2aa" title="hpx::register_thread" alt="" coords="229,22,366,49"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#ae6fab9f567417d9f1fa0772537b5dc2b" title="hpx::unregister_thread" alt="" coords="222,81,373,107"/>
+<area shape="rect" id="node6" href="$df/d88/thread__id_8cpp.html#a6df4600c6c1d90a809285df39847fb1c" title="get_thread_id" alt="" coords="247,133,347,159"/>
+<area shape="rect" id="node11" href="$d7/d28/namespacehpx_1_1threads.html#ae2b675b9517381442c7201c041033680" title="hpx::threads::get_thread\l_count" alt="" coords="216,188,379,229"/>
+<area shape="rect" id="node3" href="$d0/d7b/classhpx_1_1runtime.html#a7d70f896b57248c228b504e9062f043c" title="Register an external OS&#45;thread with HPX. " alt="" coords="448,5,593,47"/>
+<area shape="rect" id="node5" href="$d0/d7b/classhpx_1_1runtime.html#afa6e1a3ce0a0d8a5d17560e9ae8ae77f" title="Unregister an external OS&#45;thread with HPX. " alt="" coords="441,71,600,112"/>
+<area shape="rect" id="node7" href="$d9/d52/namespacehpx_1_1this__thread.html#a7af20818d0b5e9201ab9337d7023d47d" title="hpx::this_thread::get_id" alt="" coords="441,137,600,163"/>
+<area shape="rect" id="node8" href="$d7/d28/namespacehpx_1_1threads.html#afafe0f900b9fac3d4ed3c747625c1cfe" title="hpx::threads::get_self_id" alt="" coords="663,137,827,163"/>
+<area shape="rect" id="node9" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="875,137,1044,163"/>
+<area shape="rect" id="node10" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="1092,137,1239,163"/>
+<area shape="rect" id="node12" href="$d7/d28/namespacehpx_1_1threads.html#a076973c3a53beadde7d967e22c4f6cce" title="hpx::threads::get_thread\l_manager" alt="" coords="439,188,602,229"/>
+<area shape="rect" id="node15" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#a99c0004e6ed0e91a033720b7f52ab5b8" title="return the number of HPX&#45;threads with the given state " alt="" coords="427,253,615,295"/>
+<area shape="rect" id="node13" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="685,191,804,218"/>
+<area shape="rect" id="node14" href="$d0/d7b/classhpx_1_1runtime.html#a865b12d57fcd44a8d3dda3e35414f563" title="hpx::runtime::get_thread\l_manager" alt="" coords="663,243,826,284"/>
+</map>

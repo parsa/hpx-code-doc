@@ -1,0 +1,11 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="104,38,207,65"/>
+<area shape="rect" id="node6" href="$df/d32/structclient_a.html#af8835bed87144573a1ae86cc1a0bd8f3" title="clientA::test0" alt="" coords="106,89,205,115"/>
+<area shape="rect" id="node8" href="$d8/dc5/inheritance__2__classes__concrete_8cpp.html#ad97411f156a1937d1214197a853c6e9a" title="reset_globals" alt="" coords="106,139,205,166"/>
+<area shape="rect" id="node9" href="$d7/d2a/structclient_b.html#af217a1f2ea92ba6f5b590fb3ca86bb0c" title="clientB::test0" alt="" coords="106,190,205,217"/>
+<area shape="rect" id="node10" href="$d7/d2a/structclient_b.html#a80b73f9726e8a94c5268fef950c41adc" title="clientB::test1" alt="" coords="106,241,205,267"/>
+<area shape="rect" id="node3" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="255,13,437,39"/>
+<area shape="rect" id="node5" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="266,63,426,90"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="485,5,648,47"/>
+<area shape="rect" id="node7" href="$d8/d3c/simple__future__continuation_8cpp.html#a64b28a4bbb16e7f78fc14c60466ddd8d" title="get_id" alt="" coords="317,190,375,217"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="hpx::agas::primary_namespace::get_service_instance" name="hpx::agas::primary_namespace::get_service_instance">
+<area shape="rect" id="node2" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a87dcae0eacf6e62d5103ebf516d86f63" title="hpx::agas::addressing\l_service::garbage_collect" alt="" coords="223,663,391,704"/>
+<area shape="rect" id="node47" href="$d5/dbe/namespacehpx_1_1detail.html#a2127766fb132615881bcb24b19baa6c6" title="hpx::detail::apply\l_colocated" alt="" coords="246,728,367,769"/>
+<area shape="rect" id="node48" href="$d5/dbe/namespacehpx_1_1detail.html#ac66fdd13ed68a58f3dee06cd9a636bf4" title="hpx::detail::apply\l_colocated_cb" alt="" coords="246,793,367,835"/>
+<area shape="rect" id="node49" href="$d5/dbe/namespacehpx_1_1detail.html#a2ac88e1b7605ebb1e835d1cac757260c" title="hpx::detail::async\l_colocated" alt="" coords="244,859,369,900"/>
+<area shape="rect" id="node50" href="$d5/dbe/namespacehpx_1_1detail.html#ad9d696bd6f43d07689c8cfbc849da451" title="hpx::detail::async\l_colocated_cb" alt="" coords="244,924,369,965"/>
+<area shape="rect" id="node3" href="$dc/d54/namespacehpx_1_1agas.html#a951337adc4f9bd6df00a50737468e911" title="hpx::agas::garbage\l_collect" alt="" coords="439,663,572,704"/>
+<area shape="rect" id="node4" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a0155cfd6dbb903623ae403c6f53b86c3" title="Returns whether this addressing_service is connecting to a running application. " alt="" coords="645,324,802,365"/>
+<area shape="rect" id="node7" href="$d6/d80/credit__exhaustion_8cpp.html#a9a1c75cfa4bc8637fb9e22dfdca0891a" title="hpx_test_main" alt="" coords="670,495,777,522"/>
+<area shape="rect" id="node8" href="$d8/dfd/id__type__ref__counting__1032_8cpp.html#a5264b94bf7c262ac0e521fb290d476d5" title="ensure_garbage_collect" alt="" coords="644,546,803,573"/>
+<area shape="rect" id="node41" href="$dc/d54/namespacehpx_1_1agas.html#abb5e5584ed3b536ace8e3f58415e24c2" title="hpx::agas::is_local\l_lva_encoded_address" alt="" coords="647,597,800,639"/>
+<area shape="rect" id="node42" href="$d6/d63/structhpx_1_1test_1_1managed__refcnt__monitor.html#a4075d84c7206089aec85a1dd3ae8482e" title="hpx::test::managed\l_refcnt_monitor::is_ready" alt="" coords="639,663,807,704"/>
+<area shape="rect" id="node43" href="$d0/d7e/promise__leak__996_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="684,729,763,755"/>
+<area shape="rect" id="node44" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#ab76dc3ec60d4ceeb7e52494c307a7cfd" title="hpx::components::stubs\l::runtime_support::create\l_memory_block" alt="" coords="640,779,807,835"/>
+<area shape="rect" id="node45" href="$de/d5c/runtime__support__server_8cpp.html#a2c7fd60adfab122ae67b173ad73fc706" title="HPX_REGISTER_BROADCAST\l_ACTION_ID" alt="" coords="620,860,827,901"/>
+<area shape="rect" id="node46" href="$d9/d66/structhpx_1_1test_1_1simple__refcnt__monitor.html#a9f05344ca8f797f913ca5f8fdb0033d1" title="hpx::test::simple_refcnt\l_monitor::is_ready" alt="" coords="644,925,803,967"/>
+<area shape="rect" id="node5" href="$dc/d54/namespacehpx_1_1agas.html#a3c98dc053a97fca0f3f3b5719d9f8336" title="hpx::agas::register\l_worker" alt="" coords="875,112,1005,153"/>
+<area shape="rect" id="node6" href="$de/dae/structhpx_1_1agas_1_1notification__header.html#aa028cf0e80baf9259523c340c4568634" title="hpx::agas::notification\l_header::serialize" alt="" coords="1076,5,1225,47"/>
+<area shape="rect" id="node9" href="$d8/dfd/id__type__ref__counting__1032_8cpp.html#ab811b86ea5107ffb3351fcaa29d2c652" title="func" alt="" coords="917,1021,963,1047"/>
+<area shape="rect" id="node40" href="$d8/dfd/id__type__ref__counting__1032_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="901,546,979,573"/>
+<area shape="rect" id="node10" href="$d9/d0b/classhpx_1_1util_1_1activate__counters.html#a797f766dd5e2416f54a5a91b267bedd4" title="hpx::util::activate\l_counters::find_counters" alt="" coords="1069,136,1233,177"/>
+<area shape="rect" id="node11" href="$d2/d39/structhpx_1_1lcos_1_1local_1_1base__and__gate_1_1manage__condition.html#ac4f65bf84421c3d2e1e40e986d8d8e62" title="hpx::lcos::local::base\l_and_gate::manage_condition\l::get_future" alt="" coords="1053,202,1248,258"/>
+<area shape="rect" id="node12" href="$d8/dcb/namespacehpx_1_1applier.html#a401cd1145927e58d74d1eb52aaccd936" title="hpx::applier::register\l_thread_nullary" alt="" coords="1081,283,1221,324"/>
+<area shape="rect" id="node13" href="$d9/d52/namespacehpx_1_1this__thread.html#a15c12bd6b0b99c9a65e1a3669492805d" title="hpx::this_thread::suspend" alt="" coords="1299,473,1471,499"/>
+<area shape="rect" id="node14" href="$d8/dcb/namespacehpx_1_1applier.html#aa385dd8c421f374f5b672a60aef36df4" title="hpx::applier::register\l_thread" alt="" coords="1081,400,1221,441"/>
+<area shape="rect" id="node15" href="$d8/dcb/namespacehpx_1_1applier.html#af52189d319dd2fa91d63dff6fcef6097" title="hpx::applier::register\l_thread_plain" alt="" coords="1081,465,1221,507"/>
+<area shape="rect" id="node16" href="$d8/dcb/namespacehpx_1_1applier.html#a5149fbf2ef4b2b306c0750a79f79b228" title="hpx::applier::register\l_work_nullary" alt="" coords="1081,531,1221,572"/>
+<area shape="rect" id="node17" href="$d8/dcb/namespacehpx_1_1applier.html#a6559f27d0f1b7e11aa932035c9aad33a" title="hpx::applier::register_work" alt="" coords="1063,597,1238,623"/>
+<area shape="rect" id="node18" href="$d8/dcb/namespacehpx_1_1applier.html#a26ab853d968792ac9f5e91208144bb60" title="hpx::applier::register\l_work_plain" alt="" coords="1081,648,1221,689"/>
+<area shape="rect" id="node19" href="$d0/d2f/namespacehpx_1_1util_1_1logging_1_1detail.html#ac61675fce29f1a84ec55b2fc758bb95a" title="hpx::util::logging\l::detail::get_thread_id" alt="" coords="1077,713,1224,755"/>
+<area shape="rect" id="node20" href="$da/d03/structhpx_1_1lcos_1_1local_1_1conditional__trigger.html#a696c83c578542704cdc4f27dab3c9ff3" title="get a future allowing to wait for the trigger to fire " alt="" coords="1061,779,1241,820"/>
+<area shape="rect" id="node21" href="$d9/d5b/classhpx_1_1threads_1_1executors_1_1detail_1_1current__executor.html#af27e2c9d756418a50a8c107bdecbbacc" title="hpx::threads::executors\l::detail::current_executor\l::thread_function_nullary" alt="" coords="1067,845,1234,901"/>
+<area shape="rect" id="node22" href="$db/de5/classhpx_1_1threads_1_1executors_1_1detail_1_1customized__pool__executor.html#a5aef1a11367cb15e621903bd9464ae5b" title="hpx::threads::executors\l::detail::customized_pool\l_executor::thread_function\l_nullary" alt="" coords="1063,925,1238,996"/>
+<area shape="rect" id="node23" href="$d0/ddf/classhpx_1_1error__code.html#ab10fcf6785420832f8cae2aef8f01f83" title="hpx::error_code::error_code" alt="" coords="1060,1021,1241,1047"/>
+<area shape="rect" id="node24" href="$db/da3/function__argument_8cpp.html#a318289864baaeda929b66b7e6d7c32ef" title="f" alt="" coords="1131,1071,1170,1098"/>
+<area shape="rect" id="node25" href="$d4/d6c/namespacehpx_1_1lcos_1_1detail.html#aef74b00bc89edddcacdecfc577fa46b4" title="hpx::lcos::detail::\linvoke_continuation" alt="" coords="1083,1123,1218,1164"/>
+<area shape="rect" id="node26" href="$db/d9b/structhpx_1_1parallel_1_1execution_1_1parallel__executor.html#a87246529171e7bcd646a34da98ccb4ea" title="Create a new parallel executor. " alt="" coords="1062,1189,1239,1245"/>
+<area shape="rect" id="node27" href="$df/d08/classhpx_1_1performance__counters_1_1performance__counter__set.html#a82a5e55260f2b6380aea7a67db23ee37" title="hpx::performance_counters\l::performance_counter_set\l::add_counters" alt="" coords="1061,1269,1240,1325"/>
+<area shape="rect" id="node28" href="$d4/def/plain__action__1330_8cpp.html#ab1825231fb9efbfb464404767c072654" title="hpx_main" alt="" coords="1111,1349,1190,1375"/>
+<area shape="rect" id="node29" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a0b80d8a80e5aa228a042b180cab772e2" title="hpx::parallel::v1::\lreduce_by_key" alt="" coords="1091,1400,1211,1441"/>
+<area shape="rect" id="node30" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#ae62a3b3a510612a40cbe50cb59082197" title="Create a new performance counter instance of type raw_counter based on given counter value..." alt="" coords="1296,1517,1475,1573"/>
+<area shape="rect" id="node31" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#af060ad9ba59fefe302c89bd8e80227d9" title="hpx::performance_counters\l::registry::discover_counter_type" alt="" coords="1523,1524,1733,1565"/>
+<area shape="rect" id="node32" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#a14f535ae7f7532ea036c1e1f56cedad2" title="Create a new performance counter instance of type raw_counter based on given function returning the c..." alt="" coords="1061,1567,1240,1623"/>
+<area shape="rect" id="node33" href="$d0/d7b/classhpx_1_1runtime.html#aa55a57060c6d0c1ea5ce4e6ef818526e" title="hpx::runtime::get_topology" alt="" coords="1063,1647,1239,1674"/>
+<area shape="rect" id="node34" href="$dc/d80/classhpx_1_1runtime__impl.html#a701851190a0f98e3ed6d94c2bde4b6f8" title="The destructor makes sure all HPX runtime services are properly shut down before exiting. " alt="" coords="1084,1699,1217,1740"/>
+<area shape="rect" id="node35" href="$de/d9b/classhpx_1_1thread.html#a6926e6415397708fa7c316689742d92b" title="hpx::thread::swap" alt="" coords="1088,1765,1213,1791"/>
+<area shape="rect" id="node36" href="$de/d9b/classhpx_1_1thread.html#a8e4fff210e02485ba493bc3a2a956c03" title="hpx::thread::hardware\l_concurrency" alt="" coords="1077,1816,1224,1857"/>
+<area shape="rect" id="node37" href="$de/d9b/classhpx_1_1thread.html#acf48190d264ab64c1c4ec99d0b421b5a" title="hpx::thread::native\l_handle" alt="" coords="1321,1845,1449,1887"/>
+<area shape="rect" id="node38" href="$d7/d28/namespacehpx_1_1threads.html#a031a2594524c966fa0cb24810642e638" title="hpx::threads::then\l_execute" alt="" coords="1087,1933,1214,1975"/>
+<area shape="rect" id="node39" href="$d7/d28/namespacehpx_1_1threads.html#a7be5345a3cc8d7b47995419675bccc8f" title="hpx::threads::bulk\l_then_execute" alt="" coords="1087,71,1214,112"/>
+</map>

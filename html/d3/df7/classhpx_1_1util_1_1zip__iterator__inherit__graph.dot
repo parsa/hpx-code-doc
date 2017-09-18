@@ -1,0 +1,26 @@
+digraph "hpx::util::zip_iterator&lt; Ts &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::zip_iterator\l\< Ts \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::util::detail::\lzip_iterator_base\< tuple\l\< Ts... \>, zip_iterator\l\< Ts... \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d23/classhpx_1_1util_1_1detail_1_1zip__iterator__base.html"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::util::iterator\l_facade\< zip_iterator\l\< Ts... \>, zip_iterator\l_value\< tuple\< Ts... \> \>\l::type, zip_iterator_category\l\< tuple\< Ts... \> \>::type, zip\l_iterator_reference\< tuple\< Ts...\l \> \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d7c/structhpx_1_1util_1_1iterator__facade.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hpx::util::detail::\literator_facade_base\l\< zip_iterator\< Ts...\l \>, zip_iterator_value\l\< tuple\< Ts... \> \>::type,\l zip_iterator_category\< tuple\l\< Ts... \> \>::type, zip_iterator\l_reference\< tuple\< Ts... \> \>::type,\l std::ptrdiff_t, void \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d11/classhpx_1_1util_1_1detail_1_1iterator__facade__base.html"];
+  Node4 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< zip_iterator\< Ts...\l \>, zip_iterator_value\l\< tuple\< Ts... \> \>::type,\l zip_iterator_category\< tuple\l\< Ts... \> \>::type, zip_iterator\l_reference\< tuple\< Ts... \> \>::type,\l std::ptrdiff_t, void \>" ,fontname="Helvetica"];
+  Node4 [label="hpx::util::detail::\literator_facade_base\l\< Derived, T, Category,\l Reference, Distance, Pointer \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d11/classhpx_1_1util_1_1detail_1_1iterator__facade__base.html"];
+  Node5 -> Node2 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< zip_iterator\< Ts...\l \>, zip_iterator_value\l\< tuple\< Ts... \> \>::type,\l zip_iterator_category\< tuple\l\< Ts... \> \>::type, zip_iterator\l_reference\< tuple\< Ts... \> \>::type \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::util::iterator\l_facade\< Derived, T,\l Category, Reference,\l Distance, Pointer \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d7c/structhpx_1_1util_1_1iterator__facade.html"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< tuple\< Ts... \>, zip\l_iterator\< Ts... \> \>" ,fontname="Helvetica"];
+  Node6 [label="hpx::util::detail::\lzip_iterator_base\< Iterator\lTuple, Derived \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d23/classhpx_1_1util_1_1detail_1_1zip__iterator__base.html"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hpx::util::iterator\l_facade\< Derived, zip\l_iterator_value\< IteratorTuple\l \>::type, zip_iterator_category\l\< IteratorTuple \>::type, zip_iterator\l_reference\< IteratorTuple \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d7c/structhpx_1_1util_1_1iterator__facade.html"];
+  Node8 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="hpx::util::detail::\literator_facade_base\l\< Derived, zip_iterator\l_value\< IteratorTuple \>\l::type, zip_iterator_category\l\< IteratorTuple \>::type, zip\l_iterator_reference\< IteratorTuple\l \>::type, std::ptrdiff_t, void \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d11/classhpx_1_1util_1_1detail_1_1iterator__facade__base.html"];
+  Node4 -> Node8 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Derived, zip_iterator\l_value\< IteratorTuple\l \>::type, zip_iterator\l_category\< IteratorTuple\l \>::type, zip_iterator_reference\l\< IteratorTuple \>::type, std::\lptrdiff_t, void \>" ,fontname="Helvetica"];
+  Node5 -> Node7 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Derived, zip_iterator\l_value\< IteratorTuple\l \>::type, zip_iterator\l_category\< IteratorTuple\l \>::type, zip_iterator_reference\l\< IteratorTuple \>::type \>" ,fontname="Helvetica"];
+}

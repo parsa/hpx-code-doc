@@ -1,0 +1,6 @@
+<map id="hpx_main" name="hpx_main">
+<area shape="rect" id="node2" href="$dd/d93/destroy_8cpp.html#a2d136bf294a594a3f1360213197e0450" title="destroy_test" alt="" coords="163,5,258,32"/>
+<area shape="rect" id="node3" href="$dd/d93/destroy_8cpp.html#a47c48db29677919274d26c14b228ffb6" title="destroy_exception_test" alt="" coords="132,56,289,83"/>
+<area shape="rect" id="node4" href="$dd/d93/destroy_8cpp.html#a67ebf98eddd88230a75e7c89b730b445" title="destroy_bad_alloc_test" alt="" coords="133,107,289,133"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="165,157,256,184"/>
+</map>

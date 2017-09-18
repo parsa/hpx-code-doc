@@ -1,0 +1,8 @@
+<map id="test_timed_sync" name="test_timed_sync">
+<area shape="rect" id="node2" href="$d8/db4/minimal__timed__sync__executor__v1_8cpp.html#a0faac6bf6daa6422f48a266a344ecf18" title="sync_test" alt="" coords="172,5,251,32"/>
+<area shape="rect" id="node3" href="$d9/d52/namespacehpx_1_1this__thread.html#a7af20818d0b5e9201ab9337d7023d47d" title="hpx::this_thread::get_id" alt="" coords="299,31,457,57"/>
+<area shape="rect" id="node7" href="$de/db3/1d__stencil__1__omp_8cpp.html#a89e9667753dccfac455bd37a7a3a7b16" title="now" alt="" coords="189,107,234,133"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#afafe0f900b9fac3d4ed3c747625c1cfe" title="hpx::threads::get_self_id" alt="" coords="505,31,669,57"/>
+<area shape="rect" id="node5" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="717,31,887,57"/>
+<area shape="rect" id="node6" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="935,31,1081,57"/>
+</map>

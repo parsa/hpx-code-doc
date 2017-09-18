@@ -1,0 +1,6 @@
+<map id="hpx::components::stubs::memory::load64" name="hpx::components::stubs::memory::load64">
+<area shape="rect" id="node2" href="$dc/d5f/structhpx_1_1components_1_1stubs_1_1memory.html#a7066b3c4fc0725a5eed95661ab380c8a" title="hpx::components::stubs\l::memory::load64" alt="" coords="216,39,379,80"/>
+<area shape="rect" id="node3" href="$d4/dc9/namespacehpx_1_1naming.html#a2519f43eb8e111552d5c08f3c0b7d4fc" title="hpx::naming::refers\l_to_virtual_memory" alt="" coords="431,5,565,47"/>
+<area shape="rect" id="node5" href="$db/dee/structhpx_1_1naming_1_1id__type.html#a143c7dc9576d403fc93a76ac9a6b93a3" title="hpx::naming::id_type\l::get_lsb" alt="" coords="427,71,569,112"/>
+<area shape="rect" id="node4" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html#a31d0fb49a563fb184fecaabdced4dcd9" title="hpx::naming::gid_type\l::get_msb" alt="" coords="617,5,768,47"/>
+</map>

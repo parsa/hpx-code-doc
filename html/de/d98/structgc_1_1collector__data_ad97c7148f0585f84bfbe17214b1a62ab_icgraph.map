@@ -1,0 +1,4 @@
+<map id="gc::collector_data::collector_data" name="gc::collector_data::collector_data">
+<area shape="rect" id="node2" href="$da/d76/structgc_1_1server_1_1collectable.html#ab3eab2af42bdc3bcf5a5792033c90737" title="gc::server::collectable\l::phantomize_ref" alt="" coords="179,5,327,47"/>
+<area shape="rect" id="node3" href="$da/d76/structgc_1_1server_1_1collectable.html#af36792404af68d8f458a4e4e8eb17022" title="gc::server::collectable\l::decref" alt="" coords="179,71,327,112"/>
+</map>

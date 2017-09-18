@@ -1,0 +1,15 @@
+<map id="test_reduce2" name="test_reduce2">
+<area shape="rect" id="node2" href="$d5/d03/reduce___8cpp.html#ad0316aeed7fd31b54e69bff41c770a96" title="test_reduce2" alt="" coords="171,173,269,199"/>
+<area shape="rect" id="node12" href="$d5/d03/reduce___8cpp.html#a8dcfb392f0f8b6587c218cdbebc5bb97" title="test_reduce2_async" alt="" coords="151,274,289,301"/>
+<area shape="rect" id="node3" href="$df/d04/namespacetest.html#abdbbc37e6fb67287495e853a554c493a" title="test::iota" alt="" coords="371,147,445,174"/>
+<area shape="rect" id="node4" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#a31e165df2b865cdd961f35ce938db41a" title="hpx::util::detail::\lrange_impl::begin" alt="" coords="527,140,651,181"/>
+<area shape="rect" id="node5" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#afb2ea48b0902f52ee4d8b764807b4316" title="hpx::util::detail::\lrange_impl::end" alt="" coords="531,205,646,247"/>
+<area shape="rect" id="node6" href="$d1/db5/rnd__future__reduce_8cpp.html#a26146ff43c56a412c2e0dc5e33c7d55e" title="reduce" alt="" coords="377,249,439,275"/>
+<area shape="rect" id="node7" href="$df/dc6/namespacehpx_1_1parallel_1_1util.html#ab57e9fe9dcda3baa915398e2d7ba3d69" title="hpx::parallel::util\l::accumulate" alt="" coords="349,31,467,72"/>
+<area shape="rect" id="node8" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="569,13,608,39"/>
+<area shape="rect" id="node11" href="$df/dad/namespacehpx_1_1util.html#a9ed3f52b36e725e476dbf5099134ed3d" title="hpx::util::invoke" alt="" coords="533,63,645,90"/>
+<area shape="rect" id="node9" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="699,13,785,39"/>
+<area shape="rect" id="node10" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="833,5,999,47"/>
+<area shape="rect" id="node13" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a028190ad98b2865e267745247b6b5ae8" title="hpx::lcos::detail::\lfuture_base\&lt; future\l\&lt; R \&gt;, R \&gt;::wait" alt="" coords="341,401,475,457"/>
+<area shape="rect" id="node14" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="337,481,479,507"/>
+</map>

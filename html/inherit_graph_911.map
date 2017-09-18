@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d0/dab/classhpx_1_1threads_1_1coroutines_1_1detail_1_1default__hint.html" title="hpx::threads::coroutines\l::detail::default_hint" alt="" coords="5,39,168,80"/>
+<area shape="rect" id="node2" href="$d5/da5/classhpx_1_1threads_1_1coroutines_1_1detail_1_1invoke__hint.html" title="hpx::threads::coroutines\l::detail::invoke_hint" alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node3" href="$d1/d22/classhpx_1_1threads_1_1coroutines_1_1detail_1_1yield__hint.html" title="hpx::threads::coroutines\l::detail::yield_hint" alt="" coords="216,71,379,112"/>
+</map>

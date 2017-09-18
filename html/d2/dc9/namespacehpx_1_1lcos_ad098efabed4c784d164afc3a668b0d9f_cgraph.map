@@ -1,0 +1,5 @@
+<map id="hpx::lcos::make_future" name="hpx::lcos::make_future">
+<area shape="rect" id="node2" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a04d77a61f72ce77d4e20fc32c956d7fa" title="hpx::lcos::detail::\lfuture_base\&lt; shared\l_future\&lt; R \&gt;, R \&gt;::then" alt="" coords="223,5,379,61"/>
+<area shape="rect" id="node3" href="$df/dad/namespacehpx_1_1util.html#a9ed3f52b36e725e476dbf5099134ed3d" title="hpx::util::invoke" alt="" coords="245,85,357,112"/>
+<area shape="rect" id="node4" href="$d4/d31/classhpx_1_1lcos_1_1shared__future.html#a316b62d06e2bbab9e8d93fe64d13527e" title="hpx::lcos::shared_future::get" alt="" coords="208,136,395,163"/>
+</map>

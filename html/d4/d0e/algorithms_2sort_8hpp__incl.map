@@ -1,0 +1,35 @@
+<map id="sort.hpp" name="sort.hpp">
+<area shape="rect" id="node2" href="$d8/dfd/config_8hpp.html" title="hpx/config.hpp" alt="" coords="1520,676,1627,703"/>
+<area shape="rect" id="node16" href="$d6/dd8/dataflow_8hpp.html" title="hpx/dataflow.hpp" alt="" coords="2030,80,2149,107"/>
+<area shape="rect" id="node19" href="$d7/dd8/concepts_8hpp.html" title="hpx/traits/concepts.hpp" alt="" coords="94,512,253,539"/>
+<area shape="rect" id="node21" href="$d2/d54/assert_8hpp.html" title="hpx/util/assert.hpp" alt="" coords="3081,512,3210,539"/>
+<area shape="rect" id="node26" href="$df/d37/decay_8hpp.html" title="hpx/util/decay.hpp" alt="" coords="683,512,811,539"/>
+<area shape="rect" id="node30" href="$dd/d31/invoke_8hpp.html" title="hpx/util/invoke.hpp" alt="" coords="1510,512,1639,539"/>
+<area shape="rect" id="node35" href="$dd/da9/executors_2execution_8hpp.html" title="hpx/parallel/executors\l/execution.hpp" alt="" coords="1544,333,1693,375"/>
+<area shape="rect" id="node38" href="$d3/d3f/is__iterator_8hpp.html" title="hpx/traits/is_iterator.hpp" alt="" coords="2697,512,2860,539"/>
+<area shape="rect" id="node40" href="$dd/dd9/algorithms_2detail_2dispatch_8hpp.html" title="hpx/parallel/algorithms\l/detail/dispatch.hpp" alt="" coords="1492,155,1644,196"/>
+<area shape="rect" id="node41" href="$d8/da4/parallel_2exception__list_8hpp.html" title="hpx/parallel/exception\l_list.hpp" alt="" coords="2279,333,2427,375"/>
+<area shape="rect" id="node42" href="$d4/d36/execution__policy_8hpp.html" title="hpx/parallel/execution\l_policy.hpp" alt="" coords="1382,244,1530,285"/>
+<area shape="rect" id="node43" href="$d2/d36/algorithm__result_8hpp.html" title="hpx/parallel/util/detail\l/algorithm_result.hpp" alt="" coords="1037,333,1181,375"/>
+<area shape="rect" id="node44" href="$d2/dcc/predicates_8hpp.html" title="hpx/parallel/algorithms\l/detail/predicates.hpp" alt="" coords="3080,423,3232,464"/>
+<area shape="rect" id="node46" href="$d2/dce/projected_8hpp.html" title="hpx/parallel/traits\l/projected.hpp" alt="" coords="987,423,1109,464"/>
+<area shape="rect" id="node47" href="$dd/de5/compare__projected_8hpp.html" title="hpx/parallel/util/compare\l_projected.hpp" alt="" coords="1920,423,2083,464"/>
+<area shape="rect" id="node48" href="$dc/df9/handle__local__exceptions_8hpp.html" title="hpx/parallel/util/detail\l/handle_local_exceptions.hpp" alt="" coords="2426,155,2619,196"/>
+<area shape="rect" id="node50" href="$d2/d3f/projection__identity_8hpp.html" title="hpx/parallel/util/projection\l_identity.hpp" alt="" coords="2806,587,2975,628"/>
+<area shape="rect" id="node3" href="$df/d6a/attributes_8hpp.html" title="hpx/config/attributes.hpp" alt="" coords="1551,758,1715,785"/>
+<area shape="rect" id="node5" href="$d2/d97/compiler__specific_8hpp.html" title="hpx/config/compiler\l_specific.hpp" alt="" coords="1735,840,1870,881"/>
+<area shape="rect" id="node6" href="$de/d38/branch__hints_8hpp.html" title="hpx/config/branch_hints.hpp" alt="" coords="1137,758,1321,785"/>
+<area shape="rect" id="node7" href="$d4/dce/constexpr_8hpp.html" title="hpx/config/constexpr.hpp" alt="" coords="2098,847,2265,874"/>
+<area shape="rect" id="node8" href="$d6/de2/emulate__deleted_8hpp.html" title="hpx/config/emulate\l_deleted.hpp" alt="" coords="1345,751,1476,792"/>
+<area shape="rect" id="node9" href="$d8/df6/config_2export__definitions_8hpp.html" title="hpx/config/export_definitions.hpp" alt="" coords="975,847,1185,874"/>
+<area shape="rect" id="node10" href="$d7/d7f/forceinline_8hpp.html" title="hpx/config/forceinline.hpp" alt="" coords="1740,758,1908,785"/>
+<area shape="rect" id="node11" href="$de/d75/manual__profiling_8hpp.html" title="hpx/config/manual_profiling.hpp" alt="" coords="1932,758,2135,785"/>
+<area shape="rect" id="node12" href="$d5/ddd/config_2version_8hpp.html" title="hpx/config/version.hpp" alt="" coords="911,758,1062,785"/>
+<area shape="rect" id="node13" href="$d0/d47/cat_8hpp.html" title="hpx/util/detail/pp\l/cat.hpp" alt="" coords="815,840,932,881"/>
+<area shape="rect" id="node15" href="$de/ded/stringize_8hpp.html" title="hpx/util/detail/pp\l/stringize.hpp" alt="" coords="2159,751,2276,792"/>
+<area shape="rect" id="node17" href="$db/d03/lcos_2dataflow_8hpp.html" title="hpx/lcos/dataflow.hpp" alt="" coords="1971,251,2117,278"/>
+<area shape="rect" id="node37" href="$d8/de2/lcos_2local_2dataflow_8hpp.html" title="hpx/lcos/local/dataflow.hpp" alt="" coords="1937,162,2116,189"/>
+<area shape="rect" id="node18" href="$d3/d11/lcos_2future_8hpp.html" title="hpx/lcos/future.hpp" alt="" coords="1611,430,1743,457"/>
+<area shape="rect" id="node31" href="$dd/d4f/result__of_8hpp.html" title="hpx/util/result_of.hpp" alt="" coords="1139,594,1282,621"/>
+<area shape="rect" id="node32" href="$db/d59/void__guard_8hpp.html" title="hpx/util/void_guard.hpp" alt="" coords="1611,594,1765,621"/>
+</map>

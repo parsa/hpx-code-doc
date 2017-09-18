@@ -1,0 +1,7 @@
+<map id="hpx::register_pre_shutdown_function" name="hpx::register_pre_shutdown_function">
+<area shape="rect" id="node2" href="$d9/dc4/classhpx_1_1util_1_1detail_1_1interval__timer.html#a4e828ee56e41d8f50dc946452b15e3a6" title="hpx::util::detail::\linterval_timer::start" alt="" coords="235,5,367,47"/>
+<area shape="rect" id="node4" href="$d7/da8/classhpx_1_1util_1_1detail_1_1pool__timer.html#a949c1f52f39cbf444a042383a16513ba" title="hpx::util::detail::\lpool_timer::start" alt="" coords="243,71,359,112"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#ab6ac6f790f5f92bef402935bc4b63412" title="hpx::pre_main" alt="" coords="249,137,353,163"/>
+<area shape="rect" id="node3" href="$d9/dc4/classhpx_1_1util_1_1detail_1_1interval__timer.html#aef44e704e69523484a42421ffcf114b2" title="hpx::util::detail::\linterval_timer::restart" alt="" coords="415,5,557,47"/>
+<area shape="rect" id="node6" href="$dc/d80/classhpx_1_1runtime__impl.html#a701851190a0f98e3ed6d94c2bde4b6f8" title="The destructor makes sure all HPX runtime services are properly shut down before exiting. " alt="" coords="419,129,553,171"/>
+</map>

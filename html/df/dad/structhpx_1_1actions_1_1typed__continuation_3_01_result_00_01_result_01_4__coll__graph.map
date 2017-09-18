@@ -1,0 +1,7 @@
+<map id="hpx::actions::typed_continuation&lt; Result, Result &gt;" name="hpx::actions::typed_continuation&lt; Result, Result &gt;">
+<area shape="rect" id="node2" href="$d0/d4e/classhpx_1_1actions_1_1continuation.html" title="hpx::actions::continuation" alt="" coords="489,31,660,57"/>
+<area shape="rect" id="node3" href="$db/dee/structhpx_1_1naming_1_1id__type.html" title="hpx::naming::id_type" alt="" coords="259,5,402,32"/>
+<area shape="rect" id="node4" href="$d2/d7f/structhpx_1_1naming_1_1address.html" title="hpx::naming::address" alt="" coords="257,56,404,83"/>
+<area shape="rect" id="node5" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html" title="Global identifier for components across the HPX system. " alt="" coords="5,56,156,83"/>
+<area shape="rect" id="node6" href="$d9/d8d/classhpx_1_1util_1_1unique__function.html" title="hpx::util::unique_function\l\&lt; void(naming::id_type,\l Result) \&gt;" alt="" coords="491,81,658,137"/>
+</map>

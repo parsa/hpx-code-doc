@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d9/d3a/structhpx_1_1traits_1_1is__callable.html" title="hpx::traits::is_callable\l\&lt; util::decay_unwrap\&lt; F\l \&gt;::type(util::decay_unwrap\l\&lt; Ts \&gt;::type...) \&gt;" alt="" coords="5,5,184,76"/>
+<area shape="rect" id="node2" href="$d1/dca/structhpx_1_1traits_1_1detail_1_1is__deferred__callable_3_01_f_07_ts_8_8_8_08_4.html" title="hpx::traits::detail\l::is_deferred_callable\l\&lt; F(Ts...)\&gt;" alt="" coords="232,13,376,69"/>
+</map>

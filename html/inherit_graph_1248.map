@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d9/d10/structhpx_1_1util_1_1detail_1_1fused__result__of__impl.html" title="hpx::util::detail::\lfused_result_of_impl\l\&lt; F, Tuple &amp;&amp;, fused\l_index_pack\&lt; Tuple \&gt;::\ltype \&gt;" alt="" coords="5,21,164,106"/>
+<area shape="rect" id="node2" href="$d2/d84/structhpx_1_1util_1_1detail_1_1fused__result__of_3_01_f_07_tuple_08_4.html" title="hpx::util::detail::\lfused_result_of\&lt; F(Tuple)\&gt;" alt="" coords="212,5,388,47"/>
+<area shape="rect" id="node3" href="$de/d81/structhpx_1_1util_1_1detail_1_1invoke__fused__result.html" title="hpx::util::detail::\linvoke_fused_result\l\&lt; F, Tuple \&gt;" alt="" coords="233,71,367,127"/>
+</map>

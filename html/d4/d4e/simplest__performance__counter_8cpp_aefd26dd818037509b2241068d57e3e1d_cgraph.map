@@ -1,0 +1,12 @@
+<map id="hpx_main" name="hpx_main">
+<area shape="rect" id="node2" href="$d9/d52/namespacehpx_1_1this__thread.html#aca220026fb3014c0881d129fe31c0073" title="hpx::this_thread::suspend" alt="" coords="132,144,304,171"/>
+<area shape="rect" id="node11" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="173,195,263,221"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="362,5,509,32"/>
+<area shape="rect" id="node5" href="$d7/d28/namespacehpx_1_1threads.html#afafe0f900b9fac3d4ed3c747625c1cfe" title="hpx::threads::get_self_id" alt="" coords="353,56,517,83"/>
+<area shape="rect" id="node6" href="$d7/d28/namespacehpx_1_1threads.html#ada6ec56a12b050707311d8c628089059" title="hpx::threads::interruption\l_point" alt="" coords="352,107,519,149"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="571,144,745,171"/>
+<area shape="rect" id="node8" href="$df/dad/namespacehpx_1_1util.html#ae0e1837ee6f09b79b26c2e788d2e9fc9" title="hpx::util::verify_no\l_locks" alt="" coords="372,225,499,266"/>
+<area shape="rect" id="node9" href="$d7/d28/namespacehpx_1_1threads.html#a42fc18a7a680f4e8bc633a4b4c956701" title="hpx::threads::get_thread\l_description" alt="" coords="354,290,517,331"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="573,5,743,32"/>
+<area shape="rect" id="node10" href="$df/d9e/structhpx_1_1util_1_1thread__description.html#a8c834e14eca6eb228188022577f9f952" title="hpx::util::thread_description\l::get_description" alt="" coords="567,290,749,331"/>
+</map>

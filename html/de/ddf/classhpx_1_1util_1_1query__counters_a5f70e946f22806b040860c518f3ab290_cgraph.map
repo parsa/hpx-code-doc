@@ -1,0 +1,22 @@
+<map id="hpx::util::query_counters::print_array_counters" name="hpx::util::query_counters::print_array_counters">
+<area shape="rect" id="node2" href="$df/d08/classhpx_1_1performance__counters_1_1performance__counter__set.html#a81c3b39d05453145501b176fc00f2e09" title="hpx::performance_counters\l::performance_counter_set\l::get_counter_values_array" alt="" coords="219,88,397,144"/>
+<area shape="rect" id="node9" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#a8dad7509121815da417da41b26bef4c5" title="hpx::util::query_counters\l::print_headers" alt="" coords="225,169,391,210"/>
+<area shape="rect" id="node13" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#aac41163e02572b450a742b2215ee26d0" title="hpx::util::query_counters\l::print_values" alt="" coords="225,234,391,275"/>
+<area shape="rect" id="node14" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="233,300,383,327"/>
+<area shape="rect" id="node16" href="$d5/d69/wait__all__hang__1946_8cpp.html#ae95890c5079ed07d292e9e2c1b187e97" title="out" alt="" coords="288,355,328,381"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="485,103,571,129"/>
+<area shape="rect" id="node4" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="729,56,771,83"/>
+<area shape="rect" id="node5" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="933,5,1008,32"/>
+<area shape="rect" id="node6" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="898,56,1043,83"/>
+<area shape="rect" id="node7" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="935,107,1007,133"/>
+<area shape="rect" id="node8" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="1100,99,1295,141"/>
+<area shape="rect" id="node10" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#a65753efa831bd7081d4dddd2cc08ca66" title="hpx::util::query_counters\l::print_name_csv" alt="" coords="445,158,611,199"/>
+<area shape="rect" id="node12" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#ae43c125647805b8b80e4d656bb2738d3" title="hpx::util::query_counters\l::print_name_csv_short" alt="" coords="445,223,611,265"/>
+<area shape="rect" id="node11" href="$d0/d36/namespacehpx_1_1performance__counters.html#a3a9aa99b61eb1a675a13a18bf395bb2d" title="hpx::performance_counters\l::remove_counter_prefix" alt="" coords="661,158,839,199"/>
+<area shape="rect" id="node15" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="468,289,588,330"/>
+<area shape="rect" id="node17" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="477,355,579,381"/>
+<area shape="rect" id="node21" href="$d5/d69/wait__all__hang__1946_8cpp.html#ac9bd456810a9b90073efb27cea0b1cc0" title="HPX_PLAIN_ACTION" alt="" coords="455,405,601,432"/>
+<area shape="rect" id="node18" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="659,329,841,356"/>
+<area shape="rect" id="node20" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="670,380,830,407"/>
+<area shape="rect" id="node19" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="889,322,1052,363"/>
+</map>

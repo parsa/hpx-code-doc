@@ -1,0 +1,8 @@
+<map id="hpx::detail::async_colocated_cb" name="hpx::detail::async_colocated_cb">
+<area shape="rect" id="node2" href="$d1/d43/structhpx_1_1agas_1_1primary__namespace.html#a7630ff0f30ff8c23b13b4672c5350e2e" title="hpx::agas::primary\l_namespace::get_service\l_instance" alt="" coords="179,5,348,61"/>
+<area shape="rect" id="node3" href="$db/dee/structhpx_1_1naming_1_1id__type.html#a0375af42ca6b0ff79e627d91bfae571b" title="hpx::naming::id_type\l::get_gid" alt="" coords="192,86,335,127"/>
+<area shape="rect" id="node4" href="$dd/d20/namespacehpx_1_1util_1_1functional.html#a10928eede18071c7f91f96a07c2d3515" title="hpx::util::functional\l::async_continuation" alt="" coords="192,151,335,193"/>
+<area shape="rect" id="node5" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="213,217,313,244"/>
+<area shape="rect" id="node6" href="$d7/d7f/async__cb__colocated_8cpp.html#ae8e7b15d60cbf27f78a81c0b74124fab" title="cb" alt="" coords="244,268,283,295"/>
+<area shape="rect" id="node7" href="$d7/d7f/async__cb__colocated_8cpp.html#a52e3aad384eb40b3744f885060f82339" title="callback_called" alt="" coords="396,268,507,295"/>
+</map>

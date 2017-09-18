@@ -1,0 +1,11 @@
+<map id="hpx::components::server::random_mem_access::random_mem_access" name="hpx::components::server::random_mem_access::random_mem_access">
+<area shape="rect" id="node2" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="263,17,445,43"/>
+<area shape="rect" id="node4" href="$da/dcb/classhpx_1_1applier_1_1applier.html#a24b28bbc16e7938e65075b4c0891dd71" title="Allow access to the id of the locality this applier instance is associated with. " alt="" coords="287,71,421,112"/>
+<area shape="rect" id="node3" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="495,5,658,47"/>
+<area shape="rect" id="node5" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="493,71,660,112"/>
+<area shape="rect" id="node6" href="$da/dcb/classhpx_1_1applier_1_1applier.html#ac0718505e761306bcbc776eb61449e0b" title="Allow access to the locality of the locality this applier instance is associated with. " alt="" coords="509,136,644,177"/>
+<area shape="rect" id="node7" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="719,103,874,144"/>
+<area shape="rect" id="node10" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ab52c19a37c2a7a006c6c15f90ad0539c" title="hpx::agas::addressing\l_service::get_local_locality" alt="" coords="708,168,885,209"/>
+<area shape="rect" id="node8" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="951,81,1070,107"/>
+<area shape="rect" id="node9" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="933,132,1088,173"/>
+</map>

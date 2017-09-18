@@ -1,0 +1,12 @@
+<map id="scal" name="scal">
+<area shape="rect" id="node2" href="$da/d92/algorithms_8hh.html#a134fc7cf226e8a69d5db6c8dc2bd15bb" title="gemv" alt="" coords="103,69,155,96"/>
+<area shape="rect" id="node8" href="$da/d92/algorithms_8hh.html#a54b905a5af6938a15e602242d1c0b00d" title="gemm" alt="" coords="100,145,159,172"/>
+<area shape="rect" id="node3" href="$da/d92/algorithms_8hh.html#ac38de6d057aae7d754cffa82994b6b7b" title="gemv" alt="" coords="259,5,311,32"/>
+<area shape="rect" id="node4" href="$d5/d98/tests_8hh.html#afc18472d3b5d5c43c321bab65a841aec" title="test_dense" alt="" coords="242,56,329,83"/>
+<area shape="rect" id="node7" href="$d5/d98/tests_8hh.html#a0dc326736d80613005e0cd8046735b9e" title="test_blocked" alt="" coords="237,107,333,133"/>
+<area shape="rect" id="node5" href="$d9/d0f/main_8cc.html#a22d5612b13072491f3de2340527ce19f" title="output_hpx_info" alt="" coords="412,81,525,108"/>
+<area shape="rect" id="node6" href="$d9/d0f/main_8cc.html#a344a9bb316c276641af2d061a2558c97" title="hpx_main" alt="" coords="573,81,652,108"/>
+<area shape="rect" id="node9" href="$da/d92/algorithms_8hh.html#aa0e032a3d9de48fadd8dd171dce167f6" title="gemm" alt="" coords="256,157,315,184"/>
+<area shape="rect" id="node10" href="$dc/d20/structmatrix__t__server.html#adc3138b47cfd82edb96d85d6eabb1539" title="matrix_t_server::gemm" alt="" coords="208,208,363,235"/>
+<area shape="rect" id="node11" href="$dc/d20/structmatrix__t__server.html#a5f2915b47eba26f408ebcdb47a5df751" title="matrix_t_server::set_elt" alt="" coords="207,259,364,285"/>
+</map>

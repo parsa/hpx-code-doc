@@ -1,0 +1,4 @@
+<map id="hpx::lcos::detail::broadcast_invoke_apply" name="hpx::lcos::detail::broadcast_invoke_apply">
+<area shape="rect" id="node2" href="$d4/d6c/namespacehpx_1_1lcos_1_1detail.html#a38ac38b6f73abc764ed21500fae49ad5" title="hpx::lcos::detail::\lbroadcast_apply_impl" alt="" coords="213,5,361,47"/>
+<area shape="rect" id="node3" href="$dc/d79/structhpx_1_1lcos_1_1detail_1_1broadcast__apply__invoker.html#a1cd022fe39b414a1bbe8f00a08e97aae" title="hpx::lcos::detail::\lbroadcast_apply_invoker::call" alt="" coords="409,5,601,47"/>
+</map>

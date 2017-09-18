@@ -1,0 +1,18 @@
+digraph "hpx::detail::exception_info_node&lt; Ts &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node2 [label="hpx::detail::exception\l_info_node\< Ts \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hpx::detail::exception\l_info_node_base",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/dcd/classhpx_1_1detail_1_1exception__info__node__base.html"];
+  Node4 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+  Node4 [label="hpx::util::tuple\< typename\l Ts::type... \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d52/classhpx_1_1util_1_1tuple.html"];
+  Node5 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" _impl" ,fontname="Helvetica"];
+  Node5 [label="hpx::util::detail::\ltuple_impl\< typename\l hpx::util::detail::make\l_index_pack\< sizeof...(Ts)\l\>::type, Ts... \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d4e/structhpx_1_1util_1_1detail_1_1tuple__impl.html"];
+  Node6 -> Node5 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< typename hpx::util\l::detail::make_index\l_pack\< sizeof...(Ts)\>\l::type, Ts... \>" ,fontname="Helvetica"];
+  Node6 [label="hpx::util::detail::\ltuple_impl\< Is, Ts \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d4e/structhpx_1_1util_1_1detail_1_1tuple__impl.html"];
+  Node7 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< typename Ts::type... \>" ,fontname="Helvetica"];
+  Node7 [label="hpx::util::tuple\< Ts \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d52/classhpx_1_1util_1_1tuple.html"];
+  Node5 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" _impl" ,fontname="Helvetica"];
+}

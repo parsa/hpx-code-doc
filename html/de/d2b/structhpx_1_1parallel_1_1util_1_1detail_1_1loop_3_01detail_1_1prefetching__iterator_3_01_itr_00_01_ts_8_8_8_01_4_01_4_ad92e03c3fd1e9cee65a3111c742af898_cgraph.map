@@ -1,0 +1,9 @@
+<map id="hpx::parallel::util::detail::loop&lt; detail::prefetching_iterator&lt; Itr, Ts... &gt; &gt;::call" name="hpx::parallel::util::detail::loop&lt; detail::prefetching_iterator&lt; Itr, Ts... &gt; &gt;::call">
+<area shape="rect" id="node2" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#afb2ea48b0902f52ee4d8b764807b4316" title="hpx::util::detail::\lrange_impl::end" alt="" coords="227,5,342,47"/>
+<area shape="rect" id="node3" href="$d7/d09/classhpx_1_1parallel_1_1util_1_1detail_1_1prefetching__iterator.html#a3f71a425a6ca1d4114590c6e889ff7c3" title="hpx::parallel::util\l::detail::prefetching\l_iterator::base" alt="" coords="219,71,351,127"/>
+<area shape="rect" id="node4" href="$d7/d09/classhpx_1_1parallel_1_1util_1_1detail_1_1prefetching__iterator.html#a63d00a0058d3f0b51cfea5be84740565" title="hpx::parallel::util\l::detail::prefetching\l_iterator::index" alt="" coords="219,151,351,207"/>
+<area shape="rect" id="node5" href="$d7/d09/classhpx_1_1parallel_1_1util_1_1detail_1_1prefetching__iterator.html#a8f23cbd7d1683c4f63cf949d457b57fa" title="hpx::parallel::util\l::detail::prefetching\l_iterator::chunk_size" alt="" coords="213,231,356,287"/>
+<area shape="rect" id="node6" href="$d7/d09/classhpx_1_1parallel_1_1util_1_1detail_1_1prefetching__iterator.html#aabe84610b4c0bdacf33d6852ff050c91" title="hpx::parallel::util\l::detail::prefetching\l_iterator::range_size" alt="" coords="215,311,355,367"/>
+<area shape="rect" id="node7" href="$db/d3e/namespacehpx_1_1parallel_1_1util_1_1detail.html#ad9c36473d07fbfbe2fe0b4a741e179b3" title="hpx::parallel::util\l::detail::prefetch_containers" alt="" coords="193,392,376,433"/>
+<area shape="rect" id="node8" href="$d7/d09/classhpx_1_1parallel_1_1util_1_1detail_1_1prefetching__iterator.html#a6a504c585955d5a1fa30553dc42c90cb" title="hpx::parallel::util\l::detail::prefetching\l_iterator::ranges" alt="" coords="219,458,351,514"/>
+</map>

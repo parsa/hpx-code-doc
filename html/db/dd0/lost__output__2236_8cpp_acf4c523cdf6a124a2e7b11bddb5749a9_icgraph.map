@@ -1,0 +1,9 @@
+<map id="generate_output" name="generate_output">
+<area shape="rect" id="node2" href="$da/d76/structgc_1_1server_1_1collectable.html#ab3eab2af42bdc3bcf5a5792033c90737" title="gc::server::collectable\l::phantomize_ref" alt="" coords="179,5,327,47"/>
+<area shape="rect" id="node3" href="$da/d76/structgc_1_1server_1_1collectable.html#acafff368ac7499b569ab549c61451c92" title="gc::server::collectable\l::phantom_wait_complete" alt="" coords="168,71,339,112"/>
+<area shape="rect" id="node4" href="$da/d76/structgc_1_1server_1_1collectable.html#ad920ac7eb281a20fe1b1ff9dac36ae62" title="gc::server::collectable\l::check_recover_done" alt="" coords="179,136,327,177"/>
+<area shape="rect" id="node5" href="$da/d76/structgc_1_1server_1_1collectable.html#aa49837ed9f7389d907b7219c7374ad7d" title="gc::server::collectable\l::done" alt="" coords="179,201,327,243"/>
+<area shape="rect" id="node6" href="$da/d76/structgc_1_1server_1_1collectable.html#af36792404af68d8f458a4e4e8eb17022" title="gc::server::collectable\l::decref" alt="" coords="179,267,327,308"/>
+<area shape="rect" id="node7" href="$da/d76/structgc_1_1server_1_1collectable.html#adf13119aeb62c258643244552d109c42" title="gc::server::collectable\l::spread" alt="" coords="179,332,327,373"/>
+<area shape="rect" id="node8" href="$db/dd0/lost__output__2236_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="214,398,293,425"/>
+</map>

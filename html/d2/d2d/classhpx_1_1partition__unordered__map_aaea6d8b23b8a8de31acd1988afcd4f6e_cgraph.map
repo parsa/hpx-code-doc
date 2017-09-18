@@ -1,0 +1,13 @@
+<map id="hpx::partition_unordered_map::erase" name="hpx::partition_unordered_map::erase">
+<area shape="rect" id="node2" href="$d9/d49/classhpx_1_1server_1_1partition__unordered__map.html#a0781609262dc35bcd5f11733d3c14ec1" title="Erase the given element. " alt="" coords="215,250,373,291"/>
+<area shape="rect" id="node3" href="$d9/d49/classhpx_1_1server_1_1partition__unordered__map.html#af91bf187e6a930bf54ffd8222bef9758" title="Macros to define HPX component actions for all exported functions. " alt="" coords="423,5,641,61"/>
+<area shape="rect" id="node4" href="$d9/d49/classhpx_1_1server_1_1partition__unordered__map.html#a6cd730a4b154f77d5ad7809b02c9f021" title="Returns the number of elements. " alt="" coords="457,86,607,127"/>
+<area shape="rect" id="node5" href="$d9/d49/classhpx_1_1server_1_1partition__unordered__map.html#ab13ea62b1fd3da6a26334d9caca9114f" title="hpx::server::partition\l_unordered_map::get_value" alt="" coords="442,151,622,193"/>
+<area shape="rect" id="node6" href="$d9/d49/classhpx_1_1server_1_1partition__unordered__map.html#a32b86f554e2d6d80cb6fa0de68e9356e" title="hpx::server::partition\l_unordered_map::get_values" alt="" coords="439,217,625,258"/>
+<area shape="rect" id="node7" href="$d9/d49/classhpx_1_1server_1_1partition__unordered__map.html#a002303b9eb5208fdc8dcdb57767ad3ea" title="hpx::server::partition\l_unordered_map::set_value" alt="" coords="442,282,622,323"/>
+<area shape="rect" id="node8" href="$d9/d49/classhpx_1_1server_1_1partition__unordered__map.html#a4e6a813ead968baa37e64d6b10715e91" title="hpx::server::partition\l_unordered_map::set_values" alt="" coords="439,347,625,389"/>
+<area shape="rect" id="node9" href="$d9/d49/classhpx_1_1server_1_1partition__unordered__map.html#ab8756b664df2c130cfc943fca84a69ed" title="Duplicate the copy method for action naming. " alt="" coords="421,413,643,454"/>
+<area shape="rect" id="node10" href="$d9/d49/classhpx_1_1server_1_1partition__unordered__map.html#ac599a38ebf6cf84020825923726a03c0" title="hpx::server::partition\l_unordered_map::set_copied_data" alt="" coords="421,478,643,519"/>
+<area shape="rect" id="node11" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="691,485,841,512"/>
+<area shape="rect" id="node12" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="889,478,1009,519"/>
+</map>

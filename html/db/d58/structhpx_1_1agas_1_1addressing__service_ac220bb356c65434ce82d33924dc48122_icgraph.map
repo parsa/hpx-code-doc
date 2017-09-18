@@ -1,0 +1,9 @@
+<map id="hpx::agas::addressing_service::was_object_migrated" name="hpx::agas::addressing_service::was_object_migrated">
+<area shape="rect" id="node2" href="$dc/d54/namespacehpx_1_1agas.html#af630854240003303d359e2ae433c0a72" title="hpx::agas::was_object\l_migrated" alt="" coords="204,185,356,226"/>
+<area shape="rect" id="node3" href="$d7/dd5/structhpx_1_1traits_1_1detail_1_1was__object__migrated__helper.html#aa9cea9800c3845601b6fa224fed32e07" title="hpx::traits::detail\l::was_object_migrated\l_helper::call" alt="" coords="430,5,582,61"/>
+<area shape="rect" id="node4" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a64b37e2590775a28e72c2c692f13489d" title="hpx::agas::addressing\l_service::update_cache_entry" alt="" coords="409,86,603,127"/>
+<area shape="rect" id="node5" href="$d9/de8/structhpx_1_1actions_1_1base__action.html#a50205c3da0fa49594bb136757d9eb159" title="Destructor. " alt="" coords="431,151,581,193"/>
+<area shape="rect" id="node6" href="$dc/d54/namespacehpx_1_1agas.html#abb5e5584ed3b536ace8e3f58415e24c2" title="hpx::agas::is_local\l_lva_encoded_address" alt="" coords="429,217,583,258"/>
+<area shape="rect" id="node7" href="$db/d0d/structhpx_1_1components_1_1migration__support.html#ab2668e5e6761bc8ca8ad9e1add7ea5e6" title="hpx::components::migration\l_support\&lt; hpx::components\l::component_base\&lt; test_server\l \&gt; \&gt;::was_object_migrated" alt="" coords="404,282,608,353"/>
+<area shape="rect" id="node8" href="$d1/d63/structhpx_1_1actions_1_1transfer__base__action.html#aafc7b547fc6d9d37b017a232b125ad4a" title="retrieve component type " alt="" coords="424,377,588,433"/>
+</map>

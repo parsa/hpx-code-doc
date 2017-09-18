@@ -1,0 +1,22 @@
+<map id="hpx_main" name="hpx_main">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a7899ab2136e9b3ba674caf70aa659a59" title="Return the number of OS&#45;threads running in the runtime instance the current HPX&#45;thread is associated ..." alt="" coords="369,262,503,303"/>
+<area shape="rect" id="node9" href="$d8/d83/namespacehpx.html#ad438935ca2f8603f9cab036b68b34f36" title="Return the number of the current OS&#45;thread running in the runtime instance the current HPX&#45;thread is ..." alt="" coords="132,219,321,245"/>
+<area shape="rect" id="node10" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="183,107,270,133"/>
+<area shape="rect" id="node16" href="$da/d1e/coroutines__call__overhead_8cpp.html#a72ce37fdba27731538eab290c642d16b" title="perform_2n_iterations" alt="" coords="153,371,300,397"/>
+<area shape="rect" id="node18" href="$da/d1e/coroutines__call__overhead_8cpp.html#a5b5b243287b5325d9c4819edf9570ef3" title="print_results" alt="" coords="180,320,273,347"/>
+<area shape="rect" id="node21" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="181,421,272,448"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="561,269,702,296"/>
+<area shape="rect" id="node5" href="$d0/d7b/classhpx_1_1runtime.html#a0bfe0241e54b1fe1dd4ec181d944de43" title="access configuration information " alt="" coords="551,320,712,347"/>
+<area shape="rect" id="node6" href="$d8/d70/classhpx_1_1util_1_1runtime__configuration.html#adfdef6ebaabc69741dde50ac4d6fd6a9" title="hpx::util::runtime\l_configuration::get\l_os_thread_count" alt="" coords="567,189,695,245"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="776,278,939,319"/>
+<area shape="rect" id="node7" href="$dd/de4/classhpx_1_1util_1_1section.html#a2ef0091925e5c2e3fda235bff644cdb4" title="hpx::util::section\l::has_section" alt="" coords="798,213,917,254"/>
+<area shape="rect" id="node8" href="$dd/de4/classhpx_1_1util_1_1section.html#a3506cc01fb5453b2176f4747352c5517" title="hpx::util::section\l::get_section" alt="" coords="798,147,917,189"/>
+<area shape="rect" id="node11" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="415,56,457,83"/>
+<area shape="rect" id="node12" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="594,56,669,83"/>
+<area shape="rect" id="node13" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="559,5,704,32"/>
+<area shape="rect" id="node14" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="595,107,667,133"/>
+<area shape="rect" id="node15" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="760,82,955,123"/>
+<area shape="rect" id="node17" href="$d1/db5/rnd__future__reduce_8cpp.html#ad2fedcc0ce462f15ef747e83bb65d6b6" title="dist" alt="" coords="415,379,457,405"/>
+<area shape="rect" id="node19" href="$da/d1e/coroutines__call__overhead_8cpp.html#a77e11d887cc2cb6eb6e3d9f95e5ea0a2" title="format_build_date" alt="" coords="374,328,498,355"/>
+<area shape="rect" id="node20" href="$de/db3/1d__stencil__1__omp_8cpp.html#a89e9667753dccfac455bd37a7a3a7b16" title="now" alt="" coords="609,371,654,397"/>
+</map>

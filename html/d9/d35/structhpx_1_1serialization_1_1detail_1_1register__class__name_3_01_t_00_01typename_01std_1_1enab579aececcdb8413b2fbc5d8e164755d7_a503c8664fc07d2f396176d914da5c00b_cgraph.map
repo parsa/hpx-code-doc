@@ -1,0 +1,5 @@
+<map id="hpx::serialization::detail::register_class_name&lt; T, typename std::enable_if&lt; traits::is_serialized_with_id&lt; T &gt;::value &gt;::type &gt;::factory_function" name="hpx::serialization::detail::register_class_name&lt; T, typename std::enable_if&lt; traits::is_serialized_with_id&lt; T &gt;::value &gt;::type &gt;::factory_function">
+<area shape="rect" id="node2" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="220,49,259,76"/>
+<area shape="rect" id="node3" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="307,49,393,76"/>
+<area shape="rect" id="node4" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="441,42,607,83"/>
+</map>

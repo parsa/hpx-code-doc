@@ -1,0 +1,47 @@
+<map id="hpx::parallel::util::accumulate" name="hpx::parallel::util::accumulate">
+<area shape="rect" id="node2" href="$dd/d5f/channel_8cpp.html#a5eb4df851d38dc3016b73d78ec254dfd" title="sum" alt="" coords="241,5,287,32"/>
+<area shape="rect" id="node3" href="$dd/d5f/channel_8cpp.html#a5ad6c2cb35b94e91d3eae31817c35201" title="calculate_sum" alt="" coords="211,56,317,83"/>
+<area shape="rect" id="node5" href="$d4/d1b/classhpx_1_1util_1_1bounds.html#a7273bb020c92c0d77a774cd764c55636" title="Returns: The product of all components of *this. " alt="" coords="189,107,339,133"/>
+<area shape="rect" id="node6" href="$d9/dca/created__executor_8cpp.html#a80274c30da23d7824ffc381645cbcfeb" title="parallel_sum" alt="" coords="217,157,311,184"/>
+<area shape="rect" id="node7" href="$d9/dca/created__executor_8cpp.html#a00698497aebbb08ccb1fafc32f2e52a2" title="sum_test" alt="" coords="454,208,530,235"/>
+<area shape="rect" id="node9" href="$d9/dca/created__executor_8cpp.html#a4d1c30958d1491133fea27b151c6779a" title="void_parallel_sum" alt="" coords="202,259,326,285"/>
+<area shape="rect" id="node10" href="$d9/dcb/for__loop__reduction_8cpp.html#a91269dee646d1279d2c4514807a931a9" title="test_for_loop_reduction_plus" alt="" coords="171,309,357,336"/>
+<area shape="rect" id="node12" href="$d9/dcb/for__loop__reduction_8cpp.html#a1e15b8c44b6510ed29078b988ec95471" title="test_for_loop_reduction\l_multiplies" alt="" coords="186,361,342,402"/>
+<area shape="rect" id="node13" href="$d9/dcb/for__loop__reduction_8cpp.html#af8808060a99ce7ca296b8e821c448417" title="test_for_loop_reduction_min" alt="" coords="172,427,356,453"/>
+<area shape="rect" id="node14" href="$d9/dcb/for__loop__reduction_8cpp.html#a484594b58085bce7b4e77c903d840931" title="test_for_loop_reduction\l_bit_and_idx" alt="" coords="186,478,342,519"/>
+<area shape="rect" id="node17" href="$d9/dcb/for__loop__reduction_8cpp.html#ae1f23ff134004c86166e49981fddd33f" title="test_for_loop_reduction\l_bit_or_idx" alt="" coords="186,543,342,585"/>
+<area shape="rect" id="node18" href="$dd/d27/hpx__heterogeneous__timed__task__spawn_8cpp.html#aaf67a3863f19ff7033e239ebb1204fb7" title="hpx_main" alt="" coords="225,609,303,636"/>
+<area shape="rect" id="node19" href="$d3/dca/osu__bcast_8cpp.html#a03a9259c1031dc6e2473041a34d95b4d" title="run_benchmark" alt="" coords="209,660,319,687"/>
+<area shape="rect" id="node21" href="$d2/d07/parent__vs__child__stealing_8cpp.html#a91927c56b9c1646f2ff27e2764ef5e99" title="measure" alt="" coords="228,711,300,737"/>
+<area shape="rect" id="node23" href="$dc/d3b/print__heterogeneous__payloads_8cpp.html#ad90dff366a446c5481af0824ef0a4eea" title="app_main" alt="" coords="225,761,303,788"/>
+<area shape="rect" id="node25" href="$df/d06/qthreads__heterogeneous__timed__task__spawn_8cpp.html#a555795af75c3039f10405c98d44cf417" title="qthreads_main" alt="" coords="211,812,317,839"/>
+<area shape="rect" id="node27" href="$d5/d03/reduce___8cpp.html#a74ed496aa3a164fabefb67943654e652" title="test_reduce1" alt="" coords="215,863,313,889"/>
+<area shape="rect" id="node29" href="$d5/d03/reduce___8cpp.html#a35bb9cfecf5f375548e84b15089c936a" title="test_reduce1_async" alt="" coords="195,913,333,940"/>
+<area shape="rect" id="node30" href="$d5/d03/reduce___8cpp.html#ad0316aeed7fd31b54e69bff41c770a96" title="test_reduce2" alt="" coords="215,964,313,991"/>
+<area shape="rect" id="node32" href="$d5/d03/reduce___8cpp.html#a8dcfb392f0f8b6587c218cdbebc5bb97" title="test_reduce2_async" alt="" coords="195,1015,333,1041"/>
+<area shape="rect" id="node33" href="$d5/d03/reduce___8cpp.html#a0cda02cabc9834c3ab38df2ab5907748" title="test_reduce3" alt="" coords="215,1065,313,1092"/>
+<area shape="rect" id="node35" href="$d5/d03/reduce___8cpp.html#a341e57cb729f7e6185a63218c037dce1" title="test_reduce3_async" alt="" coords="195,1116,333,1143"/>
+<area shape="rect" id="node36" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a4c5c2e57730a788a22926759bcc07972" title="hpx::threads::detail\l::scheduled_thread_pool\l::set_state" alt="" coords="411,1083,573,1139"/>
+<area shape="rect" id="node37" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a752993760499d1faf511432e3230620a" title="hpx::threads::detail\l::scheduled_thread_pool\l::get_executed_threads" alt="" coords="183,1217,345,1273"/>
+<area shape="rect" id="node40" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a8d4a988d98693b637a1591ecbc404721" title="hpx::threads::detail\l::scheduled_thread_pool\l::get_cumulative_duration" alt="" coords="407,1293,577,1349"/>
+<area shape="rect" id="node41" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a367acdc6271c6f58f8685b56c3c8bb04" title="hpx::threads::detail\l::scheduled_thread_pool\l::get_idle_loop_count" alt="" coords="411,1373,573,1429"/>
+<area shape="rect" id="node42" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#adb0c9659b44a490e5915d053dd90fc91" title="hpx::threads::detail\l::scheduled_thread_pool\l::get_busy_loop_count" alt="" coords="411,1453,573,1509"/>
+<area shape="rect" id="node43" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#ac85378bebf0a26c99c93ec1a460d7683" title="hpx::threads::detail\l::scheduled_thread_pool\l::get_scheduler_utilization" alt="" coords="405,1533,579,1589"/>
+<area shape="rect" id="node44" href="$dc/db9/transform__reduce_8cpp.html#a040fad38b78dc748d2776bc94af89b84" title="test_transform_reduce" alt="" coords="189,1531,339,1557"/>
+<area shape="rect" id="node46" href="$dc/db9/transform__reduce_8cpp.html#a5e589ac2db4f7911f89982b8fbd2ac41" title="test_transform_reduce\l_async" alt="" coords="189,1589,339,1630"/>
+<area shape="rect" id="node4" href="$dd/d5f/channel_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="467,56,517,83"/>
+<area shape="rect" id="node8" href="$d9/dca/created__executor_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="669,208,747,235"/>
+<area shape="rect" id="node11" href="$d9/dcb/for__loop__reduction_8cpp.html#a4e39bd146dd7b42c8f85d2d27c2d10be" title="test_for_loop_reduction" alt="" coords="414,368,570,395"/>
+<area shape="rect" id="node15" href="$d9/dcb/for__loop__reduction_8cpp.html#ae0b69677d5b36922d88d13af915e16ec" title="for_loop_reduction\l_test_idx" alt="" coords="429,510,555,551"/>
+<area shape="rect" id="node16" href="$d9/dcb/for__loop__reduction_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="669,517,747,544"/>
+<area shape="rect" id="node20" href="$d3/dca/osu__bcast_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="453,660,531,687"/>
+<area shape="rect" id="node22" href="$d2/d07/parent__vs__child__stealing_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="453,711,531,737"/>
+<area shape="rect" id="node24" href="$dc/d3b/print__heterogeneous__payloads_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="467,761,517,788"/>
+<area shape="rect" id="node26" href="$df/d06/qthreads__heterogeneous__timed__task__spawn_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="467,812,517,839"/>
+<area shape="rect" id="node28" href="$d5/d03/reduce___8cpp.html#aae607ecd9efdf80192af98d4d571a873" title="test_reduce1" alt="" coords="443,888,541,915"/>
+<area shape="rect" id="node31" href="$d5/d03/reduce___8cpp.html#a54631bd2bb96a9142221cfc7f145d9cc" title="test_reduce2" alt="" coords="443,973,541,1000"/>
+<area shape="rect" id="node34" href="$d5/d03/reduce___8cpp.html#a2efb02a2e2a6258c72f3cddb8a34cc32" title="test_reduce3" alt="" coords="443,1032,541,1059"/>
+<area shape="rect" id="node38" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a2f281765fae56e182a978b907c75f1ca" title="hpx::threads::detail\l::scheduled_thread_pool\l::get_queue_length" alt="" coords="627,1333,789,1389"/>
+<area shape="rect" id="node39" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#af2dcb72d2af1ae8d518295a975531b21" title="hpx::threads::detail\l::scheduled_thread_pool\l::get_statistics" alt="" coords="411,1213,573,1269"/>
+<area shape="rect" id="node45" href="$dc/db9/transform__reduce_8cpp.html#aff96bcd61855153564ff60ef660d6c3b" title="test_transform_reduce" alt="" coords="417,1613,567,1640"/>
+</map>

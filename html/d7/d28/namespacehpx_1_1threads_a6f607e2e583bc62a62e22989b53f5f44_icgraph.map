@@ -1,0 +1,14 @@
+<map id="hpx::threads::sync_execute" name="hpx::threads::sync_execute">
+<area shape="rect" id="node2" href="$d5/d95/structhpx_1_1compute_1_1host_1_1block__executor.html#a7eb399f249b8042c9f0d22180db504db" title="hpx::compute::host\l::block_executor\&lt; executor\l_type \&gt;::sync_execute" alt="" coords="189,5,369,61"/>
+<area shape="rect" id="node3" href="$d4/db9/structhpx_1_1parallel_1_1v1_1_1detail_1_1algorithm.html#ae6c2611dc4f8b018bd28fd578d0d865d" title="hpx::parallel::v1::\ldetail::algorithm\&lt; verify\l\&lt; Value \&gt;, Value \&gt;::call\l_execute" alt="" coords="199,86,359,157"/>
+<area shape="rect" id="node4" href="$d6/d35/classhpx_1_1parallel_1_1execution_1_1distribution__policy__executor.html#a3917ec6c203135a8856a290e3107e41f" title="hpx::parallel::execution\l::distribution_policy_executor\l::distribution_policy_executor" alt="" coords="184,181,375,237"/>
+<area shape="rect" id="node5" href="$df/d23/namespacehpx_1_1parallel_1_1execution.html#a15c6cbe7f657f117ad0a3c4943df0365" title="hpx::parallel::execution\l::make_distribution_policy\l_executor" alt="" coords="193,261,366,317"/>
+<area shape="rect" id="node8" href="$d8/d83/minimal__async__executor_8cpp.html#a2e6feb13e4669dad0258f0c45249071a" title="test_sync" alt="" coords="240,341,319,368"/>
+<area shape="rect" id="node10" href="$d7/de3/minimal__timed__async__executor_8cpp.html#a72d9987f171e3ee7bdae3ce514e1110d" title="test_timed_sync" alt="" coords="220,392,339,419"/>
+<area shape="rect" id="node12" href="$d9/d62/shared__parallel__executor_8cpp.html#aab3c1b9ad8f09149b49c7e5de8cbd63f" title="test_sync_void" alt="" coords="225,443,333,469"/>
+<area shape="rect" id="node6" href="$da/d92/distribution__policy__executor_8cpp.html#a8aeb3b35dfc27baeb6d37a11e02b4e23" title="test_distribution_policy\l_executor" alt="" coords="423,269,577,310"/>
+<area shape="rect" id="node7" href="$da/d92/distribution__policy__executor_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="625,276,676,303"/>
+<area shape="rect" id="node9" href="$d8/d83/minimal__async__executor_8cpp.html#a12065ee56eec28d3895ba316405a7116" title="test_executor" alt="" coords="449,341,551,368"/>
+<area shape="rect" id="node11" href="$d7/de3/minimal__timed__async__executor_8cpp.html#a4e2d002d587a77e84eb27f1f903f5094" title="test_timed_executor" alt="" coords="430,392,570,419"/>
+<area shape="rect" id="node13" href="$d9/d62/shared__parallel__executor_8cpp.html#ab1825231fb9efbfb464404767c072654" title="hpx_main" alt="" coords="461,443,539,469"/>
+</map>

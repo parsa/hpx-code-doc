@@ -1,0 +1,27 @@
+digraph "hpx::util::logging::logger_format_write&lt; format_base, destination_base, thread_safety, gather, lock_resource &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node9 [label="hpx::util::logging\l::logger_format_write\l\< format_base, destination\l_base, thread_safety, gather,\l lock_resource \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node10 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="hpx::util::logging\l::logger\< detail::format\l_find_gather\< gather \>\l::type, detail::format_find\l_writer\< format_base, destination\l_base, lock_resource, thread_safety\l \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d3e/structhpx_1_1util_1_1logging_1_1logger.html"];
+  Node11 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="hpx::util::logging\l::logger_base\< detail\l::format_find_gather\<\l gather \>::type, detail\l::format_find_writer\< format\l_base, destination_base, lock\l_resource, thread_safety \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d10/structhpx_1_1util_1_1logging_1_1logger__base.html",tooltip="logger base class. "];
+  Node12 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="hpx::util::logging\l::detail::default_cache\l_keeper\< detail ::cache\l_before_init\< detail::find\l_gather_if_default\< gather\l_msg \> ::msg_type \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d40/structhpx_1_1util_1_1logging_1_1detail_1_1default__cache__keeper.html"];
+  Node13 -> Node12 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< detail ::cache_before\l_init\< detail::find_gather\l_if_default\< gather_msg \>\l ::msg_type \> \>" ,fontname="Helvetica"];
+  Node13 [label="hpx::util::logging\l::detail::default_cache\l_keeper\< cache_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d40/structhpx_1_1util_1_1logging_1_1detail_1_1default__cache__keeper.html",tooltip="default implementation of keeping cache "];
+  Node14 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="hpx::util::logging\l::detail::common_base\l_holder\< gather_msg, write_msg \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d5a/structhpx_1_1util_1_1logging_1_1detail_1_1common__base__holder.html"];
+  Node15 -> Node10 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< detail::format_find\l_gather\< gather \>::type,\l detail::format_find_writer\l\< format_base, destination\l_base, lock_resource, thread\l_safety \>::type \>" ,fontname="Helvetica"];
+  Node15 [label="hpx::util::logging\l::logger\< gather_msg,\l write_msg \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d3e/structhpx_1_1util_1_1logging_1_1logger.html",tooltip="The logger class. Every log from your application is an instance of this (see workflow) ..."];
+  Node16 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="hpx::util::logging\l::logger_base\< gather\l_msg, write_msg \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d10/structhpx_1_1util_1_1logging_1_1logger__base.html"];
+  Node12 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 -> Node16 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< gather_msg, write\l_msg \>" ,fontname="Helvetica"];
+  Node17 [label="hpx::util::logging\l::logger_base\< gather\l_msg, write_msg, dummy \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d10/structhpx_1_1util_1_1logging_1_1logger__base.html",tooltip="logger base class. "];
+  Node12 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

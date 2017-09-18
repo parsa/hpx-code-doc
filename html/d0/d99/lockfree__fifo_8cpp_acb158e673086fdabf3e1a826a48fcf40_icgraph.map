@@ -1,0 +1,7 @@
+<map id="get_next_thread" name="get_next_thread">
+<area shape="rect" id="node2" href="$d7/d87/classhpx_1_1threads_1_1policies_1_1local__priority__queue__scheduler.html#a7570e6e17ee6b21c31e9a3e891a8b7d7" title="hpx::threads::policies\l::local_priority_queue\l_scheduler::get_next_thread" alt="" coords="168,5,355,61"/>
+<area shape="rect" id="node3" href="$d0/d99/lockfree__fifo_8cpp.html#a09e151d5d47e598afb69e77b801e5086" title="worker_thread" alt="" coords="210,85,313,112"/>
+<area shape="rect" id="node5" href="$dd/d7e/structhpx_1_1threads_1_1policies_1_1scheduler__base.html#a55fe864c7b0c34c284a1a929f42d6ed9" title="hpx::threads::policies\l::scheduler_base::domain\l_threads" alt="" coords="176,136,347,192"/>
+<area shape="rect" id="node6" href="$d8/d52/classhpx_1_1threads_1_1policies_1_1shared__priority__scheduler.html#a309284fa93f9949de2e70cf80fb3bd8e" title="Return the next thread to be executed, return false if none available. " alt="" coords="172,216,351,272"/>
+<area shape="rect" id="node4" href="$d0/d99/lockfree__fifo_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="403,85,453,112"/>
+</map>

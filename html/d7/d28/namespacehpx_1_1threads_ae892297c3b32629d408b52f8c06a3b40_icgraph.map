@@ -1,0 +1,6 @@
+<map id="hpx::threads::get_pu_mask" name="hpx::threads::get_pu_mask">
+<area shape="rect" id="node2" href="$d7/d9b/structhpx_1_1threads_1_1policies_1_1detail_1_1affinity__data.html#a34dc8bebf9254c98a5c51a411c6e71b9" title="hpx::threads::policies\l::detail::affinity_data\l::get_num_threads" alt="" coords="255,5,401,61"/>
+<area shape="rect" id="node3" href="$d4/d91/classhpx_1_1parallel_1_1util_1_1numa__allocator.html#a740ebb2648abf6581dd5bd9223c3a08b" title="hpx::parallel::util\l::numa_allocator::allocate" alt="" coords="243,86,413,127"/>
+<area shape="rect" id="node4" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a932efced0bbfee361094b8552334d931" title="hpx::resource::detail\l::partitioner::get_affinity_data" alt="" coords="233,151,423,193"/>
+<area shape="rect" id="node5" href="$d6/da2/classhpx_1_1threads_1_1detail_1_1executor__base.html#ab194897888d9f969a3f4c69c472aa2ec" title="hpx::threads::detail\l::executor_base::reset\l_thread_distribution" alt="" coords="252,217,404,273"/>
+</map>

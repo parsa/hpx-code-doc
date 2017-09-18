@@ -1,0 +1,6 @@
+<map id="hpx::performance_counters::performance_counter_set::stop" name="hpx::performance_counters::performance_counter_set::stop">
+<area shape="rect" id="node2" href="$d4/d45/classhpx_1_1performance__counters_1_1server_1_1arithmetics__counter.html#a5d34f91628602d226ea6cc7c1230a11c" title="hpx::performance_counters\l::server::arithmetics_counter::stop" alt="" coords="263,5,481,47"/>
+<area shape="rect" id="node3" href="$df/d08/classhpx_1_1performance__counters_1_1performance__counter__set.html#ac27fe3239c0d1b9b23fa473cb87bb6a0" title="hpx::performance_counters\l::performance_counter_set::stop" alt="" coords="267,71,477,112"/>
+<area shape="rect" id="node4" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#acdf5164427bfa867d9caf1b044bf662f" title="hpx::util::query_counters\l::stop_evaluating_counters" alt="" coords="284,136,460,177"/>
+<area shape="rect" id="node5" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#af4ea74a87c98dd981e7693eba2a0a7b5" title="hpx::util::query_counters\l::stop_counters" alt="" coords="289,201,455,243"/>
+</map>

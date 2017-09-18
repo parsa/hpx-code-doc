@@ -1,0 +1,4 @@
+<map id="hpx::runtime::set_state" name="hpx::runtime::set_state">
+<area shape="rect" id="node2" href="$dc/d80/classhpx_1_1runtime__impl.html#a19b55584b2e6b6b4d72ae159fbef0f6e" title="hpx::runtime_impl::\lruntime_impl" alt="" coords="209,5,343,47"/>
+<area shape="rect" id="node3" href="$dc/d80/classhpx_1_1runtime__impl.html#a701851190a0f98e3ed6d94c2bde4b6f8" title="The destructor makes sure all HPX runtime services are properly shut down before exiting. " alt="" coords="209,71,343,112"/>
+</map>

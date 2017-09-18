@@ -1,0 +1,9 @@
+<map id="hpx::performance_counters::server::elapsed_time_counter" name="hpx::performance_counters::server::elapsed_time_counter">
+<area shape="rect" id="node2" href="$d7/d92/classhpx_1_1performance__counters_1_1server_1_1base__performance__counter.html" title="hpx::performance_counters\l::server::base_performance\l_counter" alt="" coords="572,137,751,193"/>
+<area shape="rect" id="node3" href="$d4/dab/structhpx_1_1performance__counters_1_1performance__counter__base.html" title="hpx::performance_counters\l::performance_counter_base" alt="" coords="215,146,401,187"/>
+<area shape="rect" id="node4" href="$d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag.html" title="hpx::traits::detail\l::component_tag" alt="" coords="249,211,367,253"/>
+<area shape="rect" id="node8" href="$d2/de6/classhpx_1_1components_1_1component__base.html" title="hpx::components::component\l_base\&lt; elapsed_time_counter \&gt;" alt="" coords="557,218,765,259"/>
+<area shape="rect" id="node5" href="$d4/dc4/structhpx_1_1performance__counters_1_1counter__info.html" title="hpx::performance_counters\l::counter_info" alt="" coords="219,29,397,70"/>
+<area shape="rect" id="node7" href="$dc/d59/classhpx_1_1util_1_1atomic__count.html" title="hpx::util::atomic_count" alt="" coords="231,95,385,121"/>
+<area shape="rect" id="node9" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html" title="Global identifier for components across the HPX system. " alt="" coords="233,277,383,304"/>
+</map>

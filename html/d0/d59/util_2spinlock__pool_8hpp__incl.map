@@ -1,0 +1,18 @@
+<map id="spinlock_pool.hpp" name="spinlock_pool.hpp">
+<area shape="rect" id="node2" href="$d8/dfd/config_8hpp.html" title="hpx/config.hpp" alt="" coords="757,177,864,203"/>
+<area shape="rect" id="node17" href="$de/df9/itt__notify_8hpp.html" title="hpx/util/itt_notify.hpp" alt="" coords="609,87,751,114"/>
+<area shape="rect" id="node21" href="$d6/d38/register__locks_8hpp.html" title="hpx/util/register_locks.hpp" alt="" coords="827,87,1002,114"/>
+<area shape="rect" id="node3" href="$df/d6a/attributes_8hpp.html" title="hpx/config/attributes.hpp" alt="" coords="1063,266,1227,293"/>
+<area shape="rect" id="node5" href="$d2/d97/compiler__specific_8hpp.html" title="hpx/config/compiler\l_specific.hpp" alt="" coords="1226,348,1361,389"/>
+<area shape="rect" id="node6" href="$de/d38/branch__hints_8hpp.html" title="hpx/config/branch_hints.hpp" alt="" coords="44,266,228,293"/>
+<area shape="rect" id="node7" href="$d4/dce/constexpr_8hpp.html" title="hpx/config/constexpr.hpp" alt="" coords="950,355,1117,382"/>
+<area shape="rect" id="node8" href="$d6/de2/emulate__deleted_8hpp.html" title="hpx/config/emulate\l_deleted.hpp" alt="" coords="303,259,433,300"/>
+<area shape="rect" id="node9" href="$d8/df6/config_2export__definitions_8hpp.html" title="hpx/config/export_definitions.hpp" alt="" coords="452,355,663,382"/>
+<area shape="rect" id="node10" href="$d7/d7f/forceinline_8hpp.html" title="hpx/config/forceinline.hpp" alt="" coords="1252,266,1420,293"/>
+<area shape="rect" id="node11" href="$de/d75/manual__profiling_8hpp.html" title="hpx/config/manual_profiling.hpp" alt="" coords="508,266,711,293"/>
+<area shape="rect" id="node12" href="$d5/ddd/config_2version_8hpp.html" title="hpx/config/version.hpp" alt="" coords="735,266,886,293"/>
+<area shape="rect" id="node13" href="$d0/d47/cat_8hpp.html" title="hpx/util/detail/pp\l/cat.hpp" alt="" coords="785,348,903,389"/>
+<area shape="rect" id="node16" href="$de/ded/stringize_8hpp.html" title="hpx/util/detail/pp\l/stringize.hpp" alt="" coords="5,348,123,389"/>
+<area shape="rect" id="node14" href="$d2/d1a/util_2detail_2pp_2config_8hpp.html" title="hpx/util/detail/pp\l/config.hpp" alt="" coords="396,437,513,479"/>
+<area shape="rect" id="node22" href="$db/d45/has__member__xxx_8hpp.html" title="hpx/traits/has_member\l_xxx.hpp" alt="" coords="965,169,1120,211"/>
+</map>

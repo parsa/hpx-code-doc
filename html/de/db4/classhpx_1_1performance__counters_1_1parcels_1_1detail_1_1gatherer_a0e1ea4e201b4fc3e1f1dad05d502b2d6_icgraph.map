@@ -1,0 +1,8 @@
+<map id="hpx::performance_counters::parcels::detail::gatherer::num_messages" name="hpx::performance_counters::parcels::detail::gatherer::num_messages">
+<area shape="rect" id="node2" href="$de/db4/classhpx_1_1performance__counters_1_1parcels_1_1detail_1_1gatherer.html#aa523fba63e4f5caa01ee2626cf7c2c5b" title="hpx::performance_counters\l::parcels::detail::gatherer\l::gatherer" alt="" coords="240,5,419,61"/>
+<area shape="rect" id="node3" href="$d9/d67/classhpx_1_1parcelset_1_1parcelport.html#a7912be5704603945354f4ca175729186" title="number of messages sent " alt="" coords="238,86,421,127"/>
+<area shape="rect" id="node6" href="$d9/d67/classhpx_1_1parcelset_1_1parcelport.html#a07274b555dd2a6a456dde1835e14ab72" title="number of messages received " alt="" coords="232,151,427,193"/>
+<area shape="rect" id="node4" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#ad542f910ae1ca695c937253173612f23" title="hpx::parcelset::parcelhandler\l::get_message_send_count" alt="" coords="477,86,667,127"/>
+<area shape="rect" id="node5" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#ab9fc195c028e030164d446ca6cc08da2" title="hpx::parcelset::parcelhandler\l::register_counter_types" alt="" coords="717,119,907,161"/>
+<area shape="rect" id="node7" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a484165a9d07291c3a4dda4d16ac694d0" title="hpx::parcelset::parcelhandler\l::get_message_receive_count" alt="" coords="475,151,669,193"/>
+</map>

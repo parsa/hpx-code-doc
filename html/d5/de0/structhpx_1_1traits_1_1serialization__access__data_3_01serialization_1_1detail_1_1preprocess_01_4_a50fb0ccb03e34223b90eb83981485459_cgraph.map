@@ -1,0 +1,7 @@
+<map id="hpx::traits::serialization_access_data&lt; serialization::detail::preprocess &gt;::await_future" name="hpx::traits::serialization_access_data&lt; serialization::detail::preprocess &gt;::await_future">
+<area shape="rect" id="node2" href="$df/db6/classhpx_1_1serialization_1_1detail_1_1preprocess.html#abe630ebd03b2c4f99c9d6d86f8b2043f" title="hpx::serialization\l::detail::preprocess\l::await_future" alt="" coords="276,45,409,101"/>
+<area shape="rect" id="node3" href="$da/d11/structhpx_1_1lcos_1_1detail_1_1future__data__refcnt__base.html#afd9a10ac726a0922edf542ce91fc4ebb" title="hpx::lcos::detail::\lfuture_data_refcnt_base\l::set_on_completed" alt="" coords="457,5,617,61"/>
+<area shape="rect" id="node4" href="$df/db6/classhpx_1_1serialization_1_1detail_1_1preprocess.html#a717694054211c975bfcf72d6103f4f6f" title="hpx::serialization\l::detail::preprocess\l::trigger" alt="" coords="471,85,604,141"/>
+<area shape="rect" id="node5" href="$da/d9a/async__io__external_8cpp.html#ae46b07440afec1138286368e32af7ae6" title="set_value" alt="" coords="877,100,953,127"/>
+<area shape="rect" id="node6" href="$d3/dc1/classhpx_1_1lcos_1_1local_1_1promise_3_01void_01_4.html#a02118460968620402b62236f81f2f80b" title="hpx::lcos::local::promise\l\&lt; void \&gt;::set_value" alt="" coords="665,122,829,163"/>
+</map>

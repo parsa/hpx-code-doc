@@ -1,0 +1,33 @@
+<map id="header.hpp" name="header.hpp">
+<area shape="rect" id="node2" href="$d9/d31/parcel__buffer_8hpp.html" title="hpx/runtime/parcelset\l/parcel_buffer.hpp" alt="" coords="871,80,1018,121"/>
+<area shape="rect" id="node36" href="$d2/d54/assert_8hpp.html" title="hpx/util/assert.hpp" alt="" coords="631,355,760,382"/>
+<area shape="rect" id="node3" href="$d8/dfd/config_8hpp.html" title="hpx/config.hpp" alt="" coords="1962,623,2069,650"/>
+<area shape="rect" id="node18" href="$d3/d61/data__point_8hpp.html" title="hpx/performance_counters\l/parcels/data_point.hpp" alt="" coords="857,169,1032,211"/>
+<area shape="rect" id="node45" href="$d8/dcd/serialization__chunk_8hpp.html" title="hpx/runtime/serialization\l/serialization_chunk.hpp" alt="" coords="467,527,630,568"/>
+<area shape="rect" id="node47" href="$df/d89/endian_8hpp.html" title="hpx/util/integer/endian.hpp" alt="" coords="5,534,180,561"/>
+<area shape="rect" id="node4" href="$df/d6a/attributes_8hpp.html" title="hpx/config/attributes.hpp" alt="" coords="1763,713,1927,739"/>
+<area shape="rect" id="node6" href="$d2/d97/compiler__specific_8hpp.html" title="hpx/config/compiler\l_specific.hpp" alt="" coords="1631,795,1765,836"/>
+<area shape="rect" id="node7" href="$de/d38/branch__hints_8hpp.html" title="hpx/config/branch_hints.hpp" alt="" coords="1207,713,1391,739"/>
+<area shape="rect" id="node8" href="$d4/dce/constexpr_8hpp.html" title="hpx/config/constexpr.hpp" alt="" coords="1937,802,2104,829"/>
+<area shape="rect" id="node9" href="$d6/de2/emulate__deleted_8hpp.html" title="hpx/config/emulate\l_deleted.hpp" alt="" coords="1415,705,1546,747"/>
+<area shape="rect" id="node10" href="$d8/df6/config_2export__definitions_8hpp.html" title="hpx/config/export_definitions.hpp" alt="" coords="2129,802,2339,829"/>
+<area shape="rect" id="node11" href="$d7/d7f/forceinline_8hpp.html" title="hpx/config/forceinline.hpp" alt="" coords="1570,713,1738,739"/>
+<area shape="rect" id="node12" href="$de/d75/manual__profiling_8hpp.html" title="hpx/config/manual_profiling.hpp" alt="" coords="2103,713,2306,739"/>
+<area shape="rect" id="node13" href="$d5/ddd/config_2version_8hpp.html" title="hpx/config/version.hpp" alt="" coords="2331,713,2481,739"/>
+<area shape="rect" id="node14" href="$d0/d47/cat_8hpp.html" title="hpx/util/detail/pp\l/cat.hpp" alt="" coords="2510,795,2627,836"/>
+<area shape="rect" id="node17" href="$de/ded/stringize_8hpp.html" title="hpx/util/detail/pp\l/stringize.hpp" alt="" coords="2651,795,2769,836"/>
+<area shape="rect" id="node15" href="$d2/d1a/util_2detail_2pp_2config_8hpp.html" title="hpx/util/detail/pp\l/config.hpp" alt="" coords="2581,884,2698,925"/>
+<area shape="rect" id="node19" href="$d0/ddd/name_8hpp.html" title="hpx/runtime/naming\l/name.hpp" alt="" coords="1494,259,1630,300"/>
+<area shape="rect" id="node20" href="$d9/d89/lcos_2local_2spinlock_8hpp.html" title="hpx/lcos/local/spinlock.hpp" alt="" coords="1202,445,1381,471"/>
+<area shape="rect" id="node21" href="$de/df9/itt__notify_8hpp.html" title="hpx/util/itt_notify.hpp" alt="" coords="1009,534,1152,561"/>
+<area shape="rect" id="node25" href="$d6/d38/register__locks_8hpp.html" title="hpx/util/register_locks.hpp" alt="" coords="1991,534,2165,561"/>
+<area shape="rect" id="node28" href="$d9/d65/lcos_2local_2spinlock__pool_8hpp.html" title="hpx/lcos/local/spinlock\l_pool.hpp" alt="" coords="1345,348,1499,389"/>
+<area shape="rect" id="node29" href="$d8/dce/id__type_8hpp.html" title="hpx/runtime/naming\l/id_type.hpp" alt="" coords="1675,437,1811,479"/>
+<area shape="rect" id="node30" href="$d5/d24/naming__fwd_8hpp.html" title="hpx/runtime/naming\l_fwd.hpp" alt="" coords="1329,527,1465,568"/>
+<area shape="rect" id="node31" href="$d4/d93/serialization__fwd_8hpp.html" title="hpx/runtime/serialization\l/serialization_fwd.hpp" alt="" coords="1753,527,1915,568"/>
+<area shape="rect" id="node33" href="$d4/d62/get__remote__result_8hpp.html" title="hpx/traits/get_remote\l_result.hpp" alt="" coords="2495,527,2640,568"/>
+<area shape="rect" id="node34" href="$db/d2a/is__bitwise__serializable_8hpp.html" title="hpx/traits/is_bitwise\l_serializable.hpp" alt="" coords="1591,527,1728,568"/>
+<area shape="rect" id="node35" href="$de/da6/promise__local__result_8hpp.html" title="hpx/traits/promise\l_local_result.hpp" alt="" coords="2407,437,2533,479"/>
+<area shape="rect" id="node41" href="$d1/d58/atomic__count_8hpp.html" title="hpx/util/atomic_count.hpp" alt="" coords="2289,355,2459,382"/>
+<area shape="rect" id="node48" href="$df/d50/cover__operators_8hpp.html" title="hpx/util/integer/cover\l_operators.hpp" alt="" coords="259,616,401,657"/>
+</map>

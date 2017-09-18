@@ -1,0 +1,4 @@
+<map id="hpx::lcos::channel_iterator&lt; T, Channel &gt;" name="hpx::lcos::channel_iterator&lt; T, Channel &gt;">
+<area shape="rect" id="node2" href="$db/d7c/structhpx_1_1util_1_1iterator__facade.html" title="hpx::util::iterator\l_facade\&lt; channel_iterator\l\&lt; T, Channel \&gt;, T const,\l std::input_iterator_tag \&gt;" alt="" coords="216,20,387,91"/>
+<area shape="rect" id="node3" href="$d5/d11/classhpx_1_1util_1_1detail_1_1iterator__facade__base.html" title="hpx::util::detail::\literator_facade_base\l\&lt; channel_iterator\&lt; T,\l Channel \&gt;, T, std::input\l_iterator_tag, T &amp;, std::\lptrdiff_t, void \&gt;" alt="" coords="5,5,168,105"/>
+</map>

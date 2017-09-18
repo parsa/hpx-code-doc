@@ -1,0 +1,8 @@
+<map id="test_migrate_component" name="test_migrate_component">
+<area shape="rect" id="node2" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a0cdfe4b8fed578eb1ce34222c0f07b03" title="hpx::components::client\l_base::get_id" alt="" coords="225,5,386,47"/>
+<area shape="rect" id="node3" href="$d8/df6/structtest__client.html#a415572be44e40d3a3a518c559cadcade" title="test_client::call" alt="" coords="250,71,361,98"/>
+<area shape="rect" id="node5" href="$d8/df6/structtest__client.html#aac4daf87ac22f1914749ba92676258b2" title="test_client::get_data" alt="" coords="235,122,375,149"/>
+<area shape="rect" id="node6" href="$d5/d76/namespacehpx_1_1components.html#aa6180d7bf575d567745beec0e308830b" title="hpx::components::migrate" alt="" coords="219,173,392,199"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#ad28bf0e2a07a99c4d3eedaf1339af32c" title="Return the error message of the thrown exception. " alt="" coords="237,223,373,250"/>
+<area shape="rect" id="node4" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="440,89,635,131"/>
+</map>

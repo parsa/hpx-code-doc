@@ -1,0 +1,23 @@
+<map id="hpx::components::stub_base::create_async" name="hpx::components::stub_base::create_async">
+<area shape="rect" id="node2" href="$da/d4d/structhpx_1_1components_1_1binpacking__distribution__policy.html#a92923eb829b6a94f553039369cb22000" title="hpx::components::binpacking\l_distribution_policy::create" alt="" coords="208,5,400,47"/>
+<area shape="rect" id="node3" href="$d7/d4c/structhpx_1_1components_1_1colocating__distribution__policy.html#ad42527e98056824f346ec839e7218d17" title="hpx::components::colocating\l_distribution_policy::create" alt="" coords="209,71,399,112"/>
+<area shape="rect" id="node4" href="$dc/dba/structhpx_1_1components_1_1default__distribution__policy.html#ab11b5d0604c244769a11589303333ad7" title="hpx::components::default\l_distribution_policy::create" alt="" coords="215,136,393,177"/>
+<area shape="rect" id="node5" href="$d6/d63/structhpx_1_1test_1_1managed__refcnt__monitor.html#aa2b18104667fa6e9179b95e53ba7985d" title="Create a new component on the target locality. " alt="" coords="218,202,390,258"/>
+<area shape="rect" id="node6" href="$db/d03/structhpx_1_1components_1_1detail_1_1new__component.html#a8e24d02e505059cc872cc60ccc590fbd" title="hpx::components::detail\l::new_component::call" alt="" coords="223,283,385,324"/>
+<area shape="rect" id="node19" href="$da/d7b/structhpx_1_1components_1_1detail_1_1new__client.html#ae0e9232e1de949e1732a88d7331fd402" title="hpx::components::detail\l::new_client::call" alt="" coords="223,348,385,389"/>
+<area shape="rect" id="node21" href="$d9/d66/structhpx_1_1test_1_1simple__refcnt__monitor.html#ae6a3097b2bbdd160ecfbf693b62c1a98" title="Create a new component on the target locality. " alt="" coords="225,414,383,470"/>
+<area shape="rect" id="node22" href="$d4/dc8/structhpx_1_1components_1_1target__distribution__policy.html#a778f907a6ac1b1e0752b975929bc9b15" title="hpx::components::target\l_distribution_policy::\lcreate" alt="" coords="223,494,385,550"/>
+<area shape="rect" id="node7" href="$d5/d76/namespacehpx_1_1components.html#a6ef7eba789c21591e578e62638685af0" title="hpx::components::new_" alt="" coords="449,225,609,251"/>
+<area shape="rect" id="node18" href="$dd/d5b/structhpx_1_1components_1_1detail_1_1new__client_3_01_client[]_4.html#a1b7ff8d81d7c1008f0192289fd4429ba" title="hpx::components::detail\l::new_client\&lt; Client[]\l\&gt;::call" alt="" coords="448,275,609,331"/>
+<area shape="rect" id="node8" href="$d8/df6/structtest__client.html#a9441293493adad0312415556f2d16b74" title="test_client::create_new" alt="" coords="673,98,829,125"/>
+<area shape="rect" id="node10" href="$d5/d76/namespacehpx_1_1components.html#ae841d7da836850a1bf5e1a6549856f82" title="hpx::components::local_new" alt="" coords="657,149,844,175"/>
+<area shape="rect" id="node11" href="$d6/d82/new__binpacking_8cpp.html#a3b354b82749679b66573b711f01ea60b" title="test_binpacking_multiple" alt="" coords="668,199,833,226"/>
+<area shape="rect" id="node13" href="$d6/d82/new__binpacking_8cpp.html#a06994ebf8ae4e664bb3d84acfc8e2e9a" title="test_binpacking_single" alt="" coords="673,250,828,277"/>
+<area shape="rect" id="node14" href="$d1/d60/classhpx_1_1partitioned__vector.html#aa5bc9806884a016563badd3631acba76" title="hpx::partitioned_vector\l::register_as" alt="" coords="675,301,827,343"/>
+<area shape="rect" id="node17" href="$d7/d51/classhpx_1_1unordered__map.html#a508fbf8cb36df6de8c4ebd7f08472a58" title="hpx::unordered_map\l\&lt; hpx::naming::gid_type,\l std::vector\&lt; char \&gt; \&gt;\l::register_as" alt="" coords="667,367,834,437"/>
+<area shape="rect" id="node9" href="$d7/dca/lifetime__588_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="906,98,957,125"/>
+<area shape="rect" id="node12" href="$d6/d82/new__binpacking_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="906,215,957,242"/>
+<area shape="rect" id="node15" href="$db/d7c/partitioned__vector__spmd__foreach_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="892,283,971,310"/>
+<area shape="rect" id="node16" href="$dd/dc9/serialization__partitioned__vector_8cpp.html#ad31f39df04713d49dcb2ed6f9ec4c77b" title="test" alt="" coords="909,334,953,361"/>
+<area shape="rect" id="node20" href="$d5/d76/namespacehpx_1_1components.html#a60bba99023f2d2a49ab083413dcbc927" title="hpx::components::new_" alt="" coords="449,355,609,382"/>
+</map>

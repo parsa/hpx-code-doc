@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d8/d42/structhpx_1_1parallel_1_1v1_1_1detail_1_1algorithm__invoker__action_3_01_algo_00_01_ex_policy_00408ca159642974a34e33ed2ced72aa39.html" title="hpx::parallel::v1::\ldetail::algorithm_invoker\l_action\&lt; Algo, ExPolicy,\l std::false_type, R(Args...)\&gt;" alt="" coords="100,5,283,76"/>
+<area shape="rect" id="node3" href="$d8/d70/structhpx_1_1parallel_1_1v1_1_1detail_1_1algorithm__invoker__action_3_01_algo_00_01_ex_policy_00276a208646cf634effdd5b75ef22bd74.html" title="hpx::parallel::v1::\ldetail::algorithm_invoker\l_action\&lt; Algo, ExPolicy,\l std::true_type, R(Args...)\&gt;" alt="" coords="102,100,281,171"/>
+</map>

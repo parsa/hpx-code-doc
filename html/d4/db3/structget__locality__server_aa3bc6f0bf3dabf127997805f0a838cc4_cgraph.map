@@ -1,0 +1,7 @@
+<map id="get_locality_server::call" name="get_locality_server::call">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="231,38,333,65"/>
+<area shape="rect" id="node6" href="$d4/db3/structget__locality__server.html#a52c55cf846c0b107038a7485554844ca" title="get_locality_server\l::HPX_DEFINE_COMPONENT\l_ACTION" alt="" coords="183,89,381,145"/>
+<area shape="rect" id="node3" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="429,13,612,39"/>
+<area shape="rect" id="node5" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="441,63,601,90"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="660,5,823,47"/>
+</map>

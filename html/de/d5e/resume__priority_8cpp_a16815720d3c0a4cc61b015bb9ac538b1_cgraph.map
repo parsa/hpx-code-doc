@@ -1,0 +1,17 @@
+<map id="normal_priority" name="normal_priority">
+<area shape="rect" id="node2" href="$d9/d52/namespacehpx_1_1this__thread.html#ab49ad5fcd17d3b4f0aba65ba15db23f1" title="hpx::this_thread::get\l_priority" alt="" coords="188,64,329,105"/>
+<area shape="rect" id="node7" href="$d9/d52/namespacehpx_1_1this__thread.html#a9741ecd1a565aada509f4ece34a51098" title="hpx::this_thread::yield" alt="" coords="183,142,334,169"/>
+<area shape="rect" id="node14" href="$de/d5e/resume__priority_8cpp.html#a28870bbbb671dcf7df56edcb6dea2819" title="HPX_DECLARE_ACTION" alt="" coords="174,193,343,219"/>
+<area shape="rect" id="node15" href="$de/d5e/resume__priority_8cpp.html#a9f9eeac66329304e27c1146b618d1045" title="HPX_ACTION_HAS_NORMAL\l_PRIORITY" alt="" coords="160,244,357,285"/>
+<area shape="rect" id="node16" href="$de/d5e/resume__priority_8cpp.html#aae7f9077d278694ebf7accaee52d7916" title="HPX_PLAIN_ACTION" alt="" coords="186,310,331,337"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#ac200e4ded92585c732c4d8bd5a0c8d5f" title="hpx::threads::get_thread\l_priority" alt="" coords="410,5,573,47"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#afafe0f900b9fac3d4ed3c747625c1cfe" title="hpx::threads::get_self_id" alt="" coords="627,58,791,85"/>
+<area shape="rect" id="node5" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="847,58,1016,85"/>
+<area shape="rect" id="node6" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="1071,58,1217,85"/>
+<area shape="rect" id="node8" href="$d9/d52/namespacehpx_1_1this__thread.html#aca220026fb3014c0881d129fe31c0073" title="hpx::this_thread::suspend" alt="" coords="405,167,577,194"/>
+<area shape="rect" id="node9" href="$d7/d28/namespacehpx_1_1threads.html#ada6ec56a12b050707311d8c628089059" title="hpx::threads::interruption\l_point" alt="" coords="625,160,792,201"/>
+<area shape="rect" id="node10" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="844,197,1019,223"/>
+<area shape="rect" id="node11" href="$df/dad/namespacehpx_1_1util.html#ae0e1837ee6f09b79b26c2e788d2e9fc9" title="hpx::util::verify_no\l_locks" alt="" coords="645,277,772,319"/>
+<area shape="rect" id="node12" href="$d7/d28/namespacehpx_1_1threads.html#a42fc18a7a680f4e8bc633a4b4c956701" title="hpx::threads::get_thread\l_description" alt="" coords="627,343,790,384"/>
+<area shape="rect" id="node13" href="$df/d9e/structhpx_1_1util_1_1thread__description.html#a8c834e14eca6eb228188022577f9f952" title="hpx::util::thread_description\l::get_description" alt="" coords="840,343,1023,384"/>
+</map>

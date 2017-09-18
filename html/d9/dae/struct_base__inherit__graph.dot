@@ -1,0 +1,40 @@
+digraph "Base&lt; T &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="Base\< T \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="Derived1\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dbb/struct_derived1.html"];
+  Node1 -> Node2 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< double \>" ,fontname="Helvetica"];
+  Node2 [label="Derived1\< double \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dbb/struct_derived1.html"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Derived2",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d26/struct_derived2.html"];
+  Node0 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::lcos::local::detail\l::task_object\< Result,\l F, Base \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d6b/structhpx_1_1lcos_1_1local_1_1detail_1_1task__object.html"];
+  Node4 -> Node5 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Result, F, lcos::\ldetail::cancelable_task\l_base\< Result \> \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::lcos::local::detail\l::task_object\< Result,\l F, lcos::detail::cancelable\l_task_base\< Result \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d6b/structhpx_1_1lcos_1_1local_1_1detail_1_1task__object.html"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hpx::lcos::local::detail\l::cancelable_task_object\l\< Result, F \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d43/structhpx_1_1lcos_1_1local_1_1detail_1_1cancelable__task__object.html"];
+  Node0 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hpx::util::plugin::\ldetail::abstract_factory\l_item\< BasePlugin, Base,\l hpx::util::detail::pack\l\< Parameters... \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d18/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item_3_01_base_plugin_00_01_base_00_24cad398dbed88075c1d71144bfde513.html"];
+  Node0 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="hpx::util::plugin::\ldetail::concrete_factory\l_item\< BasePlugin, Concrete,\l Base, hpx::util::detail::\lpack\< Parameters... \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d82/structhpx_1_1util_1_1plugin_1_1detail_1_1concrete__factory__item_3_01_base_plugin_00_01_concrete34287d3dc813905fc62062c921c2c075.html"];
+  Node0 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="hpx::util::plugin::\ldetail::plugin_factory\l_item\< BasePlugin, Base,\l hpx::util::detail::pack\l\< Parameters... \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d99/structhpx_1_1util_1_1plugin_1_1detail_1_1plugin__factory__item_3_01_base_plugin_00_01_base_00_012707758446a857a2227f9a1de2a20196.html"];
+  Node0 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="hpx::util::plugin::\ldetail::static_plugin\l_factory_item\< BasePlugin,\l Base, hpx::util::detail\l::pack\< Parameters... \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d8f/structhpx_1_1util_1_1plugin_1_1detail_1_1static__plugin__factory__item_3_01_base_plugin_00_01_baee897eeb051e6c94a18b21c9a1e53137.html"];
+  Node0 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="hpx::util::tagged\<\l Base, Tags \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d48/structhpx_1_1util_1_1tagged.html"];
+  Node11 -> Node12 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< tuple\< detail::tag\l_elem\< Ts \>::type...\l \>, detail::tag_spec\<\l Ts \>::type... \>" ,fontname="Helvetica"];
+  Node12 [label="hpx::util::tagged\<\l tuple\< detail::tag\l_elem\< Ts \>::type...\l \>, detail::tag_spec\<\l Ts \>::type... \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d48/structhpx_1_1util_1_1tagged.html"];
+  Node12 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="hpx::util::tagged_tuple\l\< Ts \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dbf/structhpx_1_1util_1_1tagged__tuple.html"];
+  Node11 -> Node14 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< std::pair\< detail\l::tag_elem\< F \>::type,\l detail::tag_elem\< S \>\l::type \>, detail::tag_spec\l\< F \>::type, detail::tag_spec\l\< S \>::type \>" ,fontname="Helvetica"];
+  Node14 [label="hpx::util::tagged\<\l std::pair\< detail::\ltag_elem\< F \>::type,\l detail::tag_elem\< S \>\l::type \>, detail::tag_spec\l\< F \>::type, detail::tag_spec\l\< S \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d48/structhpx_1_1util_1_1tagged.html"];
+  Node14 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="hpx::util::tagged_pair\l\< F, S \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d1f/structhpx_1_1util_1_1tagged__pair.html"];
+  Node0 -> Node16 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< double \>" ,fontname="Helvetica"];
+  Node16 [label="Base\< double \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d05/struct_base.html"];
+  Node16 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

@@ -1,0 +1,6 @@
+<map id="hello_world_server" name="hello_world_server">
+<area shape="rect" id="node2" href="$d8/d54/structhpx_1_1components_1_1executor__component.html" title="hpx::components::executor\l_component\&lt; hpx::parallel\l::local_priority_queue_executor,\l hpx::components::component_base\l\&lt; hello_world_server \&gt; \&gt;" alt="" coords="477,73,711,158"/>
+<area shape="rect" id="node3" href="$d2/de6/classhpx_1_1components_1_1component__base.html" title="hpx::components::component\l_base\&lt; hello_world_server \&gt;" alt="" coords="233,35,428,76"/>
+<area shape="rect" id="node4" href="$d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag.html" title="hpx::traits::detail\l::component_tag" alt="" coords="21,5,140,47"/>
+<area shape="rect" id="node5" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html" title="Global identifier for components across the HPX system. " alt="" coords="5,71,156,98"/>
+</map>

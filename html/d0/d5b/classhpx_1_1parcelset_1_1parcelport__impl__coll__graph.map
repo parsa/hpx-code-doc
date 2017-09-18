@@ -1,0 +1,10 @@
+<map id="hpx::parcelset::parcelport_impl&lt; ConnectionHandler &gt;" name="hpx::parcelset::parcelport_impl&lt; ConnectionHandler &gt;">
+<area shape="rect" id="node2" href="$d9/d67/classhpx_1_1parcelset_1_1parcelport.html" title="hpx::parcelset::parcelport" alt="" coords="536,122,705,149"/>
+<area shape="rect" id="node5" href="$da/dbc/structhpx_1_1lcos_1_1local_1_1spinlock.html" title="boost::mutex&#45;compatible spinlock class " alt="" coords="272,122,439,149"/>
+<area shape="rect" id="node6" href="$d7/d8f/classhpx_1_1parcelset_1_1locality.html" title="hpx::parcelset::locality" alt="" coords="279,173,432,199"/>
+<area shape="rect" id="node7" href="$da/dcb/classhpx_1_1applier_1_1applier.html" title="hpx::applier::applier" alt="" coords="288,223,423,250"/>
+<area shape="rect" id="node8" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html" title="hpx::util::thread_specific\l_ptr\&lt; hpx::applier::applier\l *, hpx::applier::applier::\ltls_tag \&gt;" alt="" coords="5,201,175,272"/>
+<area shape="rect" id="node9" href="$db/d19/classhpx_1_1util_1_1io__service__pool.html" title="A pool of io_service objects. " alt="" coords="539,173,703,199"/>
+<area shape="rect" id="node10" href="$dc/d59/classhpx_1_1util_1_1atomic__count.html" title="hpx::util::atomic_count" alt="" coords="543,223,698,250"/>
+<area shape="rect" id="node11" href="$d8/d5f/classhpx_1_1util_1_1connection__cache.html" title="hpx::util::connection\l_cache\&lt; connection, hpx\l::parcelset::locality \&gt;" alt="" coords="537,274,705,330"/>
+</map>

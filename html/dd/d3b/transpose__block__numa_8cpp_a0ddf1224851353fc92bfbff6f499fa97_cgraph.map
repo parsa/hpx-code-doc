@@ -1,0 +1,17 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$dd/d3b/transpose__block__numa_8cpp.html#ab70a11b2c271588eeef9d54a2599ed7a" title="retrieve_topology" alt="" coords="159,23,277,50"/>
+<area shape="rect" id="node5" href="$dd/d3b/transpose__block__numa_8cpp.html#a00ec6ec36e166825a9dc1603f51d0ae4" title="get_num_numa_nodes" alt="" coords="141,146,295,173"/>
+<area shape="rect" id="node6" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a1d9640c6881db1bc293767cb139d30ef" title="Return the number of available NUMA domains. " alt="" coords="380,71,576,112"/>
+<area shape="rect" id="node9" href="$dd/d3b/transpose__block__numa_8cpp.html#a2119534bc83be3941891ba477f8c82e2" title="get_num_numa_pus" alt="" coords="149,201,287,227"/>
+<area shape="rect" id="node11" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a0274d4efb13d6f44cde0549e7f6cd238" title="Return number of cores in given numa domain. " alt="" coords="104,252,332,293"/>
+<area shape="rect" id="node12" href="$d8/d83/namespacehpx.html#a3c694ea960b47c56b33351ba16e3d76b" title="Main entry point for launching the HPX runtime system. " alt="" coords="184,358,252,385"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#aa4cc56111111c0910b6705047d8e6588" title="hpx::threads::create\l_topology" alt="" coords="409,5,547,47"/>
+<area shape="rect" id="node4" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a2967c633948a3bf17a3b5405ef5a8318" title="hpx::util::static_::get" alt="" coords="624,137,765,163"/>
+<area shape="rect" id="node7" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a0df3d82a468c182ee628ce76b81cc343" title="Return the number of available NUMA domains. " alt="" coords="394,136,562,177"/>
+<area shape="rect" id="node8" href="$df/dad/namespacehpx_1_1util.html#aca0372e368b829ebac21ebfb2f50a82b" title="hpx::util::safe_lexical_cast" alt="" coords="390,202,566,229"/>
+<area shape="rect" id="node10" href="$d7/d28/namespacehpx_1_1threads.html#aa8752a235478d2ad7b5ac467b63ab527" title="hpx::threads::hardware\l_concurrency" alt="" coords="401,253,555,295"/>
+<area shape="rect" id="node13" href="$df/dad/namespacehpx_1_1util.html#ae40a23c1ba0a48d9304dcf717a95793e" title="hpx::util::set_hpx\l_prefix" alt="" coords="417,319,539,360"/>
+<area shape="rect" id="node14" href="$d3/dd2/namespacehpx__startup.html#aaac571d88bd3912a4225a23eb3261637" title="hpx_startup::user_main\l_config" alt="" coords="399,384,557,425"/>
+<area shape="rect" id="node15" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="403,450,553,477"/>
+<area shape="rect" id="node16" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="635,443,755,484"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="test2" name="test2">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="161,38,264,65"/>
+<area shape="rect" id="node6" href="$d6/dca/put__parcels__with__coalescing_8cpp.html#ae515d69ea0ba513d58d45f50c9e8bf7d" title="HPX_DECLARE_PLAIN_ACTION" alt="" coords="106,89,319,115"/>
+<area shape="rect" id="node7" href="$d6/dca/put__parcels__with__coalescing_8cpp.html#a7ec6f082d369d0c88aef3f915e9de96f" title="HPX_ACTION_USES_MESSAGE\l_COALESCING" alt="" coords="104,140,321,181"/>
+<area shape="rect" id="node8" href="$d6/dca/put__parcels__with__coalescing_8cpp.html#a71596ae8ccb7cc1b543348228a98c82d" title="HPX_PLAIN_ACTION" alt="" coords="140,206,285,233"/>
+<area shape="rect" id="node3" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="369,13,552,39"/>
+<area shape="rect" id="node5" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="381,63,541,90"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="600,5,763,47"/>
+</map>

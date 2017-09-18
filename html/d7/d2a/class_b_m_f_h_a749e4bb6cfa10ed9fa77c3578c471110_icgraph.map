@@ -1,0 +1,6 @@
+<map id="BMFH::SwitchEndianess" name="BMFH::SwitchEndianess">
+<area shape="rect" id="node2" href="$d6/dd1/class_b_m_p.html#abb9f9f6a073c1eb9dfcc3799a25d15ab" title="BMP::WriteToFile" alt="" coords="227,5,353,32"/>
+<area shape="rect" id="node3" href="$d6/dd1/class_b_m_p.html#ae396a195224d9ab9f4659d4d84683cc2" title="BMP::ReadFromFile" alt="" coords="220,56,360,83"/>
+<area shape="rect" id="node4" href="$d5/dfb/_easy_b_m_p___various_b_m_putilities_8h.html#a66cd5022854084cc377337cced3866e6" title="GetBMFH" alt="" coords="250,107,330,133"/>
+<area shape="rect" id="node5" href="$d5/dfb/_easy_b_m_p___various_b_m_putilities_8h.html#af5917ccb612d45cdb324804c573052e6" title="DisplayBitmapInfo" alt="" coords="408,107,535,133"/>
+</map>

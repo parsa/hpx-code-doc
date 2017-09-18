@@ -1,0 +1,7 @@
+<map id="hpx::serialization::load_binary" name="hpx::serialization::load_binary">
+<area shape="rect" id="node2" href="$dc/d15/structhpx_1_1serialization_1_1basic__archive.html#ae909c53912a4f5783828e47b616cd4f7" title="hpx::serialization\l::basic_archive\&lt; input\l_archive \&gt;::load_binary" alt="" coords="178,5,333,61"/>
+<area shape="rect" id="node3" href="$de/d06/structhpx_1_1serialization_1_1erased__input__container.html#a64ed24fc6d533fb36561b19644495873" title="hpx::serialization\l::erased_input_container\l::is_preprocessing" alt="" coords="173,85,337,141"/>
+<area shape="rect" id="node4" href="$dc/d5c/structhpx_1_1serialization_1_1input__archive.html#a906e288db5e3c6d00a3556ff04e28ff6" title="hpx::serialization\l::input_archive::load" alt="" coords="187,166,324,207"/>
+<area shape="rect" id="node5" href="$d5/d3c/namespacehpx_1_1serialization.html#a5731d71fcb1d23a68e320dbc56e1c914" title="hpx::serialization\l::serialize" alt="" coords="195,231,315,273"/>
+<area shape="rect" id="node6" href="$d2/d8c/namespacehpx_1_1serialization_1_1detail.html#a61ae43a026aaa84913b48848a2ec2c12" title="hpx::serialization\l::detail::load_impl" alt="" coords="193,297,317,338"/>
+</map>

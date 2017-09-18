@@ -1,0 +1,9 @@
+<map id="hpx::agas::server::component_namespace::unregister_server_instance" name="hpx::agas::server::component_namespace::unregister_server_instance">
+<area shape="rect" id="node2" href="$dc/d54/namespacehpx_1_1agas.html#a4bb445d0aa556ce729cddab9dc49152a" title="hpx::agas::unregister_name" alt="" coords="248,96,431,123"/>
+<area shape="rect" id="node8" href="$df/dfd/classhpx_1_1components_1_1fixed__component__base.html#a9661c9deefd2833fd79d6429f636d742" title="finalize() will be called just before the instance gets destructed " alt="" coords="237,147,441,203"/>
+<area shape="rect" id="node3" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="499,57,653,98"/>
+<area shape="rect" id="node6" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a510af72cebe74e33944d43773f3ec64a" title="hpx::agas::addressing\l_service::unregister_name" alt="" coords="489,122,663,163"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="753,5,871,32"/>
+<area shape="rect" id="node5" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="735,57,889,98"/>
+<area shape="rect" id="node7" href="$dd/d5e/structhpx_1_1agas_1_1symbol__namespace.html#aeedb5bc47d003b876f9887cdd29f331b" title="hpx::agas::symbol_namespace\l::unbind" alt="" coords="711,122,913,163"/>
+</map>

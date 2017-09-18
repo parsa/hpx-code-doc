@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$de/d39/structhpx_1_1parallel_1_1traits_1_1detail_1_1projected__result__of.html" title="hpx::parallel::traits\l::detail::projected_result\l_of\&lt; hpx::util::decay\&lt; Proj\l \&gt;::type, hpx::traits::range\l_iterator\&lt; Rng \&gt;::type \&gt;" alt="" coords="5,5,180,91"/>
+<area shape="rect" id="node2" href="$d5/da3/structhpx_1_1parallel_1_1traits_1_1projected__range__result__of_3_01_proj_00_01_rng_00_01typenama811c02b63dce2ac73b53ca74648d532.html" title="hpx::parallel::traits\l::projected_range_result\l_of\&lt; Proj, Rng, typename\l std::enable_if\&lt; hpx::traits\l::is_range\&lt; Rng \&gt;::value \&gt;::type \&gt;" alt="" coords="228,5,448,91"/>
+</map>

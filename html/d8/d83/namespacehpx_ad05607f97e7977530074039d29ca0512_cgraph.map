@@ -1,0 +1,4 @@
+<map id="hpx::disconnect" name="hpx::disconnect">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#adf8bb4418737d0c2751a192c8f86875e" title="Disconnect this locality from the application. " alt="" coords="168,5,283,32"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#a01a3c286e028da685dd9d616fb7c33c7" title="Stop the runtime system. " alt="" coords="187,56,263,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="make_int_slowly" name="make_int_slowly">
+<area shape="rect" id="node2" href="$dc/d48/when__some_8cpp.html#a758e71b543c6f57cc16a66a709f54344" title="test_wait_for_two_out\l_of_five_futures" alt="" coords="189,5,335,47"/>
+<area shape="rect" id="node4" href="$dc/d48/when__some_8cpp.html#afb196c115d061bea3ded4e9fae6c1a9d" title="test_wait_for_three\l_out_of_five_futures" alt="" coords="195,71,329,112"/>
+<area shape="rect" id="node5" href="$dc/d48/when__some_8cpp.html#a118d3041384a0824e5e2730d50d1e0b8" title="test_wait_for_two_out\l_of_five_late_futures" alt="" coords="189,136,335,177"/>
+<area shape="rect" id="node6" href="$dc/d48/when__some_8cpp.html#a685e4f145a3b6d064322d79f00f40ff5" title="test_wait_for_two_out\l_of_five_deferred_futures" alt="" coords="181,201,343,243"/>
+<area shape="rect" id="node7" href="$dc/d48/when__some_8cpp.html#a60b727d991c34afe6ea906048a57eda4" title="test_wait_for_either\l_of_two_futures_list_1" alt="" coords="187,267,337,308"/>
+<area shape="rect" id="node8" href="$dc/d48/when__some_8cpp.html#a19fe18416b317690bcf3e76b79f7db8f" title="test_wait_for_either\l_of_two_futures_list_2" alt="" coords="187,332,337,373"/>
+<area shape="rect" id="node9" href="$dc/d48/when__some_8cpp.html#afc79a25a046c9d640df0c7812f66eef9" title="test_wait_for_either\l_of_five_futures_1_from_list" alt="" coords="172,397,352,439"/>
+<area shape="rect" id="node10" href="$dc/d48/when__some_8cpp.html#a9a555a459937446220f5f94987ecc2b5" title="test_wait_for_either\l_of_five_futures_1_from\l_list_iterators" alt="" coords="184,463,340,519"/>
+<area shape="rect" id="node3" href="$dc/d48/when__some_8cpp.html#a255f773d830db5ca937cff11c2692fa2" title="hpx_main" alt="" coords="400,143,479,170"/>
+</map>

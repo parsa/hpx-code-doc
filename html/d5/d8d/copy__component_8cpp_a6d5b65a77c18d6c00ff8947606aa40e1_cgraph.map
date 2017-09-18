@@ -1,0 +1,6 @@
+<map id="test_copy_component" name="test_copy_component">
+<area shape="rect" id="node2" href="$d9/dad/classhpx_1_1components_1_1client__base.html#ab57228eb99827ba33f2e47febd266608" title="hpx::components::client\l_base\&lt; test_client, test\l_server \&gt;::create" alt="" coords="204,5,365,61"/>
+<area shape="rect" id="node3" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a0cdfe4b8fed578eb1ce34222c0f07b03" title="hpx::components::client\l_base::get_id" alt="" coords="204,86,365,127"/>
+<area shape="rect" id="node4" href="$d8/df6/structtest__client.html#a415572be44e40d3a3a518c559cadcade" title="test_client::call" alt="" coords="229,152,340,179"/>
+<area shape="rect" id="node5" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="413,145,608,186"/>
+</map>

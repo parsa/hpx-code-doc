@@ -1,0 +1,5 @@
+<map id="hpx::parcelset::parcelhandler::get_data_received" name="hpx::parcelset::parcelhandler::get_data_received">
+<area shape="rect" id="node2" href="$d9/d67/classhpx_1_1parcelset_1_1parcelport.html#af5d8c524002d0a8053d0ebdd03ab4346" title="total data received (bytes) " alt="" coords="243,13,412,54"/>
+<area shape="rect" id="node3" href="$de/db4/classhpx_1_1performance__counters_1_1parcels_1_1detail_1_1gatherer.html#a6bb22b6521d0e35225c18a4812b7755b" title="hpx::performance_counters\l::parcels::detail::gatherer\l::total_bytes" alt="" coords="460,5,639,61"/>
+<area shape="rect" id="node4" href="$df/dad/namespacehpx_1_1util.html#ad5c4989e2aa44d2be2a0c236d87b9239" title="hpx::util::get_and\l_reset_value" alt="" coords="687,13,809,54"/>
+</map>

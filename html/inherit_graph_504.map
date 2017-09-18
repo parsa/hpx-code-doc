@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html" title="hpx::lcos::local::detail\l::promise_base\&lt; Result,\l SharedState \&gt;" alt="" coords="5,53,169,109"/>
+<area shape="rect" id="node2" href="$d4/def/classhpx_1_1lcos_1_1detail_1_1promise__base.html" title="hpx::lcos::detail::\lpromise_base\&lt; Result,\l RemoteResult, SharedState \&gt;" alt="" coords="217,53,417,109"/>
+<area shape="rect" id="node3" href="$d1/d35/classhpx_1_1lcos_1_1promise.html" title="hpx::lcos::promise\l\&lt; Result, hpx::traits\l::extract_action\&lt; Action\l \&gt;::remote_result_type \&gt;" alt="" coords="465,5,631,76"/>
+<area shape="rect" id="node6" href="$d1/d35/classhpx_1_1lcos_1_1promise.html" title="hpx::lcos::promise\l\&lt; void \&gt;" alt="" coords="483,100,613,141"/>
+<area shape="rect" id="node4" href="$df/da7/classhpx_1_1lcos_1_1packaged__action_3_01_action_00_01_result_00_01false_01_4.html" title="hpx::lcos::packaged\l_action\&lt; Action, Result,\l false \&gt;" alt="" coords="679,13,841,69"/>
+<area shape="rect" id="node5" href="$db/d7f/classhpx_1_1lcos_1_1packaged__action_3_01_action_00_01_result_00_01true_01_4.html" title="hpx::lcos::packaged\l_action\&lt; Action, Result,\l true \&gt;" alt="" coords="889,13,1052,69"/>
+</map>

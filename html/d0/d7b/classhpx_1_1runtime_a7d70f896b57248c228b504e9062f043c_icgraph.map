@@ -1,0 +1,32 @@
+<map id="hpx::runtime::register_thread" name="hpx::runtime::register_thread">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a0bdf7871dfff58e68ae5eab9af23f2aa" title="hpx::register_thread" alt="" coords="199,239,336,266"/>
+<area shape="rect" id="node3" href="$d3/d29/structregistration__wrapper.html#abb9179289048dfbe24de2dcfb56936b1" title="registration_wrapper\l::registration_wrapper" alt="" coords="399,5,545,47"/>
+<area shape="rect" id="node4" href="$da/d9a/async__io__external_8cpp.html#a7bf6d5e43170c79195033516a577e904" title="do_async_io" alt="" coords="425,71,519,98"/>
+<area shape="rect" id="node8" href="$d5/dca/hpx__thread__phase_8cpp.html#aaf67a3863f19ff7033e239ebb1204fb7" title="hpx_main" alt="" coords="433,122,511,149"/>
+<area shape="rect" id="node9" href="$d8/dc7/structmanage__global__runtime.html#a7d518f544691188c9bc4b29c14dc6bb4" title="manage_global_runtime\l::register_thread" alt="" coords="393,173,551,215"/>
+<area shape="rect" id="node12" href="$d0/d7b/classhpx_1_1runtime.html#aa55a57060c6d0c1ea5ce4e6ef818526e" title="hpx::runtime::get_topology" alt="" coords="384,239,560,266"/>
+<area shape="rect" id="node25" href="$dc/d80/classhpx_1_1runtime__impl.html#aa9de8265198ceaf0e1e3f2ac1d78462e" title="hpx::runtime_impl::\lget_notification_policy" alt="" coords="397,291,547,332"/>
+<area shape="rect" id="node27" href="$dc/d80/classhpx_1_1runtime__impl.html#a09f6f7742bbfeaa923ac6cfee785b761" title="hpx::runtime_impl::\lget_id_pool" alt="" coords="405,356,539,397"/>
+<area shape="rect" id="node28" href="$d9/d52/namespacehpx_1_1this__thread.html#a15c12bd6b0b99c9a65e1a3669492805d" title="hpx::this_thread::suspend" alt="" coords="386,422,558,449"/>
+<area shape="rect" id="node31" href="$d8/d18/classhpx_1_1util_1_1thread__mapper.html#a3590329f1208b81bd5c8f1ac97b40c0a" title="hpx::util::thread_mapper\l::thread_mapper" alt="" coords="391,473,553,515"/>
+<area shape="rect" id="node5" href="$da/d9a/async__io__external_8cpp.html#a242f4a714e3dfad90a56a38ef180d6e3" title="io" alt="" coords="683,54,722,81"/>
+<area shape="rect" id="node6" href="$d3/df5/async__io__action_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="901,14,979,41"/>
+<area shape="rect" id="node7" href="$d4/d89/io__counters_8cpp.html#a7c451f3370d4f2fe4a1a19d73e82f681" title="BOOST_FUSION_DEFINE\l_STRUCT" alt="" coords="852,65,1028,107"/>
+<area shape="rect" id="node10" href="$de/d3d/structthread__registration__wrapper.html#a1d9ff70693dc331e0b4931ef26c4b12b" title="thread_registration\l_wrapper::thread_registration\l_wrapper" alt="" coords="608,105,797,161"/>
+<area shape="rect" id="node11" href="$d6/dad/init__globally_8cpp.html#ab5d95e2be7087fd86a4362fddccf42b3" title="thread_func" alt="" coords="658,185,747,211"/>
+<area shape="rect" id="node13" href="$d0/d07/system__characteristics_8hpp.html#ab89dcd3f8f12bd35634d3849f0e93d90" title="print_system_characteristics" alt="" coords="608,235,797,262"/>
+<area shape="rect" id="node14" href="$d7/d28/namespacehpx_1_1threads.html#a2d22148118979eb7cad63c6ae4cab1c7" title="hpx::threads::get_topology" alt="" coords="615,286,791,313"/>
+<area shape="rect" id="node15" href="$d2/de8/structhpx_1_1compute_1_1host_1_1block__allocator.html#a4e7e43af2aebdd6b603730bc1e5bdd7c" title="hpx::compute::host\l::block_allocator::allocate" alt="" coords="855,148,1025,189"/>
+<area shape="rect" id="node18" href="$d2/de8/structhpx_1_1compute_1_1host_1_1block__allocator.html#a58162ea233b9f35cbb076a0b449e2767" title="hpx::compute::host\l::block_allocator::deallocate" alt="" coords="848,213,1032,255"/>
+<area shape="rect" id="node20" href="$d4/da7/namespacehpx_1_1compute_1_1host.html#a148bd526927f3b5f85a108c890973588" title="hpx::compute::host\l::numa_domains" alt="" coords="873,279,1007,320"/>
+<area shape="rect" id="node23" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a932efced0bbfee361094b8552334d931" title="hpx::resource::detail\l::partitioner::get_affinity_data" alt="" coords="845,344,1035,385"/>
+<area shape="rect" id="node24" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a67c5a4444b8889b1de56aa7a17459734" title="hpx::threads::topology\l::~topology" alt="" coords="865,409,1015,451"/>
+<area shape="rect" id="node16" href="$dc/d4a/block__allocator_8cpp.html#a7724967e3eafa4b9cfd8f80dad98af00" title="test_block_allocation" alt="" coords="1094,162,1238,189"/>
+<area shape="rect" id="node17" href="$dc/d4a/block__allocator_8cpp.html#aad021fb470ac159eac4609ba96066d4d" title="test_bulk_allocator" alt="" coords="1297,190,1428,217"/>
+<area shape="rect" id="node19" href="$dc/d4a/block__allocator_8cpp.html#aa27a8ee0dd50d1f98b2b0d39a3d93618" title="test_block_deallocation" alt="" coords="1087,217,1245,243"/>
+<area shape="rect" id="node21" href="$dc/d38/classhpx_1_1resource_1_1partitioner.html#ae994b2afde4fe9414c8e0b158615387b" title="hpx::resource::partitioner\l::add_resource" alt="" coords="1083,275,1249,316"/>
+<area shape="rect" id="node22" href="$da/d5f/stream_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="1127,341,1205,367"/>
+<area shape="rect" id="node26" href="$dc/d80/classhpx_1_1runtime__impl.html#af8458421582bcb47802b012932a68757" title="Run the HPX runtime system, initially use the given number of (OS) threads in the thread&#45;manager and ..." alt="" coords="627,337,778,363"/>
+<area shape="rect" id="node29" href="$d7/d28/namespacehpx_1_1threads.html#ae3f683ad072d61249bf20c67134d604c" title="hpx::threads::interrupt\l_thread" alt="" coords="628,401,777,443"/>
+<area shape="rect" id="node30" href="$d9/d52/namespacehpx_1_1this__thread.html#a13faad4167a300676b16c76733aac1df" title="hpx::this_thread::suspend" alt="" coords="617,467,789,494"/>
+</map>

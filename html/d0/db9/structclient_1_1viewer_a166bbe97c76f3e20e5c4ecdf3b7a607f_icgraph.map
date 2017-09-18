@@ -1,0 +1,5 @@
+<map id="client::viewer::update" name="client::viewer::update">
+<area shape="rect" id="node2" href="$d6/d8d/structserver_1_1view__registry.html#a41c2aead3dc6261b497e36a0f1ad8ddb" title="server::view_registry\l::update" alt="" coords="196,35,335,76"/>
+<area shape="rect" id="node3" href="$d6/d8d/structserver_1_1view__registry.html#a9c1b61382f9f5e2bfe0816eff741146d" title="server::view_registry\l::register_view" alt="" coords="387,5,525,47"/>
+<area shape="rect" id="node4" href="$de/db2/structserver_1_1viewer.html#a40acbe22354f68cb17615cc96d1fed1c" title="server::viewer::update" alt="" coords="383,71,529,98"/>
+</map>

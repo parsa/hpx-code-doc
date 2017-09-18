@@ -1,0 +1,5 @@
+<map id="hpx::lcos::promise&lt; void, hpx::util::unused_type &gt;::operator=" name="hpx::lcos::promise&lt; void, hpx::util::unused_type &gt;::operator=">
+<area shape="rect" id="node2" href="$d4/def/classhpx_1_1lcos_1_1detail_1_1promise__base.html#a6722fc7c03bac510a0e37721f7027275" title="hpx::lcos::detail::\lpromise_base\&lt; Result,\l RemoteResult, detail\l::promise_data\&lt; Result\l \&gt; \&gt;::operator=" alt="" coords="213,5,371,91"/>
+<area shape="rect" id="node3" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="217,115,367,141"/>
+<area shape="rect" id="node4" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="419,107,539,149"/>
+</map>

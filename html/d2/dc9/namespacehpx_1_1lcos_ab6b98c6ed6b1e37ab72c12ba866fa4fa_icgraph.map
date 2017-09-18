@@ -1,0 +1,14 @@
+<map id="hpx::lcos::wait_some" name="hpx::lcos::wait_some">
+<area shape="rect" id="node2" href="$d2/dc9/namespacehpx_1_1lcos.html#a6d6f199d32e9dd7e5b02280e1ef84f6d" title="hpx::lcos::wait_any" alt="" coords="223,56,358,83"/>
+<area shape="rect" id="node11" href="$d3/d89/structhpx_1_1lcos_1_1detail_1_1wait__some.html#a7117ca37801a24b5054757b74b0806b6" title="hpx::lcos::detail::\lwait_some::on_future_ready" alt="" coords="199,107,383,149"/>
+<area shape="rect" id="node12" href="$d2/dc9/namespacehpx_1_1lcos.html#a4cf6bf0c8e237a7df03539292fd01787" title="hpx::lcos::wait_some" alt="" coords="218,173,363,200"/>
+<area shape="rect" id="node13" href="$dd/d2e/when__all__vectors__1623_8cpp.html#a64bd409cb3f83814e7f3a81d7365c698" title="test_wait_some" alt="" coords="234,224,347,251"/>
+<area shape="rect" id="node3" href="$dc/de1/osu__coll_8hpp.html#a70ccfbb59a3d364de9007f91ee45c330" title="distribute_component" alt="" coords="431,5,577,32"/>
+<area shape="rect" id="node7" href="$d2/dc9/namespacehpx_1_1lcos.html#a4d36f457e843b075a9aeaf0c643dbc94" title="hpx::lcos::wait_any" alt="" coords="437,56,571,83"/>
+<area shape="rect" id="node8" href="$d8/dcf/wait__any__std__array_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="479,107,529,133"/>
+<area shape="rect" id="node9" href="$dd/d2e/when__all__vectors__1623_8cpp.html#a48e5f9309bb601a394f3a61998f86870" title="test_wait_any" alt="" coords="453,161,555,188"/>
+<area shape="rect" id="node4" href="$dc/de1/osu__coll_8hpp.html#a5fba99ed1ff27b2151a9ac0531d040ce" title="print_data" alt="" coords="625,5,704,32"/>
+<area shape="rect" id="node5" href="$d3/dca/osu__bcast_8cpp.html#a03a9259c1031dc6e2473041a34d95b4d" title="run_benchmark" alt="" coords="752,5,863,32"/>
+<area shape="rect" id="node6" href="$d3/dca/osu__bcast_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="911,5,989,32"/>
+<area shape="rect" id="node10" href="$dd/d2e/when__all__vectors__1623_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="639,191,690,217"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="A::HPX_DEFINE_COMPONENT_ACTION" name="A::HPX_DEFINE_COMPONENT_ACTION">
+<area shape="rect" id="node2" href="$d7/da0/struct_a.html#acb6992ef647f5caa303311f301f4d97a" title="A::print_nonvirt" alt="" coords="264,5,372,32"/>
+<area shape="rect" id="node3" href="$d7/da0/struct_a.html#a948f332f58c2269a134a1e289c30a466" title="A::test0_nonvirt" alt="" coords="262,80,374,107"/>
+<area shape="rect" id="node4" href="$de/d7e/struct_b.html#ae467207e4ae9d456c4f5ff400ea606bc" title="B::test1" alt="" coords="284,131,352,157"/>
+<area shape="rect" id="node5" href="$de/d7e/struct_b.html#a1795182949fcf94a3adb4b27f7801689" title="B::test1_nonvirt" alt="" coords="262,181,374,208"/>
+<area shape="rect" id="node6" href="$df/d3b/struct_c.html#a6ec8a40c39be83ab3721725ffcf8ea38" title="C::test2" alt="" coords="284,232,352,259"/>
+<area shape="rect" id="node7" href="$d5/d5d/structtest__server.html#a7b57b8d8ccb5b5b8ecd4df4eefafe979" title="test_server::call" alt="" coords="261,283,375,309"/>
+</map>

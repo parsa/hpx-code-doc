@@ -1,0 +1,7 @@
+<map id="hpx::threads::thread_data::get_parent_locality_id" name="hpx::threads::thread_data::get_parent_locality_id">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#a19fe383da3491eceac32720c89ae8f7d" title="hpx::threads::get_parent\l_locality_id" alt="" coords="241,104,404,145"/>
+<area shape="rect" id="node3" href="$d9/de8/structhpx_1_1actions_1_1base__action.html#a50205c3da0fa49594bb136757d9eb159" title="Destructor. " alt="" coords="481,5,631,47"/>
+<area shape="rect" id="node4" href="$d3/d00/classhpx_1_1threads_1_1thread__data.html#a1ab1f20bc996256d81f647edf58a472f" title="hpx::threads::thread\l_data::set_lco_description" alt="" coords="469,71,643,112"/>
+<area shape="rect" id="node5" href="$d3/d00/classhpx_1_1threads_1_1thread__data.html#a46eddb9a3655e0a53b7e580961923855" title="Return the phase of the parent thread. " alt="" coords="452,136,660,177"/>
+<area shape="rect" id="node6" href="$d1/d63/structhpx_1_1actions_1_1transfer__base__action.html#aafc7b547fc6d9d37b017a232b125ad4a" title="retrieve component type " alt="" coords="474,202,638,258"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="hpx::compute::traits::detail::bulk_destroy::call" name="hpx::compute::traits::detail::bulk_destroy::call">
+<area shape="rect" id="node2" href="$d5/df2/namespacehpx_1_1compute_1_1traits_1_1detail.html#acc13444e66b79935de52111e1f28f164" title="hpx::compute::traits\l::detail::call_bulk_destroy" alt="" coords="224,111,395,153"/>
+<area shape="rect" id="node3" href="$dc/d38/structhpx_1_1compute_1_1traits_1_1allocator__traits.html#a79ea07e626d594a9890675db2b56063f" title="hpx::compute::traits\l::allocator_traits::bulk\l_destroy" alt="" coords="443,104,589,160"/>
+<area shape="rect" id="node4" href="$d4/d56/structhpx_1_1compute_1_1traits_1_1detail_1_1bulk__construct.html#ac74edb5f18b085d23c7ad03af163598d" title="hpx::compute::traits\l::detail::bulk_construct::call" alt="" coords="637,13,820,54"/>
+<area shape="rect" id="node8" href="$d3/d81/classhpx_1_1compute_1_1vector.html#a41a36d1562bc3b393601a0fa1daddebc" title="hpx::compute::vector\l::~vector" alt="" coords="657,78,800,119"/>
+<area shape="rect" id="node9" href="$d3/d81/classhpx_1_1compute_1_1vector.html#af7a661d2859bd3450d264abbe91705c0" title="hpx::compute::vector\l::operator=" alt="" coords="657,143,800,185"/>
+<area shape="rect" id="node10" href="$d3/d81/classhpx_1_1compute_1_1vector.html#a78bbb0340ae717182e48a19de09b4d82" title="hpx::compute::vector\l::clear" alt="" coords="657,209,800,250"/>
+<area shape="rect" id="node5" href="$d5/df2/namespacehpx_1_1compute_1_1traits_1_1detail.html#af161f27a44ee388e391ecd25340ebd79" title="hpx::compute::traits\l::detail::call_bulk_construct" alt="" coords="868,13,1049,54"/>
+<area shape="rect" id="node6" href="$dc/d38/structhpx_1_1compute_1_1traits_1_1allocator__traits.html#a2dd9aeb4b06efb1ea6578e99a01703e2" title="hpx::compute::traits\l::allocator_traits::bulk\l_construct" alt="" coords="1097,5,1244,61"/>
+<area shape="rect" id="node7" href="$d3/d81/classhpx_1_1compute_1_1vector.html#a8715945509fe36d6e38f58df843e8fec" title="hpx::compute::vector\l::vector" alt="" coords="1292,13,1435,54"/>
+<area shape="rect" id="node11" href="$d5/d3c/namespacehpx_1_1serialization.html#a9b1611bfc67fde6a1c768fc99011e91d" title="hpx::serialization\l::serialize" alt="" coords="899,209,1019,250"/>
+</map>

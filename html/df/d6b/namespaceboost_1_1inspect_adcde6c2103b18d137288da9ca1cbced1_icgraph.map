@@ -1,0 +1,35 @@
+<map id="boost::inspect::impute_library" name="boost::inspect::impute_library">
+<area shape="rect" id="node2" href="$df/d6b/namespaceboost_1_1inspect.html#a06cd920f8a7d2d38aaac0566afd98a11" title="boost::inspect::relative_to" alt="" coords="204,339,375,366"/>
+<area shape="rect" id="node25" href="$db/dbd/classboost_1_1inspect_1_1link__check.html#a7db24f762737db7525e4486be6fd2b46" title="boost::inspect::link\l_check::close" alt="" coords="664,855,796,896"/>
+<area shape="rect" id="node3" href="$d0/da3/classboost_1_1inspect_1_1apple__macro__check.html#aac0967e179518d594fcb6c385b88503a" title="boost::inspect::apple\l_macro_check::inspect" alt="" coords="651,136,809,177"/>
+<area shape="rect" id="node5" href="$dc/dc3/classboost_1_1inspect_1_1assert__macro__check.html#acacd792dafb1acb416c7ff6e6de75277" title="boost::inspect::assert\l_macro_check::inspect" alt="" coords="651,71,809,112"/>
+<area shape="rect" id="node7" href="$d8/dc6/function__hyper_8hpp.html#a0c599840c18848583dbbbe4259c0a2d7" title="linelink" alt="" coords="474,267,537,294"/>
+<area shape="rect" id="node12" href="$d8/dc6/function__hyper_8hpp.html#a00eed5c78fb0c7aee58f53b4b22fb03f" title="wordlink" alt="" coords="471,339,540,366"/>
+<area shape="rect" id="node15" href="$d8/dc6/function__hyper_8hpp.html#a511f804184fc089e801dcb92f2a9f6fe" title="loclink" alt="" coords="476,666,535,693"/>
+<area shape="rect" id="node27" href="$db/dda/classboost_1_1inspect_1_1file__name__check.html#ae89ea6f60050cc746ff6c335098ae375" title="boost::inspect::file\l_name_check::inspect" alt="" coords="653,789,807,831"/>
+<area shape="rect" id="node30" href="$d5/d8c/classboost_1_1inspect_1_1inspector.html#a57f0aee86bf616b1ad16f4b8a5d29bca" title="boost::inspect::inspector\l::error" alt="" coords="423,397,588,439"/>
+<area shape="rect" id="node34" href="$db/dbd/classboost_1_1inspect_1_1link__check.html#ae55fc092583bd82319d2168b67282c19" title="boost::inspect::link\l_check::link_check" alt="" coords="663,5,797,47"/>
+<area shape="rect" id="node4" href="$d0/da3/classboost_1_1inspect_1_1apple__macro__check.html#a15a38b0aee23acedf42f2ec163f1e670" title="boost::inspect::apple\l_macro_check::desc" alt="" coords="889,136,1031,177"/>
+<area shape="rect" id="node6" href="$dc/dc3/classboost_1_1inspect_1_1assert__macro__check.html#a285a9944af58fe40003209254e09b8b9" title="boost::inspect::assert\l_macro_check::desc" alt="" coords="886,71,1034,112"/>
+<area shape="rect" id="node8" href="$d0/def/classboost_1_1inspect_1_1minmax__check.html#a3e238a3320828d79456059899df6e97a" title="boost::inspect::minmax\l_check::inspect" alt="" coords="651,267,809,308"/>
+<area shape="rect" id="node10" href="$d1/df9/classboost_1_1inspect_1_1unnamed__namespace__check.html#ae2baa2c7fa4fd6b8d23e29c4ce132fe0" title="boost::inspect::unnamed\l_namespace_check::inspect" alt="" coords="636,201,824,243"/>
+<area shape="rect" id="node9" href="$d0/def/classboost_1_1inspect_1_1minmax__check.html#ada312cb048c125d1885f5a6ba5cc9deb" title="boost::inspect::minmax\l_check::desc" alt="" coords="881,267,1039,308"/>
+<area shape="rect" id="node11" href="$d1/df9/classboost_1_1inspect_1_1unnamed__namespace__check.html#a3e75611e292da90f03b6b49bbcc38b89" title="boost::inspect::unnamed\l_namespace_check::desc" alt="" coords="873,201,1047,243"/>
+<area shape="rect" id="node13" href="$d2/d6e/classboost_1_1inspect_1_1end__check.html#a0f4a6b5c867e06dab8fd1f8f54752179" title="boost::inspect::end\l_check::inspect" alt="" coords="663,332,797,373"/>
+<area shape="rect" id="node14" href="$d2/d6e/classboost_1_1inspect_1_1end__check.html#a4b2b7b5a39e84554134c983e6d7e263a" title="boost::inspect::end\l_check::desc" alt="" coords="893,332,1027,373"/>
+<area shape="rect" id="node16" href="$d4/d82/classboost_1_1inspect_1_1copyright__check.html#aa6a43f6713a201d2bf0e21e86d6e170a" title="boost::inspect::copyright\l_check::inspect" alt="" coords="647,724,813,765"/>
+<area shape="rect" id="node19" href="$df/df8/classboost_1_1inspect_1_1crlf__check.html#a314367ba8719fa5517caec47ac237a50" title="boost::inspect::crlf\l_check::inspect" alt="" coords="665,528,795,569"/>
+<area shape="rect" id="node21" href="$d9/dfc/classboost_1_1inspect_1_1deprecated__macro__check.html#a782e25facfed59b38c2333cf720e0f9a" title="boost::inspect::deprecated\l_macro_check::inspect" alt="" coords="642,593,818,635"/>
+<area shape="rect" id="node23" href="$d6/d2e/classboost_1_1inspect_1_1license__check.html#abae033418a4aea8c80ace5a3b7c82b1b" title="boost::inspect::license\l_check::inspect" alt="" coords="653,659,807,700"/>
+<area shape="rect" id="node17" href="$d4/d82/classboost_1_1inspect_1_1copyright__check.html#a6c2df03d083f64eaa2386fceb310dd4a" title="boost::inspect::copyright\l_check::desc" alt="" coords="877,724,1043,765"/>
+<area shape="rect" id="node18" href="$d4/d82/classboost_1_1inspect_1_1copyright__check.html#ab184209a3856a3bdaf23c2c2ba7d67b2" title="boost::inspect::copyright\l_check::print_summary" alt="" coords="1112,724,1277,765"/>
+<area shape="rect" id="node20" href="$df/df8/classboost_1_1inspect_1_1crlf__check.html#aeb214d01ee11d9eea13dd66c86d1c172" title="boost::inspect::crlf\l_check::desc" alt="" coords="895,528,1025,569"/>
+<area shape="rect" id="node22" href="$d9/dfc/classboost_1_1inspect_1_1deprecated__macro__check.html#a00feb0a0be2385168d0cf64d49b6701c" title="boost::inspect::deprecated\l_macro_check::desc" alt="" coords="872,593,1048,635"/>
+<area shape="rect" id="node24" href="$d6/d2e/classboost_1_1inspect_1_1license__check.html#a95849f025775ed27e65f90a7bf72550d" title="boost::inspect::license\l_check::desc" alt="" coords="883,659,1037,700"/>
+<area shape="rect" id="node26" href="$db/dbd/classboost_1_1inspect_1_1link__check.html#ade7d9da8b8ee737db06c47b10273c90b" title="boost::inspect::link\l_check::desc" alt="" coords="894,855,1026,896"/>
+<area shape="rect" id="node28" href="$db/dda/classboost_1_1inspect_1_1file__name__check.html#aee84e57501b1764fc1ac2066c4dd1b96" title="boost::inspect::file\l_name_check::desc" alt="" coords="891,789,1029,831"/>
+<area shape="rect" id="node29" href="$db/dda/classboost_1_1inspect_1_1file__name__check.html#a9d9a1f6a711aec9899fd55123f46768f" title="boost::inspect::file\l_name_check::print_summary" alt="" coords="1096,789,1293,831"/>
+<area shape="rect" id="node31" href="$df/d41/classboost_1_1inspect_1_1ascii__check.html#a42c51a97f6f401032bb06a96f48a96dd" title="boost::inspect::ascii\l_check::inspect" alt="" coords="661,463,799,504"/>
+<area shape="rect" id="node33" href="$d5/d8c/classboost_1_1inspect_1_1inspector.html#af3ac0b7766e73985dd3b8b8832d5e503" title="boost::inspect::inspector\l::signatures" alt="" coords="647,397,813,439"/>
+<area shape="rect" id="node32" href="$df/d41/classboost_1_1inspect_1_1ascii__check.html#a645f9f7b272f2137ccb5a25402a697e7" title="boost::inspect::ascii\l_check::desc" alt="" coords="891,463,1029,504"/>
+</map>

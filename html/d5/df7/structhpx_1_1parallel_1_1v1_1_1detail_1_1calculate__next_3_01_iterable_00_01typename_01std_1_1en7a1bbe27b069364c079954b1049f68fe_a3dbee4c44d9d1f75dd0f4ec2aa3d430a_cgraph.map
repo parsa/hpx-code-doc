@@ -1,0 +1,4 @@
+<map id="hpx::parallel::v1::detail::calculate_next&lt; Iterable, typename std::enable_if&lt; hpx::traits::is_iterator&lt; Iterable &gt;::value &amp;&amp;!hpx::traits::is_bidirectional_iterator&lt; Iterable &gt;::value &gt;::type &gt;::call" name="hpx::parallel::v1::detail::calculate_next&lt; Iterable, typename std::enable_if&lt; hpx::traits::is_iterator&lt; Iterable &gt;::value &amp;&amp;!hpx::traits::is_bidirectional_iterator&lt; Iterable &gt;::value &gt;::type &gt;::call">
+<area shape="rect" id="node2" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ad9fca7bce7b3e3c32302967ffc1fb4a4" title="hpx::parallel::v1::\ldetail::advance" alt="" coords="252,49,372,91"/>
+<area shape="rect" id="node3" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ad4fa62ca115927187e4063b65ee5f317" title="hpx::parallel::v1::\ldetail::advance_impl" alt="" coords="420,49,559,91"/>
+</map>

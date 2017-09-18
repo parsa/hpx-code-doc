@@ -1,0 +1,5 @@
+<map id="hpx::detail::ensure_queuing_option_compatibility" name="hpx::detail::ensure_queuing_option_compatibility">
+<area shape="rect" id="node2" href="$d5/dbe/namespacehpx_1_1detail.html#ac86d4e2b835da16ec6965470b7def121" title="hpx::detail::ensure\l_high_priority_compatibility" alt="" coords="263,5,441,47"/>
+<area shape="rect" id="node3" href="$d5/dbe/namespacehpx_1_1detail.html#ae35cf7a7b8af9482cbdc71accc4dd853" title="hpx::detail::ensure\l_numa_sensitivity_compatibility" alt="" coords="249,71,455,112"/>
+<area shape="rect" id="node4" href="$d5/dbe/namespacehpx_1_1detail.html#a8ae579f8287a7054767ce2b5438175ad" title="hpx::detail::ensure\l_hierarchy_arity_compatibility" alt="" coords="255,136,449,177"/>
+</map>

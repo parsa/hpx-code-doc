@@ -1,0 +1,7 @@
+<map id="performance_counters::sine::server::sine_counter" name="performance_counters::sine::server::sine_counter">
+<area shape="rect" id="node2" href="$db/dbc/classhpx_1_1performance__counters_1_1base__performance__counter.html" title="hpx::performance_counters\l::base_performance_counter\l\&lt; sine_counter \&gt;" alt="" coords="483,43,669,99"/>
+<area shape="rect" id="node3" href="$d7/d92/classhpx_1_1performance__counters_1_1server_1_1base__performance__counter.html" title="hpx::performance_counters\l::server::base_performance\l_counter" alt="" coords="248,5,427,61"/>
+<area shape="rect" id="node4" href="$d4/dab/structhpx_1_1performance__counters_1_1performance__counter__base.html" title="hpx::performance_counters\l::performance_counter_base" alt="" coords="5,13,192,54"/>
+<area shape="rect" id="node5" href="$d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag.html" title="hpx::traits::detail\l::component_tag" alt="" coords="39,82,158,123"/>
+<area shape="rect" id="node6" href="$d2/de6/classhpx_1_1components_1_1component__base.html" title="hpx::components::component\l_base\&lt; sine_counter \&gt;" alt="" coords="240,86,435,127"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hpx::agas::addressing_service::was_object_migrated" name="hpx::agas::addressing_service::was_object_migrated">
+<area shape="rect" id="node2" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#aade8c179c3866b1212fe6439b586ace1" title="Maintain list of migrated objects. " alt="" coords="204,45,355,101"/>
+<area shape="rect" id="node3" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#ad3a849cb7ebd5dccf9aefadccc21dd89" title="hpx::naming::detail\l::get_stripped_gid" alt="" coords="403,53,535,94"/>
+<area shape="rect" id="node4" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a95cca4d4bc82a9da3e804b225b03dfaf" title="hpx::naming::detail\l::strip_internal_bits\l_from_gid" alt="" coords="602,5,734,61"/>
+<area shape="rect" id="node5" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a1ab848588112d0f7fac377a15692c9cc" title="hpx::naming::detail\l::get_stripped_gid_except\l_dont_cache" alt="" coords="583,85,753,141"/>
+<area shape="rect" id="node6" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#aabeb51a92376c6bfb9cf31bf9ff0c4cc" title="hpx::naming::detail\l::strip_internal_bits\l_except_dont_cache_from_gid" alt="" coords="801,85,1000,141"/>
+</map>

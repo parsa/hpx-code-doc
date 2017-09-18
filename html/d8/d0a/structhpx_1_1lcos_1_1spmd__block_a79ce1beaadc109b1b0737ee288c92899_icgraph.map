@@ -1,0 +1,5 @@
+<map id="hpx::lcos::spmd_block::this_image" name="hpx::lcos::spmd_block::this_image">
+<area shape="rect" id="node2" href="$d8/d2c/coarray_8cpp.html#aec0e160ff8fee61ff98c24de8320754a" title="bulk_test" alt="" coords="233,5,307,32"/>
+<area shape="rect" id="node3" href="$da/d4f/global__spmd__block_8cpp.html#a294919a02f9a61f76cfdd17b2f1c6109" title="bulk_test_function" alt="" coords="207,56,333,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/partitioned__vector__view_8cpp.html#a84c355ad772f83afdbdbfb6080e4f61a" title="async_bulk_test" alt="" coords="211,107,329,133"/>
+</map>

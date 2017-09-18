@@ -1,0 +1,20 @@
+<map id="hpx::agas::addressing_service::get_num_localities_async" name="hpx::agas::addressing_service::get_num_localities_async">
+<area shape="rect" id="node2" href="$dc/d54/namespacehpx_1_1agas.html#ace3c3d716694b603b8909cf054c89e65" title="hpx::agas::get_num\l_localities" alt="" coords="291,177,428,219"/>
+<area shape="rect" id="node8" href="$d8/d83/namespacehpx.html#a8e7953a6163ccfab68ebf6e708b45615" title="Asynchronously return the number of localities which are currently registered for the running applica..." alt="" coords="280,542,439,569"/>
+<area shape="rect" id="node3" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#afc981128183c37506bfa139a4060ed5e" title="hpx::agas::addressing\l_service::get_localities" alt="" coords="503,283,656,324"/>
+<area shape="rect" id="node4" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a66a76d30b0f6a01e0ad2f87079f405ef" title="hpx::agas::addressing\l_service::get_num_localities" alt="" coords="487,5,672,47"/>
+<area shape="rect" id="node5" href="$d4/dc8/structhpx_1_1agas_1_1server_1_1component__namespace.html#a8d8d86bc3beb96a74ce6207acc5d7a82" title="hpx::agas::server::\lcomponent_namespace\l::component_namespace" alt="" coords="495,71,663,127"/>
+<area shape="rect" id="node6" href="$d8/d83/namespacehpx.html#a1db549da58aaa9b452db490fda2f09e4" title="Return the number of localities which are currently registered for the running application. " alt="" coords="500,151,659,178"/>
+<area shape="rect" id="node7" href="$dc/d72/structhpx_1_1agas_1_1server_1_1locality__namespace.html#aa9f3ea539ff11605d5e9620e200f56d2" title="hpx::agas::server::\llocality_namespace::\llocality_namespace" alt="" coords="507,202,652,258"/>
+<area shape="rect" id="node9" href="$d5/dd3/apply__colocated_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="540,618,619,645"/>
+<area shape="rect" id="node10" href="$dd/d8b/barrier__hang_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="554,669,605,695"/>
+<area shape="rect" id="node11" href="$d2/dc9/namespacehpx_1_1lcos.html#aaa3e2a825ca566eee4e3c0cfc19b5dc3" title="hpx::lcos::create_gatherer" alt="" coords="493,719,666,746"/>
+<area shape="rect" id="node12" href="$d2/dc9/namespacehpx_1_1lcos.html#aebc9313a9b521471ff489f783f568483" title="hpx::lcos::gather_here" alt="" coords="504,770,655,797"/>
+<area shape="rect" id="node13" href="$da/d4f/global__spmd__block_8cpp.html#a294919a02f9a61f76cfdd17b2f1c6109" title="bulk_test_function" alt="" coords="516,349,643,375"/>
+<area shape="rect" id="node14" href="$d9/d0f/main_8cc.html#a22d5612b13072491f3de2340527ce19f" title="output_hpx_info" alt="" coords="720,567,833,594"/>
+<area shape="rect" id="node16" href="$d1/d0e/receive__buffer__1733_8cpp.html#a5b148d5807ff3161271696129a47eda6" title="idx" alt="" coords="560,466,599,493"/>
+<area shape="rect" id="node17" href="$d2/dc9/namespacehpx_1_1lcos.html#a8e99255a6b641ba9b62c2c33f1778c98" title="hpx::lcos::define_spmd\l_block" alt="" coords="501,400,657,441"/>
+<area shape="rect" id="node19" href="$d5/d98/tests_8hh.html#a0dc326736d80613005e0cd8046735b9e" title="test_blocked" alt="" coords="531,517,627,543"/>
+<area shape="rect" id="node15" href="$d9/d0f/main_8cc.html#a344a9bb316c276641af2d061a2558c97" title="hpx_main" alt="" coords="881,542,960,569"/>
+<area shape="rect" id="node18" href="$d8/d2c/coarray_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="751,407,802,434"/>
+</map>

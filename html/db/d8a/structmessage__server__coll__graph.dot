@@ -1,0 +1,19 @@
+digraph "message_server"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node4 [label="message_server",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="hpx::components::component\l_base\< message_server \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/de6/classhpx_1_1components_1_1component__base.html"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hpx::traits::detail\l::component_tag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag.html"];
+  Node7 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" gid_" ,fontname="Helvetica"];
+  Node7 [label="hpx::naming::gid_type",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d67/structhpx_1_1naming_1_1gid__type.html",tooltip="Global identifier for components across the HPX system. "];
+  Node8 -> Node5 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< message_server \>" ,fontname="Helvetica"];
+  Node8 [label="hpx::components::component\l_base\< Component \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/de6/classhpx_1_1components_1_1component__base.html"];
+  Node6 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" gid_" ,fontname="Helvetica"];
+  Node9 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" msg" ,fontname="Helvetica"];
+  Node9 [label="string",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

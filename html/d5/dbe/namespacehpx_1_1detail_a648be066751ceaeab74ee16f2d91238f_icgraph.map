@@ -1,0 +1,6 @@
+<map id="hpx::detail::get_locality_base_name" name="hpx::detail::get_locality_base_name">
+<area shape="rect" id="node2" href="$d5/dbe/namespacehpx_1_1detail.html#ac8bd48eb789f77495da8f0a1b69b4074" title="Return the name of the locality this function is called on. " alt="" coords="209,56,404,83"/>
+<area shape="rect" id="node3" href="$da/d6f/get__locality__name_8cpp.html#affa9ed364e520009af41c774056df969" title="HPX_PLAIN_ACTION_ID" alt="" coords="465,5,629,32"/>
+<area shape="rect" id="node4" href="$db/daa/network__storage_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="507,56,586,83"/>
+<area shape="rect" id="node5" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a7cff30cb33c2bbc55431cfd16a6a452b" title="Factory function used in serialization to create a given locality endpoint. " alt="" coords="452,107,641,149"/>
+</map>

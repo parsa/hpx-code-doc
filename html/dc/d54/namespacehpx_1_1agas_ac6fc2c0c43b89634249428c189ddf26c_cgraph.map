@@ -1,0 +1,6 @@
+<map id="hpx::agas::get_number_of_bootstrap_connections" name="hpx::agas::get_number_of_bootstrap_connections">
+<area shape="rect" id="node2" href="$d8/d70/classhpx_1_1util_1_1runtime__configuration.html#a4c42a3c7eaa32455a869e29fcb95e08d" title="hpx::util::runtime\l_configuration::get\l_agas_service_mode" alt="" coords="231,5,373,61"/>
+<area shape="rect" id="node5" href="$d8/d70/classhpx_1_1util_1_1runtime__configuration.html#a3bc0092e81a4d36408e627a3216030e4" title="hpx::util::runtime\l_configuration::get\l_num_localities" alt="" coords="238,85,366,141"/>
+<area shape="rect" id="node3" href="$dd/de4/classhpx_1_1util_1_1section.html#a2ef0091925e5c2e3fda235bff644cdb4" title="hpx::util::section\l::has_section" alt="" coords="421,17,540,58"/>
+<area shape="rect" id="node4" href="$dd/de4/classhpx_1_1util_1_1section.html#a3506cc01fb5453b2176f4747352c5517" title="hpx::util::section\l::get_section" alt="" coords="421,86,540,127"/>
+</map>

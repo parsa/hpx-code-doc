@@ -1,0 +1,8 @@
+<map id="hpx::components::target_distribution_policy::get_next_target" name="hpx::components::target_distribution_policy::get_next_target">
+<area shape="rect" id="node2" href="$d4/dc8/structhpx_1_1components_1_1target__distribution__policy.html#a778f907a6ac1b1e0752b975929bc9b15" title="hpx::components::target\l_distribution_policy::\lcreate" alt="" coords="223,5,385,61"/>
+<area shape="rect" id="node3" href="$d4/dc8/structhpx_1_1components_1_1target__distribution__policy.html#a5279f29ebe2bff6eb83cb517355ac012" title="hpx::components::target\l_distribution_policy::\lbulk_create" alt="" coords="223,85,385,141"/>
+<area shape="rect" id="node4" href="$d4/dc8/structhpx_1_1components_1_1target__distribution__policy.html#a151b90869a668cb2453197b389dfbdda" title="hpx::components::target\l_distribution_policy::async" alt="" coords="216,166,392,207"/>
+<area shape="rect" id="node5" href="$d4/dc8/structhpx_1_1components_1_1target__distribution__policy.html#af5349627afa5c6ba465ae6f0011c512b" title="hpx::components::target\l_distribution_policy::\lasync_cb" alt="" coords="223,232,385,288"/>
+<area shape="rect" id="node6" href="$d4/dc8/structhpx_1_1components_1_1target__distribution__policy.html#a73766f15f3cf1ac6bba9a0329b85f078" title="hpx::components::target\l_distribution_policy::apply" alt="" coords="218,313,390,354"/>
+<area shape="rect" id="node7" href="$d4/dc8/structhpx_1_1components_1_1target__distribution__policy.html#a9cefed99e44df371100964b838ba4596" title="hpx::components::target\l_distribution_policy::\lapply_cb" alt="" coords="223,379,385,435"/>
+</map>

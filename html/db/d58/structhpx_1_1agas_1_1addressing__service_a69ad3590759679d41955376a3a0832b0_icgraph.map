@@ -1,0 +1,13 @@
+<map id="hpx::agas::addressing_service::is_local_address_cached" name="hpx::agas::addressing_service::is_local_address_cached">
+<area shape="rect" id="node2" href="$dc/d54/namespacehpx_1_1agas.html#ab3e1952ee895c17a106ac32c91b08ee8" title="hpx::agas::is_local\l_address_cached" alt="" coords="228,210,359,251"/>
+<area shape="rect" id="node3" href="$d5/dbe/namespacehpx_1_1detail.html#a2a7da8a6ff5bb50cfaa905a43cf32949" title="hpx::detail::apply_impl" alt="" coords="416,5,568,32"/>
+<area shape="rect" id="node4" href="$d5/dbe/namespacehpx_1_1detail.html#a017889aa022ccbd8fb62461e936b9177" title="hpx::detail::apply\l_cb_impl" alt="" coords="431,57,553,98"/>
+<area shape="rect" id="node5" href="$d0/d4e/classhpx_1_1actions_1_1continuation.html#a6d218044056db48ac135a2b886688e95" title="hpx::actions::continuation\l::continuation" alt="" coords="407,122,577,163"/>
+<area shape="rect" id="node6" href="$d8/d83/namespacehpx.html#a1db549da58aaa9b452db490fda2f09e4" title="Return the number of localities which are currently registered for the running application. " alt="" coords="413,188,571,215"/>
+<area shape="rect" id="node7" href="$dc/d54/namespacehpx_1_1agas.html#ab1b9b9b981623f4eef01f22ad7d19e62" title="hpx::agas::is_local\l_address_cached" alt="" coords="427,239,557,281"/>
+<area shape="rect" id="node8" href="$db/d7f/classhpx_1_1lcos_1_1packaged__action_3_01_action_00_01_result_00_01true_01_4.html#acd623b84ef5ed1ea5ad6b81132d57a27" title="hpx::lcos::packaged\l_action\&lt; Action, Result,\l true \&gt;::apply" alt="" coords="411,305,573,361"/>
+<area shape="rect" id="node9" href="$db/d7f/classhpx_1_1lcos_1_1packaged__action_3_01_action_00_01_result_00_01true_01_4.html#a6b023b13d50ecca5d46e34e537c38cd1" title="hpx::lcos::packaged\l_action\&lt; Action, Result,\l true \&gt;::apply_cb" alt="" coords="411,385,573,441"/>
+<area shape="rect" id="node10" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#a00eb79f89db48417b54a011078a9c7ae" title="hpx::components::stubs\l::runtime_support::free\l_component_sync" alt="" coords="411,465,573,521"/>
+<area shape="rect" id="node11" href="$d2/da2/namespacehpx_1_1components_1_1server.html#a21dc8857d55d9ec83e3e337b382fbc17" title="hpx::components::server\l::destroy_component" alt="" coords="625,473,789,514"/>
+<area shape="rect" id="node12" href="$d2/da2/namespacehpx_1_1components_1_1server.html#afbb6d12dceb0494bcb20f84065e1eb7f" title="hpx::components::server\l::destroy" alt="" coords="837,473,1001,514"/>
+</map>

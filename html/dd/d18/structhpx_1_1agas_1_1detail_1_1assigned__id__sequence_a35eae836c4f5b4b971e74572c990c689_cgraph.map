@@ -1,0 +1,12 @@
+<map id="hpx::agas::detail::assigned_id_sequence::register_ids_on_worker_loc" name="hpx::agas::detail::assigned_id_sequence::register_ids_on_worker_loc">
+<area shape="rect" id="node2" href="$dc/d9a/classhpx_1_1serialization_1_1detail_1_1id__registry.html#ab5118609f28337b2a71e7ac63399a2dc" title="hpx::serialization\l::detail::id_registry\l::instance" alt="" coords="261,5,391,61"/>
+<area shape="rect" id="node4" href="$dc/d9a/classhpx_1_1serialization_1_1detail_1_1id__registry.html#a667f38001517e0031e3421b1f6719baf" title="hpx::serialization\l::detail::id_registry\l::get_unassigned_typenames" alt="" coords="460,71,652,127"/>
+<area shape="rect" id="node5" href="$dc/d9a/classhpx_1_1serialization_1_1detail_1_1id__registry.html#a3ecf46288bd104ca800605842a269fd6" title="hpx::serialization\l::detail::id_registry\l::register_typename" alt="" coords="487,176,625,232"/>
+<area shape="rect" id="node6" href="$dc/d9a/classhpx_1_1serialization_1_1detail_1_1id__registry.html#a80cd98a900de5a5347cf51ab710ed1be" title="hpx::serialization\l::detail::id_registry\l::fill_missing_typenames" alt="" coords="243,136,409,192"/>
+<area shape="rect" id="node7" href="$d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry.html#a4d8a8074f8a91fdc5a62e8067ef6472c" title="hpx::actions::detail\l::action_registry::instance" alt="" coords="240,267,412,309"/>
+<area shape="rect" id="node8" href="$d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry.html#a5216619c74ba5ee2d7a82626fe3f42cd" title="hpx::actions::detail\l::action_registry::get\l_unassigned_typenames" alt="" coords="473,319,639,375"/>
+<area shape="rect" id="node9" href="$d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry.html#a7352d14b8ad4d97a880c8ff247f0e04a" title="hpx::actions::detail\l::action_registry::register\l_typename" alt="" coords="473,449,639,505"/>
+<area shape="rect" id="node11" href="$d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry.html#ad0b2659af6636d76d4b39d64eac81e3c" title="hpx::actions::detail\l::action_registry::fill\l_missing_typenames" alt="" coords="253,384,399,440"/>
+<area shape="rect" id="node3" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a2967c633948a3bf17a3b5405ef5a8318" title="hpx::util::static_::get" alt="" coords="717,53,858,80"/>
+<area shape="rect" id="node10" href="$d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry.html#a241539d91aa05a0cb41e6949b4f7ffb6" title="hpx::actions::detail\l::action_registry::cache_id" alt="" coords="700,423,875,465"/>
+</map>

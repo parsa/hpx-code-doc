@@ -1,0 +1,24 @@
+<map id="hpx_main" name="hpx_main">
+<area shape="rect" id="node2" href="$d4/d94/foreach__scaling_8cpp.html#ae28771bf3023fb27477011ca1deb3017" title="average_out_parallel" alt="" coords="141,450,280,477"/>
+<area shape="rect" id="node17" href="$d4/d94/foreach__scaling_8cpp.html#a6f6981d918aadc4c7f5d292e3241ded0" title="average_out_task" alt="" coords="149,556,272,582"/>
+<area shape="rect" id="node21" href="$d4/d94/foreach__scaling_8cpp.html#a07652cc5e47955ddcb52e9896727864a" title="average_out_sequential" alt="" coords="132,501,289,528"/>
+<area shape="rect" id="node23" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="165,606,256,633"/>
+<area shape="rect" id="node3" href="$dd/d16/structhpx_1_1util_1_1high__resolution__clock.html#aaf1ff59c3ef8d3b70696fadb0a55842c" title="hpx::util::high_resolution\l_clock::now" alt="" coords="723,468,885,510"/>
+<area shape="rect" id="node5" href="$d4/d94/foreach__scaling_8cpp.html#a898abd404f99fff4dd6b9b7d12795494" title="measure_parallel_foreach" alt="" coords="337,124,507,150"/>
+<area shape="rect" id="node4" href="$de/db3/1d__stencil__1__omp_8cpp.html#a89e9667753dccfac455bd37a7a3a7b16" title="now" alt="" coords="983,476,1029,502"/>
+<area shape="rect" id="node6" href="$df/d04/namespacetest.html#abdbbc37e6fb67287495e853a554c493a" title="test::iota" alt="" coords="578,197,651,224"/>
+<area shape="rect" id="node7" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#a31e165df2b865cdd961f35ce938db41a" title="hpx::util::detail::\lrange_impl::begin" alt="" coords="742,156,866,198"/>
+<area shape="rect" id="node8" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#afb2ea48b0902f52ee4d8b764807b4316" title="hpx::util::detail::\lrange_impl::end" alt="" coords="747,231,861,272"/>
+<area shape="rect" id="node9" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a7669848e3e4ff6cee42c8f645101970f" title="hpx::parallel::v1::\lfor_each" alt="" coords="555,80,675,122"/>
+<area shape="rect" id="node16" href="$d4/db8/worker__timed_8hpp.html#a11be0c8620df93f53ec0a28d215d3cd9" title="worker_timed" alt="" coords="565,298,664,325"/>
+<area shape="rect" id="node10" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="783,88,825,114"/>
+<area shape="rect" id="node11" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="969,113,1043,140"/>
+<area shape="rect" id="node12" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="933,164,1079,190"/>
+<area shape="rect" id="node13" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="970,62,1042,89"/>
+<area shape="rect" id="node14" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="1181,12,1267,38"/>
+<area shape="rect" id="node15" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="1127,63,1321,104"/>
+<area shape="rect" id="node18" href="$d4/d94/foreach__scaling_8cpp.html#abad3a79ac7e4a4bd95e686ceccec7de7" title="measure_task_foreach" alt="" coords="345,313,499,340"/>
+<area shape="rect" id="node19" href="$d0/d33/classhpx_1_1lcos_1_1future.html#aefc416a8a6245ecfce48f189cd40907a" title="hpx::lcos::future::\lshare" alt="" coords="361,552,483,594"/>
+<area shape="rect" id="node20" href="$d2/dc9/namespacehpx_1_1lcos.html#aa22f424df487aac588e30b71f15dd2fe" title="hpx::lcos::wait_all" alt="" coords="359,669,485,696"/>
+<area shape="rect" id="node22" href="$d4/d94/foreach__scaling_8cpp.html#a8b988305b19845b3046c98e43f4f1add" title="measure_sequential\l_foreach" alt="" coords="353,226,491,267"/>
+</map>

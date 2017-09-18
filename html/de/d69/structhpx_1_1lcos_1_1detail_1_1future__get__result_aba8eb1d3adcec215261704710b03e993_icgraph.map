@@ -1,0 +1,5 @@
+<map id="hpx::lcos::detail::future_get_result::call" name="hpx::lcos::detail::future_get_result::call">
+<area shape="rect" id="node2" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a03dca31d4505202a21d26554248bd744" title="hpx::lcos::detail::\lfuture_base\&lt; future\l\&lt; R \&gt;, R \&gt;::get_exception_ptr" alt="" coords="200,5,395,61"/>
+<area shape="rect" id="node3" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future\&lt;\l std::uint64_t \&gt;::get" alt="" coords="229,86,365,127"/>
+<area shape="rect" id="node4" href="$d4/d31/classhpx_1_1lcos_1_1shared__future.html#a316b62d06e2bbab9e8d93fe64d13527e" title="hpx::lcos::shared_future\l\&lt; jacobi::row \&gt;::get" alt="" coords="217,151,378,193"/>
+</map>

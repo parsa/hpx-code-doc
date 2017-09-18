@@ -1,0 +1,13 @@
+<map id="hpx::components::server::component_storage::migrate_to_here" name="hpx::components::server::component_storage::migrate_to_here">
+<area shape="rect" id="node2" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#ad3a849cb7ebd5dccf9aefadccc21dd89" title="hpx::naming::detail\l::get_stripped_gid" alt="" coords="248,93,380,134"/>
+<area shape="rect" id="node6" href="$dc/d54/namespacehpx_1_1agas.html#a12a1dcd0a238611b21af8211145a1c75" title="hpx::agas::bind" alt="" coords="259,199,369,225"/>
+<area shape="rect" id="node3" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a95cca4d4bc82a9da3e804b225b03dfaf" title="hpx::naming::detail\l::strip_internal_bits\l_from_gid" alt="" coords="447,5,579,61"/>
+<area shape="rect" id="node4" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a1ab848588112d0f7fac377a15692c9cc" title="hpx::naming::detail\l::get_stripped_gid_except\l_dont_cache" alt="" coords="428,85,599,141"/>
+<area shape="rect" id="node5" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#aabeb51a92376c6bfb9cf31bf9ff0c4cc" title="hpx::naming::detail\l::strip_internal_bits\l_except_dont_cache_from_gid" alt="" coords="647,79,845,135"/>
+<area shape="rect" id="node7" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="436,191,591,233"/>
+<area shape="rect" id="node10" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a0e706be27e3a44b581b8ee1a04d8fd7d" title="hpx::agas::addressing\l_service::bind_async" alt="" coords="438,269,589,310"/>
+<area shape="rect" id="node8" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="687,159,805,185"/>
+<area shape="rect" id="node9" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="669,210,823,251"/>
+<area shape="rect" id="node11" href="$d4/dc9/namespacehpx_1_1naming.html#ae50a3ecdb5854b6a25a556ebc9830541" title="hpx::naming::get_gid\l_from_locality_id" alt="" coords="675,275,817,317"/>
+<area shape="rect" id="node12" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="893,275,1060,317"/>
+</map>

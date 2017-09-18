@@ -1,0 +1,9 @@
+<map id="hpx::is_stopped_or_shutting_down" name="hpx::is_stopped_or_shutting_down">
+<area shape="rect" id="node2" href="$d9/dab/classhpx_1_1lcos_1_1barrier.html#a1fcac5ce49dd1b9800affc8c8b84e4c9" title="hpx::lcos::barrier\l::wait" alt="" coords="221,18,339,59"/>
+<area shape="rect" id="node4" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#ac47bfb07dba5c3273d36fabe0868d43b" title="hpx::parcelset::parcelhandler\l::put_parcel" alt="" coords="185,123,375,165"/>
+<area shape="rect" id="node8" href="$d4/d41/namespacehpx_1_1parcelset.html#afbd7ba917a0c0adcad43f9b8b0ef1dc2" title="hpx::parcelset::default\l_write_handler" alt="" coords="205,189,355,230"/>
+<area shape="rect" id="node3" href="$d3/d41/classhpx_1_1process_1_1process.html#acc7ec4687f3bf5ae121ef7b494d991d8" title="hpx.process.process.join" alt="" coords="427,5,594,32"/>
+<area shape="rect" id="node5" href="$d6/d81/structhpx_1_1parcelset_1_1detail_1_1put__parcel__handler.html#a108c3182042dc70fac236ffefd75df24" title="hpx::parcelset::detail\l::put_parcel_handler::\loperator()" alt="" coords="437,56,584,112"/>
+<area shape="rect" id="node6" href="$d1/df2/structhpx_1_1parcelset_1_1detail_1_1put__parcel__handler__cb.html#a2748057527af1b9f5f5984703b59d8f8" title="hpx::parcelset::detail\l::put_parcel_handler_cb\l::operator()" alt="" coords="431,136,591,192"/>
+<area shape="rect" id="node7" href="$d7/d3a/structhpx_1_1agas_1_1server_1_1primary__namespace.html#a9037a1baa55fb13097a541bc365f2d0b" title="hpx::agas::server::\lprimary_namespace::route" alt="" coords="423,217,599,258"/>
+</map>

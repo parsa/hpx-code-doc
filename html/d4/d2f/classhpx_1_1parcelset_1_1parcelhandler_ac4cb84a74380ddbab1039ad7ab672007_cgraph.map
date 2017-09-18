@@ -1,0 +1,5 @@
+<map id="hpx::parcelset::parcelhandler::get_raw_localities" name="hpx::parcelset::parcelhandler::get_raw_localities">
+<area shape="rect" id="node2" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a3d263988f86b2a4c26dbb8d734540a5a" title="Query for the locality_ids of all known localities. " alt="" coords="243,5,396,47"/>
+<area shape="rect" id="node3" href="$d4/dc9/namespacehpx_1_1naming.html#ae50a3ecdb5854b6a25a556ebc9830541" title="hpx::naming::get_gid\l_from_locality_id" alt="" coords="444,5,587,47"/>
+<area shape="rect" id="node4" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="635,5,801,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hpx::components::stubs::runtime_support::shutdown" name="hpx::components::stubs::runtime_support::shutdown">
+<area shape="rect" id="node2" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#aea7da73b35a156d71c948a86b07c8d16" title="Shutdown the given runtime system. " alt="" coords="240,71,468,112"/>
+<area shape="rect" id="node6" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="283,137,425,163"/>
+<area shape="rect" id="node3" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html#a941a7057c3296a4c06ecbbb5032146a2" title="hpx::lcos::local::detail\l::promise_base::get_future" alt="" coords="516,5,692,47"/>
+<area shape="rect" id="node4" href="$d4/def/classhpx_1_1lcos_1_1detail_1_1promise__base.html#a2517464a9b53f71a7531c5cf75323ef5" title="hpx::lcos::detail::\lpromise_base::get_id" alt="" coords="531,71,677,112"/>
+<area shape="rect" id="node5" href="$db/dee/structhpx_1_1naming_1_1id__type.html#a0375af42ca6b0ff79e627d91bfae571b" title="hpx::naming::id_type\l::get_gid" alt="" coords="533,136,675,177"/>
+</map>

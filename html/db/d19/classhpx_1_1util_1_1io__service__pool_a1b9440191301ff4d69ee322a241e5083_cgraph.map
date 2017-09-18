@@ -1,0 +1,6 @@
+<map id="hpx::util::io_service_pool::run" name="hpx::util::io_service_pool::run">
+<area shape="rect" id="node2" href="$db/d19/classhpx_1_1util_1_1io__service__pool.html#aa3aa8e07eaf9b279d59441a4a738dc76" title="hpx::util::io_service\l_pool::join_locked" alt="" coords="187,5,321,47"/>
+<area shape="rect" id="node4" href="$db/d19/classhpx_1_1util_1_1io__service__pool.html#ace77aa42f5b0044b4875058099605fb2" title="hpx::util::io_service\l_pool::clear_locked" alt="" coords="187,71,321,112"/>
+<area shape="rect" id="node5" href="$db/d19/classhpx_1_1util_1_1io__service__pool.html#a5e47b41c9d379d8bcea4b87f55488f50" title="hpx::util::io_service\l_pool::run_locked" alt="" coords="187,136,321,177"/>
+<area shape="rect" id="node3" href="$db/d19/classhpx_1_1util_1_1io__service__pool.html#a2be8ab0fa1f66cc6200061aa6832dc65" title="Join all io_service threads in the pool. " alt="" coords="369,5,503,47"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="hpx::performance_counters::add_counter_type" name="hpx::performance_counters::add_counter_type">
+<area shape="rect" id="node2" href="$d0/d36/namespacehpx_1_1performance__counters.html#a1e57ee998acec738eef988feb18eebcd" title="Add a new performance counter type to the (local) registry. " alt="" coords="232,5,411,47"/>
+<area shape="rect" id="node3" href="$d0/d36/namespacehpx_1_1performance__counters.html#ae0e9d6bb6252459b956c7b23f3577566" title="Call the supplied function for each registered counter type. " alt="" coords="232,71,411,112"/>
+<area shape="rect" id="node4" href="$d0/d36/namespacehpx_1_1performance__counters.html#a790341c5b1fd81ec20123edc6003dcb5" title="Call the supplied function for the given registered counter type. " alt="" coords="232,136,411,177"/>
+<area shape="rect" id="node5" href="$d0/d36/namespacehpx_1_1performance__counters.html#ae50caac22fdd2584612c86b698797e69" title="call the supplied function will all expanded versions of the supplied counter info. " alt="" coords="232,201,411,243"/>
+<area shape="rect" id="node6" href="$d0/d36/namespacehpx_1_1performance__counters.html#a1a50a4bd2ed99287a169db404ebf0e9f" title="Remove an existing counter type from the (local) registry. " alt="" coords="232,267,411,308"/>
+<area shape="rect" id="node7" href="$d0/d36/namespacehpx_1_1performance__counters.html#a38f30b4730abcede679b55c7c1b1d8b5" title="Retrieve the counter type for the given counter name from the (local) registry. " alt="" coords="232,332,411,373"/>
+<area shape="rect" id="node8" href="$d0/d36/namespacehpx_1_1performance__counters.html#aa69496dbba46619d8d3179c86801f1c7" title="Get the global id of an existing performance counter, if the counter does not exist yet..." alt="" coords="232,397,411,439"/>
+</map>

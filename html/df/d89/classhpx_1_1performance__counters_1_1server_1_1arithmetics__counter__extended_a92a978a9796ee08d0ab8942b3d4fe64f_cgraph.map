@@ -1,0 +1,4 @@
+<map id="hpx::performance_counters::server::arithmetics_counter_extended::finalize" name="hpx::performance_counters::server::arithmetics_counter_extended::finalize">
+<area shape="rect" id="node2" href="$d7/d92/classhpx_1_1performance__counters_1_1server_1_1base__performance__counter.html#a26613dcedd3469b1eea78540e2d27d90" title="finalize() will be called just before the instance gets destructed " alt="" coords="248,5,427,61"/>
+<area shape="rect" id="node3" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a02c23391a27423b555d800a87f8fe92a" title="finalize() will be called just before the instance gets destructed " alt="" coords="240,86,435,157"/>
+</map>

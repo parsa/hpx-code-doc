@@ -1,0 +1,5 @@
+<map id="hpx::threads::detail::scheduling_loop" name="hpx::threads::detail::scheduling_loop">
+<area shape="rect" id="node2" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a32d8c1d6d55b20d42149c5710792142f" title="hpx::threads::detail\l::scheduled_thread_pool\l::thread_func" alt="" coords="187,45,349,101"/>
+<area shape="rect" id="node3" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a18f2b38df9ce10cde72b3a19174b18fe" title="hpx::threads::detail\l::scheduled_thread_pool\l::get_os_thread_handle" alt="" coords="397,5,560,61"/>
+<area shape="rect" id="node4" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a83df1a54306c268c2cc95d0c4b9b9eb6" title="hpx::threads::detail\l::scheduled_thread_pool\l::add_processing_unit" alt="" coords="397,85,560,141"/>
+</map>

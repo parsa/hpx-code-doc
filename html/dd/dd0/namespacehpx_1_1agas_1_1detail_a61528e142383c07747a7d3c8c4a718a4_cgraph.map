@@ -1,0 +1,5 @@
+<map id="hpx::agas::detail::get_number_of_pus_in_cores" name="hpx::agas::detail::get_number_of_pus_in_cores">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#aa4cc56111111c0910b6705047d8e6588" title="hpx::threads::create\l_topology" alt="" coords="262,5,401,47"/>
+<area shape="rect" id="node4" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a1b632e123ba3ee570f0fe1fa5ccf0583" title="Return number of processing units in given core. " alt="" coords="244,71,419,112"/>
+<area shape="rect" id="node3" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a2967c633948a3bf17a3b5405ef5a8318" title="hpx::util::static_::get" alt="" coords="467,13,608,39"/>
+</map>

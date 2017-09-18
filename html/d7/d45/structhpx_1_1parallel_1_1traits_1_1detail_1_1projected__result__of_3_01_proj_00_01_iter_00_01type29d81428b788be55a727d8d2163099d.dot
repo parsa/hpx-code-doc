@@ -1,0 +1,24 @@
+digraph "hpx::parallel::traits::detail::projected_result_of&lt; Proj, Iter, typename std::enable_if&lt; hpx::traits::is_iterator&lt; Iter &gt;::value &gt;::type &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::parallel::traits\l::detail::projected_result\l_of\< Proj, Iter, typename\l std::enable_if\< hpx::traits\l::is_iterator\< Iter \>::value\l \>::type \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::util::invoke_result\l\< Proj, std::iterator_traits\l\< Iter \>::reference \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/df1/structhpx_1_1util_1_1invoke__result.html"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::util::detail::\lresult_of_impl\< std\l::decay\< Proj \>::type,\l Proj &&(Ts &&...)\>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbd/structhpx_1_1util_1_1detail_1_1result__of__impl.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hpx::util::detail::\lresult_of_function_object\l_impl::result_of_function\l_object\< Proj && \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/db3/structhpx_1_1util_1_1detail_1_1result__of__function__object__impl_1_1result__of__function__object.html"];
+  Node4 -> Node2 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< std::decay\< Proj\l \>::type, Proj &&(Ts\l &&...)\>" ,fontname="Helvetica"];
+  Node4 [label="hpx::util::detail::\lresult_of_impl\< FD, T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbd/structhpx_1_1util_1_1detail_1_1result__of__impl.html"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="hpx::util::detail::\lresult_of_function_object\l_impl::result_of_function\l_object\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/db3/structhpx_1_1util_1_1detail_1_1result__of__function__object__impl_1_1result__of__function__object.html"];
+  Node6 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Proj, std::iterator\l_traits\< Iter \>::reference \>" ,fontname="Helvetica"];
+  Node6 [label="hpx::util::invoke_result\l\< F, Ts \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/df1/structhpx_1_1util_1_1invoke__result.html"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hpx::util::detail::\lresult_of_impl\< std\l::decay\< F \>::type, F\l &&(Ts &&...)\>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbd/structhpx_1_1util_1_1detail_1_1result__of__impl.html"];
+  Node8 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="hpx::util::detail::\lresult_of_function_object\l_impl::result_of_function\l_object\< F && \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/db3/structhpx_1_1util_1_1detail_1_1result__of__function__object__impl_1_1result__of__function__object.html"];
+  Node4 -> Node7 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< std::decay\< F \>::\ltype, F &&(Ts &&...)\>" ,fontname="Helvetica"];
+}

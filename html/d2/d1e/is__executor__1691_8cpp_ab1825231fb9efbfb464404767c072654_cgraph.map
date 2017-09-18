@@ -1,0 +1,12 @@
+<map id="hpx_main" name="hpx_main">
+<area shape="rect" id="node2" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a7669848e3e4ff6cee42c8f645101970f" title="hpx::parallel::v1::\lfor_each" alt="" coords="150,74,270,115"/>
+<area shape="rect" id="node9" href="$d9/df4/structhpx_1_1parallel_1_1execution_1_1parallel__policy.html#a60d4707ab6d8c849399c4c461a822ce0" title="hpx::parallel::execution\l::parallel_policy::on" alt="" coords="132,139,288,181"/>
+<area shape="rect" id="node11" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="165,205,255,232"/>
+<area shape="rect" id="node3" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="398,81,441,108"/>
+<area shape="rect" id="node4" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="586,5,661,32"/>
+<area shape="rect" id="node5" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="551,56,696,83"/>
+<area shape="rect" id="node6" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="587,157,659,184"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="798,107,885,133"/>
+<area shape="rect" id="node8" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="744,158,939,199"/>
+<area shape="rect" id="node10" href="$d1/da8/structhpx_1_1parallel_1_1execution_1_1sequenced__task__policy.html#a9f94a35b705ff48867e24a1e3f527c08" title="Return the associated executor parameters object. " alt="" coords="336,132,503,188"/>
+</map>

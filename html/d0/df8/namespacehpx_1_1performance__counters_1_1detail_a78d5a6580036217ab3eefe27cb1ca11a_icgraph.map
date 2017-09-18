@@ -1,0 +1,7 @@
+<map id="hpx::performance_counters::detail::get_instance_count" name="hpx::performance_counters::detail::get_instance_count">
+<area shape="rect" id="node2" href="$d0/df8/namespacehpx_1_1performance__counters_1_1detail.html#af716b9b45683ddf0391f50ac63827c8b" title="Creation function for instance counter. " alt="" coords="245,5,434,61"/>
+<area shape="rect" id="node4" href="$d4/df5/classhpx_1_1components_1_1runtime__support.html#a0600e2c81f5495e5aa7251ac0193ea2e" title="hpx::components::runtime\l_support::get_instance_count" alt="" coords="243,86,436,127"/>
+<area shape="rect" id="node5" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#ab76dc3ec60d4ceeb7e52494c307a7cfd" title="hpx::components::stubs\l::runtime_support::create\l_memory_block" alt="" coords="256,152,423,208"/>
+<area shape="rect" id="node6" href="$de/d5c/runtime__support__server_8cpp.html#a2c7fd60adfab122ae67b173ad73fc706" title="HPX_REGISTER_BROADCAST\l_ACTION_ID" alt="" coords="236,233,443,274"/>
+<area shape="rect" id="node3" href="$d0/d7b/classhpx_1_1runtime.html#ad04cc0d74dd608aedf3824c8b067eea9" title="Install all performance counters related to this runtime instance. " alt="" coords="491,13,636,54"/>
+</map>

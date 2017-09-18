@@ -1,0 +1,8 @@
+<map id="define_task_block_exceptions_test3" name="define_task_block_exceptions_test3">
+<area shape="rect" id="node2" href="$d2/d62/namespacehpx_1_1parallel_1_1v2.html#a542a6d325f132739dbda97b8f09dce4f" title="hpx::parallel::v2::\ldefine_task_block" alt="" coords="264,5,391,47"/>
+<area shape="rect" id="node3" href="$d9/df4/structhpx_1_1parallel_1_1execution_1_1parallel__policy.html#a60d4707ab6d8c849399c4c461a822ce0" title="hpx::parallel::execution\l::parallel_policy::on" alt="" coords="249,71,405,112"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#ab480f3cb111f2fe68c8548f793a00fbc" title="hpx::expect_exception" alt="" coords="251,137,404,163"/>
+<area shape="rect" id="node7" href="$de/d25/classhpx_1_1exception.html#a427fc21f422d4a796cf7e8f7b74c1fe1" title="hpx::exception::get\l_error" alt="" coords="261,188,394,229"/>
+<area shape="rect" id="node4" href="$d1/da8/structhpx_1_1parallel_1_1execution_1_1sequenced__task__policy.html#a9f94a35b705ff48867e24a1e3f527c08" title="Return the associated executor parameters object. " alt="" coords="460,59,627,115"/>
+<area shape="rect" id="node6" href="$d8/d83/namespacehpx.html#ab67c753a0a830fd90332e88a18377f90" title="hpx::expect_exception_flag" alt="" coords="453,139,633,166"/>
+</map>

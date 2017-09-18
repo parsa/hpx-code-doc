@@ -1,0 +1,11 @@
+<map id="hpx::this_thread::get_priority" name="hpx::this_thread::get_priority">
+<area shape="rect" id="node2" href="$d0/d82/customize__async_8cpp.html#a6016a3884b47920235a6f1372d57577b" title="run_with_large_stack" alt="" coords="218,5,362,32"/>
+<area shape="rect" id="node4" href="$d0/d82/customize__async_8cpp.html#a2276bc4af62f6d75d7eca107625ac6d1" title="run_with_high_priority" alt="" coords="217,56,363,83"/>
+<area shape="rect" id="node5" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a638a504bb075a4da7cadeee962eb0141" title="hpx::parcelset::parcelhandler\l::get_incoming_queue_length" alt="" coords="195,107,385,149"/>
+<area shape="rect" id="node7" href="$de/d5e/resume__priority_8cpp.html#ac53af45d6d1685bae10a1f8b7611a392" title="low_priority" alt="" coords="247,173,333,200"/>
+<area shape="rect" id="node8" href="$de/d5e/resume__priority_8cpp.html#a16815720d3c0a4cc61b015bb9ac538b1" title="normal_priority" alt="" coords="237,224,343,251"/>
+<area shape="rect" id="node9" href="$de/d5e/resume__priority_8cpp.html#a3e73e5912c91d5e549ffe12cf9485e8b" title="high_priority" alt="" coords="244,275,336,301"/>
+<area shape="rect" id="node10" href="$de/d5e/resume__priority_8cpp.html#a7f4972383eecd0ae0daaa8ee415a95ad" title="high_recursive_priority" alt="" coords="215,325,365,352"/>
+<area shape="rect" id="node3" href="$d0/d82/customize__async_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="503,31,553,57"/>
+<area shape="rect" id="node6" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a7ef1d5a78176f8b14e39447e95ca073e" title="hpx::parcelset::parcelhandler\l::register_counter_types" alt="" coords="433,107,623,149"/>
+</map>

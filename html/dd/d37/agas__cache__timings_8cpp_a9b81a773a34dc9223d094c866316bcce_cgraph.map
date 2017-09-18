@@ -1,0 +1,7 @@
+<map id="test_update" name="test_update">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#aa16b81ab9efec229b7b8810b1ec57dd5" title="The function get_locality returns a reference to the locality prefix. " alt="" coords="159,64,276,91"/>
+<area shape="rect" id="node6" href="$de/d98/classhpx_1_1util_1_1cache_1_1local__cache.html#a6d5a44e650f9f5ff701e2d571edc0fbc" title="Return current size of the cache. " alt="" coords="144,115,291,157"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="368,5,487,32"/>
+<area shape="rect" id="node4" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="350,57,505,98"/>
+<area shape="rect" id="node5" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ab52c19a37c2a7a006c6c15f90ad0539c" title="hpx::agas::addressing\l_service::get_local_locality" alt="" coords="339,122,516,163"/>
+</map>

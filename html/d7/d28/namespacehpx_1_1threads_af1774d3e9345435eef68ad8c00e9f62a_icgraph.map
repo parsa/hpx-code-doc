@@ -1,0 +1,9 @@
+<map id="hpx::threads::bulk_sync_execute" name="hpx::threads::bulk_sync_execute">
+<area shape="rect" id="node2" href="$dd/d8b/barrier__hang_8cpp.html#a2fd9ba39dc8241594662dc397348d687" title="bulk_test" alt="" coords="236,5,311,32"/>
+<area shape="rect" id="node4" href="$d5/d95/structhpx_1_1compute_1_1host_1_1block__executor.html#a9ceecc44a7152b532a3a423f97af427c" title="hpx::compute::host\l::block_executor\&lt; executor\l_type \&gt;::bulk_sync_execute" alt="" coords="180,56,367,112"/>
+<area shape="rect" id="node5" href="$d2/d56/bulk__async_8cpp.html#abcd3c113797813e7123226b2a864d5df" title="test_bulk_sync" alt="" coords="218,136,329,163"/>
+<area shape="rect" id="node7" href="$d9/dca/created__executor_8cpp.html#a0b87fb4dd43fdbb18c9a0f048e433bcf" title="test_void_bulk_sync" alt="" coords="204,187,343,213"/>
+<area shape="rect" id="node3" href="$d7/dbf/spmd__block_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="429,5,479,32"/>
+<area shape="rect" id="node6" href="$d2/d56/bulk__async_8cpp.html#ab1825231fb9efbfb464404767c072654" title="hpx_main" alt="" coords="415,136,493,163"/>
+<area shape="rect" id="node8" href="$d9/dca/created__executor_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="415,187,493,213"/>
+</map>

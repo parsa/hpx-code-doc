@@ -1,0 +1,10 @@
+digraph "hpx::util::detail::make_index_pack&lt; 0 &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node3 [label="hpx::util::detail::\lmake_index_pack\< 0 \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::util::detail::\lpack_c\< std::size_t \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d74/structhpx_1_1util_1_1detail_1_1pack__c.html"];
+  Node5 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< std::size_t \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::util::detail::\lpack_c\< T, Vs \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d74/structhpx_1_1util_1_1detail_1_1pack__c.html"];
+}

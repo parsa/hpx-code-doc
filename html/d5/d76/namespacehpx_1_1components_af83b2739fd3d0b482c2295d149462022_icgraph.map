@@ -1,0 +1,5 @@
+<map id="hpx::components::intrusive_ptr_add_ref" name="hpx::components::intrusive_ptr_add_ref">
+<area shape="rect" id="node2" href="$d6/d83/structhpx_1_1components_1_1detail__adl__barrier_1_1manage__lifetime_3_01traits_1_1managed__objecca9f0eed1cc062a638aad05bb0548651.html#a1af45c09a353be3e35e0e260f360673d" title="hpx::components::detail\l_adl_barrier::manage_lifetime\l\&lt; traits::managed_object_is\l_lifetime_controlled \&gt;::addref" alt="" coords="231,5,421,76"/>
+<area shape="rect" id="node3" href="$dc/d4c/classhpx_1_1components_1_1managed__component.html#a1b455de9076071150a8d74b095506da1" title="Construct a managed_component instance holding a wrapped instance. This constructor takes ownership o..." alt="" coords="234,101,418,157"/>
+<area shape="rect" id="node4" href="$dc/d4c/classhpx_1_1components_1_1managed__component.html#abf8722336ced2e4710bf2d5f96dbdfbd" title="hpx::components::managed\l_component\&lt; test, Wrapper\l \&gt;::get_base_gid" alt="" coords="234,181,418,237"/>
+</map>

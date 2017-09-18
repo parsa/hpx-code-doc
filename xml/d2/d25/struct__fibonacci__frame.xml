@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d2/d25/struct__fibonacci__frame" kind="struct" language="C++" prot="public">
+    <compoundname>_fibonacci_frame</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="d2/d25/struct__fibonacci__frame_1ad4bf993f9a95895e60017900f6499b1a" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int _fibonacci_frame::state_</definition>
+        <argsstring></argsstring>
+        <name>state_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" line="54" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" bodystart="54" bodyend="-1"/>
+        <referencedby refid="dc/d1c/fibonacci__await_8cpp_1acdec6cce6a7fb7916e541fa7b85b0758" compoundref="dc/d1c/fibonacci__await_8cpp" startline="71" endline="142">_fibonacci</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="d2/d25/struct__fibonacci__frame_1a19507ff44a2de50e96174646d1cb4ac7" prot="public" static="no" mutable="no">
+        <type><ref refid="d0/d33/classhpx_1_1lcos_1_1future" kindref="compound">hpx::future</ref>&lt; std::uint64_t &gt;</type>
+        <definition>hpx::future&lt;std::uint64_t&gt; _fibonacci_frame::result_</definition>
+        <argsstring></argsstring>
+        <name>result_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" line="55" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" bodystart="55" bodyend="-1"/>
+        <referencedby refid="dc/d1c/fibonacci__await_8cpp_1acdec6cce6a7fb7916e541fa7b85b0758" compoundref="dc/d1c/fibonacci__await_8cpp" startline="71" endline="142">_fibonacci</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="d2/d25/struct__fibonacci__frame_1adbb976858632bec48957b016a1d8e80a" prot="public" static="no" mutable="no">
+        <type><ref refid="d6/de4/classhpx_1_1lcos_1_1local_1_1promise" kindref="compound">hpx::lcos::local::promise</ref>&lt; std::uint64_t &gt;</type>
+        <definition>hpx::lcos::local::promise&lt;std::uint64_t&gt; _fibonacci_frame::result_promise_</definition>
+        <argsstring></argsstring>
+        <name>result_promise_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" line="56" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" bodystart="56" bodyend="-1"/>
+        <referencedby refid="dc/d1c/fibonacci__await_8cpp_1acdec6cce6a7fb7916e541fa7b85b0758" compoundref="dc/d1c/fibonacci__await_8cpp" startline="71" endline="142">_fibonacci</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="d2/d25/struct__fibonacci__frame_1abedd98d2dab2865a51c77eff6244d17d" prot="public" static="no" mutable="no">
+        <type>std::uint64_t</type>
+        <definition>std::uint64_t _fibonacci_frame::n_</definition>
+        <argsstring></argsstring>
+        <name>n_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" line="64" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" bodystart="64" bodyend="-1"/>
+        <referencedby refid="dc/d1c/fibonacci__await_8cpp_1acdec6cce6a7fb7916e541fa7b85b0758" compoundref="dc/d1c/fibonacci__await_8cpp" startline="71" endline="142">_fibonacci</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="d2/d25/struct__fibonacci__frame_1a1eb88aeb58e559e73cae9525420ebf7f" prot="public" static="no" mutable="no">
+        <type><ref refid="d0/d33/classhpx_1_1lcos_1_1future" kindref="compound">hpx::future</ref>&lt; std::uint64_t &gt;</type>
+        <definition>hpx::future&lt;std::uint64_t&gt; _fibonacci_frame::lhs_</definition>
+        <argsstring></argsstring>
+        <name>lhs_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" line="65" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" bodystart="65" bodyend="-1"/>
+        <referencedby refid="dc/d1c/fibonacci__await_8cpp_1acdec6cce6a7fb7916e541fa7b85b0758" compoundref="dc/d1c/fibonacci__await_8cpp" startline="71" endline="142">_fibonacci</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="d2/d25/struct__fibonacci__frame_1a0c57156f2b979d0aacd547f37d16b6ac" prot="public" static="no" mutable="no">
+        <type><ref refid="d0/d33/classhpx_1_1lcos_1_1future" kindref="compound">hpx::future</ref>&lt; std::uint64_t &gt;</type>
+        <definition>hpx::future&lt;std::uint64_t&gt; _fibonacci_frame::rhs_</definition>
+        <argsstring></argsstring>
+        <name>rhs_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" line="66" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" bodystart="66" bodyend="-1"/>
+        <referencedby refid="dc/d1c/fibonacci__await_8cpp_1acdec6cce6a7fb7916e541fa7b85b0758" compoundref="dc/d1c/fibonacci__await_8cpp" startline="71" endline="142">_fibonacci</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="d2/d25/struct__fibonacci__frame_1ac60751a479effeeccfd1bb8f3128b27e" prot="public" static="no" mutable="no">
+        <type>std::uint64_t</type>
+        <definition>std::uint64_t _fibonacci_frame::lhs_result_</definition>
+        <argsstring></argsstring>
+        <name>lhs_result_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" line="67" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" bodystart="67" bodyend="-1"/>
+        <referencedby refid="dc/d1c/fibonacci__await_8cpp_1acdec6cce6a7fb7916e541fa7b85b0758" compoundref="dc/d1c/fibonacci__await_8cpp" startline="71" endline="142">_fibonacci</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="d2/d25/struct__fibonacci__frame_1ac3c2412550965a252fbf922599cd36c6" prot="public" static="no" mutable="no">
+        <type>std::uint64_t</type>
+        <definition>std::uint64_t _fibonacci_frame::rhs_result_</definition>
+        <argsstring></argsstring>
+        <name>rhs_result_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" line="68" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" bodystart="68" bodyend="-1"/>
+        <referencedby refid="dc/d1c/fibonacci__await_8cpp_1acdec6cce6a7fb7916e541fa7b85b0758" compoundref="dc/d1c/fibonacci__await_8cpp" startline="71" endline="142">_fibonacci</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d2/d25/struct__fibonacci__frame_1a4ea976757d564a3afacebbb32d53950d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>_fibonacci_frame::_fibonacci_frame</definition>
+        <argsstring>(std::uint64_t n)</argsstring>
+        <name>_fibonacci_frame</name>
+        <param>
+          <type>std::uint64_t</type>
+          <declname>n</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" line="58" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" bodystart="58" bodyend="61"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="17">
+        <label>hpx::lcos::local::promise&lt; R &gt;</label>
+        <link refid="d6/de4/classhpx_1_1lcos_1_1local_1_1promise"/>
+        <childnode refid="18" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="11">
+        <label>hpx::lcos::detail::future_base&lt; future&lt; std::uint64_t &gt;, std::uint64_t &gt;</label>
+        <link refid="d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base"/>
+      </node>
+      <node id="10">
+        <label>hpx::lcos::future&lt; std::uint64_t &gt;</label>
+        <link refid="d0/d33/classhpx_1_1lcos_1_1future"/>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="template-instance">
+          <edgelabel>&lt; std::uint64_t &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="13">
+        <label>hpx::lcos::detail::future_base&lt; future&lt; R &gt;, R &gt;</label>
+        <link refid="d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base"/>
+        <childnode refid="14" relation="template-instance">
+          <edgelabel>&lt; future&lt; R &gt;, R &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="19">
+        <label>hpx::lcos::local::detail::promise_base&lt; R, SharedState &gt;</label>
+        <link refid="d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base"/>
+      </node>
+      <node id="18">
+        <label>hpx::lcos::local::detail::promise_base&lt; R &gt;</label>
+        <link refid="d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base"/>
+        <childnode refid="19" relation="template-instance">
+          <edgelabel>&lt; R &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="16">
+        <label>hpx::lcos::local::detail::promise_base&lt; std::uint64_t &gt;</label>
+        <link refid="d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base"/>
+      </node>
+      <node id="14">
+        <label>hpx::lcos::detail::future_base&lt; Derived, R &gt;</label>
+        <link refid="d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base"/>
+      </node>
+      <node id="12">
+        <label>hpx::lcos::future&lt; R &gt;</label>
+        <link refid="d0/d33/classhpx_1_1lcos_1_1future"/>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="15">
+        <label>hpx::lcos::local::promise&lt; std::uint64_t &gt;</label>
+        <link refid="d6/de4/classhpx_1_1lcos_1_1local_1_1promise"/>
+        <childnode refid="16" relation="public-inheritance">
+        </childnode>
+        <childnode refid="17" relation="template-instance">
+          <edgelabel>&lt; std::uint64_t &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="9">
+        <label>_fibonacci_frame</label>
+        <link refid="d2/d25/struct__fibonacci__frame"/>
+        <childnode refid="10" relation="usage">
+          <edgelabel>rhs_</edgelabel>
+          <edgelabel>lhs_</edgelabel>
+          <edgelabel>result_</edgelabel>
+        </childnode>
+        <childnode refid="15" relation="usage">
+          <edgelabel>result_promise_</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" line="53" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/fibonacci_await.cpp" bodystart="52" bodyend="69"/>
+    <listofallmembers>
+      <member refid="d2/d25/struct__fibonacci__frame_1a4ea976757d564a3afacebbb32d53950d" prot="public" virt="non-virtual"><scope>_fibonacci_frame</scope><name>_fibonacci_frame</name></member>
+      <member refid="d2/d25/struct__fibonacci__frame_1a1eb88aeb58e559e73cae9525420ebf7f" prot="public" virt="non-virtual"><scope>_fibonacci_frame</scope><name>lhs_</name></member>
+      <member refid="d2/d25/struct__fibonacci__frame_1ac60751a479effeeccfd1bb8f3128b27e" prot="public" virt="non-virtual"><scope>_fibonacci_frame</scope><name>lhs_result_</name></member>
+      <member refid="d2/d25/struct__fibonacci__frame_1abedd98d2dab2865a51c77eff6244d17d" prot="public" virt="non-virtual"><scope>_fibonacci_frame</scope><name>n_</name></member>
+      <member refid="d2/d25/struct__fibonacci__frame_1a19507ff44a2de50e96174646d1cb4ac7" prot="public" virt="non-virtual"><scope>_fibonacci_frame</scope><name>result_</name></member>
+      <member refid="d2/d25/struct__fibonacci__frame_1adbb976858632bec48957b016a1d8e80a" prot="public" virt="non-virtual"><scope>_fibonacci_frame</scope><name>result_promise_</name></member>
+      <member refid="d2/d25/struct__fibonacci__frame_1a0c57156f2b979d0aacd547f37d16b6ac" prot="public" virt="non-virtual"><scope>_fibonacci_frame</scope><name>rhs_</name></member>
+      <member refid="d2/d25/struct__fibonacci__frame_1ac3c2412550965a252fbf922599cd36c6" prot="public" virt="non-virtual"><scope>_fibonacci_frame</scope><name>rhs_result_</name></member>
+      <member refid="d2/d25/struct__fibonacci__frame_1ad4bf993f9a95895e60017900f6499b1a" prot="public" virt="non-virtual"><scope>_fibonacci_frame</scope><name>state_</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

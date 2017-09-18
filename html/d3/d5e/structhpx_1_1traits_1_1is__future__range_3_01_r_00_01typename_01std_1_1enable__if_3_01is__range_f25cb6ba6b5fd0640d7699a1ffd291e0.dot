@@ -1,0 +1,22 @@
+digraph "hpx::traits::is_future_range&lt; R, typename std::enable_if&lt; is_range&lt; R &gt;::value &gt;::type &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node7 [label="hpx::traits::is_future\l_range\< R, typename std\l::enable_if\< is_range\< R\l \>::value \>::type \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node8 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="hpx::traits::is_future\l\< range_traits\< R \>::value\l_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dab/structhpx_1_1traits_1_1is__future.html"];
+  Node9 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="hpx::traits::detail\l::is_future_customization\l_point\< range_traits\< R\l \>::value_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d0b/structhpx_1_1traits_1_1detail_1_1is__future__customization__point.html"];
+  Node10 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="false_type",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node11 -> Node9 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< range_traits\< R \>\l::value_type \>" ,fontname="Helvetica"];
+  Node11 [label="hpx::traits::detail\l::is_future_customization\l_point\< Future, Enable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d0b/structhpx_1_1traits_1_1detail_1_1is__future__customization__point.html"];
+  Node10 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 -> Node8 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< range_traits\< R \>\l::value_type \>" ,fontname="Helvetica"];
+  Node12 [label="hpx::traits::is_future\l\< Future \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dab/structhpx_1_1traits_1_1is__future.html"];
+  Node13 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="hpx::traits::detail\l::is_future_customization\l_point\< Future \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d0b/structhpx_1_1traits_1_1detail_1_1is__future__customization__point.html"];
+  Node10 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 -> Node13 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Future \>" ,fontname="Helvetica"];
+}

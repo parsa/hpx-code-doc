@@ -1,0 +1,2676 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d7/da0/struct_a" kind="class" language="C++" prot="public" abstract="yes">
+    <compoundname>A</compoundname>
+    <basecompoundref refid="d1/d7b/classhpx_1_1components_1_1managed__component__base" prot="public" virt="non-virtual">hpx::components::managed_component_base&lt; A &gt;</basecompoundref>
+    <basecompoundref refid="df/d83/classhpx_1_1components_1_1abstract__managed__component__base" prot="public" virt="non-virtual">hpx::components::abstract_managed_component_base&lt; A &gt;</basecompoundref>
+    <basecompoundref refid="df/d83/classhpx_1_1components_1_1abstract__managed__component__base" prot="public" virt="non-virtual">hpx::components::abstract_managed_component_base&lt; A &gt;</basecompoundref>
+    <basecompoundref refid="d1/d7b/classhpx_1_1components_1_1managed__component__base" prot="public" virt="non-virtual">hpx::components::managed_component_base&lt; A &gt;</basecompoundref>
+    <basecompoundref refid="df/d83/classhpx_1_1components_1_1abstract__managed__component__base" prot="public" virt="non-virtual">hpx::components::abstract_managed_component_base&lt; A &gt;</basecompoundref>
+    <basecompoundref refid="d4/df7/classhpx_1_1components_1_1abstract__component__base" prot="public" virt="non-virtual">hpx::components::abstract_component_base&lt; A &gt;</basecompoundref>
+    <derivedcompoundref refid="de/d7e/struct_b" prot="public" virt="non-virtual">B&lt; T &gt;</derivedcompoundref>
+    <derivedcompoundref refid="de/d7e/struct_b" prot="public" virt="non-virtual">B&lt; T &gt;</derivedcompoundref>
+    <derivedcompoundref refid="de/d7e/struct_b" prot="public" virt="non-virtual">B&lt; T &gt;</derivedcompoundref>
+    <derivedcompoundref refid="de/d7e/struct_b" prot="public" virt="non-virtual">B&lt; T &gt;</derivedcompoundref>
+    <derivedcompoundref refid="de/d7e/struct_b" prot="public" virt="non-virtual">B&lt; T &gt;</derivedcompoundref>
+    <derivedcompoundref refid="de/d7e/struct_b" prot="public" virt="non-virtual">B&lt; T &gt;</derivedcompoundref>
+    <derivedcompoundref refid="de/d7e/struct_b" prot="public" virt="non-virtual">B&lt; T &gt;</derivedcompoundref>
+    <derivedcompoundref refid="de/d7e/struct_b" prot="public" virt="non-virtual">B&lt; T &gt;</derivedcompoundref>
+    <derivedcompoundref refid="de/d7e/struct_b" prot="public" virt="non-virtual">B&lt; T &gt;</derivedcompoundref>
+    <derivedcompoundref refid="de/d7e/struct_b" prot="public" virt="non-virtual">B&lt; T &gt;</derivedcompoundref>
+    <derivedcompoundref refid="df/d3b/struct_c" prot="public" virt="non-virtual">C&lt; T &gt;</derivedcompoundref>
+    <derivedcompoundref refid="dd/dd3/struct_e" prot="public" virt="non-virtual">E&lt; T &gt;</derivedcompoundref>
+    <templateparamlist>
+      <param>
+        <type>class</type>
+        <declname>T</declname>
+        <defname>T</defname>
+      </param>
+    </templateparamlist>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="d7/da0/struct_a_1ae7d72658a08236ca90bc8056d357e9b1" prot="public" static="no">
+        <type>int</type>
+        <definition>typedef int A&lt; T &gt;::result_type</definition>
+        <argsstring></argsstring>
+        <name>result_type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/bind_action.cpp" line="278" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/bind_action.cpp" bodystart="278" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="d7/da0/struct_a_1afe9d2d81c204b4caa38e4f5f91fbd14a" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int A&lt; T &gt;::val</definition>
+        <argsstring></argsstring>
+        <name>val</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/cmake/tests/cxx11_constexpr.cpp" line="15" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/cmake/tests/cxx11_constexpr.cpp" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="d7/da0/struct_a_1aac50c8fda46f650742c2272bd64e5d10" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int A&lt; T &gt;::m</definition>
+        <argsstring></argsstring>
+        <name>m</name>
+        <initializer>= 42</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/cmake/tests/cxx11_non_static_data_member_initialization.cpp" line="10" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/cmake/tests/cxx11_non_static_data_member_initialization.cpp" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="d7/da0/struct_a_1a3a3e9b0a824e67d5c3c4e6c5c6588c69" prot="public" static="no" mutable="no">
+        <type><ref refid="d3/d36/base__lco__with__value__1_8cpp_1a45c855d65dd0e2b57b08024500ff9159" kindref="member">double</ref></type>
+        <definition>int A&lt; T &gt;::a</definition>
+        <argsstring></argsstring>
+        <name>a</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/fail_compile_non_serializable_class.cpp" line="12" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/fail_compile_non_serializable_class.cpp" bodystart="12" bodyend="-1"/>
+        <referencedby refid="d7/d85/bind__action_8cpp_1a677164eacc915231ff69d01fa3cc5c9d" compoundref="d7/d85/bind__action_8cpp" startline="291" endline="302">member_bind_test0</referencedby>
+        <referencedby refid="d7/d85/bind__action_8cpp_1a62d7ae02b216b42264f93d4ceb3968c2" compoundref="d7/d85/bind__action_8cpp" startline="304" endline="321">member_bind_test1</referencedby>
+        <referencedby refid="d5/d98/cxx11__non__static__data__member__initialization_8cpp_1ae66f6b31b5ad750f1fe042a706a4e3d4" compoundref="d5/d98/cxx11__non__static__data__member__initialization_8cpp" startline="13" endline="16">main</referencedby>
+        <referencedby refid="d4/dbd/local__new_8cpp_1a3dbcea629e9ed1cf4a4a4644f29bf44e" compoundref="d4/dbd/local__new_8cpp" startline="67" endline="76">test_create_single_instance_non_copyable_arg</referencedby>
+        <referencedby refid="d6/d6e/polymorphic__nonintrusive_8cpp_1af084bd5aab6f14ce847701bda3149ac4" compoundref="d6/d6e/polymorphic__nonintrusive_8cpp" startline="28" endline="31">serialize</referencedby>
+        <referencedby refid="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" compoundref="d8/d0e/polymorphic__pointer_8cpp" startline="21" endline="21">A&lt; T &gt;::~A</referencedby>
+        <referencedby refid="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" compoundref="d8/d0e/polymorphic__pointer_8cpp" startline="26" endline="29">A&lt; T &gt;::serialize</referencedby>
+        <referencedby refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" compoundref="db/d33/polymorphic__semiintrusive__template_8cpp" startline="76" endline="101">T</referencedby>
+        <referencedby refid="d1/d6c/serialization__custom__constructor_8cpp_1a6d386eb25181c0459608dd9950f862c7" compoundref="d1/d6c/serialization__custom__constructor_8cpp" startline="38" endline="43">a_factory</referencedby>
+        <referencedby refid="de/d7e/struct_b_1a845e64766a230fc4f8ee407fb16556a6" compoundref="da/d0c/serialization__deque_8cpp" startline="52" endline="55">B&lt; T &gt;::get_a</referencedby>
+        <referencedby refid="da/d0c/serialization__deque_8cpp_1ab7ed8a8e0a224b606a899a2fcc21fc81" compoundref="da/d0c/serialization__deque_8cpp" startline="75" endline="80">load_construct_data</referencedby>
+        <referencedby refid="de/d76/serialization__map_8cpp_1a06864445e79fdb02393a9248abed223c" compoundref="de/d76/serialization__map_8cpp" startline="42" endline="45">operator&lt;&lt;</referencedby>
+        <referencedby refid="d9/d25/serialization__smart__ptr_8cpp_1a0edae403111c40cdafaf8e14fa8e09b4" compoundref="d9/d25/serialization__smart__ptr_8cpp" startline="109" endline="115">intrusive_ptr_release</referencedby>
+        <referencedby refid="dd/d01/smart__ptr__polymorphic_8cpp_1a9d1517f567f659560cb1d659f4515e90" compoundref="dd/d01/smart__ptr__polymorphic_8cpp" startline="95" endline="122">test_shared</referencedby>
+        <referencedby refid="dd/d01/smart__ptr__polymorphic_8cpp_1aa81c8074e2cc6bfda9fab9507c73adb3" compoundref="dd/d01/smart__ptr__polymorphic_8cpp" startline="219" endline="250">test_intrusive</referencedby>
+        <referencedby refid="d8/da8/tuple_8cpp_1ade9ce053e0783c9567a99cd68cd4856d" compoundref="d8/da8/tuple_8cpp" startline="254" endline="296">make_tuple_test</referencedby>
+        <referencedby refid="d8/da8/tuple_8cpp_1a8ee7470737646c4cb19ab40792372001" compoundref="d8/da8/tuple_8cpp" startline="298" endline="324">tie_test</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="d7/da0/struct_a_1a2e3613420c6a7a51c110a26e8931f9c8" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int A&lt; T &gt;::p</definition>
+        <argsstring></argsstring>
+        <name>p</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/fail_compile_non_serializable_class.cpp" line="13" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/fail_compile_non_serializable_class.cpp" bodystart="13" bodyend="-1"/>
+        <referencedby refid="d6/d4d/future_8cpp_1a498458f061af87d4d618d8a05e796f08" compoundref="d6/d4d/future_8cpp" startline="290" endline="299">test_void_promise</referencedby>
+        <referencedby refid="d6/d4d/future_8cpp_1a571b42f831aa574d09f3c73e68ad524e" compoundref="d6/d4d/future_8cpp" startline="301" endline="311">test_reference_promise</referencedby>
+        <referencedby refid="d6/d4d/future_8cpp_1ab89111b62ef155fc06fe76114d262ac2" compoundref="d6/d4d/future_8cpp" startline="487" endline="508">test_destroying_a_promise_stores_broken_promise</referencedby>
+        <referencedby refid="d6/d4d/future_8cpp_1adf337503d3704b8b92eb29382f2043fc" compoundref="d6/d4d/future_8cpp" startline="510" endline="531">test_destroying_a_packaged_task_stores_broken_task</referencedby>
+        <referencedby refid="d6/d71/structsmart__ptr_1ac83f04bd0afefdbba20c6bae33e3f1a4" compoundref="d8/d11/is__callable_8cpp" startline="19" endline="19">smart_ptr&lt; T &gt;::operator*</referencedby>
+        <referencedby refid="d5/de0/tagged_8cpp_1ac0d7947e5b273856090afd61b49dcae0" compoundref="d5/de0/tagged_8cpp" startline="32" endline="85">HPX_DEFINE_TAG_SPECIFIER</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="d7/da0/struct_a_1a3a3e9b0a824e67d5c3c4e6c5c6588c69" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int A&lt; T &gt;::a</definition>
+        <argsstring></argsstring>
+        <name>a</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_nonintrusive.cpp" line="24" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_nonintrusive.cpp" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="d7/da0/struct_a_1ae72d8d8ac297b70eb9bca920b62d2f19" prot="public" static="no" mutable="no">
+        <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+        <definition>T A&lt; T &gt;::t_</definition>
+        <argsstring></argsstring>
+        <name>t_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_array.cpp" line="30" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_array.cpp" bodystart="30" bodyend="-1"/>
+        <referencedby refid="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" compoundref="d0/d9e/serialization__array_8cpp" startline="35" endline="38">A&lt; T &gt;::serialize</referencedby>
+        <referencedby refid="d0/d9e/serialization__array_8cpp_1ad31f39df04713d49dcb2ed6f9ec4c77b" compoundref="d0/d9e/serialization__array_8cpp" startline="42" endline="84">test</referencedby>
+        <referencedby refid="d0/d9e/serialization__array_8cpp_1a827002d4da1aeb65d5616f3fcb9c6723" compoundref="d0/d9e/serialization__array_8cpp" startline="87" endline="129">test_fp</referencedby>
+        <referencedby refid="d0/d9e/serialization__array_8cpp_1a9838ca49018368a80c829aa747735702" compoundref="d0/d9e/serialization__array_8cpp" startline="132" endline="166">test_boost_array</referencedby>
+        <referencedby refid="d0/d9e/serialization__array_8cpp_1a7b8b9f9c20e1c28c8265583bfe4e3d6a" compoundref="d0/d9e/serialization__array_8cpp" startline="169" endline="203">test_std_array</referencedby>
+        <referencedby refid="da/d0c/serialization__deque_8cpp_1a480fe19eacf1d830cd4f50823948065b" compoundref="da/d0c/serialization__deque_8cpp" startline="82" endline="124">test_bool</referencedby>
+        <referencedby refid="d7/da0/struct_a_1a988879ac8783cd2e8ae7d6278aef4f5f" compoundref="de/d76/serialization__map_8cpp" startline="32" endline="32">A&lt; T &gt;::operator==</referencedby>
+        <referencedby refid="dd/ddb/serialization__valarray_8cpp_1a3a3d4bbaa1a02edf70e044249b861e2e" compoundref="dd/ddb/serialization__valarray_8cpp" startline="131" endline="165">test_std_valarray</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="d7/da0/struct_a_1a3099004fa1524b28aadeb00bfd42cad5" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int A&lt; T &gt;::i</definition>
+        <argsstring></argsstring>
+        <name>i</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_smart_ptr.cpp" line="93" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_smart_ptr.cpp" bodystart="93" bodyend="-1"/>
+        <referencedby refid="d7/da0/struct_a_1afe88afee524ffa8a1157959e3e5c916b" compoundref="d7/d85/bind__action_8cpp" startline="285" endline="288">A&lt; T &gt;::test1</referencedby>
+        <referencedby refid="d9/dfa/cxx11__constexpr_8cpp_1ae66f6b31b5ad750f1fe042a706a4e3d4" compoundref="d9/dfa/cxx11__constexpr_8cpp" startline="20" endline="23">main</referencedby>
+        <referencedby refid="d0/d9e/serialization__array_8cpp_1ad31f39df04713d49dcb2ed6f9ec4c77b" compoundref="d0/d9e/serialization__array_8cpp" startline="42" endline="84">test</referencedby>
+        <referencedby refid="d0/d9e/serialization__array_8cpp_1a827002d4da1aeb65d5616f3fcb9c6723" compoundref="d0/d9e/serialization__array_8cpp" startline="87" endline="129">test_fp</referencedby>
+        <referencedby refid="d0/d9e/serialization__array_8cpp_1a9838ca49018368a80c829aa747735702" compoundref="d0/d9e/serialization__array_8cpp" startline="132" endline="166">test_boost_array</referencedby>
+        <referencedby refid="d0/d9e/serialization__array_8cpp_1a7b8b9f9c20e1c28c8265583bfe4e3d6a" compoundref="d0/d9e/serialization__array_8cpp" startline="169" endline="203">test_std_array</referencedby>
+        <referencedby refid="d0/d9e/serialization__array_8cpp_1a98ec4e190466eb4be3db36843453a0bc" compoundref="d0/d9e/serialization__array_8cpp" startline="206" endline="226">test_multi_array</referencedby>
+        <referencedby refid="d0/d9e/serialization__array_8cpp_1a679320789348a96e992704283d6d0e83" compoundref="d0/d9e/serialization__array_8cpp" startline="229" endline="250">test_plain_array</referencedby>
+        <referencedby refid="d0/d9e/serialization__array_8cpp_1a47ceaf2326213f732652fdcdab843c3c" compoundref="d0/d9e/serialization__array_8cpp" startline="253" endline="279">test_array_of_vectors</referencedby>
+        <referencedby refid="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" compoundref="db/ddb/serialization__builtins_8cpp" startline="29" endline="32">A&lt; T &gt;::serialize</referencedby>
+        <referencedby refid="da/d0c/serialization__deque_8cpp_1a480fe19eacf1d830cd4f50823948065b" compoundref="da/d0c/serialization__deque_8cpp" startline="82" endline="124">test_bool</referencedby>
+        <referencedby refid="da/d0c/serialization__deque_8cpp_1a1a447f203095ab88289bef09ad9b4072" compoundref="da/d0c/serialization__deque_8cpp" startline="208" endline="236">test_non_default_constructible</referencedby>
+        <referencedby refid="dd/ddb/serialization__valarray_8cpp_1a3a3d4bbaa1a02edf70e044249b861e2e" compoundref="dd/ddb/serialization__valarray_8cpp" startline="131" endline="165">test_std_valarray</referencedby>
+        <referencedby refid="db/d4a/serialization__vector_8cpp_1ac00a50b6e1f486394f26b5d6446e4e71" compoundref="db/d4a/serialization__vector_8cpp" startline="221" endline="237">test_long_vector_serialization</referencedby>
+        <referencedby refid="d8/da8/tuple_8cpp_1a8ee7470737646c4cb19ab40792372001" compoundref="d8/da8/tuple_8cpp" startline="298" endline="324">tie_test</referencedby>
+        <referencedby refid="d8/da8/tuple_8cpp_1a7b113faa77c555e393d98d2ced7c3ffe" compoundref="d8/da8/tuple_8cpp" startline="471" endline="490">tuple_swap_test</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="d7/da0/struct_a_1aefb3b36e6c35060bd6231268586a9428" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int A&lt; T &gt;::count</definition>
+        <argsstring></argsstring>
+        <name>count</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_smart_ptr.cpp" line="95" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_smart_ptr.cpp" bodystart="95" bodyend="-1"/>
+        <referencedby refid="d9/d25/serialization__smart__ptr_8cpp_1afebee9efcc891bb90f89f346ed864553" compoundref="d9/d25/serialization__smart__ptr_8cpp" startline="104" endline="107">intrusive_ptr_add_ref</referencedby>
+        <referencedby refid="d9/d25/serialization__smart__ptr_8cpp_1a0edae403111c40cdafaf8e14fa8e09b4" compoundref="d9/d25/serialization__smart__ptr_8cpp" startline="109" endline="115">intrusive_ptr_release</referencedby>
+        <referencedby refid="d1/d65/smart__ptr__polymorphic__nonintrusive_8cpp_1a9d1517f567f659560cb1d659f4515e90" compoundref="d1/d65/smart__ptr__polymorphic__nonintrusive_8cpp" startline="96" endline="123">test_shared</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="d7/da0/struct_a_1a0722ac1e5dcb247be6b40b732188109b" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int A&lt; T &gt;::value_</definition>
+        <argsstring></argsstring>
+        <name>value_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/tagged.cpp" line="17" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/tagged.cpp" bodystart="17" bodyend="-1"/>
+        <referencedby refid="de/d7e/struct_b_1aa1d2f0127e944709419127693f8b2e17" compoundref="d8/d55/component__inheritance_8cpp" startline="60" endline="65">B&lt; T &gt;::print</referencedby>
+        <referencedby refid="de/d7e/struct_b_1af5d8640ae081b75cb9d416f100f59097" compoundref="d5/de0/tagged_8cpp" startline="22" endline="22">B&lt; T &gt;::B</referencedby>
+        <referencedby refid="d5/de0/tagged_8cpp_1ac0d7947e5b273856090afd61b49dcae0" compoundref="d5/de0/tagged_8cpp" startline="32" endline="85">HPX_DEFINE_TAG_SPECIFIER</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d7/da0/struct_a_1a516a6b865245c9fdcd8a1ca602f1ae82" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>constexpr</type>
+        <definition>constexpr A&lt; T &gt;::A</definition>
+        <argsstring>(int i)</argsstring>
+        <name>A</name>
+        <param>
+          <type>int</type>
+          <declname>i</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/cmake/tests/cxx11_constexpr.cpp" line="13" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/cmake/tests/cxx11_constexpr.cpp" bodystart="13" bodyend="13"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/component_inheritance.cpp" line="20" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/component_inheritance.cpp" bodystart="20" bodyend="20"/>
+        <references refid="d8/d83/namespacehpx_1afe8bd08e00b758972b82aa44851033df" compoundref="da/d60/standard__streams_8cpp" startline="133">hpx::cout</references>
+        <references refid="dd/d1d/namespacehpx_1_1iostreams_1a016add3557e29d7d635c81579c73e4b8" compoundref="d3/df6/manipulators_8cpp" startline="11">hpx::iostreams::flush</references>
+        <referencedby refid="d6/d6e/polymorphic__nonintrusive_8cpp_1a8072d18cd6f72d1013e8566748aca5ef" compoundref="d6/d6e/polymorphic__nonintrusive_8cpp" startline="144" endline="164">test_basic</referencedby>
+        <referencedby refid="d8/d0e/polymorphic__pointer_8cpp_1ae66f6b31b5ad750f1fe042a706a4e3d4" compoundref="d8/d0e/polymorphic__pointer_8cpp" startline="70" endline="100">main</referencedby>
+        <referencedby refid="d7/da0/struct_a_1ae2c86b18e2718eb8bd3bea2f6b945955" compoundref="db/d33/polymorphic__semiintrusive__template_8cpp" startline="21" endline="23">A&lt; T &gt;::A</referencedby>
+        <referencedby refid="d1/d6c/serialization__custom__constructor_8cpp_1a6d386eb25181c0459608dd9950f862c7" compoundref="d1/d6c/serialization__custom__constructor_8cpp" startline="38" endline="43">a_factory</referencedby>
+        <referencedby refid="d1/d6c/serialization__custom__constructor_8cpp_1a426dd0aaf9f5dbdb8a3829892df303b7" compoundref="d1/d6c/serialization__custom__constructor_8cpp" startline="117" endline="131">test_delegate</referencedby>
+        <referencedby refid="d9/d25/serialization__smart__ptr_8cpp_1aa81c8074e2cc6bfda9fab9507c73adb3" compoundref="d9/d25/serialization__smart__ptr_8cpp" startline="117" endline="141">test_intrusive</referencedby>
+        <referencedby refid="d8/da8/tuple_8cpp_1ade9ce053e0783c9567a99cd68cd4856d" compoundref="d8/da8/tuple_8cpp" startline="254" endline="296">make_tuple_test</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type></type>
+        <definition>virtual A&lt; T &gt;::~A</definition>
+        <argsstring>()</argsstring>
+        <name>~A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/component_inheritance.cpp" line="21" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/component_inheritance.cpp" bodystart="21" bodyend="21"/>
+        <references refid="d8/d83/namespacehpx_1afe8bd08e00b758972b82aa44851033df" compoundref="da/d60/standard__streams_8cpp" startline="133">hpx::cout</references>
+        <references refid="dd/d1d/namespacehpx_1_1iostreams_1a016add3557e29d7d635c81579c73e4b8" compoundref="d3/df6/manipulators_8cpp" startline="11">hpx::iostreams::flush</references>
+        <references refid="d7/da0/struct_a_1acc2f780e8d81ca5bb13bdaeaee0c5cb7">A&lt; T &gt;::print</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1acc2f780e8d81ca5bb13bdaeaee0c5cb7" prot="public" static="no" const="yes" explicit="no" inline="no" virt="pure-virtual">
+        <type>void</type>
+        <definition>virtual void A&lt; T &gt;::print</definition>
+        <argsstring>() const =0</argsstring>
+        <name>print</name>
+        <reimplementedby refid="de/d7e/struct_b_1aa1d2f0127e944709419127693f8b2e17">print</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/component_inheritance.cpp" line="23" column="1"/>
+        <referencedby refid="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" compoundref="d8/d55/component__inheritance_8cpp" startline="21" endline="21">A&lt; T &gt;::~A</referencedby>
+        <referencedby refid="d7/da0/struct_a_1acb6992ef647f5caa303311f301f4d97a" compoundref="d8/d55/component__inheritance_8cpp" startline="27" endline="27">A&lt; T &gt;::print_nonvirt</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1acb6992ef647f5caa303311f301f4d97a" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void A&lt; T &gt;::print_nonvirt</definition>
+        <argsstring>() const</argsstring>
+        <name>print_nonvirt</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/component_inheritance.cpp" line="27" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/component_inheritance.cpp" bodystart="27" bodyend="27"/>
+        <references refid="d7/da0/struct_a_1acc2f780e8d81ca5bb13bdaeaee0c5cb7">A&lt; T &gt;::print</references>
+        <references refid="d7/da0/struct_a_1a29a70e1489e0e0e14cd6c14ca0a56b14">A&lt; T &gt;::HPX_DEFINE_COMPONENT_ACTION</references>
+        <references refid="d8/d55/component__inheritance_8cpp_1a90a68be45499947d95dd53e4e09faa6e">HPX_DEFINE_GET_COMPONENT_TYPE</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a29a70e1489e0e0e14cd6c14ca0a56b14" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::HPX_DEFINE_COMPONENT_ACTION</definition>
+        <argsstring>(A, print_nonvirt, print_action)</argsstring>
+        <name>HPX_DEFINE_COMPONENT_ACTION</name>
+        <param>
+          <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref></type>
+        </param>
+        <param>
+          <type><ref refid="d7/da0/struct_a_1acb6992ef647f5caa303311f301f4d97a" kindref="member">print_nonvirt</ref></type>
+        </param>
+        <param>
+          <type><ref refid="d1/d76/structprint__action" kindref="compound">print_action</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/quickstart/component_inheritance.cpp" line="28" column="1"/>
+        <referencedby refid="d7/da0/struct_a_1acb6992ef647f5caa303311f301f4d97a" compoundref="d8/d55/component__inheritance_8cpp" startline="27" endline="27">A&lt; T &gt;::print_nonvirt</referencedby>
+        <referencedby refid="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" compoundref="dd/d8e/inheritance__2__classes__abstract_8cpp" startline="29" endline="29">A&lt; T &gt;::test0_nonvirt</referencedby>
+        <referencedby refid="de/d7e/struct_b_1ae467207e4ae9d456c4f5ff400ea606bc" compoundref="dd/d8e/inheritance__2__classes__abstract_8cpp" startline="54" endline="54">B&lt; T &gt;::test1</referencedby>
+        <referencedby refid="de/d7e/struct_b_1a1795182949fcf94a3adb4b27f7801689" compoundref="dc/dfb/inheritance__3__classes__1__abstract_8cpp" startline="57" endline="57">B&lt; T &gt;::test1_nonvirt</referencedby>
+        <referencedby refid="df/d3b/struct_c_1a6ec8a40c39be83ab3721725ffcf8ea38" compoundref="dc/dfb/inheritance__3__classes__1__abstract_8cpp" startline="89" endline="89">C&lt; T &gt;::test2</referencedby>
+        <referencedby refid="d5/d5d/structtest__server_1a7b57b8d8ccb5b5b8ecd4df4eefafe979" compoundref="d4/dbd/local__new_8cpp" startline="29" endline="29">test_server::call</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_2_classes_abstract.cpp" line="25" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_2_classes_abstract.cpp" bodystart="25" bodyend="25"/>
+        <references refid="dd/d8e/inheritance__2__classes__abstract_8cpp_1a7f0056c6b028b4b7eb43e6ffb6f5ea50" compoundref="dd/d8e/inheritance__2__classes__abstract_8cpp" startline="16">a_ctor</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type></type>
+        <definition>virtual A&lt; T &gt;::~A</definition>
+        <argsstring>()</argsstring>
+        <name>~A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_2_classes_abstract.cpp" line="26" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_2_classes_abstract.cpp" bodystart="26" bodyend="26"/>
+        <references refid="dd/d8e/inheritance__2__classes__abstract_8cpp_1ae4b8d5de14dde20233634dfe9931107e" compoundref="dd/d8e/inheritance__2__classes__abstract_8cpp" startline="17">a_dtor</references>
+        <references refid="d7/da0/struct_a_1ae912f20cb36ff4df0bd3162c9aba77c4">A&lt; T &gt;::test0</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ae912f20cb36ff4df0bd3162c9aba77c4" prot="public" static="no" const="yes" explicit="no" inline="no" virt="pure-virtual">
+        <type>std::string</type>
+        <definition>virtual std::string A&lt; T &gt;::test0</definition>
+        <argsstring>() const =0</argsstring>
+        <name>test0</name>
+        <reimplementedby refid="de/d7e/struct_b_1a997c14fe0978cf309a1a413d33b5f6b9">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a89965b02bb3667033440c311d66e69bb">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a89965b02bb3667033440c311d66e69bb">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a997c14fe0978cf309a1a413d33b5f6b9">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a89965b02bb3667033440c311d66e69bb">test0</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a22c2f2cdca7258b9da00743dfc71ee40">test0</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a22c2f2cdca7258b9da00743dfc71ee40">test0</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a22c2f2cdca7258b9da00743dfc71ee40">test0</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_2_classes_abstract.cpp" line="28" column="1"/>
+        <referencedby refid="d7/d85/bind__action_8cpp_1a677164eacc915231ff69d01fa3cc5c9d" compoundref="d7/d85/bind__action_8cpp" startline="291" endline="302">member_bind_test0</referencedby>
+        <referencedby refid="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" compoundref="dd/d8e/inheritance__2__classes__abstract_8cpp" startline="26" endline="26">A&lt; T &gt;::~A</referencedby>
+        <referencedby refid="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" compoundref="dd/d8e/inheritance__2__classes__abstract_8cpp" startline="29" endline="29">A&lt; T &gt;::test0_nonvirt</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type>std::string</type>
+        <definition>std::string A&lt; T &gt;::test0_nonvirt</definition>
+        <argsstring>() const</argsstring>
+        <name>test0_nonvirt</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_2_classes_abstract.cpp" line="29" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_2_classes_abstract.cpp" bodystart="29" bodyend="29"/>
+        <references refid="d7/da0/struct_a_1ae912f20cb36ff4df0bd3162c9aba77c4">A&lt; T &gt;::test0</references>
+        <references refid="d7/da0/struct_a_1a29a70e1489e0e0e14cd6c14ca0a56b14">A&lt; T &gt;::HPX_DEFINE_COMPONENT_ACTION</references>
+        <references refid="dd/d8e/inheritance__2__classes__abstract_8cpp_1a90a68be45499947d95dd53e4e09faa6e">HPX_DEFINE_GET_COMPONENT_TYPE</references>
+        <referencedby refid="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" compoundref="d8/dc5/inheritance__2__classes__concrete_8cpp" startline="29" endline="29">A&lt; T &gt;::test0_nonvirt</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a3261f66fb40c5393926da6935403e0da" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::HPX_DEFINE_COMPONENT_ACTION</definition>
+        <argsstring>(A, test0_nonvirt, test0_action)</argsstring>
+        <name>HPX_DEFINE_COMPONENT_ACTION</name>
+        <param>
+          <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref></type>
+        </param>
+        <param>
+          <type><ref refid="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" kindref="member">test0_nonvirt</ref></type>
+        </param>
+        <param>
+          <type><ref refid="dd/d8e/inheritance__2__classes__abstract_8cpp_1a6f40a49f578d8a6d7af2f90b3c021e49" kindref="member">test0_action</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_2_classes_abstract.cpp" line="30" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_2_classes_concrete.cpp" line="25" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_2_classes_concrete.cpp" bodystart="25" bodyend="25"/>
+        <references refid="d8/dc5/inheritance__2__classes__concrete_8cpp_1a7f0056c6b028b4b7eb43e6ffb6f5ea50" compoundref="d8/dc5/inheritance__2__classes__concrete_8cpp" startline="16">a_ctor</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type></type>
+        <definition>virtual A&lt; T &gt;::~A</definition>
+        <argsstring>()</argsstring>
+        <name>~A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_2_classes_concrete.cpp" line="26" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_2_classes_concrete.cpp" bodystart="26" bodyend="26"/>
+        <references refid="d8/dc5/inheritance__2__classes__concrete_8cpp_1ae4b8d5de14dde20233634dfe9931107e" compoundref="d8/dc5/inheritance__2__classes__concrete_8cpp" startline="17">a_dtor</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a00bfc9b322b7ac7c0120026b8b531a5c" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="virtual">
+        <type>std::string</type>
+        <definition>virtual std::string A&lt; T &gt;::test0</definition>
+        <argsstring>() const</argsstring>
+        <name>test0</name>
+        <reimplementedby refid="de/d7e/struct_b_1a997c14fe0978cf309a1a413d33b5f6b9">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a89965b02bb3667033440c311d66e69bb">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a89965b02bb3667033440c311d66e69bb">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a997c14fe0978cf309a1a413d33b5f6b9">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a89965b02bb3667033440c311d66e69bb">test0</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a22c2f2cdca7258b9da00743dfc71ee40">test0</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a22c2f2cdca7258b9da00743dfc71ee40">test0</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a22c2f2cdca7258b9da00743dfc71ee40">test0</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_2_classes_concrete.cpp" line="28" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_2_classes_concrete.cpp" bodystart="28" bodyend="28"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type>std::string</type>
+        <definition>std::string A&lt; T &gt;::test0_nonvirt</definition>
+        <argsstring>() const</argsstring>
+        <name>test0_nonvirt</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_2_classes_concrete.cpp" line="29" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_2_classes_concrete.cpp" bodystart="29" bodyend="29"/>
+        <references refid="d7/da0/struct_a_1ae912f20cb36ff4df0bd3162c9aba77c4">A&lt; T &gt;::test0</references>
+        <references refid="d7/da0/struct_a_1a29a70e1489e0e0e14cd6c14ca0a56b14">A&lt; T &gt;::HPX_DEFINE_COMPONENT_ACTION</references>
+        <references refid="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" compoundref="dd/d8e/inheritance__2__classes__abstract_8cpp" startline="29" endline="29">A&lt; T &gt;::test0_nonvirt</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a3261f66fb40c5393926da6935403e0da" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::HPX_DEFINE_COMPONENT_ACTION</definition>
+        <argsstring>(A, test0_nonvirt, test0_action)</argsstring>
+        <name>HPX_DEFINE_COMPONENT_ACTION</name>
+        <param>
+          <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref></type>
+        </param>
+        <param>
+          <type><ref refid="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" kindref="member">test0_nonvirt</ref></type>
+        </param>
+        <param>
+          <type><ref refid="dd/d8e/inheritance__2__classes__abstract_8cpp_1a6f40a49f578d8a6d7af2f90b3c021e49" kindref="member">test0_action</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_2_classes_concrete.cpp" line="30" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_1_abstract.cpp" line="27" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_1_abstract.cpp" bodystart="27" bodyend="27"/>
+        <references refid="dc/dfb/inheritance__3__classes__1__abstract_8cpp_1a7f0056c6b028b4b7eb43e6ffb6f5ea50" compoundref="dc/dfb/inheritance__3__classes__1__abstract_8cpp" startline="16">a_ctor</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type></type>
+        <definition>virtual A&lt; T &gt;::~A</definition>
+        <argsstring>()</argsstring>
+        <name>~A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_1_abstract.cpp" line="28" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_1_abstract.cpp" bodystart="28" bodyend="28"/>
+        <references refid="dc/dfb/inheritance__3__classes__1__abstract_8cpp_1ae4b8d5de14dde20233634dfe9931107e" compoundref="dc/dfb/inheritance__3__classes__1__abstract_8cpp" startline="17">a_dtor</references>
+        <references refid="d7/da0/struct_a_1ae912f20cb36ff4df0bd3162c9aba77c4">A&lt; T &gt;::test0</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ae912f20cb36ff4df0bd3162c9aba77c4" prot="public" static="no" const="yes" explicit="no" inline="no" virt="pure-virtual">
+        <type>std::string</type>
+        <definition>virtual std::string A&lt; T &gt;::test0</definition>
+        <argsstring>() const =0</argsstring>
+        <name>test0</name>
+        <reimplementedby refid="de/d7e/struct_b_1a997c14fe0978cf309a1a413d33b5f6b9">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a89965b02bb3667033440c311d66e69bb">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a89965b02bb3667033440c311d66e69bb">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a997c14fe0978cf309a1a413d33b5f6b9">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a89965b02bb3667033440c311d66e69bb">test0</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a22c2f2cdca7258b9da00743dfc71ee40">test0</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a22c2f2cdca7258b9da00743dfc71ee40">test0</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a22c2f2cdca7258b9da00743dfc71ee40">test0</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_1_abstract.cpp" line="30" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type>std::string</type>
+        <definition>std::string A&lt; T &gt;::test0_nonvirt</definition>
+        <argsstring>() const</argsstring>
+        <name>test0_nonvirt</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_1_abstract.cpp" line="31" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_1_abstract.cpp" bodystart="31" bodyend="31"/>
+        <references refid="d7/da0/struct_a_1ae912f20cb36ff4df0bd3162c9aba77c4">A&lt; T &gt;::test0</references>
+        <references refid="d7/da0/struct_a_1a29a70e1489e0e0e14cd6c14ca0a56b14">A&lt; T &gt;::HPX_DEFINE_COMPONENT_ACTION</references>
+        <references refid="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" compoundref="dd/d8e/inheritance__2__classes__abstract_8cpp" startline="29" endline="29">A&lt; T &gt;::test0_nonvirt</references>
+        <references refid="dc/dfb/inheritance__3__classes__1__abstract_8cpp_1a90a68be45499947d95dd53e4e09faa6e">HPX_DEFINE_GET_COMPONENT_TYPE</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a3261f66fb40c5393926da6935403e0da" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::HPX_DEFINE_COMPONENT_ACTION</definition>
+        <argsstring>(A, test0_nonvirt, test0_action)</argsstring>
+        <name>HPX_DEFINE_COMPONENT_ACTION</name>
+        <param>
+          <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref></type>
+        </param>
+        <param>
+          <type><ref refid="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" kindref="member">test0_nonvirt</ref></type>
+        </param>
+        <param>
+          <type><ref refid="dd/d8e/inheritance__2__classes__abstract_8cpp_1a6f40a49f578d8a6d7af2f90b3c021e49" kindref="member">test0_action</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_1_abstract.cpp" line="32" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_2_abstract.cpp" line="27" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_2_abstract.cpp" bodystart="27" bodyend="27"/>
+        <references refid="dd/d34/inheritance__3__classes__2__abstract_8cpp_1a7f0056c6b028b4b7eb43e6ffb6f5ea50" compoundref="dd/d34/inheritance__3__classes__2__abstract_8cpp" startline="16">a_ctor</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type></type>
+        <definition>virtual A&lt; T &gt;::~A</definition>
+        <argsstring>()</argsstring>
+        <name>~A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_2_abstract.cpp" line="28" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_2_abstract.cpp" bodystart="28" bodyend="28"/>
+        <references refid="dd/d34/inheritance__3__classes__2__abstract_8cpp_1ae4b8d5de14dde20233634dfe9931107e" compoundref="dd/d34/inheritance__3__classes__2__abstract_8cpp" startline="17">a_dtor</references>
+        <references refid="d7/da0/struct_a_1ae912f20cb36ff4df0bd3162c9aba77c4">A&lt; T &gt;::test0</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ae912f20cb36ff4df0bd3162c9aba77c4" prot="public" static="no" const="yes" explicit="no" inline="no" virt="pure-virtual">
+        <type>std::string</type>
+        <definition>virtual std::string A&lt; T &gt;::test0</definition>
+        <argsstring>() const =0</argsstring>
+        <name>test0</name>
+        <reimplementedby refid="de/d7e/struct_b_1a997c14fe0978cf309a1a413d33b5f6b9">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a89965b02bb3667033440c311d66e69bb">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a89965b02bb3667033440c311d66e69bb">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a997c14fe0978cf309a1a413d33b5f6b9">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a89965b02bb3667033440c311d66e69bb">test0</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a22c2f2cdca7258b9da00743dfc71ee40">test0</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a22c2f2cdca7258b9da00743dfc71ee40">test0</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a22c2f2cdca7258b9da00743dfc71ee40">test0</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_2_abstract.cpp" line="30" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type>std::string</type>
+        <definition>std::string A&lt; T &gt;::test0_nonvirt</definition>
+        <argsstring>() const</argsstring>
+        <name>test0_nonvirt</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_2_abstract.cpp" line="31" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_2_abstract.cpp" bodystart="31" bodyend="31"/>
+        <references refid="d7/da0/struct_a_1ae912f20cb36ff4df0bd3162c9aba77c4">A&lt; T &gt;::test0</references>
+        <references refid="d7/da0/struct_a_1a29a70e1489e0e0e14cd6c14ca0a56b14">A&lt; T &gt;::HPX_DEFINE_COMPONENT_ACTION</references>
+        <references refid="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" compoundref="dd/d8e/inheritance__2__classes__abstract_8cpp" startline="29" endline="29">A&lt; T &gt;::test0_nonvirt</references>
+        <references refid="dd/d34/inheritance__3__classes__2__abstract_8cpp_1a90a68be45499947d95dd53e4e09faa6e">HPX_DEFINE_GET_COMPONENT_TYPE</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a3261f66fb40c5393926da6935403e0da" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::HPX_DEFINE_COMPONENT_ACTION</definition>
+        <argsstring>(A, test0_nonvirt, test0_action)</argsstring>
+        <name>HPX_DEFINE_COMPONENT_ACTION</name>
+        <param>
+          <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref></type>
+        </param>
+        <param>
+          <type><ref refid="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" kindref="member">test0_nonvirt</ref></type>
+        </param>
+        <param>
+          <type><ref refid="dd/d8e/inheritance__2__classes__abstract_8cpp_1a6f40a49f578d8a6d7af2f90b3c021e49" kindref="member">test0_action</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_2_abstract.cpp" line="32" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_concrete.cpp" line="27" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_concrete.cpp" bodystart="27" bodyend="27"/>
+        <references refid="de/d09/inheritance__3__classes__concrete_8cpp_1a7f0056c6b028b4b7eb43e6ffb6f5ea50" compoundref="de/d09/inheritance__3__classes__concrete_8cpp" startline="16">a_ctor</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type></type>
+        <definition>virtual A&lt; T &gt;::~A</definition>
+        <argsstring>()</argsstring>
+        <name>~A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_concrete.cpp" line="28" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_concrete.cpp" bodystart="28" bodyend="28"/>
+        <references refid="de/d09/inheritance__3__classes__concrete_8cpp_1ae4b8d5de14dde20233634dfe9931107e" compoundref="de/d09/inheritance__3__classes__concrete_8cpp" startline="17">a_dtor</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a00bfc9b322b7ac7c0120026b8b531a5c" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="virtual">
+        <type>std::string</type>
+        <definition>virtual std::string A&lt; T &gt;::test0</definition>
+        <argsstring>() const</argsstring>
+        <name>test0</name>
+        <reimplementedby refid="de/d7e/struct_b_1a997c14fe0978cf309a1a413d33b5f6b9">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a89965b02bb3667033440c311d66e69bb">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a89965b02bb3667033440c311d66e69bb">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a997c14fe0978cf309a1a413d33b5f6b9">test0</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1a89965b02bb3667033440c311d66e69bb">test0</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a22c2f2cdca7258b9da00743dfc71ee40">test0</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a22c2f2cdca7258b9da00743dfc71ee40">test0</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a22c2f2cdca7258b9da00743dfc71ee40">test0</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_concrete.cpp" line="30" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_concrete.cpp" bodystart="30" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type>std::string</type>
+        <definition>std::string A&lt; T &gt;::test0_nonvirt</definition>
+        <argsstring>() const</argsstring>
+        <name>test0_nonvirt</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_concrete.cpp" line="31" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_concrete.cpp" bodystart="31" bodyend="31"/>
+        <references refid="d7/da0/struct_a_1ae912f20cb36ff4df0bd3162c9aba77c4">A&lt; T &gt;::test0</references>
+        <references refid="d7/da0/struct_a_1a29a70e1489e0e0e14cd6c14ca0a56b14">A&lt; T &gt;::HPX_DEFINE_COMPONENT_ACTION</references>
+        <references refid="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" compoundref="dd/d8e/inheritance__2__classes__abstract_8cpp" startline="29" endline="29">A&lt; T &gt;::test0_nonvirt</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a3261f66fb40c5393926da6935403e0da" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::HPX_DEFINE_COMPONENT_ACTION</definition>
+        <argsstring>(A, test0_nonvirt, test0_action)</argsstring>
+        <name>HPX_DEFINE_COMPONENT_ACTION</name>
+        <param>
+          <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref></type>
+        </param>
+        <param>
+          <type><ref refid="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" kindref="member">test0_nonvirt</ref></type>
+        </param>
+        <param>
+          <type><ref refid="dd/d8e/inheritance__2__classes__abstract_8cpp_1a6f40a49f578d8a6d7af2f90b3c021e49" kindref="member">test0_action</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/inheritance_3_classes_concrete.cpp" line="32" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1adfd1baf7793d9bd8936f814211c175d6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()=default</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/local_new.cpp" line="18" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ab99a54b2aab7c65fb0de828ab7842640" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>(A const &amp;)=delete</argsstring>
+        <name>A</name>
+        <param>
+          <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref> const &amp;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/local_new.cpp" line="19" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a2bcc687b2505a84dafabd34e51c59cf1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref> &amp;</type>
+        <definition>A&amp; A&lt; T &gt;::operator=</definition>
+        <argsstring>(A const &amp;)=delete</argsstring>
+        <name>operator=</name>
+        <param>
+          <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref> const &amp;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/component/local_new.cpp" line="20" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a89751fd938f1d44e81987bfb1ceb22f4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>(int a=8)</argsstring>
+        <name>A</name>
+        <param>
+          <type>int</type>
+          <declname>a</declname>
+          <defval>8</defval>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_nonintrusive.cpp" line="21" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_nonintrusive.cpp" bodystart="21" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type></type>
+        <definition>virtual A&lt; T &gt;::~A</definition>
+        <argsstring>()</argsstring>
+        <name>~A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_nonintrusive.cpp" line="22" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_nonintrusive.cpp" bodystart="22" bodyend="22"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_pointer.cpp" line="20" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_pointer.cpp" bodystart="20" bodyend="20"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type></type>
+        <definition>virtual A&lt; T &gt;::~A</definition>
+        <argsstring>()</argsstring>
+        <name>~A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_pointer.cpp" line="21" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_pointer.cpp" bodystart="21" bodyend="21"/>
+        <references refid="d7/da0/struct_a_1a3a3e9b0a824e67d5c3c4e6c5c6588c69" compoundref="dd/de4/fail__compile__non__serializable__class_8cpp" startline="12">A&lt; T &gt;::a</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename Archive</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void A&lt; T &gt;::serialize</definition>
+        <argsstring>(Archive &amp;ar, unsigned)</argsstring>
+        <name>serialize</name>
+        <param>
+          <type>Archive &amp;</type>
+          <declname>ar</declname>
+        </param>
+        <param>
+          <type>unsigned</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_pointer.cpp" line="26" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_pointer.cpp" bodystart="26" bodyend="29"/>
+        <references refid="d7/da0/struct_a_1a3a3e9b0a824e67d5c3c4e6c5c6588c69" compoundref="dd/de4/fail__compile__non__serializable__class_8cpp" startline="12">A&lt; T &gt;::a</references>
+        <references refid="d7/da0/struct_a_1ada978cc156cebbafddb1f3aa4c01918c">A&lt; T &gt;::HPX_SERIALIZATION_POLYMORPHIC</references>
+        <referencedby refid="d6/d6e/polymorphic__nonintrusive_8cpp_1a97741f069eae73011310003f3c8e13b7" compoundref="d6/d6e/polymorphic__nonintrusive_8cpp" startline="95" endline="100">c_factory</referencedby>
+        <referencedby refid="d6/d6e/polymorphic__nonintrusive_8cpp_1ad6cbef1364816d89b4653743516233c8" compoundref="d6/d6e/polymorphic__nonintrusive_8cpp" startline="132" endline="137">e_factory</referencedby>
+        <referencedby refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" compoundref="db/d33/polymorphic__semiintrusive__template_8cpp" startline="76" endline="101">T</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ada978cc156cebbafddb1f3aa4c01918c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::HPX_SERIALIZATION_POLYMORPHIC</definition>
+        <argsstring>(A)</argsstring>
+        <name>HPX_SERIALIZATION_POLYMORPHIC</name>
+        <param>
+          <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_pointer.cpp" line="30" column="1"/>
+        <referencedby refid="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" compoundref="d8/d0e/polymorphic__pointer_8cpp" startline="26" endline="29">A&lt; T &gt;::serialize</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_reference.cpp" line="19" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_reference.cpp" bodystart="19" bodyend="19"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type></type>
+        <definition>virtual A&lt; T &gt;::~A</definition>
+        <argsstring>()</argsstring>
+        <name>~A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_reference.cpp" line="20" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_reference.cpp" bodystart="20" bodyend="20"/>
+        <references refid="d7/da0/struct_a_1a3a3e9b0a824e67d5c3c4e6c5c6588c69" compoundref="dd/de4/fail__compile__non__serializable__class_8cpp" startline="12">A&lt; T &gt;::a</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename Archive</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void A&lt; T &gt;::serialize</definition>
+        <argsstring>(Archive &amp;ar, unsigned)</argsstring>
+        <name>serialize</name>
+        <param>
+          <type>Archive &amp;</type>
+          <declname>ar</declname>
+        </param>
+        <param>
+          <type>unsigned</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_reference.cpp" line="25" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_reference.cpp" bodystart="25" bodyend="28"/>
+        <references refid="d7/da0/struct_a_1a3a3e9b0a824e67d5c3c4e6c5c6588c69" compoundref="dd/de4/fail__compile__non__serializable__class_8cpp" startline="12">A&lt; T &gt;::a</references>
+        <references refid="d7/da0/struct_a_1ada978cc156cebbafddb1f3aa4c01918c">A&lt; T &gt;::HPX_SERIALIZATION_POLYMORPHIC</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ada978cc156cebbafddb1f3aa4c01918c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::HPX_SERIALIZATION_POLYMORPHIC</definition>
+        <argsstring>(A)</argsstring>
+        <name>HPX_SERIALIZATION_POLYMORPHIC</name>
+        <param>
+          <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_reference.cpp" line="29" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ae2c86b18e2718eb8bd3bea2f6b945955" prot="public" static="no" const="no" explicit="yes" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>(int a)</argsstring>
+        <name>A</name>
+        <param>
+          <type>int</type>
+          <declname>a</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_semiintrusive_template.cpp" line="21" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_semiintrusive_template.cpp" bodystart="21" bodyend="23"/>
+        <references refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" compoundref="d8/d55/component__inheritance_8cpp" startline="20" endline="20">A&lt; T &gt;::A</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1adfd1baf7793d9bd8936f814211c175d6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()=default</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_semiintrusive_template.cpp" line="25" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type></type>
+        <definition>virtual A&lt; T &gt;::~A</definition>
+        <argsstring>()</argsstring>
+        <name>~A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_semiintrusive_template.cpp" line="27" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_semiintrusive_template.cpp" bodystart="27" bodyend="27"/>
+        <references refid="d7/da0/struct_a_1a9ee7221affe17277f6e3d6e75922d75e">A&lt; T &gt;::foo</references>
+        <references refid="db/d33/polymorphic__semiintrusive__template_8cpp_1afbc67fd1f3296efbaf548b2ba03ad1f3">HPX_TRAITS_NONINTRUSIVE_POLYMORPHIC_TEMPLATE</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9ee7221affe17277f6e3d6e75922d75e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="pure-virtual">
+        <type>void</type>
+        <definition>virtual void A&lt; T &gt;::foo</definition>
+        <argsstring>() const =0</argsstring>
+        <name>foo</name>
+        <reimplementedby refid="de/d7e/struct_b_1ade1642a6ea323bc0a4539c7eea540686">foo</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1ade1642a6ea323bc0a4539c7eea540686">foo</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a637854afeeb35bce0e370788720dd588">foo</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_semiintrusive_template.cpp" line="29" column="1"/>
+        <referencedby refid="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" compoundref="db/d33/polymorphic__semiintrusive__template_8cpp" startline="27" endline="27">A&lt; T &gt;::~A</referencedby>
+        <referencedby refid="d7/da0/struct_a_1ae2c86b18e2718eb8bd3bea2f6b945955" compoundref="db/d32/polymorphic__template_8cpp" startline="22" endline="25">A&lt; T &gt;::A</referencedby>
+        <referencedby refid="de/d8b/struct_d_1a446ce3f55ec46158811fc575c6614203" compoundref="dd/d01/smart__ptr__polymorphic_8cpp" startline="131" endline="131">D::~D</referencedby>
+        <referencedby refid="d3/dad/structfoo_1aae7c36c48972eb38c43037548b8d2262" compoundref="d8/da8/tuple_8cpp" startline="46" endline="48">foo&lt; T &gt;::operator==</referencedby>
+        <referencedby refid="d8/da8/tuple_8cpp_1ae052f76581ea524dcb1e194d4a059527" compoundref="d8/da8/tuple_8cpp" startline="94" endline="147">construction_test</referencedby>
+        <referencedby refid="d8/da8/tuple_8cpp_1a53c0266efae76e29f92ec048fe0b3472" compoundref="d8/da8/tuple_8cpp" startline="236" endline="248">mutate_test</referencedby>
+        <referencedby refid="d8/da8/tuple_8cpp_1a8ee7470737646c4cb19ab40792372001" compoundref="d8/da8/tuple_8cpp" startline="298" endline="324">tie_test</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ae2c86b18e2718eb8bd3bea2f6b945955" prot="public" static="no" const="no" explicit="yes" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>(int a)</argsstring>
+        <name>A</name>
+        <param>
+          <type>int</type>
+          <declname>a</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_template.cpp" line="22" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_template.cpp" bodystart="22" bodyend="25"/>
+        <references refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" compoundref="d8/d55/component__inheritance_8cpp" startline="20" endline="20">A&lt; T &gt;::A</references>
+        <references refid="d7/da0/struct_a_1a9ee7221affe17277f6e3d6e75922d75e">A&lt; T &gt;::foo</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1adfd1baf7793d9bd8936f814211c175d6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()=default</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_template.cpp" line="26" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9ee7221affe17277f6e3d6e75922d75e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="pure-virtual">
+        <type>void</type>
+        <definition>virtual void A&lt; T &gt;::foo</definition>
+        <argsstring>() const =0</argsstring>
+        <name>foo</name>
+        <reimplementedby refid="de/d7e/struct_b_1ade1642a6ea323bc0a4539c7eea540686">foo</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1ade1642a6ea323bc0a4539c7eea540686">foo</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a637854afeeb35bce0e370788720dd588">foo</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_template.cpp" line="28" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a27a05476a30f035f043ff98a025edf10" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>class Ar</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void A&lt; T &gt;::serialize</definition>
+        <argsstring>(Ar &amp;ar, unsigned)</argsstring>
+        <name>serialize</name>
+        <param>
+          <type>Ar &amp;</type>
+          <declname>ar</declname>
+        </param>
+        <param>
+          <type>unsigned</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_template.cpp" line="31" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_template.cpp" bodystart="31" bodyend="35"/>
+        <references refid="d7/da0/struct_a_1a3a3e9b0a824e67d5c3c4e6c5c6588c69" compoundref="dd/de4/fail__compile__non__serializable__class_8cpp" startline="12">A&lt; T &gt;::a</references>
+        <references refid="dd/d1d/namespacehpx_1_1iostreams_1af73ddad63bf7ba943748c50b553e6acd" compoundref="d3/df6/manipulators_8cpp" startline="12">hpx::iostreams::endl</references>
+        <references refid="d7/da0/struct_a_1ad488c909b3c5d348d47a744d0fe3f313">A&lt; T &gt;::HPX_SERIALIZATION_POLYMORPHIC_ABSTRACT</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ad488c909b3c5d348d47a744d0fe3f313" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::HPX_SERIALIZATION_POLYMORPHIC_ABSTRACT</definition>
+        <argsstring>(A)</argsstring>
+        <name>HPX_SERIALIZATION_POLYMORPHIC_ABSTRACT</name>
+        <param>
+          <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/polymorphic_template.cpp" line="36" column="1"/>
+        <referencedby refid="de/d7e/struct_b_1a118a528592afae4eec7674e411f3a152" compoundref="d8/d0e/polymorphic__pointer_8cpp" startline="45" endline="48">B&lt; T &gt;::serialize</referencedby>
+        <referencedby refid="d7/da0/struct_a_1a27a05476a30f035f043ff98a025edf10" compoundref="db/d32/polymorphic__template_8cpp" startline="31" endline="35">A&lt; T &gt;::serialize</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a592f15f034b2fe82f680cb726cd40cb2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>(int a=1)</argsstring>
+        <name>A</name>
+        <param>
+          <type>int</type>
+          <declname>a</declname>
+          <defval>1</defval>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/smart_ptr_polymorphic.cpp" line="28" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/smart_ptr_polymorphic.cpp" bodystart="28" bodyend="28"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type></type>
+        <definition>virtual A&lt; T &gt;::~A</definition>
+        <argsstring>()</argsstring>
+        <name>~A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/smart_ptr_polymorphic.cpp" line="29" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/smart_ptr_polymorphic.cpp" bodystart="29" bodyend="29"/>
+        <references refid="d7/da0/struct_a_1a9ee7221affe17277f6e3d6e75922d75e">A&lt; T &gt;::foo</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a96281b21947c21afcf5da1005631cf33" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type>const char *</type>
+        <definition>virtual const char* A&lt; T &gt;::foo</definition>
+        <argsstring>()=0</argsstring>
+        <name>foo</name>
+        <reimplementedby refid="de/d7e/struct_b_1af30da9c09d2142002ec432d706f43206">foo</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1af30da9c09d2142002ec432d706f43206">foo</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a3e27ef2f0ae11c5e006f68ffca0f86fa">foo</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a3e27ef2f0ae11c5e006f68ffca0f86fa">foo</reimplementedby>
+        <reimplementedby refid="de/d8b/struct_d_1a49b97283e00fbb174bf241febae7e69e">foo</reimplementedby>
+        <reimplementedby refid="de/d8b/struct_d_1a49b97283e00fbb174bf241febae7e69e">foo</reimplementedby>
+        <reimplementedby refid="dd/dd3/struct_e_1a4c5fa19647bb651c4896fc4785e338a6">foo</reimplementedby>
+        <reimplementedby refid="dd/dd3/struct_e_1a4c5fa19647bb651c4896fc4785e338a6">foo</reimplementedby>
+        <reimplementedby refid="d8/dd8/class_f_1a5a64962eb001b9e78e9d0dff817c4c5b">foo</reimplementedby>
+        <reimplementedby refid="d8/dd8/class_f_1a5a64962eb001b9e78e9d0dff817c4c5b">foo</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/smart_ptr_polymorphic.cpp" line="31" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>class Archive</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void A&lt; T &gt;::serialize</definition>
+        <argsstring>(Archive &amp;ar, unsigned)</argsstring>
+        <name>serialize</name>
+        <param>
+          <type>Archive &amp;</type>
+          <declname>ar</declname>
+        </param>
+        <param>
+          <type>unsigned</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/smart_ptr_polymorphic.cpp" line="34" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/smart_ptr_polymorphic.cpp" bodystart="34" bodyend="37"/>
+        <references refid="d7/da0/struct_a_1a3a3e9b0a824e67d5c3c4e6c5c6588c69" compoundref="dd/de4/fail__compile__non__serializable__class_8cpp" startline="12">A&lt; T &gt;::a</references>
+        <references refid="d7/da0/struct_a_1ad488c909b3c5d348d47a744d0fe3f313">A&lt; T &gt;::HPX_SERIALIZATION_POLYMORPHIC_ABSTRACT</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ad488c909b3c5d348d47a744d0fe3f313" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::HPX_SERIALIZATION_POLYMORPHIC_ABSTRACT</definition>
+        <argsstring>(A)</argsstring>
+        <name>HPX_SERIALIZATION_POLYMORPHIC_ABSTRACT</name>
+        <param>
+          <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/smart_ptr_polymorphic.cpp" line="38" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a592f15f034b2fe82f680cb726cd40cb2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>(int a=1)</argsstring>
+        <name>A</name>
+        <param>
+          <type>int</type>
+          <declname>a</declname>
+          <defval>1</defval>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/smart_ptr_polymorphic_nonintrusive.cpp" line="28" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/smart_ptr_polymorphic_nonintrusive.cpp" bodystart="28" bodyend="28"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type></type>
+        <definition>virtual A&lt; T &gt;::~A</definition>
+        <argsstring>()</argsstring>
+        <name>~A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/smart_ptr_polymorphic_nonintrusive.cpp" line="29" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/smart_ptr_polymorphic_nonintrusive.cpp" bodystart="29" bodyend="29"/>
+        <references refid="d7/da0/struct_a_1a9ee7221affe17277f6e3d6e75922d75e">A&lt; T &gt;::foo</references>
+        <references refid="d1/d65/smart__ptr__polymorphic__nonintrusive_8cpp_1ad13a0a80ce826ac1ea0fb7df415007de">HPX_TRAITS_NONINTRUSIVE_POLYMORPHIC</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a96281b21947c21afcf5da1005631cf33" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type>const char *</type>
+        <definition>virtual const char* A&lt; T &gt;::foo</definition>
+        <argsstring>()=0</argsstring>
+        <name>foo</name>
+        <reimplementedby refid="de/d7e/struct_b_1af30da9c09d2142002ec432d706f43206">foo</reimplementedby>
+        <reimplementedby refid="de/d7e/struct_b_1af30da9c09d2142002ec432d706f43206">foo</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a3e27ef2f0ae11c5e006f68ffca0f86fa">foo</reimplementedby>
+        <reimplementedby refid="df/d3b/struct_c_1a3e27ef2f0ae11c5e006f68ffca0f86fa">foo</reimplementedby>
+        <reimplementedby refid="de/d8b/struct_d_1a49b97283e00fbb174bf241febae7e69e">foo</reimplementedby>
+        <reimplementedby refid="de/d8b/struct_d_1a49b97283e00fbb174bf241febae7e69e">foo</reimplementedby>
+        <reimplementedby refid="dd/dd3/struct_e_1a4c5fa19647bb651c4896fc4785e338a6">foo</reimplementedby>
+        <reimplementedby refid="dd/dd3/struct_e_1a4c5fa19647bb651c4896fc4785e338a6">foo</reimplementedby>
+        <reimplementedby refid="d8/dd8/class_f_1a5a64962eb001b9e78e9d0dff817c4c5b">foo</reimplementedby>
+        <reimplementedby refid="d8/dd8/class_f_1a5a64962eb001b9e78e9d0dff817c4c5b">foo</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/polymorphic/smart_ptr_polymorphic_nonintrusive.cpp" line="31" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_array.cpp" line="27" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_array.cpp" bodystart="27" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>(T t)</argsstring>
+        <name>A</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_array.cpp" line="29" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_array.cpp" bodystart="29" bodyend="29"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref> &amp;</type>
+        <definition>A&amp; A&lt; T &gt;::operator=</definition>
+        <argsstring>(T t)</argsstring>
+        <name>operator=</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_array.cpp" line="32" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_array.cpp" bodystart="32" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename Archive</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void A&lt; T &gt;::serialize</definition>
+        <argsstring>(Archive &amp;ar, unsigned)</argsstring>
+        <name>serialize</name>
+        <param>
+          <type>Archive &amp;</type>
+          <declname>ar</declname>
+        </param>
+        <param>
+          <type>unsigned</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_array.cpp" line="35" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_array.cpp" bodystart="35" bodyend="38"/>
+        <references refid="d7/da0/struct_a_1ae72d8d8ac297b70eb9bca920b62d2f19" compoundref="d0/d9e/serialization__array_8cpp" startline="30">A&lt; T &gt;::t_</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_builtins.cpp" line="21" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_builtins.cpp" bodystart="21" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>(T t)</argsstring>
+        <name>A</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_builtins.cpp" line="23" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_builtins.cpp" bodystart="23" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref> &amp;</type>
+        <definition>A&amp; A&lt; T &gt;::operator=</definition>
+        <argsstring>(T t)</argsstring>
+        <name>operator=</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_builtins.cpp" line="26" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_builtins.cpp" bodystart="26" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename Archive</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void A&lt; T &gt;::serialize</definition>
+        <argsstring>(Archive &amp;ar, unsigned)</argsstring>
+        <name>serialize</name>
+        <param>
+          <type>Archive &amp;</type>
+          <declname>ar</declname>
+        </param>
+        <param>
+          <type>unsigned</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_builtins.cpp" line="29" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_builtins.cpp" bodystart="29" bodyend="32"/>
+        <references refid="d7/da0/struct_a_1ae72d8d8ac297b70eb9bca920b62d2f19" compoundref="d0/d9e/serialization__array_8cpp" startline="30">A&lt; T &gt;::t_</references>
+        <references refid="d7/da0/struct_a_1a56f5ade77186b1a7ec7d8d8e1cd32d3e" compoundref="d6/d08/serialization__variant_8cpp" startline="33" endline="37">A&lt; T &gt;::operator&lt;&lt;</references>
+        <references refid="d7/da0/struct_a_1a3099004fa1524b28aadeb00bfd42cad5" compoundref="d9/d25/serialization__smart__ptr_8cpp" startline="93">A&lt; T &gt;::i</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_complex.cpp" line="19" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_complex.cpp" bodystart="19" bodyend="19"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>(T t)</argsstring>
+        <name>A</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_complex.cpp" line="21" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_complex.cpp" bodystart="21" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref> &amp;</type>
+        <definition>A&amp; A&lt; T &gt;::operator=</definition>
+        <argsstring>(T t)</argsstring>
+        <name>operator=</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_complex.cpp" line="24" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_complex.cpp" bodystart="24" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename Archive</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void A&lt; T &gt;::serialize</definition>
+        <argsstring>(Archive &amp;ar, unsigned)</argsstring>
+        <name>serialize</name>
+        <param>
+          <type>Archive &amp;</type>
+          <declname>ar</declname>
+        </param>
+        <param>
+          <type>unsigned</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_complex.cpp" line="27" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_complex.cpp" bodystart="27" bodyend="30"/>
+        <references refid="d7/da0/struct_a_1ae72d8d8ac297b70eb9bca920b62d2f19" compoundref="d0/d9e/serialization__array_8cpp" startline="30">A&lt; T &gt;::t_</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ae2c86b18e2718eb8bd3bea2f6b945955" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>(int a)</argsstring>
+        <name>A</name>
+        <param>
+          <type>int</type>
+          <declname>a</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_custom_constructor.cpp" line="26" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_custom_constructor.cpp" bodystart="26" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type></type>
+        <definition>virtual A&lt; T &gt;::~A</definition>
+        <argsstring>()</argsstring>
+        <name>~A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_custom_constructor.cpp" line="27" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_custom_constructor.cpp" bodystart="27" bodyend="27"/>
+        <references refid="d7/da0/struct_a_1a3a3e9b0a824e67d5c3c4e6c5c6588c69" compoundref="dd/de4/fail__compile__non__serializable__class_8cpp" startline="12">A&lt; T &gt;::a</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_deque.cpp" line="22" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_deque.cpp" bodystart="22" bodyend="22"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>(T t)</argsstring>
+        <name>A</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_deque.cpp" line="24" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_deque.cpp" bodystart="24" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref> &amp;</type>
+        <definition>A&amp; A&lt; T &gt;::operator=</definition>
+        <argsstring>(T t)</argsstring>
+        <name>operator=</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_deque.cpp" line="27" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_deque.cpp" bodystart="27" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename Archive</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void A&lt; T &gt;::serialize</definition>
+        <argsstring>(Archive &amp;ar, unsigned)</argsstring>
+        <name>serialize</name>
+        <param>
+          <type>Archive &amp;</type>
+          <declname>ar</declname>
+        </param>
+        <param>
+          <type>unsigned</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_deque.cpp" line="30" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_deque.cpp" bodystart="30" bodyend="33"/>
+        <references refid="d7/da0/struct_a_1ae72d8d8ac297b70eb9bca920b62d2f19" compoundref="d0/d9e/serialization__array_8cpp" startline="30">A&lt; T &gt;::t_</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_list.cpp" line="21" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_list.cpp" bodystart="21" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>(T t)</argsstring>
+        <name>A</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_list.cpp" line="23" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_list.cpp" bodystart="23" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref> &amp;</type>
+        <definition>A&amp; A&lt; T &gt;::operator=</definition>
+        <argsstring>(T t)</argsstring>
+        <name>operator=</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_list.cpp" line="26" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_list.cpp" bodystart="26" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename Archive</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void A&lt; T &gt;::serialize</definition>
+        <argsstring>(Archive &amp;ar, unsigned)</argsstring>
+        <name>serialize</name>
+        <param>
+          <type>Archive &amp;</type>
+          <declname>ar</declname>
+        </param>
+        <param>
+          <type>unsigned</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_list.cpp" line="29" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_list.cpp" bodystart="29" bodyend="32"/>
+        <references refid="d7/da0/struct_a_1ae72d8d8ac297b70eb9bca920b62d2f19" compoundref="d0/d9e/serialization__array_8cpp" startline="30">A&lt; T &gt;::t_</references>
+        <references refid="d7/da0/struct_a_1a3a3e9b0a824e67d5c3c4e6c5c6588c69" compoundref="dd/de4/fail__compile__non__serializable__class_8cpp" startline="12">A&lt; T &gt;::a</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_map.cpp" line="26" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_map.cpp" bodystart="26" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>(T t)</argsstring>
+        <name>A</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_map.cpp" line="28" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_map.cpp" bodystart="28" bodyend="28"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref> &amp;</type>
+        <definition>A&amp; A&lt; T &gt;::operator=</definition>
+        <argsstring>(T t)</argsstring>
+        <name>operator=</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_map.cpp" line="31" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_map.cpp" bodystart="31" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a988879ac8783cd2e8ae7d6278aef4f5f" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool A&lt; T &gt;::operator==</definition>
+        <argsstring>(const A &amp;a) const</argsstring>
+        <name>operator==</name>
+        <param>
+          <type>const <ref refid="d7/da0/struct_a" kindref="compound">A</ref> &amp;</type>
+          <declname>a</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_map.cpp" line="32" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_map.cpp" bodystart="32" bodyend="32"/>
+        <references refid="d7/da0/struct_a_1ae72d8d8ac297b70eb9bca920b62d2f19" compoundref="d0/d9e/serialization__array_8cpp" startline="30">A&lt; T &gt;::t_</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename Archive</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void A&lt; T &gt;::serialize</definition>
+        <argsstring>(Archive &amp;ar, unsigned)</argsstring>
+        <name>serialize</name>
+        <param>
+          <type>Archive &amp;</type>
+          <declname>ar</declname>
+        </param>
+        <param>
+          <type>unsigned</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_map.cpp" line="35" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_map.cpp" bodystart="35" bodyend="38"/>
+        <references refid="d7/da0/struct_a_1ae72d8d8ac297b70eb9bca920b62d2f19" compoundref="d0/d9e/serialization__array_8cpp" startline="30">A&lt; T &gt;::t_</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_smart_ptr.cpp" line="92" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_smart_ptr.cpp" bodystart="92" bodyend="92"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename Archive</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void A&lt; T &gt;::serialize</definition>
+        <argsstring>(Archive &amp;ar, unsigned)</argsstring>
+        <name>serialize</name>
+        <param>
+          <type>Archive &amp;</type>
+          <declname>ar</declname>
+        </param>
+        <param>
+          <type>unsigned</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_smart_ptr.cpp" line="98" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_smart_ptr.cpp" bodystart="98" bodyend="101"/>
+        <references refid="d7/da0/struct_a_1a3099004fa1524b28aadeb00bfd42cad5" compoundref="d9/d25/serialization__smart__ptr_8cpp" startline="93">A&lt; T &gt;::i</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_unordered_map.cpp" line="27" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_unordered_map.cpp" bodystart="27" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>(T t)</argsstring>
+        <name>A</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_unordered_map.cpp" line="29" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_unordered_map.cpp" bodystart="29" bodyend="29"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref> &amp;</type>
+        <definition>A&amp; A&lt; T &gt;::operator=</definition>
+        <argsstring>(T t)</argsstring>
+        <name>operator=</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_unordered_map.cpp" line="32" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_unordered_map.cpp" bodystart="32" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a988879ac8783cd2e8ae7d6278aef4f5f" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool A&lt; T &gt;::operator==</definition>
+        <argsstring>(const A &amp;a) const</argsstring>
+        <name>operator==</name>
+        <param>
+          <type>const <ref refid="d7/da0/struct_a" kindref="compound">A</ref> &amp;</type>
+          <declname>a</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_unordered_map.cpp" line="33" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_unordered_map.cpp" bodystart="33" bodyend="33"/>
+        <references refid="d7/da0/struct_a_1ae72d8d8ac297b70eb9bca920b62d2f19" compoundref="d0/d9e/serialization__array_8cpp" startline="30">A&lt; T &gt;::t_</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename Archive</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void A&lt; T &gt;::serialize</definition>
+        <argsstring>(Archive &amp;ar, unsigned)</argsstring>
+        <name>serialize</name>
+        <param>
+          <type>Archive &amp;</type>
+          <declname>ar</declname>
+        </param>
+        <param>
+          <type>unsigned</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_unordered_map.cpp" line="36" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_unordered_map.cpp" bodystart="36" bodyend="39"/>
+        <references refid="d7/da0/struct_a_1ae72d8d8ac297b70eb9bca920b62d2f19" compoundref="d0/d9e/serialization__array_8cpp" startline="30">A&lt; T &gt;::t_</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_valarray.cpp" line="26" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_valarray.cpp" bodystart="26" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>(T t)</argsstring>
+        <name>A</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_valarray.cpp" line="28" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_valarray.cpp" bodystart="28" bodyend="28"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref> &amp;</type>
+        <definition>A&amp; A&lt; T &gt;::operator=</definition>
+        <argsstring>(T t)</argsstring>
+        <name>operator=</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_valarray.cpp" line="31" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_valarray.cpp" bodystart="31" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename Archive</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void A&lt; T &gt;::serialize</definition>
+        <argsstring>(Archive &amp;ar, unsigned)</argsstring>
+        <name>serialize</name>
+        <param>
+          <type>Archive &amp;</type>
+          <declname>ar</declname>
+        </param>
+        <param>
+          <type>unsigned</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_valarray.cpp" line="34" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_valarray.cpp" bodystart="34" bodyend="37"/>
+        <references refid="d7/da0/struct_a_1ae72d8d8ac297b70eb9bca920b62d2f19" compoundref="d0/d9e/serialization__array_8cpp" startline="30">A&lt; T &gt;::t_</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_variant.cpp" line="21" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_variant.cpp" bodystart="21" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>(T t)</argsstring>
+        <name>A</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_variant.cpp" line="23" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_variant.cpp" bodystart="23" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref> &amp;</type>
+        <definition>A&amp; A&lt; T &gt;::operator=</definition>
+        <argsstring>(T t)</argsstring>
+        <name>operator=</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_variant.cpp" line="26" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_variant.cpp" bodystart="26" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename Archive</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void A&lt; T &gt;::serialize</definition>
+        <argsstring>(Archive &amp;ar, unsigned)</argsstring>
+        <name>serialize</name>
+        <param>
+          <type>Archive &amp;</type>
+          <declname>ar</declname>
+        </param>
+        <param>
+          <type>unsigned</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_variant.cpp" line="40" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_variant.cpp" bodystart="40" bodyend="43"/>
+        <references refid="d7/da0/struct_a_1ae72d8d8ac297b70eb9bca920b62d2f19" compoundref="d0/d9e/serialization__array_8cpp" startline="30">A&lt; T &gt;::t_</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>()</argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_vector.cpp" line="22" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_vector.cpp" bodystart="22" bodyend="22"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>(T t)</argsstring>
+        <name>A</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_vector.cpp" line="24" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_vector.cpp" bodystart="24" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref> &amp;</type>
+        <definition>A&amp; A&lt; T &gt;::operator=</definition>
+        <argsstring>(T t)</argsstring>
+        <name>operator=</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_vector.cpp" line="27" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_vector.cpp" bodystart="27" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename Archive</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void A&lt; T &gt;::serialize</definition>
+        <argsstring>(Archive &amp;ar, unsigned)</argsstring>
+        <name>serialize</name>
+        <param>
+          <type>Archive &amp;</type>
+          <declname>ar</declname>
+        </param>
+        <param>
+          <type>unsigned</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_vector.cpp" line="30" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_vector.cpp" bodystart="30" bodyend="33"/>
+        <references refid="d7/da0/struct_a_1ae72d8d8ac297b70eb9bca920b62d2f19" compoundref="d0/d9e/serialization__array_8cpp" startline="30">A&lt; T &gt;::t_</references>
+        <references refid="d7/da0/struct_a_1a3a3e9b0a824e67d5c3c4e6c5c6588c69" compoundref="dd/de4/fail__compile__non__serializable__class_8cpp" startline="12">A&lt; T &gt;::a</references>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1aa083e80b97814dc0bed3a4168906adcd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int A&lt; T &gt;::test0</definition>
+        <argsstring>()</argsstring>
+        <name>test0</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/bind_action.cpp" line="280" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/bind_action.cpp" bodystart="280" bodyend="283"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1afe88afee524ffa8a1157959e3e5c916b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int A&lt; T &gt;::test1</definition>
+        <argsstring>(int i)</argsstring>
+        <name>test1</name>
+        <param>
+          <type>int</type>
+          <declname>i</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/bind_action.cpp" line="285" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/bind_action.cpp" bodystart="285" bodyend="288"/>
+        <references refid="d7/da0/struct_a_1a3099004fa1524b28aadeb00bfd42cad5" compoundref="d9/d25/serialization__smart__ptr_8cpp" startline="93">A&lt; T &gt;::i</references>
+        <referencedby refid="d7/d85/bind__action_8cpp_1a62d7ae02b216b42264f93d4ceb3968c2" compoundref="d7/d85/bind__action_8cpp" startline="304" endline="321">member_bind_test1</referencedby>
+        <referencedby refid="de/d7e/struct_b_1ae467207e4ae9d456c4f5ff400ea606bc" compoundref="dd/d8e/inheritance__2__classes__abstract_8cpp" startline="54" endline="54">B&lt; T &gt;::test1</referencedby>
+        <referencedby refid="de/d7e/struct_b_1a1795182949fcf94a3adb4b27f7801689" compoundref="dc/dfb/inheritance__3__classes__1__abstract_8cpp" startline="57" endline="57">B&lt; T &gt;::test1_nonvirt</referencedby>
+        <referencedby refid="de/d7e/struct_b_1a89965b02bb3667033440c311d66e69bb" compoundref="dd/d34/inheritance__3__classes__2__abstract_8cpp" startline="54" endline="54">B&lt; T &gt;::test0</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d7/da0/struct_a_1a3add20e74e817ff8ed91cff8fe79a487" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>A&lt; T &gt;::A</definition>
+        <argsstring>(int val=0)</argsstring>
+        <name>A</name>
+        <param>
+          <type>int</type>
+          <declname>val</declname>
+          <defval>0</defval>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/tagged.cpp" line="16" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/tagged.cpp" bodystart="16" bodyend="16"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="friend">
+      <memberdef kind="friend" id="d7/da0/struct_a_1ace84717c593c7a811920eb831c2fc1ca" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>friend bool</type>
+        <definition>bool operator==</definition>
+        <argsstring>(A a, A b)</argsstring>
+        <name>operator==</name>
+        <param>
+          <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref></type>
+          <declname>a</declname>
+        </param>
+        <param>
+          <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref></type>
+          <declname>b</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_variant.cpp" line="28" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_variant.cpp" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="friend" id="d7/da0/struct_a_1a56f5ade77186b1a7ec7d8d8e1cd32d3e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>friend std::ostream &amp;</type>
+        <definition>std::ostream&amp; operator&lt;&lt;</definition>
+        <argsstring>(std::ostream &amp;os, A a)</argsstring>
+        <name>operator&lt;&lt;</name>
+        <param>
+          <type>std::ostream &amp;</type>
+          <declname>os</declname>
+        </param>
+        <param>
+          <type><ref refid="d7/da0/struct_a" kindref="compound">A</ref></type>
+          <declname>a</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_variant.cpp" line="33" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/serialization/serialization_variant.cpp" bodystart="33" bodyend="37"/>
+        <referencedby refid="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" compoundref="db/ddb/serialization__builtins_8cpp" startline="29" endline="32">A&lt; T &gt;::serialize</referencedby>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>In this class we use the custom c-tor macro to simply delegate to another c-tor without actually accessing the archive. </para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="37">
+        <label>D</label>
+        <link refid="de/d8b/struct_d"/>
+        <childnode refid="35" relation="public-inheritance">
+        </childnode>
+        <childnode refid="35" relation="public-inheritance">
+        </childnode>
+        <childnode refid="35" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="39">
+        <label>F</label>
+        <link refid="d8/dd8/class_f"/>
+        <childnode refid="38" relation="public-inheritance">
+        </childnode>
+        <childnode refid="38" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="42">
+        <label>X</label>
+        <link refid="d9/d80/struct_x"/>
+        <childnode refid="35" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="34">
+        <label>hpx::components::abstract_component_base&lt; Component &gt;</label>
+        <link refid="d4/df7/classhpx_1_1components_1_1abstract__component__base"/>
+        <childnode refid="33" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="38">
+        <label>E&lt; T &gt;</label>
+        <link refid="dd/dd3/struct_e"/>
+        <childnode refid="37" relation="public-inheritance">
+        </childnode>
+        <childnode refid="37" relation="public-inheritance">
+        </childnode>
+        <childnode refid="24" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="29">
+        <label>hpx::components::abstract_managed_component_base&lt; Component, Wrapper &gt;</label>
+        <link refid="df/d83/classhpx_1_1components_1_1abstract__managed__component__base"/>
+        <childnode refid="26" relation="private-inheritance">
+        </childnode>
+      </node>
+      <node id="24">
+        <label>A&lt; T &gt;</label>
+        <link refid="d7/da0/struct_a"/>
+        <childnode refid="25" relation="public-inheritance">
+        </childnode>
+        <childnode refid="28" relation="public-inheritance">
+        </childnode>
+        <childnode refid="28" relation="public-inheritance">
+        </childnode>
+        <childnode refid="25" relation="public-inheritance">
+        </childnode>
+        <childnode refid="28" relation="public-inheritance">
+        </childnode>
+        <childnode refid="30" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="33">
+        <label>hpx::components::abstract_simple_component_base&lt; Component &gt;</label>
+        <link refid="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base"/>
+        <childnode refid="32" relation="private-inheritance">
+        </childnode>
+      </node>
+      <node id="31">
+        <label>hpx::components::abstract_simple_component_base&lt; A &gt;</label>
+        <link refid="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base"/>
+        <childnode refid="32" relation="private-inheritance">
+        </childnode>
+        <childnode refid="33" relation="template-instance">
+          <edgelabel>&lt; A &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="40">
+        <label>hpx::util::detail::protected_bind&lt; F &gt;</label>
+        <link refid="d1/d3e/classhpx_1_1util_1_1detail_1_1protected__bind"/>
+        <childnode refid="39" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="26">
+        <label>hpx::traits::detail::managed_component_tag</label>
+        <link refid="df/d31/structhpx_1_1traits_1_1detail_1_1managed__component__tag"/>
+      </node>
+      <node id="25">
+        <label>hpx::components::managed_component_base&lt; A &gt;</label>
+        <link refid="d1/d7b/classhpx_1_1components_1_1managed__component__base"/>
+        <childnode refid="26" relation="public-inheritance">
+        </childnode>
+        <childnode refid="27" relation="template-instance">
+          <edgelabel>&lt; A &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="35">
+        <label>B&lt; T &gt;</label>
+        <link refid="de/d7e/struct_b"/>
+        <childnode refid="24" relation="public-inheritance">
+        </childnode>
+        <childnode refid="24" relation="public-inheritance">
+        </childnode>
+        <childnode refid="24" relation="public-inheritance">
+        </childnode>
+        <childnode refid="24" relation="public-inheritance">
+        </childnode>
+        <childnode refid="24" relation="public-inheritance">
+        </childnode>
+        <childnode refid="24" relation="public-inheritance">
+        </childnode>
+        <childnode refid="24" relation="public-inheritance">
+        </childnode>
+        <childnode refid="24" relation="public-inheritance">
+        </childnode>
+        <childnode refid="24" relation="public-inheritance">
+        </childnode>
+        <childnode refid="24" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="28">
+        <label>hpx::components::abstract_managed_component_base&lt; A &gt;</label>
+        <link refid="df/d83/classhpx_1_1components_1_1abstract__managed__component__base"/>
+        <childnode refid="26" relation="private-inheritance">
+        </childnode>
+        <childnode refid="29" relation="template-instance">
+          <edgelabel>&lt; A &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="41">
+        <label>hpx::detail::exception_with_info&lt; E &gt;</label>
+        <link refid="d9/da3/structhpx_1_1detail_1_1exception__with__info"/>
+        <childnode refid="38" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="30">
+        <label>hpx::components::abstract_component_base&lt; A &gt;</label>
+        <link refid="d4/df7/classhpx_1_1components_1_1abstract__component__base"/>
+        <childnode refid="31" relation="public-inheritance">
+        </childnode>
+        <childnode refid="34" relation="template-instance">
+          <edgelabel>&lt; A &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="32">
+        <label>hpx::traits::detail::component_tag</label>
+        <link refid="d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag"/>
+      </node>
+      <node id="27">
+        <label>hpx::components::managed_component_base&lt; Component, Wrapper, CtorPolicy, DtorPolicy &gt;</label>
+        <link refid="d1/d7b/classhpx_1_1components_1_1managed__component__base"/>
+        <childnode refid="26" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="36">
+        <label>C&lt; T &gt;</label>
+        <link refid="df/d3b/struct_c"/>
+        <childnode refid="35" relation="public-inheritance">
+        </childnode>
+        <childnode refid="35" relation="public-inheritance">
+        </childnode>
+        <childnode refid="35" relation="public-inheritance">
+        </childnode>
+        <childnode refid="35" relation="public-inheritance">
+        </childnode>
+        <childnode refid="35" relation="public-inheritance">
+        </childnode>
+        <childnode refid="24" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="53">
+        <label>hpx::components::abstract_component_base&lt; Component &gt;</label>
+        <link refid="d4/df7/classhpx_1_1components_1_1abstract__component__base"/>
+        <childnode refid="52" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="48">
+        <label>hpx::components::abstract_managed_component_base&lt; Component, Wrapper &gt;</label>
+        <link refid="df/d83/classhpx_1_1components_1_1abstract__managed__component__base"/>
+        <childnode refid="45" relation="private-inheritance">
+        </childnode>
+      </node>
+      <node id="43">
+        <label>A&lt; T &gt;</label>
+        <link refid="d7/da0/struct_a"/>
+        <childnode refid="44" relation="public-inheritance">
+        </childnode>
+        <childnode refid="47" relation="public-inheritance">
+        </childnode>
+        <childnode refid="47" relation="public-inheritance">
+        </childnode>
+        <childnode refid="44" relation="public-inheritance">
+        </childnode>
+        <childnode refid="47" relation="public-inheritance">
+        </childnode>
+        <childnode refid="49" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="52">
+        <label>hpx::components::abstract_simple_component_base&lt; Component &gt;</label>
+        <link refid="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base"/>
+        <childnode refid="51" relation="private-inheritance">
+        </childnode>
+      </node>
+      <node id="50">
+        <label>hpx::components::abstract_simple_component_base&lt; A &gt;</label>
+        <link refid="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base"/>
+        <childnode refid="51" relation="private-inheritance">
+        </childnode>
+        <childnode refid="52" relation="template-instance">
+          <edgelabel>&lt; A &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="45">
+        <label>hpx::traits::detail::managed_component_tag</label>
+        <link refid="df/d31/structhpx_1_1traits_1_1detail_1_1managed__component__tag"/>
+      </node>
+      <node id="44">
+        <label>hpx::components::managed_component_base&lt; A &gt;</label>
+        <link refid="d1/d7b/classhpx_1_1components_1_1managed__component__base"/>
+        <childnode refid="45" relation="public-inheritance">
+        </childnode>
+        <childnode refid="46" relation="template-instance">
+          <edgelabel>&lt; A &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="47">
+        <label>hpx::components::abstract_managed_component_base&lt; A &gt;</label>
+        <link refid="df/d83/classhpx_1_1components_1_1abstract__managed__component__base"/>
+        <childnode refid="45" relation="private-inheritance">
+        </childnode>
+        <childnode refid="48" relation="template-instance">
+          <edgelabel>&lt; A &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="49">
+        <label>hpx::components::abstract_component_base&lt; A &gt;</label>
+        <link refid="d4/df7/classhpx_1_1components_1_1abstract__component__base"/>
+        <childnode refid="50" relation="public-inheritance">
+        </childnode>
+        <childnode refid="53" relation="template-instance">
+          <edgelabel>&lt; A &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="51">
+        <label>hpx::traits::detail::component_tag</label>
+        <link refid="d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag"/>
+      </node>
+      <node id="46">
+        <label>hpx::components::managed_component_base&lt; Component, Wrapper, CtorPolicy, DtorPolicy &gt;</label>
+        <link refid="d1/d7b/classhpx_1_1components_1_1managed__component__base"/>
+        <childnode refid="45" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/cmake/tests/cxx11_constexpr.cpp" line="12" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/cmake/tests/cxx11_constexpr.cpp" bodystart="11" bodyend="16"/>
+    <listofallmembers>
+      <member refid="d7/da0/struct_a_1a3a3e9b0a824e67d5c3c4e6c5c6588c69" prot="public" virt="non-virtual"><scope>A</scope><name>a</name></member>
+      <member refid="d7/da0/struct_a_1a3a3e9b0a824e67d5c3c4e6c5c6588c69" prot="public" virt="non-virtual"><scope>A</scope><name>a</name></member>
+      <member refid="d7/da0/struct_a_1a516a6b865245c9fdcd8a1ca602f1ae82" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1adfd1baf7793d9bd8936f814211c175d6" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1ab99a54b2aab7c65fb0de828ab7842640" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a89751fd938f1d44e81987bfb1ceb22f4" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1ae2c86b18e2718eb8bd3bea2f6b945955" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1adfd1baf7793d9bd8936f814211c175d6" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1ae2c86b18e2718eb8bd3bea2f6b945955" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1adfd1baf7793d9bd8936f814211c175d6" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a592f15f034b2fe82f680cb726cd40cb2" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a592f15f034b2fe82f680cb726cd40cb2" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1ae2c86b18e2718eb8bd3bea2f6b945955" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a9773bbfa83a5872b50e49f109c762ff8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a34825c1127794e89478dfe553d2f47f8" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d7/da0/struct_a_1a3add20e74e817ff8ed91cff8fe79a487" prot="public" virt="non-virtual"><scope>A</scope><name>A</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1a1785f6d50aa5b82e31a14c04f05fc009" prot="public" virt="non-virtual" ambiguityscope="managed_component_base&lt; A &gt;::"><scope>A</scope><name>base_type_holder</name></member>
+      <member refid="df/d83/classhpx_1_1components_1_1abstract__managed__component__base_1ad2512e44c38d5d5e32707faabb6885a7" prot="public" virt="non-virtual" ambiguityscope="abstract_managed_component_base&lt; A &gt;::"><scope>A</scope><name>base_type_holder</name></member>
+      <member refid="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base_1a0f5eb15b197fca920c2a5d34f44ddf66" prot="public" virt="non-virtual" ambiguityscope="abstract_component_base&lt; A &gt;::"><scope>A</scope><name>base_type_holder</name></member>
+      <member refid="d7/da0/struct_a_1aefb3b36e6c35060bd6231268586a9428" prot="public" virt="non-virtual"><scope>A</scope><name>count</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1af5ce3cc75827eb3372a51066b762ac6c" prot="public" virt="non-virtual"><scope>A</scope><name>ctor_policy</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1a78abf4f0e74b7f2029b023b4d18e06db" prot="public" virt="non-virtual"><scope>A</scope><name>dtor_policy</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1a569b74a5de53074ea0207644e8025862" prot="public" virt="non-virtual"><scope>A</scope><name>finalize</name></member>
+      <member refid="d7/da0/struct_a_1a9ee7221affe17277f6e3d6e75922d75e" prot="public" virt="pure-virtual"><scope>A</scope><name>foo</name></member>
+      <member refid="d7/da0/struct_a_1a9ee7221affe17277f6e3d6e75922d75e" prot="public" virt="pure-virtual"><scope>A</scope><name>foo</name></member>
+      <member refid="d7/da0/struct_a_1a96281b21947c21afcf5da1005631cf33" prot="public" virt="pure-virtual"><scope>A</scope><name>foo</name></member>
+      <member refid="d7/da0/struct_a_1a96281b21947c21afcf5da1005631cf33" prot="public" virt="pure-virtual"><scope>A</scope><name>foo</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1aef430fdc6d82e35914ba9f2cd9e56ff6" prot="protected" virt="non-virtual"><scope>A</scope><name>get_base_gid</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1a12692bcf771f25a4c76b7338057085f9" prot="public" virt="non-virtual" ambiguityscope="managed_component_base&lt; A &gt;::"><scope>A</scope><name>get_component_type</name></member>
+      <member refid="df/d83/classhpx_1_1components_1_1abstract__managed__component__base_1ac66a7acde458176152167fdb3f4460ad" prot="public" virt="non-virtual" ambiguityscope="abstract_managed_component_base&lt; A &gt;::"><scope>A</scope><name>get_component_type</name></member>
+      <member refid="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base_1afeb69dc8c4af108cc50b1b52f720cd24" prot="public" virt="non-virtual" ambiguityscope="abstract_component_base&lt; A &gt;::"><scope>A</scope><name>get_component_type</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1ac026850ad861e1da5393943cf5751708" prot="public" virt="non-virtual"><scope>A</scope><name>get_id</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1abbea1fabc9a5fba8c5d7cbbdf76e42c8" prot="public" virt="non-virtual"><scope>A</scope><name>get_unmanaged_id</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1a591c4d1e55e9885df924a80214c12d4b" prot="public" virt="non-virtual"><scope>A</scope><name>has_managed_component_base</name></member>
+      <member refid="d7/da0/struct_a_1a29a70e1489e0e0e14cd6c14ca0a56b14" prot="public" virt="non-virtual"><scope>A</scope><name>HPX_DEFINE_COMPONENT_ACTION</name></member>
+      <member refid="d7/da0/struct_a_1a3261f66fb40c5393926da6935403e0da" prot="public" virt="non-virtual"><scope>A</scope><name>HPX_DEFINE_COMPONENT_ACTION</name></member>
+      <member refid="d7/da0/struct_a_1a3261f66fb40c5393926da6935403e0da" prot="public" virt="non-virtual"><scope>A</scope><name>HPX_DEFINE_COMPONENT_ACTION</name></member>
+      <member refid="d7/da0/struct_a_1a3261f66fb40c5393926da6935403e0da" prot="public" virt="non-virtual"><scope>A</scope><name>HPX_DEFINE_COMPONENT_ACTION</name></member>
+      <member refid="d7/da0/struct_a_1a3261f66fb40c5393926da6935403e0da" prot="public" virt="non-virtual"><scope>A</scope><name>HPX_DEFINE_COMPONENT_ACTION</name></member>
+      <member refid="d7/da0/struct_a_1a3261f66fb40c5393926da6935403e0da" prot="public" virt="non-virtual"><scope>A</scope><name>HPX_DEFINE_COMPONENT_ACTION</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1a313fc08a3ec43cc45a2714d402134aa1" prot="public" virt="non-virtual"><scope>A</scope><name>HPX_NON_COPYABLE</name></member>
+      <member refid="d7/da0/struct_a_1ada978cc156cebbafddb1f3aa4c01918c" prot="public" virt="non-virtual"><scope>A</scope><name>HPX_SERIALIZATION_POLYMORPHIC</name></member>
+      <member refid="d7/da0/struct_a_1ada978cc156cebbafddb1f3aa4c01918c" prot="public" virt="non-virtual"><scope>A</scope><name>HPX_SERIALIZATION_POLYMORPHIC</name></member>
+      <member refid="d7/da0/struct_a_1ad488c909b3c5d348d47a744d0fe3f313" prot="public" virt="non-virtual"><scope>A</scope><name>HPX_SERIALIZATION_POLYMORPHIC_ABSTRACT</name></member>
+      <member refid="d7/da0/struct_a_1ad488c909b3c5d348d47a744d0fe3f313" prot="public" virt="non-virtual"><scope>A</scope><name>HPX_SERIALIZATION_POLYMORPHIC_ABSTRACT</name></member>
+      <member refid="d7/da0/struct_a_1a3099004fa1524b28aadeb00bfd42cad5" prot="public" virt="non-virtual"><scope>A</scope><name>i</name></member>
+      <member refid="d7/da0/struct_a_1aac50c8fda46f650742c2272bd64e5d10" prot="private" virt="non-virtual"><scope>A</scope><name>m</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1a9a9a7814c499e6ba74ac7d435769dc7e" prot="public" virt="non-virtual"><scope>A</scope><name>managed_component_base</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1af6d25e6e93a7c565f9eb4e61983fb8f1" prot="public" virt="non-virtual"><scope>A</scope><name>managed_component_base</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1a5b3a0861d533a66b3fcf53db60ac1e8b" prot="public" virt="non-virtual"><scope>A</scope><name>mark_as_migrated</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1a369fee3cd0bccac7c49f2cdce6cb7dbe" prot="public" virt="non-virtual"><scope>A</scope><name>on_migrated</name></member>
+      <member refid="d7/da0/struct_a_1a56f5ade77186b1a7ec7d8d8e1cd32d3e" prot="public" virt="non-virtual"><scope>A</scope><name>operator&lt;&lt;</name></member>
+      <member refid="d7/da0/struct_a_1a2bcc687b2505a84dafabd34e51c59cf1" prot="public" virt="non-virtual"><scope>A</scope><name>operator=</name></member>
+      <member refid="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" virt="non-virtual"><scope>A</scope><name>operator=</name></member>
+      <member refid="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" virt="non-virtual"><scope>A</scope><name>operator=</name></member>
+      <member refid="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" virt="non-virtual"><scope>A</scope><name>operator=</name></member>
+      <member refid="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" virt="non-virtual"><scope>A</scope><name>operator=</name></member>
+      <member refid="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" virt="non-virtual"><scope>A</scope><name>operator=</name></member>
+      <member refid="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" virt="non-virtual"><scope>A</scope><name>operator=</name></member>
+      <member refid="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" virt="non-virtual"><scope>A</scope><name>operator=</name></member>
+      <member refid="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" virt="non-virtual"><scope>A</scope><name>operator=</name></member>
+      <member refid="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" virt="non-virtual"><scope>A</scope><name>operator=</name></member>
+      <member refid="d7/da0/struct_a_1ad2f1a9c1776bdd7d7a2476e9f0a8bb87" prot="public" virt="non-virtual"><scope>A</scope><name>operator=</name></member>
+      <member refid="d7/da0/struct_a_1a988879ac8783cd2e8ae7d6278aef4f5f" prot="public" virt="non-virtual"><scope>A</scope><name>operator==</name></member>
+      <member refid="d7/da0/struct_a_1a988879ac8783cd2e8ae7d6278aef4f5f" prot="public" virt="non-virtual"><scope>A</scope><name>operator==</name></member>
+      <member refid="d7/da0/struct_a_1ace84717c593c7a811920eb831c2fc1ca" prot="public" virt="non-virtual"><scope>A</scope><name>operator==</name></member>
+      <member refid="d7/da0/struct_a_1a2e3613420c6a7a51c110a26e8931f9c8" prot="public" virt="non-virtual"><scope>A</scope><name>p</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1a28210d1defadd0b2da0e6fd174425517" prot="public" virt="non-virtual"><scope>A</scope><name>pin</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1afc8b4e793bcd54dc4f7bd8382aa058d6" prot="public" virt="non-virtual"><scope>A</scope><name>pin_count</name></member>
+      <member refid="d7/da0/struct_a_1acc2f780e8d81ca5bb13bdaeaee0c5cb7" prot="public" virt="pure-virtual"><scope>A</scope><name>print</name></member>
+      <member refid="d7/da0/struct_a_1acb6992ef647f5caa303311f301f4d97a" prot="public" virt="non-virtual"><scope>A</scope><name>print_nonvirt</name></member>
+      <member refid="d7/da0/struct_a_1ae7d72658a08236ca90bc8056d357e9b1" prot="public" virt="non-virtual"><scope>A</scope><name>result_type</name></member>
+      <member refid="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" virt="non-virtual"><scope>A</scope><name>serialize</name></member>
+      <member refid="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" virt="non-virtual"><scope>A</scope><name>serialize</name></member>
+      <member refid="d7/da0/struct_a_1a27a05476a30f035f043ff98a025edf10" prot="public" virt="non-virtual"><scope>A</scope><name>serialize</name></member>
+      <member refid="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" virt="non-virtual"><scope>A</scope><name>serialize</name></member>
+      <member refid="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" virt="non-virtual"><scope>A</scope><name>serialize</name></member>
+      <member refid="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" virt="non-virtual"><scope>A</scope><name>serialize</name></member>
+      <member refid="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" virt="non-virtual"><scope>A</scope><name>serialize</name></member>
+      <member refid="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" virt="non-virtual"><scope>A</scope><name>serialize</name></member>
+      <member refid="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" virt="non-virtual"><scope>A</scope><name>serialize</name></member>
+      <member refid="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" virt="non-virtual"><scope>A</scope><name>serialize</name></member>
+      <member refid="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" virt="non-virtual"><scope>A</scope><name>serialize</name></member>
+      <member refid="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" virt="non-virtual"><scope>A</scope><name>serialize</name></member>
+      <member refid="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" virt="non-virtual"><scope>A</scope><name>serialize</name></member>
+      <member refid="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" virt="non-virtual"><scope>A</scope><name>serialize</name></member>
+      <member refid="d7/da0/struct_a_1a5f5c287cf471e274ed9dda0da1592212" prot="public" virt="non-virtual"><scope>A</scope><name>serialize</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1ad979898f68356fc72bd9c53ab7ef0ab7" prot="protected" virt="non-virtual"><scope>A</scope><name>set_back_ptr</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1a3aa09e2b0e0d81a6673700dec6a51baa" prot="public" virt="non-virtual" ambiguityscope="managed_component_base&lt; A &gt;::"><scope>A</scope><name>set_component_type</name></member>
+      <member refid="df/d83/classhpx_1_1components_1_1abstract__managed__component__base_1a190c59fef9940e5a63627a6ffb280937" prot="public" virt="non-virtual" ambiguityscope="abstract_managed_component_base&lt; A &gt;::"><scope>A</scope><name>set_component_type</name></member>
+      <member refid="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base_1a7591944ebf8fa2eb9731c2036fdfee8f" prot="public" virt="non-virtual" ambiguityscope="abstract_component_base&lt; A &gt;::"><scope>A</scope><name>set_component_type</name></member>
+      <member refid="d7/da0/struct_a_1ae72d8d8ac297b70eb9bca920b62d2f19" prot="public" virt="non-virtual"><scope>A</scope><name>t_</name></member>
+      <member refid="d7/da0/struct_a_1ae912f20cb36ff4df0bd3162c9aba77c4" prot="public" virt="pure-virtual"><scope>A</scope><name>test0</name></member>
+      <member refid="d7/da0/struct_a_1a00bfc9b322b7ac7c0120026b8b531a5c" prot="public" virt="virtual"><scope>A</scope><name>test0</name></member>
+      <member refid="d7/da0/struct_a_1ae912f20cb36ff4df0bd3162c9aba77c4" prot="public" virt="pure-virtual"><scope>A</scope><name>test0</name></member>
+      <member refid="d7/da0/struct_a_1ae912f20cb36ff4df0bd3162c9aba77c4" prot="public" virt="pure-virtual"><scope>A</scope><name>test0</name></member>
+      <member refid="d7/da0/struct_a_1a00bfc9b322b7ac7c0120026b8b531a5c" prot="public" virt="virtual"><scope>A</scope><name>test0</name></member>
+      <member refid="d7/da0/struct_a_1aa083e80b97814dc0bed3a4168906adcd" prot="public" virt="non-virtual"><scope>A</scope><name>test0</name></member>
+      <member refid="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" prot="public" virt="non-virtual"><scope>A</scope><name>test0_nonvirt</name></member>
+      <member refid="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" prot="public" virt="non-virtual"><scope>A</scope><name>test0_nonvirt</name></member>
+      <member refid="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" prot="public" virt="non-virtual"><scope>A</scope><name>test0_nonvirt</name></member>
+      <member refid="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" prot="public" virt="non-virtual"><scope>A</scope><name>test0_nonvirt</name></member>
+      <member refid="d7/da0/struct_a_1a948f332f58c2269a134a1e289c30a466" prot="public" virt="non-virtual"><scope>A</scope><name>test0_nonvirt</name></member>
+      <member refid="d7/da0/struct_a_1afe88afee524ffa8a1157959e3e5c916b" prot="public" virt="non-virtual"><scope>A</scope><name>test1</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1a0f1812050c4d64d110815aafb82a7c2b" prot="public" virt="non-virtual"><scope>A</scope><name>this_component_type</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1a053d59e2e28884e66ae0935011cdd3cc" prot="public" virt="non-virtual"><scope>A</scope><name>unpin</name></member>
+      <member refid="d7/da0/struct_a_1afe9d2d81c204b4caa38e4f5f91fbd14a" prot="private" virt="non-virtual"><scope>A</scope><name>val</name></member>
+      <member refid="d7/da0/struct_a_1a0722ac1e5dcb247be6b40b732188109b" prot="public" virt="non-virtual"><scope>A</scope><name>value_</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1a966af85040b7a3884855c8247b3172f1" prot="public" virt="non-virtual"><scope>A</scope><name>wrapped_type</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1adbfd245e7ea8269b6c2bc8b1f752f3fc" prot="public" virt="non-virtual" ambiguityscope="managed_component_base&lt; A &gt;::"><scope>A</scope><name>wrapping_type</name></member>
+      <member refid="df/d83/classhpx_1_1components_1_1abstract__managed__component__base_1a795e55b0465486ff9c5770a570edc860" prot="public" virt="non-virtual" ambiguityscope="abstract_managed_component_base&lt; A &gt;::"><scope>A</scope><name>wrapping_type</name></member>
+      <member refid="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" virt="virtual"><scope>A</scope><name>~A</name></member>
+      <member refid="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" virt="virtual"><scope>A</scope><name>~A</name></member>
+      <member refid="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" virt="virtual"><scope>A</scope><name>~A</name></member>
+      <member refid="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" virt="virtual"><scope>A</scope><name>~A</name></member>
+      <member refid="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" virt="virtual"><scope>A</scope><name>~A</name></member>
+      <member refid="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" virt="virtual"><scope>A</scope><name>~A</name></member>
+      <member refid="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" virt="virtual"><scope>A</scope><name>~A</name></member>
+      <member refid="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" virt="virtual"><scope>A</scope><name>~A</name></member>
+      <member refid="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" virt="virtual"><scope>A</scope><name>~A</name></member>
+      <member refid="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" virt="virtual"><scope>A</scope><name>~A</name></member>
+      <member refid="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" virt="virtual"><scope>A</scope><name>~A</name></member>
+      <member refid="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" virt="virtual"><scope>A</scope><name>~A</name></member>
+      <member refid="d7/da0/struct_a_1a306a106439aaf029619bc1ddea711319" prot="public" virt="virtual"><scope>A</scope><name>~A</name></member>
+      <member refid="df/d83/classhpx_1_1components_1_1abstract__managed__component__base_1a0c4f148baca79508ccaa12749593d084" prot="public" virt="virtual"><scope>A</scope><name>~abstract_managed_component_base</name></member>
+      <member refid="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base_1aee54abfb655f87b6cc52084e0053be70" prot="public" virt="virtual"><scope>A</scope><name>~abstract_simple_component_base</name></member>
+      <member refid="d1/d7b/classhpx_1_1components_1_1managed__component__base_1af3a7e105f2ea1c5b31949b5f439c9941" prot="public" virt="non-virtual"><scope>A</scope><name>~managed_component_base</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

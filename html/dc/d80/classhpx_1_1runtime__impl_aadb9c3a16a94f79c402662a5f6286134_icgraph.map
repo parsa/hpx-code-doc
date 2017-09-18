@@ -1,0 +1,6 @@
+<map id="hpx::runtime_impl::wait" name="hpx::runtime_impl::wait">
+<area shape="rect" id="node2" href="$d3/d41/classhpx_1_1process_1_1process.html#acc7ec4687f3bf5ae121ef7b494d991d8" title="hpx.process.process.join" alt="" coords="209,5,376,32"/>
+<area shape="rect" id="node3" href="$dc/d80/classhpx_1_1runtime__impl.html#af9bdb195f306613b511f9055416bfd22" title="Start the runtime system. " alt="" coords="226,57,359,98"/>
+<area shape="rect" id="node5" href="$dc/d80/classhpx_1_1runtime__impl.html#ad97f579306f8e516c65886ca56a58f2b" title="Run the HPX runtime system, use the given function for the main thread and block waiting for all thre..." alt="" coords="424,123,575,149"/>
+<area shape="rect" id="node4" href="$dc/d80/classhpx_1_1runtime__impl.html#a65be9f67d82e42bc9d6ad34da1fd8e68" title="Start the runtime system. " alt="" coords="433,57,566,98"/>
+</map>

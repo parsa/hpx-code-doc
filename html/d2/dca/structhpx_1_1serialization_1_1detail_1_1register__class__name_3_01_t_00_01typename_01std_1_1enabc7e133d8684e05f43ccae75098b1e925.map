@@ -1,0 +1,3 @@
+<map id="hpx::serialization::detail::register_class_name&lt; T, typename std::enable_if&lt; traits::is_serialized_with_id&lt; T &gt;::value &gt;::type &gt;" name="hpx::serialization::detail::register_class_name&lt; T, typename std::enable_if&lt; traits::is_serialized_with_id&lt; T &gt;::value &gt;::type &gt;">
+<area shape="rect" id="node2" href="$d8/d04/structhpx_1_1serialization_1_1detail_1_1register__class__name.html" title="hpx::serialization\l::detail::register_class\l_name\&lt; T, Enable \&gt;" alt="" coords="13,5,164,61"/>
+</map>

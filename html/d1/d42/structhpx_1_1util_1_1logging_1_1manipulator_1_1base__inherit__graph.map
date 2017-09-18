@@ -1,0 +1,6 @@
+<map id="hpx::util::logging::manipulator::base&lt; raw_param_type, param_type, ptr_type_ &gt;" name="hpx::util::logging::manipulator::base&lt; raw_param_type, param_type, ptr_type_ &gt;">
+<area shape="rect" id="node4" href="$d8/dc4/structhpx_1_1util_1_1logging_1_1destination_1_1base.html" title="What to use as base class, for your destination classes. " alt="" coords="633,5,779,76"/>
+<area shape="rect" id="node5" href="$d9/dc0/structhpx_1_1util_1_1logging_1_1formatter_1_1base.html" title="What to use as base class, for your formatter classes. " alt="" coords="632,100,780,171"/>
+<area shape="rect" id="node2" href="$d0/d91/structhpx_1_1util_1_1logging_1_1op__equal_1_1same__type__op__equal__base.html" title="Base class when you want to implement operator== that will compare based on type and member operator=..." alt="" coords="208,61,363,117"/>
+<area shape="rect" id="node3" href="$d4/d6e/structhpx_1_1util_1_1logging_1_1op__equal_1_1same__type__op__equal__top.html" title="hpx::util::logging\l::op_equal::same_type\l_op_equal_top" alt="" coords="5,61,160,117"/>
+</map>

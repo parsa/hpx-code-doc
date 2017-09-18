@@ -1,0 +1,16 @@
+<map id="hpx::performance_counters::detail::component_instance_counter_creator" name="hpx::performance_counters::detail::component_instance_counter_creator">
+<area shape="rect" id="node2" href="$d0/d36/namespacehpx_1_1performance__counters.html#a20efd215ad44c2a1d6bf36731b07094c" title="Fill the given counter_path_elements instance from the given full name of a counter. " alt="" coords="243,5,433,47"/>
+<area shape="rect" id="node3" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="261,71,415,112"/>
+<area shape="rect" id="node6" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a1d26b7f3c59e0df5ce86d186a5d26ea3" title="Return a unique id usable as a component type. " alt="" coords="247,136,429,177"/>
+<area shape="rect" id="node7" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="288,202,388,229"/>
+<area shape="rect" id="node8" href="$d0/df8/namespacehpx_1_1performance__counters_1_1detail.html#a78d5a6580036217ab3eefe27cb1ca11a" title="hpx::performance_counters\l::detail::get_instance_count" alt="" coords="247,253,429,295"/>
+<area shape="rect" id="node13" href="$d0/df8/namespacehpx_1_1performance__counters_1_1detail.html#a5e451affac03963e4ae0cb8eddb34fbd" title="hpx::performance_counters\l::detail::create_raw_counter" alt="" coords="247,319,429,360"/>
+<area shape="rect" id="node14" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="263,385,413,411"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="499,49,618,75"/>
+<area shape="rect" id="node5" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="481,100,636,141"/>
+<area shape="rect" id="node9" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="507,261,610,287"/>
+<area shape="rect" id="node10" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="684,235,867,262"/>
+<area shape="rect" id="node12" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="695,286,855,313"/>
+<area shape="rect" id="node11" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="915,228,1077,269"/>
+<area shape="rect" id="node15" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="499,377,619,419"/>
+</map>

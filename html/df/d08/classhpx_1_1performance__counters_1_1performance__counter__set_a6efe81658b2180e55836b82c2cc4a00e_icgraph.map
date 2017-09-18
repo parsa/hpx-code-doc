@@ -1,0 +1,7 @@
+<map id="hpx::performance_counters::performance_counter_set::get_counter_values" name="hpx::performance_counters::performance_counter_set::get_counter_values">
+<area shape="rect" id="node2" href="$d4/d45/classhpx_1_1performance__counters_1_1server_1_1arithmetics__counter.html#a202d63f4d2380639ab50bdc8958d13f2" title="Overloads from the base_counter base class. " alt="" coords="232,5,419,61"/>
+<area shape="rect" id="node3" href="$df/d08/classhpx_1_1performance__counters_1_1performance__counter__set.html#a1bfc3f571e65caf3d3ed545e8eadffda" title="hpx::performance_counters\l::performance_counter_set\l::get_counter_values" alt="" coords="236,85,415,141"/>
+<area shape="rect" id="node4" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#af14747d2be6b81cddf9d3b7276827250" title="hpx::util::query_counters\l::print_raw_counters" alt="" coords="243,166,408,207"/>
+<area shape="rect" id="node5" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#ab1732a9df9f6dee85831e54b82e0bb07" title="hpx::util::query_counters\l::evaluate_counters" alt="" coords="467,166,632,207"/>
+<area shape="rect" id="node6" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#a106615c42e4cfd2916c2f1372af20bab" title="hpx::util::query_counters\l::evaluate" alt="" coords="680,166,845,207"/>
+</map>

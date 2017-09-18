@@ -1,0 +1,19 @@
+digraph "hpx::parallel::util::detail::foreach_partitioner&lt; ExPolicy, Result, PartTag &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::parallel::util\l::detail::foreach_partitioner\l\< ExPolicy, Result, PartTag \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< ExPolicy, Result,\l parallel::traits::static\l_partitioner_tag \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::parallel::util\l::detail::foreach_partitioner\l\< ExPolicy, Result, parallel\l::traits::static_partitioner_tag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/dcc/structhpx_1_1parallel_1_1util_1_1detail_1_1foreach__partitioner.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::parallel::util\l::detail::foreach_partitioner\l\< ExPolicy, Result, parallel\l::traits::default_partitioner_tag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/da9/structhpx_1_1parallel_1_1util_1_1detail_1_1foreach__partitioner_3_01_ex_policy_00_01_result_00_0104f7f3d1c86f0e59952dca8fad3808a.html"];
+  Node0 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::util::decay\l\< ExPolicy \>::type,\l Result, PartTag \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::parallel::util\l::detail::foreach_partitioner\l\< hpx::util::decay\< ExPolicy\l \>::type, Result, PartTag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/dcc/structhpx_1_1parallel_1_1util_1_1detail_1_1foreach__partitioner.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::parallel::util\l::foreach_partitioner\l\< ExPolicy, Result, PartTag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d9a/structhpx_1_1parallel_1_1util_1_1foreach__partitioner.html"];
+  Node0 -> Node5 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< execution::parallel\l_task_policy, Result,\l parallel::traits::auto\l_partitioner_tag \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::parallel::util\l::detail::foreach_partitioner\l\< execution::parallel_task\l_policy, Result, parallel::\ltraits::auto_partitioner_tag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/dcc/structhpx_1_1parallel_1_1util_1_1detail_1_1foreach__partitioner.html"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hpx::parallel::util\l::detail::foreach_partitioner\l\< execution::parallel_task\l_policy_shim\< Executor, Parameters\l \>, Result, parallel::traits::auto\l_partitioner_tag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/da8/structhpx_1_1parallel_1_1util_1_1detail_1_1foreach__partitioner_3_01execution_1_1parallel__task_518fdc2ea8b3225d2caf9ded2ad1d286.html"];
+}

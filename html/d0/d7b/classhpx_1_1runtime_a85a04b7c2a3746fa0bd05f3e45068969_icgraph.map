@@ -1,0 +1,11 @@
+<map id="hpx::runtime::get_system_uptime" name="hpx::runtime::get_system_uptime">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a805a6863e2633550de10e42233f6ee0b" title="Return the system uptime measure on the thread executing this call. " alt="" coords="224,173,389,200"/>
+<area shape="rect" id="node3" href="$d4/d45/classhpx_1_1performance__counters_1_1server_1_1arithmetics__counter.html#a202d63f4d2380639ab50bdc8958d13f2" title="Overloads from the base_counter base class. " alt="" coords="441,5,628,61"/>
+<area shape="rect" id="node4" href="$df/d89/classhpx_1_1performance__counters_1_1server_1_1arithmetics__counter__extended.html#a37679be547d209e1542577346a3602f0" title="Overloads from the base_counter base class. " alt="" coords="437,85,632,141"/>
+<area shape="rect" id="node5" href="$d0/d7b/classhpx_1_1runtime.html#ae5be42db3f1780df79b6c3ca7f6fdc0b" title="hpx::runtime::get_instance\l_number" alt="" coords="447,166,623,207"/>
+<area shape="rect" id="node8" href="$d1/d35/classperformance__counters_1_1sine_1_1server_1_1sine__counter.html#a88a7db03ac08f8503b8fa8f178d9e1f9" title="performance_counters\l::sine::server::sine\l_counter::evaluate" alt="" coords="459,232,610,288"/>
+<area shape="rect" id="node10" href="$d6/d3f/classhpx_1_1performance__counters_1_1server_1_1statistics__counter.html#ae8c17cb11f82d7e0ca07203053b579b2" title="Overloads from the base_counter base class. " alt="" coords="445,312,624,368"/>
+<area shape="rect" id="node6" href="$d8/d83/namespacehpx.html#a9cd8c96309c6ea084c51856ae6cde7a5" title="hpx::get_runtime_instance\l_number" alt="" coords="687,111,862,153"/>
+<area shape="rect" id="node7" href="$d0/d07/system__characteristics_8hpp.html#ab89dcd3f8f12bd35634d3849f0e93d90" title="print_system_characteristics" alt="" coords="680,177,869,204"/>
+<area shape="rect" id="node9" href="$d1/d35/classperformance__counters_1_1sine_1_1server_1_1sine__counter.html#a42411afc8afd81ed472f21639e4cb135" title="performance_counters\l::sine::server::sine\l_counter::sine_counter" alt="" coords="697,232,852,288"/>
+</map>

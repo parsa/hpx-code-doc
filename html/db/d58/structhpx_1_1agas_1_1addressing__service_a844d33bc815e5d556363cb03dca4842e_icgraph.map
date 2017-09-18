@@ -1,0 +1,4 @@
+<map id="hpx::agas::addressing_service::register_factory" name="hpx::agas::addressing_service::register_factory">
+<area shape="rect" id="node2" href="$d9/dc0/structhpx_1_1components_1_1component__factory.html#afa5dee3f6360badd1daabe8baf869597" title="Return the unique identifier of the component type this factory is responsible for. " alt="" coords="220,5,417,47"/>
+<area shape="rect" id="node3" href="$de/d5d/structhpx_1_1components_1_1derived__component__factory.html#a3d20b53768bd83e1b96550fa6ad9899f" title="Return the unique identifier of the component type this factory is responsible for. " alt="" coords="233,71,404,127"/>
+</map>

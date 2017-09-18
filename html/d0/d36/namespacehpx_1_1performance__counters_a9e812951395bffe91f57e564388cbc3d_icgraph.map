@@ -1,0 +1,5 @@
+<map id="hpx::performance_counters::action_invocation_counter_discoverer" name="hpx::performance_counters::action_invocation_counter_discoverer">
+<area shape="rect" id="node2" href="$d0/d36/namespacehpx_1_1performance__counters.html#adf96f2c1aff5c91cb5291103b2bb2324" title="hpx::performance_counters\l::local_action_invocation\l_counter_discoverer" alt="" coords="232,5,411,61"/>
+<area shape="rect" id="node4" href="$d0/d36/namespacehpx_1_1performance__counters.html#acec53c2a94f14082c5832a836b1e91d7" title="hpx::performance_counters\l::remote_action_invocation\l_counter_discoverer" alt="" coords="232,85,411,141"/>
+<area shape="rect" id="node3" href="$d0/d7b/classhpx_1_1runtime.html#ad04cc0d74dd608aedf3824c8b067eea9" title="Install all performance counters related to this runtime instance. " alt="" coords="459,53,604,94"/>
+</map>

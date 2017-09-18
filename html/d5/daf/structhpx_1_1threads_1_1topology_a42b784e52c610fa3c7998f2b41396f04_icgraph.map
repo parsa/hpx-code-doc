@@ -1,0 +1,8 @@
+<map id="hpx::threads::topology::set_thread_affinity_mask" name="hpx::threads::topology::set_thread_affinity_mask">
+<area shape="rect" id="node2" href="$dc/d80/classhpx_1_1runtime__impl.html#aa9de8265198ceaf0e1e3f2ac1d78462e" title="hpx::runtime_impl::\lget_notification_policy" alt="" coords="234,5,385,47"/>
+<area shape="rect" id="node4" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a32d8c1d6d55b20d42149c5710792142f" title="hpx::threads::detail\l::scheduled_thread_pool\l::thread_func" alt="" coords="228,71,391,127"/>
+<area shape="rect" id="node7" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a67c5a4444b8889b1de56aa7a17459734" title="hpx::threads::topology\l::~topology" alt="" coords="234,152,385,193"/>
+<area shape="rect" id="node3" href="$dc/d80/classhpx_1_1runtime__impl.html#af8458421582bcb47802b012932a68757" title="Run the HPX runtime system, initially use the given number of (OS) threads in the thread&#45;manager and ..." alt="" coords="445,13,595,39"/>
+<area shape="rect" id="node5" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a18f2b38df9ce10cde72b3a19174b18fe" title="hpx::threads::detail\l::scheduled_thread_pool\l::get_os_thread_handle" alt="" coords="439,67,601,123"/>
+<area shape="rect" id="node6" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a83df1a54306c268c2cc95d0c4b9b9eb6" title="hpx::threads::detail\l::scheduled_thread_pool\l::add_processing_unit" alt="" coords="439,147,601,203"/>
+</map>

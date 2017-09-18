@@ -1,0 +1,8 @@
+<map id="hpx_main" name="hpx_main">
+<area shape="rect" id="node2" href="$df/d07/is__partitioned_8cpp.html#a4747c336a17af453ab8222395ac727c6" title="partitioned_test1" alt="" coords="160,5,279,32"/>
+<area shape="rect" id="node3" href="$df/d07/is__partitioned_8cpp.html#a18c42711315aa111496df8dc1c6a23dd" title="partitioned_test2" alt="" coords="160,56,279,83"/>
+<area shape="rect" id="node4" href="$df/d07/is__partitioned_8cpp.html#ae2cb2eb9331a21fc4d42a94f0d624952" title="partitioned_test3" alt="" coords="160,107,279,133"/>
+<area shape="rect" id="node5" href="$df/d07/is__partitioned_8cpp.html#ae7d6e80e1a4d2d06793c0a38628babea" title="partitioned_exception_test" alt="" coords="132,157,307,184"/>
+<area shape="rect" id="node6" href="$df/d07/is__partitioned_8cpp.html#ab7994c039bfe076963461d009a0ac70c" title="partitioned_bad_alloc_test" alt="" coords="133,208,306,235"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="174,259,265,285"/>
+</map>

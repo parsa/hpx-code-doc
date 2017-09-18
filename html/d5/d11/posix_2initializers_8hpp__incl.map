@@ -1,0 +1,36 @@
+<map id="initializers.hpp" name="initializers.hpp">
+<area shape="rect" id="node2" href="$de/d90/close__fd_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/close_fd.hpp" alt="" coords="5,184,173,240"/>
+<area shape="rect" id="node13" href="$d0/d9b/close__fds_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/close_fds.hpp" alt="" coords="1400,184,1568,240"/>
+<area shape="rect" id="node15" href="$da/dcd/close__fds__if_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/close_fds_if.hpp" alt="" coords="2845,184,3013,240"/>
+<area shape="rect" id="node21" href="$df/d66/posix_2initializers_2close__stderr_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/close_stderr.hpp" alt="" coords="197,184,365,240"/>
+<area shape="rect" id="node22" href="$dd/dd4/posix_2initializers_2close__stdin_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/close_stdin.hpp" alt="" coords="389,184,557,240"/>
+<area shape="rect" id="node23" href="$d8/d14/posix_2initializers_2close__stdout_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/close_stdout.hpp" alt="" coords="581,184,749,240"/>
+<area shape="rect" id="node24" href="$db/d2b/posix_2initializers_2hide__console_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/hide_console.hpp" alt="" coords="773,184,941,240"/>
+<area shape="rect" id="node25" href="$d8/dc5/posix_2initializers_2inherit__env_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/inherit_env.hpp" alt="" coords="965,184,1133,240"/>
+<area shape="rect" id="node26" href="$da/d62/notify__io__service_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/notify_io_service.hpp" alt="" coords="1208,184,1376,240"/>
+<area shape="rect" id="node27" href="$d9/d35/on__exec__error_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/on_exec_error.hpp" alt="" coords="1592,184,1760,240"/>
+<area shape="rect" id="node30" href="$d0/d0a/on__exec__setup_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/on_exec_setup.hpp" alt="" coords="1784,184,1952,240"/>
+<area shape="rect" id="node31" href="$d4/d4a/on__fork__error_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/on_fork_error.hpp" alt="" coords="2027,184,2195,240"/>
+<area shape="rect" id="node32" href="$db/db9/on__fork__setup_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/on_fork_setup.hpp" alt="" coords="2219,184,2387,240"/>
+<area shape="rect" id="node33" href="$dc/dae/on__fork__success_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/on_fork_success.hpp" alt="" coords="2603,184,2771,240"/>
+<area shape="rect" id="node34" href="$d0/d72/posix_2initializers_2run__exe_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/run_exe.hpp" alt="" coords="3833,80,4001,136"/>
+<area shape="rect" id="node39" href="$df/d8a/posix_2initializers_2set__args_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/set_args.hpp" alt="" coords="4172,80,4340,136"/>
+<area shape="rect" id="node42" href="$d4/db8/posix_2initializers_2set__cmd__line_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/set_cmd_line.hpp" alt="" coords="4888,80,5056,136"/>
+<area shape="rect" id="node45" href="$d4/dd3/posix_2initializers_2set__env_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/set_env.hpp" alt="" coords="4609,80,4777,136"/>
+<area shape="rect" id="node46" href="$d2/dac/posix_2initializers_2start__in__dir_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/start_in_dir.hpp" alt="" coords="2411,184,2579,240"/>
+<area shape="rect" id="node47" href="$d8/d1e/posix_2initializers_2throw__on__error_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/throw_on_error.hpp" alt="" coords="2823,80,2991,136"/>
+<area shape="rect" id="node49" href="$d7/dc3/posix_2initializers_2wait__on__latch_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/wait_on_latch.hpp" alt="" coords="3412,80,3580,136"/>
+<area shape="rect" id="node3" href="$d8/dfd/config_8hpp.html" title="hpx/config.hpp" alt="" coords="2324,392,2431,419"/>
+<area shape="rect" id="node11" href="$da/d9b/posix_2initializers_2initializer__base_8hpp.html" title="hpx/components/process\l/util/posix/initializers\l/initializer_base.hpp" alt="" coords="1755,288,1923,344"/>
+<area shape="rect" id="node4" href="$df/d6a/attributes_8hpp.html" title="hpx/config/attributes.hpp" alt="" coords="2061,474,2225,501"/>
+<area shape="rect" id="node6" href="$d2/d97/compiler__specific_8hpp.html" title="hpx/config/compiler\l_specific.hpp" alt="" coords="2111,556,2246,597"/>
+<area shape="rect" id="node7" href="$de/d38/branch__hints_8hpp.html" title="hpx/config/branch_hints.hpp" alt="" coords="2351,474,2535,501"/>
+<area shape="rect" id="node8" href="$d4/dce/constexpr_8hpp.html" title="hpx/config/constexpr.hpp" alt="" coords="2270,563,2437,590"/>
+<area shape="rect" id="node9" href="$d6/de2/emulate__deleted_8hpp.html" title="hpx/config/emulate\l_deleted.hpp" alt="" coords="2559,467,2689,508"/>
+<area shape="rect" id="node10" href="$d8/df6/config_2export__definitions_8hpp.html" title="hpx/config/export_definitions.hpp" alt="" coords="2713,474,2924,501"/>
+<area shape="rect" id="node28" href="$d4/d93/serialization__fwd_8hpp.html" title="hpx/runtime/serialization\l/serialization_fwd.hpp" alt="" coords="2296,295,2459,337"/>
+<area shape="rect" id="node35" href="$d4/da0/string_8hpp.html" title="hpx/runtime/serialization\l/string.hpp" alt="" coords="4056,191,4219,233"/>
+<area shape="rect" id="node43" href="$d4/dad/runtime_2serialization_2vector_8hpp.html" title="hpx/runtime/serialization\l/vector.hpp" alt="" coords="5035,191,5197,233"/>
+<area shape="rect" id="node48" href="$d7/d3a/throw__exception_8hpp.html" title="hpx/throw_exception.hpp" alt="" coords="3139,199,3306,225"/>
+<area shape="rect" id="node50" href="$dc/d93/latch_8hpp.html" title="hpx/lcos/latch.hpp" alt="" coords="3483,199,3611,225"/>
+</map>

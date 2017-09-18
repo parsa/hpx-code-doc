@@ -1,0 +1,5 @@
+<map id="count_sync" name="count_sync">
+<area shape="rect" id="node2" href="$d8/d83/minimal__async__executor_8cpp.html#a0c9f242c44ff4818d7e4996d5ef3f5a5" title="test_bulk_async" alt="" coords="159,5,277,32"/>
+<area shape="rect" id="node3" href="$d8/d83/minimal__async__executor_8cpp.html#a12065ee56eec28d3895ba316405a7116" title="test_executor" alt="" coords="341,31,443,57"/>
+<area shape="rect" id="node4" href="$d2/d86/structtest__async__executor2.html#aa4a72c625f5cf5d30b8e8b929f4df7fb" title="test_async_executor2\l::sync_execute" alt="" coords="143,107,293,149"/>
+</map>

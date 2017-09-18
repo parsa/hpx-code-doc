@@ -1,0 +1,7 @@
+<map id="hpx::performance_counters::performance_counter_set::get_counter_infos" name="hpx::performance_counters::performance_counter_set::get_counter_infos">
+<area shape="rect" id="node2" href="$dc/d52/access__counter__set_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="275,5,354,32"/>
+<area shape="rect" id="node3" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#a5348e11b9ef51989bcebe43621816a28" title="hpx::util::query_counters\l::find_counters" alt="" coords="232,57,397,98"/>
+<area shape="rect" id="node5" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#ab1732a9df9f6dee85831e54b82e0bb07" title="hpx::util::query_counters\l::evaluate_counters" alt="" coords="232,122,397,163"/>
+<area shape="rect" id="node4" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#aa24a6ab24531938c6bd7b143bc8857ad" title="hpx::util::query_counters\l::start" alt="" coords="445,57,611,98"/>
+<area shape="rect" id="node6" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#a106615c42e4cfd2916c2f1372af20bab" title="hpx::util::query_counters\l::evaluate" alt="" coords="445,122,611,163"/>
+</map>

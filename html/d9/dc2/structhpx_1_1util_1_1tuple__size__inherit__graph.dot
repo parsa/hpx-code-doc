@@ -1,0 +1,23 @@
+digraph "hpx::util::tuple_size&lt; T &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::tuple_size\< T \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::util::tuple_size\l\< const T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d65/structhpx_1_1util_1_1tuple__size_3_01const_01_t_01_4.html"];
+  Node0 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::util::tuple_size\l\< const volatile T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d3e/structhpx_1_1util_1_1tuple__size_3_01const_01volatile_01_t_01_4.html"];
+  Node0 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hpx::util::tuple_size\l\< volatile T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d2e/structhpx_1_1util_1_1tuple__size_3_01volatile_01_t_01_4.html"];
+  Node0 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Base \>" ,fontname="Helvetica"];
+  Node4 [label="hpx::util::tuple_size\l\< Base \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d0b/structhpx_1_1util_1_1tuple__size.html"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="hpx::util::tuple_size\l\< tagged\< Base, Tags... \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/dbe/structhpx_1_1util_1_1tuple__size_3_01tagged_3_01_base_00_01_tags_8_8_8_01_4_01_4.html"];
+  Node4 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="std::tuple_size\< hpx\l::util::tagged\< Base,\l Tags... \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/dcb/structstd_1_1tuple__size_3_01hpx_1_1util_1_1tagged_3_01_base_00_01_tags_8_8_8_01_4_01_4.html"];
+  Node0 -> Node7 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< tuple\< detail::tag\l_elem\< Ts \>::type... \> \>" ,fontname="Helvetica"];
+  Node7 [label="hpx::util::tuple_size\l\< tuple\< detail::tag\l_elem\< Ts \>::type... \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d0b/structhpx_1_1util_1_1tuple__size.html"];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="hpx::util::tuple_size\l\< tagged_tuple\< Ts... \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d92/structhpx_1_1util_1_1tuple__size_3_01tagged__tuple_3_01_ts_8_8_8_01_4_01_4.html"];
+}

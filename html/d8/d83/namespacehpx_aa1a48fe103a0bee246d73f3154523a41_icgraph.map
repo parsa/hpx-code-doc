@@ -1,0 +1,24 @@
+<map id="hpx::boost_platform" name="hpx::boost_platform">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a6356ac723faa377908f86f070bd8af50" title="hpx::full_build_string" alt="" coords="195,385,335,411"/>
+<area shape="rect" id="node19" href="$d8/d83/namespacehpx.html#ad3c9862704e0d9c7f46f32285dd07e90" title="hpx::complete_version" alt="" coords="189,439,340,466"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#af59d165ab289edc23121bae716d73b81" title="Extract the diagnostic information embedded in the given exception and return a string holding a form..." alt="" coords="388,195,568,222"/>
+<area shape="rect" id="node17" href="$d8/d83/namespacehpx.html#a67d5de3bfd7d7116a17b4a005f3c1bde" title="hpx::termination_handler" alt="" coords="396,385,560,411"/>
+<area shape="rect" id="node4" href="$d2/da2/namespacehpx_1_1components_1_1server.html#a690e445bd980a7ec4040fbba96dbfa61" title="hpx::components::server\l::console_error_sink" alt="" coords="619,5,783,47"/>
+<area shape="rect" id="node9" href="$d9/d96/error__handling_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="661,71,740,98"/>
+<area shape="rect" id="node10" href="$d5/dbe/namespacehpx_1_1detail.html#a078ade6d283dcb816b9295092df8bd7b" title="hpx::detail::assertion\l_failed_msg" alt="" coords="629,188,772,229"/>
+<area shape="rect" id="node14" href="$d5/dbe/namespacehpx_1_1detail.html#a4583e4f931e3f1cbdfaf65d36a6bbde3" title="hpx::detail::report\l_exception_and_continue" alt="" coords="616,123,785,164"/>
+<area shape="rect" id="node15" href="$d7/d72/classhpx_1_1lcos_1_1server_1_1latch.html#a6a83a6b5e6e193e6c0a47590b67d5db0" title="hpx::lcos::server::\llatch::set_exception" alt="" coords="631,253,770,295"/>
+<area shape="rect" id="node16" href="$d5/d3c/namespacehpx_1_1serialization.html#a9ec115556934cbf16eb17f027be48e57" title="hpx::serialization\l::save" alt="" coords="641,319,761,360"/>
+<area shape="rect" id="node5" href="$dc/d80/classhpx_1_1runtime__impl.html#aabdaeb29966bd884e97f5fbca0ecae3d" title="Report a non&#45;recoverable error to the runtime system. " alt="" coords="853,91,987,132"/>
+<area shape="rect" id="node6" href="$dc/d80/classhpx_1_1runtime__impl.html#a5183bfa1e494d6a1455d6c10300d202d" title="Report a non&#45;recoverable error to the runtime system. " alt="" coords="1063,41,1197,83"/>
+<area shape="rect" id="node7" href="$dc/d80/classhpx_1_1runtime__impl.html#aa9de8265198ceaf0e1e3f2ac1d78462e" title="hpx::runtime_impl::\lget_notification_policy" alt="" coords="1055,107,1205,148"/>
+<area shape="rect" id="node8" href="$dc/d80/classhpx_1_1runtime__impl.html#af8458421582bcb47802b012932a68757" title="Run the HPX runtime system, initially use the given number of (OS) threads in the thread&#45;manager and ..." alt="" coords="1253,114,1404,141"/>
+<area shape="rect" id="node11" href="$d8/d83/namespacehpx.html#a89481420ff4aeab8c105f891a54d05e7" title="hpx::assertion_failed_msg" alt="" coords="833,195,1007,222"/>
+<area shape="rect" id="node12" href="$d5/dbe/namespacehpx_1_1detail.html#a2d17d424c0a0fe9531ed345e974276e2" title="hpx::detail::assertion\l_failed" alt="" coords="1059,188,1201,229"/>
+<area shape="rect" id="node13" href="$d8/d83/namespacehpx.html#a28fef0a5f0bb88b48bb37829d1efeb83" title="hpx::assertion_failed" alt="" coords="1258,195,1399,222"/>
+<area shape="rect" id="node18" href="$d8/d83/namespacehpx.html#a584068be98024cbc4d902ab3508d132c" title="hpx::set_error_handlers" alt="" coords="621,385,780,411"/>
+<area shape="rect" id="node20" href="$d2/d8e/namespacehpx_1_1util_1_1detail.html#ad172c5ae0c4665d46e13220a1f1d0f38" title="hpx::util::detail::\lprint_version" alt="" coords="421,436,535,477"/>
+<area shape="rect" id="node21" href="$d2/df0/structhpx_1_1util_1_1command__line__handling.html#a88a7542cea910b1dcb77191654c3419e" title="hpx::util::command\l_line_handling::call" alt="" coords="634,436,767,477"/>
+<area shape="rect" id="node22" href="$d2/df0/structhpx_1_1util_1_1command__line__handling.html#a41c8e4f57b82b9f0357d259c70d11527" title="hpx::util::command\l_line_handling::command\l_line_handling" alt="" coords="835,391,1005,447"/>
+<area shape="rect" id="node23" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a8319dd5018945e7d493f7a6d88a6ca02" title="hpx::resource::detail\l::partitioner::parse" alt="" coords="850,472,990,513"/>
+</map>

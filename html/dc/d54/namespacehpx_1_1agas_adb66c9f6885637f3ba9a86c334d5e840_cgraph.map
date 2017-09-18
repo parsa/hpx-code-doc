@@ -1,0 +1,6 @@
+<map id="hpx::agas::router_is" name="hpx::agas::router_is">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="197,13,339,39"/>
+<area shape="rect" id="node4" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="191,64,345,105"/>
+<area shape="rect" id="node5" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a4d0305db2b63435b0418e4603b70533d" title="hpx::agas::addressing\l_service::get_status" alt="" coords="193,129,343,171"/>
+<area shape="rect" id="node3" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="393,5,556,47"/>
+</map>

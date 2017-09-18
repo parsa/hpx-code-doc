@@ -1,0 +1,4 @@
+<map id="hpx::lcos::detail::dataflow_return&lt; F, Args, typename std::enable_if&lt;!traits::is_action&lt; F &gt;::value &gt;::type &gt;" name="hpx::lcos::detail::dataflow_return&lt; F, Args, typename std::enable_if&lt;!traits::is_action&lt; F &gt;::value &gt;::type &gt;">
+<area shape="rect" id="node2" href="$de/d81/structhpx_1_1util_1_1detail_1_1invoke__fused__result.html" title="hpx::util::detail::\linvoke_fused_result\l\&lt; F, Args \&gt;" alt="" coords="229,20,364,76"/>
+<area shape="rect" id="node3" href="$d9/d10/structhpx_1_1util_1_1detail_1_1fused__result__of__impl.html" title="hpx::util::detail::\lfused_result_of_impl\l\&lt; F, Args &amp;&amp;, fused_index\l_pack\&lt; Args \&gt;::type \&gt;" alt="" coords="5,13,181,83"/>
+</map>

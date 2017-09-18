@@ -1,0 +1,12 @@
+<map id="hpx::util::detail::handle_num_cores" name="hpx::util::detail::handle_num_cores">
+<area shape="rect" id="node2" href="$d9/d7c/structhpx_1_1util_1_1manage__config.html#a58caeb1b129e2235475cfcebea9cb769" title="hpx::util::manage_config\l::get_value" alt="" coords="198,5,361,47"/>
+<area shape="rect" id="node3" href="$d4/d2c/make__continuation__1615_8cpp.html#acbdae3e81403e1ffc527c18dc1cd51dd" title="to_string" alt="" coords="243,71,315,98"/>
+<area shape="rect" id="node5" href="$d2/d8e/namespacehpx_1_1util_1_1detail.html#a23a47f04c3a8a73b6c0a0898ce5bf65b" title="hpx::util::detail::\lget_number_of_default_cores" alt="" coords="184,123,375,164"/>
+<area shape="rect" id="node11" href="$df/dad/namespacehpx_1_1util.html#aca0372e368b829ebac21ebfb2f50a82b" title="hpx::util::safe_lexical_cast" alt="" coords="191,189,367,215"/>
+<area shape="rect" id="node4" href="$d4/d2c/make__continuation__1615_8cpp.html#a8b2f8a7c58b490fcb1260f36bac46541" title="HPX_PLAIN_ACTION" alt="" coords="444,6,589,33"/>
+<area shape="rect" id="node6" href="$d7/d28/namespacehpx_1_1threads.html#aa4cc56111111c0910b6705047d8e6588" title="hpx::threads::create\l_topology" alt="" coords="447,57,586,99"/>
+<area shape="rect" id="node8" href="$d1/d33/structhpx_1_1util_1_1batch__environment.html#aa9a3bc866be4f260720c53b0695e955c" title="hpx::util::batch_environment\l::retrieve_number_of_threads" alt="" coords="423,123,611,164"/>
+<area shape="rect" id="node9" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a9cb80b28851c76bd97e46c635defe7dd" title="Return the number of available cores. " alt="" coords="439,188,594,229"/>
+<area shape="rect" id="node10" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a1b632e123ba3ee570f0fe1fa5ccf0583" title="Return number of processing units in given core. " alt="" coords="429,253,604,295"/>
+<area shape="rect" id="node7" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a2967c633948a3bf17a3b5405ef5a8318" title="hpx::util::static_::get" alt="" coords="659,65,800,91"/>
+</map>

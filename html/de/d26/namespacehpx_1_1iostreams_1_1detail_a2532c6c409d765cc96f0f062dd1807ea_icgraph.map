@@ -1,0 +1,12 @@
+<map id="hpx::iostreams::detail::create_ostream" name="hpx::iostreams::detail::create_ostream">
+<area shape="rect" id="node2" href="$de/d26/namespacehpx_1_1iostreams_1_1detail.html#a4e5f42733aacfd1b6f845141cc8bd755" title="hpx::iostreams::detail\l::get_outstream_name" alt="" coords="216,5,368,47"/>
+<area shape="rect" id="node3" href="$de/d26/namespacehpx_1_1iostreams_1_1detail.html#a6a1ed0a7709d7cba5b0feb9d3752fb31" title="hpx::iostreams::detail\l::create_ostream" alt="" coords="219,71,365,112"/>
+<area shape="rect" id="node4" href="$dd/d1d/namespacehpx_1_1iostreams.html#a9a178fadf70f9b3c6f74274409a7bc69" title="hpx::iostreams::create_cout" alt="" coords="200,137,384,163"/>
+<area shape="rect" id="node10" href="$dd/d1d/namespacehpx_1_1iostreams.html#aecf4f2ddc53a24fe917ce7cca0bda378" title="hpx::iostreams::create_cerr" alt="" coords="201,187,383,214"/>
+<area shape="rect" id="node11" href="$dd/d1d/namespacehpx_1_1iostreams.html#ade2ebf54e04b80ddcf3c31dd0bad5ece" title="hpx::iostreams::create\l_consolestream" alt="" coords="216,239,368,280"/>
+<area shape="rect" id="node5" href="$dd/d1d/namespacehpx_1_1iostreams.html#ac4a2ed792a4f5bdcb286ba83f5cd261d" title="hpx::iostreams::get\l_consolestream" alt="" coords="432,180,567,221"/>
+<area shape="rect" id="node6" href="$d8/d83/namespacehpx.html#af305e0b2731f998440d87c7500187a11" title="hpx::get_consolestream" alt="" coords="615,187,776,214"/>
+<area shape="rect" id="node7" href="$db/dd0/lost__output__2236_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="848,162,899,189"/>
+<area shape="rect" id="node8" href="$de/d67/no__output__1173_8cpp.html#ada3655c097ed162539aadedb0de3673b" title="on_shutdown" alt="" coords="824,213,923,239"/>
+<area shape="rect" id="node9" href="$de/d67/no__output__1173_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="971,213,1049,239"/>
+</map>

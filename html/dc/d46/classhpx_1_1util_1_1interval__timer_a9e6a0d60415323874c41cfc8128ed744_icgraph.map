@@ -1,0 +1,7 @@
+<map id="hpx::util::interval_timer::stop" name="hpx::util::interval_timer::stop">
+<area shape="rect" id="node2" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#acdf5164427bfa867d9caf1b044bf662f" title="hpx::util::query_counters\l::stop_evaluating_counters" alt="" coords="185,5,361,47"/>
+<area shape="rect" id="node3" href="$d1/d35/classperformance__counters_1_1sine_1_1server_1_1sine__counter.html#a540ff39fa4d985a6dfbe72748e333ddd" title="performance_counters\l::sine::server::sine\l_counter::stop" alt="" coords="198,71,349,127"/>
+<area shape="rect" id="node5" href="$d1/d35/classperformance__counters_1_1sine_1_1server_1_1sine__counter.html#a81331b350afb5e03b183d440d4bfcbd2" title="finalize() will be called just before the instance gets destructed " alt="" coords="198,151,349,207"/>
+<area shape="rect" id="node6" href="$d6/d3f/classhpx_1_1performance__counters_1_1server_1_1statistics__counter.html#aad134588b9707f675b2c28f3831e7724" title="hpx::performance_counters\l::server::statistics_counter::stop" alt="" coords="169,232,377,273"/>
+<area shape="rect" id="node4" href="$d1/d35/classperformance__counters_1_1sine_1_1server_1_1sine__counter.html#a42411afc8afd81ed472f21639e4cb135" title="performance_counters\l::sine::server::sine\l_counter::sine_counter" alt="" coords="425,111,580,167"/>
+</map>

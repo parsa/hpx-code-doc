@@ -1,0 +1,5 @@
+<map id="hpx::parcelset::parcelhandler::get_raw_remote_localities" name="hpx::parcelset::parcelhandler::get_raw_remote_localities">
+<area shape="rect" id="node2" href="$da/dcb/classhpx_1_1applier_1_1applier.html#a6a2df8a55727abb84e46b4929d0fd773" title="Return list of localities of all remote localities registered with the AGAS service for a specific co..." alt="" coords="243,5,423,47"/>
+<area shape="rect" id="node3" href="$da/dcb/classhpx_1_1applier_1_1applier.html#a33c33c885876d2f53263a0fb87172851" title="hpx::applier::applier\l::get_remote_localities" alt="" coords="256,71,409,112"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#a733bed68dc49d3a0fa2d1368e6203588" title="Return the list of locality ids of remote localities supporting the given component type..." alt="" coords="471,78,647,105"/>
+</map>

@@ -1,0 +1,11 @@
+digraph "test::decorated_iterator::decorated_iterator"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node28 [label="test::decorated_iterator\l::decorated_iterator",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node28 -> Node29 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node29 [label="hpx::util::iterator\l_core_access::dereference",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/da2/classhpx_1_1util_1_1iterator__core__access.html#a27c07b8cbf747d698e4f2a827d4b8f0a"];
+  Node28 -> Node30 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node30 [label="hpx::util::iterator\l_adaptor\< test_iterator\l\< BaseIterator, IteratorTag\l \>, BaseIterator, void, IteratorTag \>::base",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d31/classhpx_1_1util_1_1iterator__adaptor.html#ab727800148fe718ca54ebd2668826c5e"];
+}

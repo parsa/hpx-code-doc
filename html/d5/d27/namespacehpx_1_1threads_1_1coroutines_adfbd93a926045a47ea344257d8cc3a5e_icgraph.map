@@ -1,0 +1,4 @@
+<map id="hpx::threads::coroutines::thread_startup" name="hpx::threads::coroutines::thread_startup">
+<area shape="rect" id="node2" href="$dc/d80/classhpx_1_1runtime__impl.html#aa9de8265198ceaf0e1e3f2ac1d78462e" title="hpx::runtime_impl::\lget_notification_policy" alt="" coords="216,5,367,47"/>
+<area shape="rect" id="node3" href="$dc/d80/classhpx_1_1runtime__impl.html#af8458421582bcb47802b012932a68757" title="Run the HPX runtime system, initially use the given number of (OS) threads in the thread&#45;manager and ..." alt="" coords="415,13,565,39"/>
+</map>

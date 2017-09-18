@@ -1,0 +1,6 @@
+<map id="hpx::util::logging::logger&lt; gather_msg, write_msg &gt;" name="hpx::util::logging::logger&lt; gather_msg, write_msg &gt;">
+<area shape="rect" id="node5" href="$d5/d80/structhpx_1_1util_1_1logging_1_1forward__to__logger.html" title="forward_to_logger\&lt;\l detail::format_find\l_gather\&lt; gather \&gt;::type,\l write_type \&gt;" alt="" coords="669,72,832,143"/>
+<area shape="rect" id="node2" href="$da/d10/structhpx_1_1util_1_1logging_1_1logger__base.html" title="hpx::util::logging\l::logger_base\&lt; gather\l_msg, write_msg \&gt;" alt="" coords="276,79,424,135"/>
+<area shape="rect" id="node3" href="$d6/d40/structhpx_1_1util_1_1logging_1_1detail_1_1default__cache__keeper.html" title="hpx::util::logging\l::detail::default_cache\l_keeper\&lt; detail ::cache\l_before_init\&lt; detail::find\l_gather_if_default\&lt; gather\l_msg \&gt; ::msg_type \&gt; \&gt;" alt="" coords="31,5,202,105"/>
+<area shape="rect" id="node4" href="$d2/d5a/structhpx_1_1util_1_1logging_1_1detail_1_1common__base__holder.html" title="hpx::util::logging\l::detail::common_base\l_holder\&lt; gather_msg, write_msg \&gt;" alt="" coords="5,130,228,186"/>
+</map>

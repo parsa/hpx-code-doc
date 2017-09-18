@@ -1,0 +1,6 @@
+<map id="hpx_main" name="hpx_main">
+<area shape="rect" id="node2" href="$d7/d5d/rotate_8cpp.html#a2ce2925534c9821ed5022628b569085b" title="rotate_test" alt="" coords="163,5,247,32"/>
+<area shape="rect" id="node3" href="$d7/d5d/rotate_8cpp.html#a72bc234456974b57c0d202895cd2c089" title="rotate_exception_test" alt="" coords="132,56,279,83"/>
+<area shape="rect" id="node4" href="$d7/d5d/rotate_8cpp.html#a3f060b4c6642d695ac44a243bbfc74b2" title="rotate_bad_alloc_test" alt="" coords="132,107,279,133"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="160,157,251,184"/>
+</map>

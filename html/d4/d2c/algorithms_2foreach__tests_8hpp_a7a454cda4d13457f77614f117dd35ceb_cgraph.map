@@ -1,0 +1,12 @@
+<map id="test_for_each_bad_alloc" name="test_for_each_bad_alloc">
+<area shape="rect" id="node2" href="$df/d04/namespacetest.html#abdbbc37e6fb67287495e853a554c493a" title="test::iota" alt="" coords="239,54,313,81"/>
+<area shape="rect" id="node3" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#a31e165df2b865cdd961f35ce938db41a" title="hpx::util::detail::\lrange_impl::begin" alt="" coords="384,5,508,47"/>
+<area shape="rect" id="node4" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#afb2ea48b0902f52ee4d8b764807b4316" title="hpx::util::detail::\lrange_impl::end" alt="" coords="389,88,503,129"/>
+<area shape="rect" id="node5" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a7669848e3e4ff6cee42c8f645101970f" title="hpx::parallel::v1::\lfor_each" alt="" coords="216,156,336,197"/>
+<area shape="rect" id="node6" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="425,163,467,190"/>
+<area shape="rect" id="node7" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="591,87,666,114"/>
+<area shape="rect" id="node8" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="556,138,701,165"/>
+<area shape="rect" id="node9" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="593,239,665,266"/>
+<area shape="rect" id="node10" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="803,189,890,215"/>
+<area shape="rect" id="node11" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="749,240,944,281"/>
+</map>

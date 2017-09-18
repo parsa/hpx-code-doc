@@ -1,0 +1,9 @@
+digraph "hpx::util::logging::detail::cache_before_init&lt; msg_type &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::logging\l::detail::cache_before\l_init\< msg_type \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< detail::find_gather\l_if_default\< gather_msg\l \> ::msg_type \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::util::logging\l::detail::cache_before\l_init\< detail::find_gather\l_if_default\< gather_msg \>\l ::msg_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d41/structhpx_1_1util_1_1logging_1_1detail_1_1cache__before__init.html"];
+}

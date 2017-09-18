@@ -1,0 +1,12 @@
+<map id="hpx::components::new_" name="hpx::components::new_">
+<area shape="rect" id="node2" href="$d8/df6/structtest__client.html#a9441293493adad0312415556f2d16b74" title="test_client::create_new" alt="" coords="229,5,385,32"/>
+<area shape="rect" id="node4" href="$d5/d76/namespacehpx_1_1components.html#ae841d7da836850a1bf5e1a6549856f82" title="hpx::components::local_new" alt="" coords="213,56,400,83"/>
+<area shape="rect" id="node5" href="$d6/d82/new__binpacking_8cpp.html#a3b354b82749679b66573b711f01ea60b" title="test_binpacking_multiple" alt="" coords="224,107,389,133"/>
+<area shape="rect" id="node7" href="$d6/d82/new__binpacking_8cpp.html#a06994ebf8ae4e664bb3d84acfc8e2e9a" title="test_binpacking_single" alt="" coords="229,157,384,184"/>
+<area shape="rect" id="node8" href="$d1/d60/classhpx_1_1partitioned__vector.html#aa5bc9806884a016563badd3631acba76" title="hpx::partitioned_vector\l::register_as" alt="" coords="231,209,383,250"/>
+<area shape="rect" id="node11" href="$d7/d51/classhpx_1_1unordered__map.html#a508fbf8cb36df6de8c4ebd7f08472a58" title="hpx::unordered_map\l\&lt; hpx::naming::gid_type,\l std::vector\&lt; char \&gt; \&gt;\l::register_as" alt="" coords="223,274,390,345"/>
+<area shape="rect" id="node3" href="$d7/dca/lifetime__588_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="462,5,513,32"/>
+<area shape="rect" id="node6" href="$d6/d82/new__binpacking_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="462,132,513,159"/>
+<area shape="rect" id="node9" href="$db/d7c/partitioned__vector__spmd__foreach_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="448,200,527,227"/>
+<area shape="rect" id="node10" href="$dd/dc9/serialization__partitioned__vector_8cpp.html#ad31f39df04713d49dcb2ed6f9ec4c77b" title="test" alt="" coords="465,251,509,277"/>
+</map>

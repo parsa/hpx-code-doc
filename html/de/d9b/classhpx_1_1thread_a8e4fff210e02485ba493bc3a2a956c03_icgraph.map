@@ -1,0 +1,51 @@
+<map id="hpx::thread::hardware_concurrency" name="hpx::thread::hardware_concurrency">
+<area shape="rect" id="node2" href="$d2/d8e/namespacehpx_1_1util_1_1detail.html#a8a8566d3479868554568678b9e5ebcf2" title="hpx::util::detail::\lhandle_num_threads" alt="" coords="200,803,343,845"/>
+<area shape="rect" id="node4" href="$de/d9b/classhpx_1_1thread.html#acf48190d264ab64c1c4ec99d0b421b5a" title="hpx::thread::native\l_handle" alt="" coords="207,989,335,1030"/>
+<area shape="rect" id="node3" href="$d2/df0/structhpx_1_1util_1_1command__line__handling.html#a1aa8a009a61fe583bf8de6e144846eee" title="hpx::util::command\l_line_handling::handle\l_arguments" alt="" coords="409,611,560,667"/>
+<area shape="rect" id="node5" href="$de/d7d/future__timed__wait__1025_8cpp.html#a0e3d5409a174e5dac600412849dc9d93" title="test_wait_for" alt="" coords="919,1416,1014,1443"/>
+<area shape="rect" id="node7" href="$de/d7d/future__timed__wait__1025_8cpp.html#af6d52682ea10ff7a073cce3b5708c7c9" title="test_wait_until" alt="" coords="914,5,1019,32"/>
+<area shape="rect" id="node8" href="$de/d9b/classhpx_1_1thread.html#aec031f492a39c521c2c78e0cd47c4ed8" title="hpx::thread::get_id" alt="" coords="419,1253,550,1280"/>
+<area shape="rect" id="node14" href="$de/d9b/classhpx_1_1thread.html#ac34d0d033aa743c476a79dbc2e1a8a39" title="hpx::thread::interrupt" alt="" coords="413,1097,556,1124"/>
+<area shape="rect" id="node20" href="$de/d9b/classhpx_1_1thread.html#a33276bb4c20bbb0b1978944e18ef71b8" title="hpx::thread::interruption\l_requested" alt="" coords="405,1305,564,1346"/>
+<area shape="rect" id="node21" href="$de/d9b/classhpx_1_1thread.html#a4535ef82cec3b953d2c941d20e3e3904" title="hpx::thread::get_thread_data" alt="" coords="391,945,579,972"/>
+<area shape="rect" id="node46" href="$de/d9b/classhpx_1_1thread.html#a7317a3cf5251f3b33c990449570d4cea" title="hpx::thread::set_thread_data" alt="" coords="391,996,579,1023"/>
+<area shape="rect" id="node47" href="$d9/d52/namespacehpx_1_1this__thread.html#a60baac157054035f3d1aec354d0a1ed3" title="hpx::this_thread::yield_to" alt="" coords="401,691,569,717"/>
+<area shape="rect" id="node6" href="$de/d7d/future__timed__wait__1025_8cpp.html#a255f773d830db5ca937cff11c2692fa2" title="hpx_main" alt="" coords="1116,711,1195,737"/>
+<area shape="rect" id="node9" href="$d0/d4e/tests_2unit_2threads_2thread_8cpp.html#aa9645d2d1912efd27e83867429e862d0" title="test_swap" alt="" coords="681,1360,763,1387"/>
+<area shape="rect" id="node11" href="$de/d9b/classhpx_1_1thread.html#a65d7f6e9f4bb311d73c40a2f74976ede" title="hpx::thread::detach" alt="" coords="655,1411,789,1437"/>
+<area shape="rect" id="node12" href="$df/d88/thread__id_8cpp.html#a95604be93f5422b5bc87778cff21bde1" title="test_thread_ids_have\l_a_total_order" alt="" coords="650,1527,794,1569"/>
+<area shape="rect" id="node10" href="$d0/d4e/tests_2unit_2threads_2thread_8cpp.html#a255f773d830db5ca937cff11c2692fa2" title="hpx_main" alt="" coords="1116,1548,1195,1575"/>
+<area shape="rect" id="node13" href="$df/d88/thread__id_8cpp.html#a255f773d830db5ca937cff11c2692fa2" title="hpx_main" alt="" coords="927,1664,1006,1691"/>
+<area shape="rect" id="node15" href="$da/d82/classexamples_1_1server_1_1cancelable__action.html#a411ff697f6719bdf2db9df63e7ce0d1a" title="examples::server::cancelable\l_action::cancel_it" alt="" coords="627,1149,817,1190"/>
+<area shape="rect" id="node16" href="$d0/d4e/tests_2unit_2threads_2thread_8cpp.html#a1592be75203d2ef54f0a19832cacecf8" title="do_test_thread_interrupts\l_at_interruption_point" alt="" coords="637,1214,807,1255"/>
+<area shape="rect" id="node18" href="$d0/d4e/tests_2unit_2threads_2thread_8cpp.html#a83a3b29d9f2edb5952625e72f9651985" title="do_test_thread_no_interrupt\l_if_interrupts_disabled\l_at_interruption_point" alt="" coords="631,1280,813,1336"/>
+<area shape="rect" id="node17" href="$d0/d4e/tests_2unit_2threads_2thread_8cpp.html#a4a6a8c2918dcd825da0102f3a63bf24a" title="test_thread_interrupts\l_at_interruption_point" alt="" coords="893,1467,1041,1509"/>
+<area shape="rect" id="node19" href="$d0/d4e/tests_2unit_2threads_2thread_8cpp.html#ae8589f467c87f24293dd95710b4d8374" title="test_thread_no_interrupt\l_if_interrupts_disabled\l_at_interruption_point" alt="" coords="885,1533,1048,1589"/>
+<area shape="rect" id="node22" href="$d9/d52/namespacehpx_1_1this__thread.html#afc042a5a5fa52eef2d1d177a343435cf" title="hpx::this_thread::sleep_for" alt="" coords="635,880,809,907"/>
+<area shape="rect" id="node23" href="$de/d9b/structhpx_1_1applier_1_1detail_1_1apply__helper_3_01_action_00_01false_01_4.html#a567fbb92986df0974d5b30ca9a002130" title="hpx::applier::detail\l::apply_helper\&lt; Action,\l false \&gt;::call" alt="" coords="889,400,1045,456"/>
+<area shape="rect" id="node24" href="$d1/db8/cancelable__action__client_8cpp.html#a46617129de426f6e7ab5eb91b008cd9e" title="interrupt_do_it" alt="" coords="915,480,1019,507"/>
+<area shape="rect" id="node25" href="$d1/ded/tests_2unit_2lcos_2condition__variable_8cpp.html#a578d8e27a7396ab57393dea2b8badee3" title="test_multiple_notify\l_one_calls_wakes_multiple\l_threads" alt="" coords="877,531,1057,587"/>
+<area shape="rect" id="node26" href="$d1/ded/tests_2unit_2lcos_2condition__variable_8cpp.html#a6dd6eca404b61c749747efb07bebe3fd" title="test_notify_all_following\l_notify_one_wakes_all_threads" alt="" coords="865,611,1068,653"/>
+<area shape="rect" id="node27" href="$d1/ded/tests_2unit_2lcos_2condition__variable_8cpp.html#a1dd2e7c76971df521b245377c9611cd9" title="test_condition_waits" alt="" coords="897,677,1037,704"/>
+<area shape="rect" id="node28" href="$d2/d02/structmul.html#ab5eaa3d788f0a8d13cc19948e528c0e5" title="mul::operator()" alt="" coords="913,728,1020,755"/>
+<area shape="rect" id="node29" href="$d2/dfd/future__2667_8cpp.html#a9ceebb831160f2acf3a047384add9064" title="do_more_work" alt="" coords="913,779,1020,805"/>
+<area shape="rect" id="node30" href="$df/da5/future__then_8cpp.html#a8978a24b044bacf963e33824a4c1ac98" title="p1" alt="" coords="947,829,986,856"/>
+<area shape="rect" id="node31" href="$df/da5/future__then_8cpp.html#a0dabf50b87b0ab6126c07663b7c82650" title="p2" alt="" coords="947,880,986,907"/>
+<area shape="rect" id="node32" href="$df/da5/future__then_8cpp.html#ada3ca76feabb79611290ef351f1ad171" title="p3" alt="" coords="947,931,986,957"/>
+<area shape="rect" id="node33" href="$d8/dfd/id__type__ref__counting__1032_8cpp.html#a5264b94bf7c262ac0e521fb290d476d5" title="ensure_garbage_collect" alt="" coords="887,981,1046,1008"/>
+<area shape="rect" id="node34" href="$d6/dad/init__globally_8cpp.html#a8a8d615bebf690e74310a83cf727ee26" title="hpx_thread_func1" alt="" coords="905,1032,1029,1059"/>
+<area shape="rect" id="node35" href="$d6/dad/init__globally_8cpp.html#ac5f2c84652d6978affc6c2debf76b77b" title="hpx_thread_func2" alt="" coords="905,1083,1029,1109"/>
+<area shape="rect" id="node36" href="$d5/d5d/structtest__server.html#ab9499c1c79f536f09e03614a78f35ebb" title="test_server::busy_work" alt="" coords="889,1133,1044,1160"/>
+<area shape="rect" id="node37" href="$d9/de5/structhpx_1_1util_1_1logging_1_1writer_1_1on__dedicated__thread.html#a7e1cdffd568d8087a2ed2245bdd327bb" title="Pauses the writes, so that you can manipulate the base object (the formatters/destinations, for instance) " alt="" coords="893,1184,1040,1240"/>
+<area shape="rect" id="node38" href="$d2/d67/promise__1620_8cpp.html#ab1825231fb9efbfb464404767c072654" title="hpx_main" alt="" coords="927,1264,1006,1291"/>
+<area shape="rect" id="node39" href="$d3/d69/shared__future_8cpp.html#a705c7614d231fc70ec236f627c8287f1" title="make_int_slowly" alt="" coords="907,1315,1026,1341"/>
+<area shape="rect" id="node40" href="$da/d0b/shared__mutex_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="941,1365,992,1392"/>
+<area shape="rect" id="node41" href="$d8/d57/shared__mutex1_8cpp.html#a7e6cff03e4e39beaddad71d1e6f86822" title="test_only_one_writer\l_permitted" alt="" coords="896,57,1037,98"/>
+<area shape="rect" id="node42" href="$d8/d57/shared__mutex1_8cpp.html#a09a6e935cb3d020800c953b77c7acfce" title="test_reader_blocks\l_writer" alt="" coords="901,122,1033,163"/>
+<area shape="rect" id="node43" href="$d8/d57/shared__mutex1_8cpp.html#adafce733b086f2745649aa4fe059ea2d" title="test_unlocking_writer\l_unblocks_all_readers" alt="" coords="891,187,1042,229"/>
+<area shape="rect" id="node44" href="$d8/d57/shared__mutex1_8cpp.html#a6bae4077436aa83b700879278b66d86e" title="test_unlocking_last\l_reader_only_unblocks\l_one_writer" alt="" coords="889,253,1044,309"/>
+<area shape="rect" id="node45" href="$d1/d40/shared__mutex2_8cpp.html#a3b416ff0daae0b32baa4a12321489b78" title="test_only_one_upgrade\l_lock_permitted" alt="" coords="889,334,1045,375"/>
+<area shape="rect" id="node48" href="$d3/db2/structhpx_1_1detail_1_1async__launch__policy__dispatch_3_01_action_00_01typename_01std_1_1enablec29ea3d820bc0d42698191ccbc2f4967.html#acd584fad896ffc5f00b443c7f0fdf0a1" title="hpx::detail::async\l_launch_policy_dispatch\l\&lt; Action, typename std\l::enable_if\&lt; !traits::is\l_action\&lt; Action \&gt;::value\l \&gt;::type \&gt;::call" alt="" coords="640,654,804,754"/>
+<area shape="rect" id="node49" href="$db/df7/structhpx_1_1lcos_1_1detail_1_1dataflow__frame.html#aa089a632c1245f3a21a4710140fdf589" title="hpx::lcos::detail::\ldataflow_frame::finalize" alt="" coords="644,507,800,549"/>
+<area shape="rect" id="node50" href="$d4/d6c/namespacehpx_1_1lcos_1_1detail.html#a79136154f953edeeec68a6bbe296010c" title="hpx::lcos::detail::\lrun_on_completed_on\l_new_thread" alt="" coords="647,573,797,629"/>
+</map>

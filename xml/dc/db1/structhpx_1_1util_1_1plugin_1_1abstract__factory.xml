@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="dc/db1/structhpx_1_1util_1_1plugin_1_1abstract__factory" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::util::plugin::abstract_factory</compoundname>
+    <basecompoundref refid="d2/d97/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item" prot="public" virt="non-virtual">hpx::util::plugin::detail::abstract_factory_item&lt; BasePlugin, detail::abstract_factory_item_base, virtual_constructor&lt; BasePlugin &gt;::type &gt;</basecompoundref>
+    <includes refid="d5/da5/abstract__factory_8hpp" local="no">abstract_factory.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>class BasePlugin</type>
+      </param>
+    </templateparamlist>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="77">
+        <label>hpx::util::plugin::abstract_factory&lt; BasePlugin &gt;</label>
+        <link refid="dc/db1/structhpx_1_1util_1_1plugin_1_1abstract__factory"/>
+        <childnode refid="78" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="78">
+        <label>hpx::util::plugin::detail::abstract_factory_item&lt; BasePlugin, detail::abstract_factory_item_base, virtual_constructor&lt; BasePlugin &gt;::type &gt;</label>
+        <link refid="d2/d97/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item"/>
+        <childnode refid="79" relation="template-instance">
+          <edgelabel>&lt; BasePlugin, detail::abstract_factory_item_base, virtual_constructor&lt; BasePlugin &gt;::type &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="79">
+        <label>hpx::util::plugin::detail::abstract_factory_item&lt; BasePlugin, Base, Parameter &gt;</label>
+        <link refid="d2/d97/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="80">
+        <label>hpx::util::plugin::abstract_factory&lt; BasePlugin &gt;</label>
+        <link refid="dc/db1/structhpx_1_1util_1_1plugin_1_1abstract__factory"/>
+        <childnode refid="81" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="81">
+        <label>hpx::util::plugin::detail::abstract_factory_item&lt; BasePlugin, detail::abstract_factory_item_base, virtual_constructor&lt; BasePlugin &gt;::type &gt;</label>
+        <link refid="d2/d97/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item"/>
+        <childnode refid="82" relation="template-instance">
+          <edgelabel>&lt; BasePlugin, detail::abstract_factory_item_base, virtual_constructor&lt; BasePlugin &gt;::type &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="82">
+        <label>hpx::util::plugin::detail::abstract_factory_item&lt; BasePlugin, Base, Parameter &gt;</label>
+        <link refid="d2/d97/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item"/>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/util/plugin/abstract_factory.hpp" line="49" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/util/plugin/abstract_factory.hpp" bodystart="43" bodyend="49"/>
+    <listofallmembers>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

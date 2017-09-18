@@ -1,0 +1,7 @@
+<map id="hpx::threads::topology::get_numa_node_affinity_mask" name="hpx::threads::topology::get_numa_node_affinity_mask">
+<area shape="rect" id="node2" href="$d7/d9b/structhpx_1_1threads_1_1policies_1_1detail_1_1affinity__data.html#ab0cc2ec8ed94ae2b82c20a6b975ecf75" title="hpx::threads::policies\l::detail::affinity_data\l::get_pu_mask" alt="" coords="261,45,407,101"/>
+<area shape="rect" id="node6" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a67c5a4444b8889b1de56aa7a17459734" title="hpx::threads::topology\l::~topology" alt="" coords="259,126,409,167"/>
+<area shape="rect" id="node3" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a9cee933ef199fef31e6b8d48f42bb77b" title="hpx::resource::detail\l::partitioner::get_pu_mask" alt="" coords="457,53,631,94"/>
+<area shape="rect" id="node4" href="$d0/d20/classhpx_1_1threads_1_1executors_1_1detail_1_1thread__pool__executor.html#a6a0c0ade274c2f5f2f6651699873942c" title="hpx::threads::executors\l::detail::thread_pool\l_executor::get_pu_mask" alt="" coords="689,5,855,61"/>
+<area shape="rect" id="node5" href="$da/dda/classhpx_1_1threads_1_1executors_1_1detail_1_1thread__pool__os__executor.html#ac43430f91516a48e9ddbefd7ee58ef3c" title="hpx::threads::executors\l::detail::thread_pool\l_os_executor::get_pu_mask" alt="" coords="679,85,865,141"/>
+</map>

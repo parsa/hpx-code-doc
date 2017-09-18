@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d2/db2/structhpx_1_1actions_1_1detail_1_1action__decorate__function__semaphore" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::actions::detail::action_decorate_function_semaphore</compoundname>
+    <includes refid="d6/ded/action__invoke__no__more__than_8hpp" local="no">action_invoke_no_more_than.hpp</includes>
+    <innerclass refid="d5/dc5/structhpx_1_1actions_1_1detail_1_1action__decorate__function__semaphore_1_1tag" prot="public">hpx::actions::detail::action_decorate_function_semaphore::tag</innerclass>
+    <templateparamlist>
+      <param>
+        <type>typename Action</type>
+      </param>
+      <param>
+        <type>int</type>
+        <declname>N</declname>
+        <defname>N</defname>
+      </param>
+    </templateparamlist>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="d2/db2/structhpx_1_1actions_1_1detail_1_1action__decorate__function__semaphore_1a0b98d2d10f74513166bafef764ced54f" prot="public" static="no">
+        <type><ref refid="df/d53/classhpx_1_1lcos_1_1local_1_1counting__semaphore__var" kindref="compound">lcos::local::counting_semaphore_var</ref>&lt; <ref refid="da/dbc/structhpx_1_1lcos_1_1local_1_1spinlock" kindref="compound">hpx::lcos::local::spinlock</ref>, <ref refid="dd/de7/broadcast__wait__for__2822_8cpp_1a8f94acf293992af94fa2f2b95fab866e" kindref="member">N</ref> &gt;</type>
+        <definition>typedef lcos::local::counting_semaphore_var&lt; hpx::lcos::local::spinlock, N &gt; hpx::actions::detail::action_decorate_function_semaphore&lt; Action, N &gt;::semaphore_type</definition>
+        <argsstring></argsstring>
+        <name>semaphore_type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/action_invoke_no_more_than.hpp" line="52" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/action_invoke_no_more_than.hpp" bodystart="52" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="d2/db2/structhpx_1_1actions_1_1detail_1_1action__decorate__function__semaphore_1a97f25580b45e41f7590a9b1d46dab8f5" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="d2/db2/structhpx_1_1actions_1_1detail_1_1action__decorate__function__semaphore_1a0b98d2d10f74513166bafef764ced54f" kindref="member">semaphore_type</ref> &amp;</type>
+        <definition>static semaphore_type&amp; hpx::actions::detail::action_decorate_function_semaphore&lt; Action, N &gt;::get_sem</definition>
+        <argsstring>()</argsstring>
+        <name>get_sem</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/action_invoke_no_more_than.hpp" line="56" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/action_invoke_no_more_than.hpp" bodystart="56" bodyend="60"/>
+        <references refid="d3/dbb/structhpx_1_1util_1_1static___1a2967c633948a3bf17a3b5405ef5a8318" compoundref="d0/dfe/static_8hpp" startline="140" endline="143">hpx::util::static_&lt; T, Tag &gt;::get</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/action_invoke_no_more_than.hpp" line="49" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/action_invoke_no_more_than.hpp" bodystart="48" bodyend="61"/>
+    <listofallmembers>
+      <member refid="d2/db2/structhpx_1_1actions_1_1detail_1_1action__decorate__function__semaphore_1a97f25580b45e41f7590a9b1d46dab8f5" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_decorate_function_semaphore</scope><name>get_sem</name></member>
+      <member refid="d2/db2/structhpx_1_1actions_1_1detail_1_1action__decorate__function__semaphore_1a0b98d2d10f74513166bafef764ced54f" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_decorate_function_semaphore</scope><name>semaphore_type</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

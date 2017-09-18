@@ -1,0 +1,7 @@
+<map id="hpx::threads::detail::thread_pool_base::get_thread_count_suspended" name="hpx::threads::detail::thread_pool_base::get_thread_count_suspended">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#ae2b675b9517381442c7201c041033680" title="hpx::threads::get_thread\l_count" alt="" coords="228,61,391,102"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#a076973c3a53beadde7d967e22c4f6cce" title="hpx::threads::get_thread\l_manager" alt="" coords="451,27,614,69"/>
+<area shape="rect" id="node6" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#a99c0004e6ed0e91a033720b7f52ab5b8" title="return the number of HPX&#45;threads with the given state " alt="" coords="439,93,627,134"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="697,5,815,32"/>
+<area shape="rect" id="node5" href="$d0/d7b/classhpx_1_1runtime.html#a865b12d57fcd44a8d3dda3e35414f563" title="hpx::runtime::get_thread\l_manager" alt="" coords="675,57,837,98"/>
+</map>

@@ -1,0 +1,19 @@
+digraph "test::test_num_exceptions::call"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node224 [label="test::test_num_exceptions\l::call",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node224 -> Node225 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node225 [label="hpx::exception_list\l::size",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/def/classhpx_1_1exception__list.html#ae4e3e1b70e8185033656d891749a234e"];
+  Node224 -> Node226 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node226 [label="hpx::get_num_worker\l_threads",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d83/namespacehpx.html#ae0cb050327ed37e6863061bd1761409e",tooltip="Return the number of worker OS- threads used to execute HPX threads. "];
+  Node226 -> Node227 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node227 [label="hpx::get_runtime_ptr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64"];
+  Node227 -> Node228 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node228 [label="hpx::util::thread_specific\l_ptr::get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9"];
+  Node226 -> Node229 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node229 [label="hpx::runtime::get_agas\l_client",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a"];
+  Node226 -> Node230 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node230 [label="hpx::agas::addressing\l_service::get_num_overall\l_threads",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a55800470ad2b28e283653df58d59ec49"];
+}

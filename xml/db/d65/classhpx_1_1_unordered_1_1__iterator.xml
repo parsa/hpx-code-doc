@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="db/d65/classhpx_1_1_unordered_1_1__iterator" kind="class" language="Python" prot="public">
+    <compoundname>hpx::Unordered::_iterator</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">object</basecompoundref>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="db/d65/classhpx_1_1_unordered_1_1__iterator_1a8170ca13b7e432a3fac73c06f474ae9d" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>hpx.Unordered._iterator::node</definition>
+        <argsstring></argsstring>
+        <name>node</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" line="70" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" bodystart="70" bodyend="-1"/>
+        <referencedby refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a9d343b28a35d483ad291fd5e3b4f9d61" compoundref="d0/df0/hpx_8py" startline="79" endline="90">hpx.Unordered._iterator.next</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="db/d65/classhpx_1_1_unordered_1_1__iterator_1a39f0aef2cccef6e63d730df755587a29" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>hpx.Unordered._iterator::next_node</definition>
+        <argsstring></argsstring>
+        <name>next_node</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" line="71" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" bodystart="71" bodyend="-1"/>
+        <referencedby refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a9d343b28a35d483ad291fd5e3b4f9d61" compoundref="d0/df0/hpx_8py" startline="79" endline="90">hpx.Unordered._iterator.next</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="db/d65/classhpx_1_1_unordered_1_1__iterator_1a7564724e2d8b7fa9fda568aa5bcf7482" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>hpx.Unordered._iterator::node_type</definition>
+        <argsstring></argsstring>
+        <name>node_type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" line="72" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" bodystart="72" bodyend="-1"/>
+        <referencedby refid="dd/d25/classhpx_1_1_unordered_1a1fa64ba965ac856b404586d9280516a4" compoundref="d0/df0/hpx_8py" startline="35" endline="46">hpx.Unordered.__iter__</referencedby>
+        <referencedby refid="dd/d25/classhpx_1_1_unordered_1ad1bcdace937b1c6126e657e6ea055ccb" compoundref="d0/df0/hpx_8py" startline="47" endline="49">hpx.Unordered.empty</referencedby>
+        <referencedby refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a9d343b28a35d483ad291fd5e3b4f9d61" compoundref="d0/df0/hpx_8py" startline="79" endline="90">hpx.Unordered._iterator.next</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="db/d65/classhpx_1_1_unordered_1_1__iterator_1a9a9adb37ff0473406ab500994df54354" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>hpx.Unordered._iterator::value_type</definition>
+        <argsstring></argsstring>
+        <name>value_type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" line="73" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" bodystart="73" bodyend="-1"/>
+        <referencedby refid="dd/d25/classhpx_1_1_unordered_1a1fa64ba965ac856b404586d9280516a4" compoundref="d0/df0/hpx_8py" startline="35" endline="46">hpx.Unordered.__iter__</referencedby>
+        <referencedby refid="dd/d25/classhpx_1_1_unordered_1ad1bcdace937b1c6126e657e6ea055ccb" compoundref="d0/df0/hpx_8py" startline="47" endline="49">hpx.Unordered.empty</referencedby>
+        <referencedby refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a9d343b28a35d483ad291fd5e3b4f9d61" compoundref="d0/df0/hpx_8py" startline="79" endline="90">hpx.Unordered._iterator.next</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="db/d65/classhpx_1_1_unordered_1_1__iterator_1a29e81bb08d68a51cd5a8685e4be5f682" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>hpx.Unordered._iterator::extractor</definition>
+        <argsstring></argsstring>
+        <name>extractor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" line="74" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" bodystart="74" bodyend="-1"/>
+        <referencedby refid="dd/d25/classhpx_1_1_unordered_1a1fa64ba965ac856b404586d9280516a4" compoundref="d0/df0/hpx_8py" startline="35" endline="46">hpx.Unordered.__iter__</referencedby>
+        <referencedby refid="dd/d25/classhpx_1_1_unordered_1ad1bcdace937b1c6126e657e6ea055ccb" compoundref="d0/df0/hpx_8py" startline="47" endline="49">hpx.Unordered.empty</referencedby>
+        <referencedby refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a9d343b28a35d483ad291fd5e3b4f9d61" compoundref="d0/df0/hpx_8py" startline="79" endline="90">hpx.Unordered._iterator.next</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="db/d65/classhpx_1_1_unordered_1_1__iterator_1a3896104960dc253b0c48af3b59c834da" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def hpx.Unordered._iterator.__init__</definition>
+        <argsstring>(self, start_node, node_type, value_type, extractor)</argsstring>
+        <name>__init__</name>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <param>
+          <type>start_node</type>
+          <defname>start_node</defname>
+        </param>
+        <param>
+          <type><ref refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a7564724e2d8b7fa9fda568aa5bcf7482" kindref="member">node_type</ref></type>
+          <defname>node_type</defname>
+        </param>
+        <param>
+          <type><ref refid="d5/dca/hpx__thread__phase_8cpp_1a4487225366a2cede70663eb85c90fa51" kindref="member">value_type</ref></type>
+          <defname>value_type</defname>
+        </param>
+        <param>
+          <type><ref refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a29e81bb08d68a51cd5a8685e4be5f682" kindref="member">extractor</ref></type>
+          <defname>extractor</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" line="68" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" bodystart="68" bodyend="75"/>
+      </memberdef>
+      <memberdef kind="function" id="db/d65/classhpx_1_1_unordered_1_1__iterator_1a15247702ef426d47db7c17c31654d947" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def hpx.Unordered._iterator.__iter__</definition>
+        <argsstring>(self)</argsstring>
+        <name>__iter__</name>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" line="76" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" bodystart="76" bodyend="78"/>
+      </memberdef>
+      <memberdef kind="function" id="db/d65/classhpx_1_1_unordered_1_1__iterator_1a9d343b28a35d483ad291fd5e3b4f9d61" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def hpx.Unordered._iterator.next</definition>
+        <argsstring>(self)</argsstring>
+        <name>next</name>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" line="79" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" bodystart="79" bodyend="90"/>
+        <references refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a39f0aef2cccef6e63d730df755587a29" compoundref="d0/df0/hpx_8py" startline="71">hpx.Unordered._iterator.next_node</references>
+        <references refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a8170ca13b7e432a3fac73c06f474ae9d" compoundref="d0/df0/hpx_8py" startline="70">hpx.Unordered._iterator.node</references>
+        <references refid="d2/de2/structhpx_1_1error__info_1a60893066b8dda98285f5dfbf4cacf8c5" compoundref="d3/d4f/exception__info_8hpp" startline="44">hpx::error_info&lt; Tag, Type &gt;::_value</references>
+        <references refid="d8/d23/structhpx_1_1util_1_1detail_1_1tuple__member_1af71b49a120217f5cc17b0e5dc15097d1" compoundref="d3/d6f/tuple_8hpp" startline="104">hpx::util::detail::tuple_member&lt; I, T, Enable &gt;::_value</references>
+        <references refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a99418f7edfd3beca6c7f4a661b53b19c" compoundref="d0/df0/hpx_8py" startline="91" endline="95">hpx.Unordered._iterator._value</references>
+        <references refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a29e81bb08d68a51cd5a8685e4be5f682" compoundref="d0/df0/hpx_8py" startline="74">hpx.Unordered._iterator.extractor</references>
+        <references refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a7564724e2d8b7fa9fda568aa5bcf7482" compoundref="d0/df0/hpx_8py" startline="72">hpx.Unordered._iterator.node_type</references>
+        <references refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a9a9adb37ff0473406ab500994df54354" compoundref="d0/df0/hpx_8py" startline="73">hpx.Unordered._iterator.value_type</references>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="db/d65/classhpx_1_1_unordered_1_1__iterator_1a99418f7edfd3beca6c7f4a661b53b19c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def hpx.Unordered._iterator._value</definition>
+        <argsstring>(self)</argsstring>
+        <name>_value</name>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" line="91" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" bodystart="91" bodyend="95"/>
+        <referencedby refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a9d343b28a35d483ad291fd5e3b4f9d61" compoundref="d0/df0/hpx_8py" startline="79" endline="90">hpx.Unordered._iterator.next</referencedby>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><verbatim>Iterator for Boost.Unordered types</verbatim> </para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="20">
+        <label>hpx.Unordered._iterator</label>
+        <link refid="db/d65/classhpx_1_1_unordered_1_1__iterator"/>
+        <childnode refid="21" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="21">
+        <label>object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="22">
+        <label>hpx.Unordered._iterator</label>
+        <link refid="db/d65/classhpx_1_1_unordered_1_1__iterator"/>
+        <childnode refid="23" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="23">
+        <label>object</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" line="65" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" bodystart="65" bodyend="95"/>
+    <listofallmembers>
+      <member refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a3896104960dc253b0c48af3b59c834da" prot="public" virt="non-virtual"><scope>hpx::Unordered::_iterator</scope><name>__init__</name></member>
+      <member refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a15247702ef426d47db7c17c31654d947" prot="public" virt="non-virtual"><scope>hpx::Unordered::_iterator</scope><name>__iter__</name></member>
+      <member refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a99418f7edfd3beca6c7f4a661b53b19c" prot="private" virt="non-virtual"><scope>hpx::Unordered::_iterator</scope><name>_value</name></member>
+      <member refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a29e81bb08d68a51cd5a8685e4be5f682" prot="public" virt="non-virtual"><scope>hpx::Unordered::_iterator</scope><name>extractor</name></member>
+      <member refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a9d343b28a35d483ad291fd5e3b4f9d61" prot="public" virt="non-virtual"><scope>hpx::Unordered::_iterator</scope><name>next</name></member>
+      <member refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a39f0aef2cccef6e63d730df755587a29" prot="public" virt="non-virtual"><scope>hpx::Unordered::_iterator</scope><name>next_node</name></member>
+      <member refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a8170ca13b7e432a3fac73c06f474ae9d" prot="public" virt="non-virtual"><scope>hpx::Unordered::_iterator</scope><name>node</name></member>
+      <member refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a7564724e2d8b7fa9fda568aa5bcf7482" prot="public" virt="non-virtual"><scope>hpx::Unordered::_iterator</scope><name>node_type</name></member>
+      <member refid="db/d65/classhpx_1_1_unordered_1_1__iterator_1a9a9adb37ff0473406ab500994df54354" prot="public" virt="non-virtual"><scope>hpx::Unordered::_iterator</scope><name>value_type</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

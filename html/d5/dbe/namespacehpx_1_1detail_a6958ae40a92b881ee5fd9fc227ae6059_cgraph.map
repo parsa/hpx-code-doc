@@ -1,0 +1,4 @@
+<map id="hpx::detail::async_continue_r" name="hpx::detail::async_continue_r">
+<area shape="rect" id="node2" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html#a941a7057c3296a4c06ecbbb5032146a2" title="hpx::lcos::local::detail\l::promise_base\&lt; Result,\l detail::promise_data\&lt; Result\l \&gt; \&gt;::get_future" alt="" coords="179,5,371,76"/>
+<area shape="rect" id="node3" href="$d4/def/classhpx_1_1lcos_1_1detail_1_1promise__base.html#a2517464a9b53f71a7531c5cf75323ef5" title="hpx::lcos::detail::\lpromise_base\&lt; Result,\l RemoteResult, detail\l::promise_data\&lt; Result\l \&gt; \&gt;::get_id" alt="" coords="196,101,353,186"/>
+</map>

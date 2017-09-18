@@ -1,0 +1,7 @@
+<map id="test_initial_state" name="test_initial_state">
+<area shape="rect" id="node2" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a628625094362627e776fe22b68404111" title="hpx::lcos::detail::\lfuture_base\&lt; shared\l_future\&lt; R \&gt;, R \&gt;::is_ready" alt="" coords="175,5,355,61"/>
+<area shape="rect" id="node3" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a21423c49daa024230c4e4e85d7e0aa0a" title="hpx::lcos::detail::\lfuture_base\&lt; shared\l_future\&lt; R \&gt;, R \&gt;::has_value" alt="" coords="171,85,359,141"/>
+<area shape="rect" id="node4" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#aa95b01f70ad95706ae420ff1db2e5b99" title="hpx::lcos::detail::\lfuture_base\&lt; shared\l_future\&lt; R \&gt;, R \&gt;::has\l_exception" alt="" coords="189,166,341,237"/>
+<area shape="rect" id="node5" href="$d4/d31/classhpx_1_1lcos_1_1shared__future.html#a316b62d06e2bbab9e8d93fe64d13527e" title="hpx::lcos::shared_future::get" alt="" coords="171,261,358,288"/>
+<area shape="rect" id="node6" href="$de/d25/classhpx_1_1exception.html#a427fc21f422d4a796cf7e8f7b74c1fe1" title="hpx::exception::get\l_error" alt="" coords="198,313,331,354"/>
+</map>

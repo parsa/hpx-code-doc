@@ -1,0 +1,25 @@
+digraph "hpx::runtime"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node2 [label="hpx::runtime",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" topology_" ,fontname="Helvetica"];
+  Node3 [label="hpx::threads::topology",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/daf/structhpx_1_1threads_1_1topology.html"];
+  Node4 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" ini_" ,fontname="Helvetica"];
+  Node4 [label="hpx::util::runtime\l_configuration",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d70/classhpx_1_1util_1_1runtime__configuration.html"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="hpx::util::section",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/de4/classhpx_1_1util_1_1section.html"];
+  Node6 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" reinit_" ,fontname="Helvetica"];
+  Node6 [label="hpx::util::reinit_helper",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dfa/structhpx_1_1util_1_1reinit__helper.html"];
+  Node7 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" thread_name_" ,fontname="Helvetica"];
+  Node7 [label="hpx::util::thread_specific\l_ptr\< std::string, hpx::\lruntime::tls_tag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html"];
+  Node8 -> Node7 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< std::string, hpx\l::runtime::tls_tag \>" ,fontname="Helvetica"];
+  Node8 [label="hpx::util::thread_specific\l_ptr\< T, Tag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html"];
+  Node9 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" uptime_" ,fontname="Helvetica"];
+  Node9 [label="hpx::util::thread_specific\l_ptr\< std::uint64_t, hpx\l::runtime::tls_tag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html"];
+  Node8 -> Node9 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< std::uint64_t, hpx\l::runtime::tls_tag \>" ,fontname="Helvetica"];
+  Node10 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" runtime_" ,fontname="Helvetica"];
+  Node10 [label="hpx::util::thread_specific\l_ptr\< hpx::runtime *, hpx\l::runtime::tls_tag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html"];
+  Node8 -> Node10 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::runtime *, hpx\l::runtime::tls_tag \>" ,fontname="Helvetica"];
+}

@@ -1,0 +1,5 @@
+<map id="hpx::resource::detail::throw_runtime_error" name="hpx::resource::detail::throw_runtime_error">
+<area shape="rect" id="node2" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#af7c74cfa12348b3443c6a40c2263ff7e" title="hpx::resource::detail\l::partitioner::partitioner" alt="" coords="207,5,359,47"/>
+<area shape="rect" id="node3" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a11483ef960b429a24d9856cba726bd04" title="hpx::resource::detail\l::partitioner::assign_cores" alt="" coords="197,71,369,112"/>
+<area shape="rect" id="node4" href="$d0/d7b/classhpx_1_1runtime.html#ab3c29b4713d734dea0e6a5799bfe24e5" title="hpx::runtime::assign\l_cores" alt="" coords="417,71,557,112"/>
+</map>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="da/def/structhpx_1_1traits_1_1action__schedule__thread" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::traits::action_schedule_thread</compoundname>
+    <includes refid="d0/de5/action__schedule__thread_8hpp" local="no">action_schedule_thread.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>typename Action</type>
+      </param>
+      <param>
+        <type>typename Enable</type>
+        <defval>void</defval>
+      </param>
+    </templateparamlist>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="da/def/structhpx_1_1traits_1_1action__schedule__thread_1a9d3fb04a98976fa3f0079857e8248c54" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void hpx::traits::action_schedule_thread&lt; Action, Enable &gt;::call</definition>
+        <argsstring>(naming::address::address_type lva, naming::address::component_type comptype, threads::thread_init_data &amp;data, threads::thread_state_enum initial_state)</argsstring>
+        <name>call</name>
+        <param>
+          <type><ref refid="d2/d7f/structhpx_1_1naming_1_1address_1a92a8e16b811329a8e29fdd9682c64acd" kindref="member">naming::address::address_type</ref></type>
+          <declname>lva</declname>
+        </param>
+        <param>
+          <type><ref refid="d2/d7f/structhpx_1_1naming_1_1address_1a1abcb78018546a9b49df226a903fc50a" kindref="member">naming::address::component_type</ref></type>
+          <declname>comptype</declname>
+        </param>
+        <param>
+          <type><ref refid="dd/d5c/classhpx_1_1threads_1_1thread__init__data" kindref="compound">threads::thread_init_data</ref> &amp;</type>
+          <declname>data</declname>
+        </param>
+        <param>
+          <type><ref refid="d7/d28/namespacehpx_1_1threads_1a2b4f23e851fbe362ea23cbd39233ae48" kindref="member">threads::thread_state_enum</ref></type>
+          <declname>initial_state</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/action_schedule_thread.hpp" line="67" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/action_schedule_thread.hpp" bodystart="67" bodyend="74"/>
+        <references refid="dc/d68/data__actions_8cpp_1a9eab91667db4d35c7231dcddf7b89a76" compoundref="dc/d68/data__actions_8cpp" startline="88">data</references>
+        <referencedby refid="de/d9b/structhpx_1_1applier_1_1detail_1_1apply__helper_3_01_action_00_01false_01_4_1a567fbb92986df0974d5b30ca9a002130" compoundref="d9/d32/apply__helper_8hpp" startline="58" endline="103">hpx::applier::detail::apply_helper&lt; Action, false &gt;::call</referencedby>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/action_schedule_thread.hpp" line="64" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/action_schedule_thread.hpp" bodystart="63" bodyend="75"/>
+    <listofallmembers>
+      <member refid="da/def/structhpx_1_1traits_1_1action__schedule__thread_1a9d3fb04a98976fa3f0079857e8248c54" prot="public" virt="non-virtual"><scope>hpx::traits::action_schedule_thread</scope><name>call</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

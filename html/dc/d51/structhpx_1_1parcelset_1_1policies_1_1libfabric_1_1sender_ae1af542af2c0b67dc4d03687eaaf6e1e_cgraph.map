@@ -1,0 +1,9 @@
+<map id="hpx::parcelset::policies::libfabric::sender::handle_send_completion" name="hpx::parcelset::policies::libfabric::sender::handle_send_completion">
+<area shape="rect" id="node2" href="$dc/d51/structhpx_1_1parcelset_1_1policies_1_1libfabric_1_1sender.html#a001378149a6cda49a0e0e6082acb45dc" title="hpx::parcelset::policies\l::libfabric::sender::cleanup" alt="" coords="220,71,395,112"/>
+<area shape="rect" id="node3" href="$d7/d53/structhpx_1_1parcelset_1_1rma__memory__pool.html#ab44d1130616e08a8f6fe9fc46226b9e7" title="hpx::parcelset::rma\l_memory_pool::deallocate" alt="" coords="443,5,617,47"/>
+<area shape="rect" id="node4" href="$dd/d16/structhpx_1_1util_1_1high__resolution__clock.html#aaf1ff59c3ef8d3b70696fadb0a55842c" title="hpx::util::high_resolution\l_clock::now" alt="" coords="449,71,611,112"/>
+<area shape="rect" id="node6" href="$d9/d67/classhpx_1_1parcelset_1_1parcelport.html#a01b51f950b3e8a7f097a258e27671196" title="hpx::parcelset::parcelport\l::add_sent_data" alt="" coords="445,136,615,177"/>
+<area shape="rect" id="node5" href="$de/db3/1d__stencil__1__omp_8cpp.html#a89e9667753dccfac455bd37a7a3a7b16" title="now" alt="" coords="727,78,773,105"/>
+<area shape="rect" id="node7" href="$de/db4/classhpx_1_1performance__counters_1_1parcels_1_1detail_1_1gatherer.html#a1df2c14406fbb3947522cac39dee374b" title="hpx::performance_counters\l::parcels::detail::gatherer\l::add_data" alt="" coords="883,150,1061,206"/>
+<area shape="rect" id="node8" href="$d9/d67/classhpx_1_1parcelset_1_1parcelport.html#a107c14d37d40c8b5aa8a5739139fae92" title="Update performance counter data. " alt="" coords="665,187,835,228"/>
+</map>

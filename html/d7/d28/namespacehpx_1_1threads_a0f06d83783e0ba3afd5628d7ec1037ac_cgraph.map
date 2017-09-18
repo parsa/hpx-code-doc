@@ -1,0 +1,5 @@
+<map id="hpx::threads::get_self_ptr_checked" name="hpx::threads::get_self_ptr_checked">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="214,5,361,32"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="200,56,375,83"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="423,5,592,32"/>
+</map>

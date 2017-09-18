@@ -1,0 +1,24 @@
+<map id="hpx::runtime_impl::start" name="hpx::runtime_impl::start">
+<area shape="rect" id="node2" href="$df/dad/namespacehpx_1_1util.html#a16ed702034d93806fdc50af92651a77f" title="hpx::util::apex_init" alt="" coords="218,5,346,32"/>
+<area shape="rect" id="node3" href="$d0/d7b/classhpx_1_1runtime.html#a0bfe0241e54b1fe1dd4ec181d944de43" title="access configuration information " alt="" coords="201,56,363,83"/>
+<area shape="rect" id="node4" href="$d8/d70/classhpx_1_1util_1_1runtime__configuration.html#aae8cc402ecfc2f8e9e26c2ddca4e789a" title="hpx::util::runtime\l_configuration::get\l_cmd_line" alt="" coords="218,107,346,163"/>
+<area shape="rect" id="node7" href="$dc/d80/classhpx_1_1runtime__impl.html#a6f8fb249b38985825d8aac651b289858" title="Returns a string of the locality endpoints (usable in debug output) " alt="" coords="203,187,361,213"/>
+<area shape="rect" id="node10" href="$dc/d54/namespacehpx_1_1agas.html#ac7518e00a56cc49c3b166be18f4b9189" title="hpx::agas::get_big\l_boot_barrier" alt="" coords="217,238,347,279"/>
+<area shape="rect" id="node12" href="$d8/db6/structhpx_1_1agas_1_1big__boot__barrier.html#ae5b53e696efdfd3b63800ee1590dcfb9" title="hpx::agas::big_boot\l_barrier::trigger" alt="" coords="214,303,350,345"/>
+<area shape="rect" id="node13" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="232,369,332,396"/>
+<area shape="rect" id="node14" href="$d7/d28/namespacehpx_1_1threads.html#af597241b3c2785150be206737ca04aa6" title="The get_stack_size function is part of the thread related API. It. " alt="" coords="187,420,377,447"/>
+<area shape="rect" id="node15" href="$d0/d7b/classhpx_1_1runtime.html#a4e89bf7f8803e4e87616d96961558267" title="Manage runtime &#39;stopped&#39; state. " alt="" coords="209,471,355,497"/>
+<area shape="rect" id="node16" href="$dc/d80/classhpx_1_1runtime__impl.html#aadb9c3a16a94f79c402662a5f6286134" title="Wait for the shutdown action to be executed. " alt="" coords="204,521,360,548"/>
+<area shape="rect" id="node17" href="$d0/d7b/classhpx_1_1runtime.html#a8aa04153394a34e9f75cf0a07a05ad27" title="hpx::runtime::init_tss" alt="" coords="210,572,354,599"/>
+<area shape="rect" id="node5" href="$dd/de4/classhpx_1_1util_1_1section.html#a2ef0091925e5c2e3fda235bff644cdb4" title="hpx::util::section\l::has_section" alt="" coords="447,49,566,90"/>
+<area shape="rect" id="node6" href="$dd/de4/classhpx_1_1util_1_1section.html#a3506cc01fb5453b2176f4747352c5517" title="hpx::util::section\l::get_section" alt="" coords="447,114,566,155"/>
+<area shape="rect" id="node8" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="447,180,566,207"/>
+<area shape="rect" id="node9" href="$d0/d7b/classhpx_1_1runtime.html#adb2604c27380db1068fc305b76755386" title="hpx::runtime::endpoints" alt="" coords="427,231,586,257"/>
+<area shape="rect" id="node11" href="$d2/db7/structhpx_1_1util_1_1reinitializable__static.html#a2c616d22a193ed9d3b0b58d4203b3809" title="hpx::util::reinitializable\l_static::get" alt="" coords="431,282,582,323"/>
+<area shape="rect" id="node18" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="433,480,580,507"/>
+<area shape="rect" id="node20" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a39c7045b96ffecd7220745a72a89ea6e" title="hpx::util::thread_specific\l_ptr::reset" alt="" coords="425,531,588,573"/>
+<area shape="rect" id="node21" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="425,597,588,638"/>
+<area shape="rect" id="node22" href="$dd/d16/structhpx_1_1util_1_1high__resolution__clock.html#aaf1ff59c3ef8d3b70696fadb0a55842c" title="hpx::util::high_resolution\l_clock::now" alt="" coords="425,662,588,703"/>
+<area shape="rect" id="node19" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="636,480,805,507"/>
+<area shape="rect" id="node23" href="$de/db3/1d__stencil__1__omp_8cpp.html#a89e9667753dccfac455bd37a7a3a7b16" title="now" alt="" coords="698,669,743,696"/>
+</map>

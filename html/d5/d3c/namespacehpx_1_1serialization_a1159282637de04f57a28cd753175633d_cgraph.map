@@ -1,0 +1,8 @@
+<map id="hpx::serialization::serialize" name="hpx::serialization::serialize">
+<area shape="rect" id="node2" href="$d1/d60/classhpx_1_1partitioned__vector.html#aff64e55d3cbf7bab5b748d732283199a" title="hpx::partitioned_vector\l::connect_to" alt="" coords="173,23,325,65"/>
+<area shape="rect" id="node7" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="179,89,320,116"/>
+<area shape="rect" id="node3" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="373,5,473,32"/>
+<area shape="rect" id="node4" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="404,56,443,83"/>
+<area shape="rect" id="node5" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="521,56,608,83"/>
+<area shape="rect" id="node6" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="656,49,821,90"/>
+</map>

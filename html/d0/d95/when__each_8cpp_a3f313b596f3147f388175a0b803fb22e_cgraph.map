@@ -1,0 +1,51 @@
+<map id="test_when_each_from_list_iterators" name="test_when_each_from_list_iterators">
+<area shape="rect" id="node2" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a19d058114a2bd44801aab4176b188e23" title="hpx::parallel::v1::\lcount" alt="" coords="219,1009,339,1051"/>
+<area shape="rect" id="node32" href="$d2/dc9/namespacehpx_1_1lcos.html#aa3a1334db4b33140e8bd19cc7f5bd261" title="hpx::lcos::make_ready\l_future_after" alt="" coords="201,192,356,233"/>
+<area shape="rect" id="node40" href="$d2/dc9/namespacehpx_1_1lcos.html#a728db59d566f9fda1ab2a44f2bf9859c" title="hpx::lcos::when_each" alt="" coords="205,641,353,667"/>
+<area shape="rect" id="node50" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="208,1075,349,1102"/>
+<area shape="rect" id="node3" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#ad836ff017ec208c2d6388a9b47b05ce0" title="hpx::parallel::v1::\lcount_if" alt="" coords="428,783,548,824"/>
+<area shape="rect" id="node4" href="$d8/d8b/broadcast_8cpp.html#a1751fbd41f2529b84514a9dbd767959a" title="f1" alt="" coords="683,897,721,923"/>
+<area shape="rect" id="node9" href="$df/dc6/namespacehpx_1_1parallel_1_1util.html#a3f434e00f42929aac85debb8c5782213" title="hpx::parallel::util\l::loop" alt="" coords="429,1287,547,1328"/>
+<area shape="rect" id="node12" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="438,1353,538,1379"/>
+<area shape="rect" id="node13" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="1097,721,1247,747"/>
+<area shape="rect" id="node15" href="$df/dad/namespacehpx_1_1util.html#a5cbd3c41f03f4d4acaedaa4777e3cc02" title="hpx::util::get" alt="" coords="655,949,749,975"/>
+<area shape="rect" id="node16" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="1344,391,1387,418"/>
+<area shape="rect" id="node22" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#a6bea3c6a5f470cad11f27ee6bab4a33f" title="hpx::parallel::v1::\ldetail::distance" alt="" coords="642,777,762,819"/>
+<area shape="rect" id="node24" href="$df/dad/namespacehpx_1_1util.html#a7529d9ac687684c33403cdd1f9cef8e4" title="hpx::util::unwrapping" alt="" coords="417,849,559,875"/>
+<area shape="rect" id="node25" href="$df/dc6/namespacehpx_1_1parallel_1_1util.html#af19f9a2722f97c2247ea5d0dbb5e2d25" title="hpx::parallel::util\l::accumulate_n" alt="" coords="429,1119,547,1160"/>
+<area shape="rect" id="node31" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#a31e165df2b865cdd961f35ce938db41a" title="hpx::util::detail::\lrange_impl::begin" alt="" coords="426,900,550,941"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#a158d7c54a657bb364c1704033010697b" title="Return the number of the locality this function is being called from. " alt="" coords="868,838,1003,865"/>
+<area shape="rect" id="node7" href="$d8/d8b/broadcast_8cpp.html#a19685a0394ce6a99351f7a679f6eeefc" title="HPX_PLAIN_ACTION" alt="" coords="863,955,1008,982"/>
+<area shape="rect" id="node8" href="$d7/d38/addressing__service_8cpp.html#a573d764d9cb34eec46a4bdffcf07875f" title="HPX_REGISTER_BROADCAST\l_ACTION_DECLARATION" alt="" coords="832,889,1039,931"/>
+<area shape="rect" id="node6" href="$dc/d54/namespacehpx_1_1agas.html#a491cc2ddecdf0f1a9129900caa6a4d3e" title="hpx::agas::get_locality_id" alt="" coords="1087,838,1257,865"/>
+<area shape="rect" id="node10" href="$da/d06/structhpx_1_1parallel_1_1util_1_1detail_1_1loop.html#a5c5e8dbda782f09cdb7bc2509e3bf09e" title="hpx::parallel::util\l::detail::loop::call" alt="" coords="641,1287,763,1328"/>
+<area shape="rect" id="node11" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#afb2ea48b0902f52ee4d8b764807b4316" title="hpx::util::detail::\lrange_impl::end" alt="" coords="878,1287,993,1328"/>
+<area shape="rect" id="node14" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="1305,713,1425,755"/>
+<area shape="rect" id="node17" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="1509,315,1583,342"/>
+<area shape="rect" id="node18" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="1473,366,1619,393"/>
+<area shape="rect" id="node19" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="1510,467,1582,494"/>
+<area shape="rect" id="node20" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="1721,417,1807,443"/>
+<area shape="rect" id="node21" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="1667,468,1861,509"/>
+<area shape="rect" id="node23" href="$db/dfa/structhpx_1_1parallel_1_1v1_1_1detail_1_1calculate__distance.html#a950a6627830a7d019ac0e734b0a447bf" title="hpx::parallel::v1::\ldetail::calculate_distance::call" alt="" coords="837,772,1034,813"/>
+<area shape="rect" id="node26" href="$d8/d3b/structhpx_1_1parallel_1_1util_1_1detail_1_1accumulate__n.html#a765aceb8ab313fc92f7c4aaf70ccca8f" title="hpx::parallel::util\l::detail::accumulate\l_n::call" alt="" coords="634,1054,770,1110"/>
+<area shape="rect" id="node30" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="916,1102,955,1129"/>
+<area shape="rect" id="node27" href="$d8/d83/namespacehpx.html#a3c694ea960b47c56b33351ba16e3d76b" title="Main entry point for launching the HPX runtime system. " alt="" coords="901,279,969,306"/>
+<area shape="rect" id="node28" href="$df/dad/namespacehpx_1_1util.html#ae40a23c1ba0a48d9304dcf717a95793e" title="hpx::util::set_hpx\l_prefix" alt="" coords="1111,325,1233,367"/>
+<area shape="rect" id="node29" href="$d3/dd2/namespacehpx__startup.html#aaac571d88bd3912a4225a23eb3261637" title="hpx_startup::user_main\l_config" alt="" coords="1093,260,1251,301"/>
+<area shape="rect" id="node33" href="$d2/dc9/namespacehpx_1_1lcos.html#a4eabf1fc50a318a2142a5ee1a4e4ffb0" title="hpx::lcos::make_ready\l_future_at" alt="" coords="411,76,565,117"/>
+<area shape="rect" id="node38" href="$d9/d4f/classhpx_1_1util_1_1steady__duration.html#a0132206d767cd0f7395507b40111a153" title="hpx::util::steady_duration\l::from_now" alt="" coords="404,152,572,193"/>
+<area shape="rect" id="node34" href="$d2/da2/namespacehpx_1_1components_1_1server.html#ac776c89f3d68ceb910e8cee9fa937ab4" title="Create arrays of components using their default constructor. " alt="" coords="620,173,784,215"/>
+<area shape="rect" id="node37" href="$d0/d84/classhpx_1_1util_1_1steady__time__point.html#ab3ac884d51b3f3eeadd4363f76c00f68" title="hpx::util::steady_time\l_point::value" alt="" coords="629,5,775,47"/>
+<area shape="rect" id="node35" href="$d2/da2/namespacehpx_1_1components_1_1server.html#a77d26de181c97b444565e230577981bd" title="hpx::components::server\l::create" alt="" coords="853,204,1017,245"/>
+<area shape="rect" id="node36" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#acf303558375048e8a7cc9a2c2e09477f" title="hpx::parallel::v1::\ldestroy" alt="" coords="1112,195,1232,236"/>
+<area shape="rect" id="node39" href="$de/db3/1d__stencil__1__omp_8cpp.html#a89e9667753dccfac455bd37a7a3a7b16" title="now" alt="" coords="679,122,725,149"/>
+<area shape="rect" id="node41" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a32d45550d15f1c22055bc56a431c69f4" title="hpx::parallel::v1::\ltransform" alt="" coords="428,544,548,585"/>
+<area shape="rect" id="node47" href="$df/dad/namespacehpx_1_1util.html#ab7c31e3f24c3302a4f67b6735a6fa597" title="hpx::util::forward\l_as_tuple" alt="" coords="429,717,547,759"/>
+<area shape="rect" id="node48" href="$d8/dfd/id__type__ref__counting__1032_8cpp.html#ab811b86ea5107ffb3351fcaa29d2c652" title="func" alt="" coords="465,615,511,642"/>
+<area shape="rect" id="node42" href="$df/dad/namespacehpx_1_1util.html#a9ed3f52b36e725e476dbf5099134ed3d" title="hpx::util::invoke" alt="" coords="646,493,758,519"/>
+<area shape="rect" id="node43" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ac54525f2c9a7b2f5801b843bca7db383" title="hpx::parallel::v1::\ldetail::get_iter_tuple" alt="" coords="633,544,771,585"/>
+<area shape="rect" id="node44" href="$df/dad/namespacehpx_1_1util.html#a2f68369b316e5699be2c81c04e3ee209" title="hpx::util::make_zip\l_iterator" alt="" coords="636,609,768,651"/>
+<area shape="rect" id="node45" href="$df/dad/namespacehpx_1_1util.html#a06fa74211a987d208e013f400a9f5328" title="hpx::util::make_tuple" alt="" coords="631,290,773,317"/>
+<area shape="rect" id="node46" href="$d5/d69/wait__all__hang__1946_8cpp.html#ae95890c5079ed07d292e9e2c1b187e97" title="out" alt="" coords="682,442,722,469"/>
+<area shape="rect" id="node49" href="$d8/dfd/id__type__ref__counting__1032_8cpp.html#a5264b94bf7c262ac0e521fb290d476d5" title="ensure_garbage_collect" alt="" coords="623,675,781,702"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="hpx::lcos::local::detail::recursive_mutex_impl::lock" name="hpx::lcos::local::detail::recursive_mutex_impl::lock">
+<area shape="rect" id="node2" href="$de/d0c/structhpx_1_1lcos_1_1local_1_1detail_1_1thread__id__from__mutex.html#afc9f4bc790c0d9ed415eacd369266a19" title="hpx::lcos::local::detail\l::thread_id_from_mutex::call" alt="" coords="240,5,427,47"/>
+<area shape="rect" id="node3" href="$df/dad/namespacehpx_1_1util.html#a4f5b17e2809bff886e3e10868af110b8" title="hpx::util::ignore_lock" alt="" coords="262,71,405,98"/>
+<area shape="rect" id="node4" href="$df/dad/namespacehpx_1_1util.html#af482b20c594fc019f28cb952c993377c" title="hpx::util::register_lock" alt="" coords="258,122,409,149"/>
+</map>

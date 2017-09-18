@@ -1,0 +1,26 @@
+<map id="hpx::parallel::v1::max_element" name="hpx::parallel::v1::max_element">
+<area shape="rect" id="node2" href="$d4/d10/max__element_8cpp.html#a203706cb12e9b4301fc98631ee60fe13" title="test_max_element" alt="" coords="207,5,336,32"/>
+<area shape="rect" id="node4" href="$d4/d10/max__element_8cpp.html#a8ba09c6a35a230409902eea6e9f67d03" title="test_max_element_async" alt="" coords="186,56,357,83"/>
+<area shape="rect" id="node5" href="$d4/d10/max__element_8cpp.html#aaaacdfed9386dd8374aec16ef5565fab" title="test_max_element_exception" alt="" coords="175,107,367,133"/>
+<area shape="rect" id="node7" href="$d4/d10/max__element_8cpp.html#a8b8640289c27b9e56feb9ac6656061da" title="test_max_element_exception\l_async" alt="" coords="175,158,367,199"/>
+<area shape="rect" id="node8" href="$d4/d10/max__element_8cpp.html#abc03a44acd08b719fed3b62dff8317c9" title="test_max_element_bad\l_alloc" alt="" coords="193,223,350,265"/>
+<area shape="rect" id="node10" href="$d4/d10/max__element_8cpp.html#a5eba34dbe62d9eb659bfbb04d703ef57" title="test_max_element_bad\l_alloc_async" alt="" coords="193,289,350,330"/>
+<area shape="rect" id="node11" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a0e537469b61350d048999ee16e77a058" title="hpx::parallel::v1::\lmin_element" alt="" coords="211,366,331,407"/>
+<area shape="rect" id="node24" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a13fe8f4d6918d31c30a3ad80f25f4b14" title="hpx::parallel::v1::\lmax_element" alt="" coords="211,431,331,473"/>
+<area shape="rect" id="node25" href="$d9/d93/minmax__element__performance_8cpp.html#a3c87fe780848980b0a3044d753c7af14" title="run_max_element_benchmark" alt="" coords="173,588,369,615"/>
+<area shape="rect" id="node3" href="$d4/d10/max__element_8cpp.html#abac157a207957d6286575b286025fabb" title="test_max_element" alt="" coords="449,31,578,57"/>
+<area shape="rect" id="node6" href="$d4/d10/max__element_8cpp.html#a2e2091dec7650a985ec02686ef7dd4dc" title="test_max_element_exception" alt="" coords="417,107,609,133"/>
+<area shape="rect" id="node9" href="$d4/d10/max__element_8cpp.html#a1662e63af03153f8a0bdcf2052a4219e" title="test_max_element_bad\l_alloc" alt="" coords="435,158,592,199"/>
+<area shape="rect" id="node12" href="$d3/dab/min__element_8cpp.html#a66d0aaaa281eb1197c6c1a661a1360db" title="test_min_element" alt="" coords="451,224,576,251"/>
+<area shape="rect" id="node14" href="$d3/dab/min__element_8cpp.html#a67aa04d9278a45273558e579e230e2e7" title="test_min_element_async" alt="" coords="430,275,597,301"/>
+<area shape="rect" id="node15" href="$d3/dab/min__element_8cpp.html#add73b64a1f6f62cac842727ee1e14e7a" title="test_min_element_exception" alt="" coords="419,325,607,352"/>
+<area shape="rect" id="node17" href="$d3/dab/min__element_8cpp.html#a1c9e82864dcb121b9f75ba2dd536d07b" title="test_min_element_exception\l_async" alt="" coords="419,377,607,418"/>
+<area shape="rect" id="node18" href="$d3/dab/min__element_8cpp.html#a2186639790406b9588796b99f1deaf93" title="test_min_element_bad\l_alloc" alt="" coords="437,442,590,483"/>
+<area shape="rect" id="node20" href="$d3/dab/min__element_8cpp.html#a6ee3d9a9bed4a4ee160b384eec0448ff" title="test_min_element_bad\l_alloc_async" alt="" coords="437,507,590,549"/>
+<area shape="rect" id="node21" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a054f69d856dff1c98459ee86aa4bf5af" title="hpx::parallel::v1::\lmin_element" alt="" coords="453,573,573,614"/>
+<area shape="rect" id="node22" href="$d9/d93/minmax__element__performance_8cpp.html#abd4ad2483a8d6746c8a3fb7057236f25" title="run_min_element_benchmark" alt="" coords="417,639,609,665"/>
+<area shape="rect" id="node13" href="$d3/dab/min__element_8cpp.html#a4905718248c411def43cd87bdd6df8f2" title="test_min_element" alt="" coords="689,249,814,276"/>
+<area shape="rect" id="node16" href="$d3/dab/min__element_8cpp.html#a17bc218b988d61f5b271af90e7ba8fca" title="test_min_element_exception" alt="" coords="657,355,845,381"/>
+<area shape="rect" id="node19" href="$d3/dab/min__element_8cpp.html#a9840ad53b3658443caaa9011f7c968cd" title="test_min_element_bad\l_alloc" alt="" coords="675,475,828,517"/>
+<area shape="rect" id="node23" href="$d9/d93/minmax__element__performance_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="712,664,791,691"/>
+</map>

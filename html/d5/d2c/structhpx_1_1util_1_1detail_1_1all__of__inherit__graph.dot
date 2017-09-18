@@ -1,0 +1,19 @@
+digraph "hpx::util::detail::all_of&lt; Ts &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::detail::\lall_of\< Ts \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< pack_c\< bool, !Vs... \> \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::util::detail::\lall_of\< pack_c\< bool,\l !Vs... \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d4d/structhpx_1_1util_1_1detail_1_1all__of.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::util::detail::\lnone_of\< pack_c\< bool,\l Vs... \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d6d/structhpx_1_1util_1_1detail_1_1none__of_3_01pack__c_3_01bool_00_01_vs_8_8_8_01_4_01_4.html"];
+  Node0 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::traits::is_bitwise\l_serializable\< std::remove\l_const\< Ts \>::type \>... \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::util::detail::\lall_of\< hpx::traits\l::is_bitwise_serializable\l\< std::remove_const\< Ts\l \>::type \>... \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d4d/structhpx_1_1util_1_1detail_1_1all__of.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::traits::is_bitwise\l_serializable\< ::hpx::\lutil::detail::tuple_impl\l\< Is, Ts... \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/db3/structhpx_1_1traits_1_1is__bitwise__serializable_3_01_1_1hpx_1_1util_1_1detail_1_1tuple__impl_3_01_is_00_01_ts_8_8_8_01_4_01_4.html"];
+  Node0 -> Node5 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< is_future\< Ts \>... \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::util::detail::\lall_of\< is_future\< Ts\l \>... \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d4d/structhpx_1_1util_1_1detail_1_1all__of.html"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hpx::traits::is_future\l_tuple\< util::tuple\< Ts... \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/de7/structhpx_1_1traits_1_1is__future__tuple_3_01util_1_1tuple_3_01_ts_8_8_8_01_4_01_4.html"];
+}

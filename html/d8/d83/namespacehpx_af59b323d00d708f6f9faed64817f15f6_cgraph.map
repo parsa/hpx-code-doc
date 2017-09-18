@@ -1,0 +1,17 @@
+<map id="hpx::get_locality_name" name="hpx::get_locality_name">
+<area shape="rect" id="node2" href="$d5/dbe/namespacehpx_1_1detail.html#a648be066751ceaeab74ee16f2d91238f" title="hpx::detail::get_locality\l_base_name" alt="" coords="209,62,365,104"/>
+<area shape="rect" id="node7" href="$d4/d2c/make__continuation__1615_8cpp.html#acbdae3e81403e1ffc527c18dc1cd51dd" title="to_string" alt="" coords="251,160,323,187"/>
+<area shape="rect" id="node9" href="$d8/d83/namespacehpx.html#a158d7c54a657bb364c1704033010697b" title="Return the number of the locality this function is being called from. " alt="" coords="220,211,355,238"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="669,22,810,48"/>
+<area shape="rect" id="node5" href="$d0/d7b/classhpx_1_1runtime.html#aa3997c2fc929d3bb84bcb100b4b66e8d" title="hpx::runtime::get_parcel\l_handler" alt="" coords="427,29,589,70"/>
+<area shape="rect" id="node6" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a39cb148390444ca0e1ea2ee5afe52d9a" title="hpx::parcelset::parcelhandler\l::get_locality_name" alt="" coords="413,94,603,136"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="876,14,1039,56"/>
+<area shape="rect" id="node8" href="$d4/d2c/make__continuation__1615_8cpp.html#a8b2f8a7c58b490fcb1260f36bac46541" title="HPX_PLAIN_ACTION" alt="" coords="435,160,581,187"/>
+<area shape="rect" id="node10" href="$dc/d54/namespacehpx_1_1agas.html#a491cc2ddecdf0f1a9129900caa6a4d3e" title="hpx::agas::get_locality_id" alt="" coords="423,211,593,238"/>
+<area shape="rect" id="node11" href="$d0/d7b/classhpx_1_1runtime.html#ab405f80e060dac95d624520f38b0524c" title="hpx::runtime::get_state" alt="" coords="661,119,817,146"/>
+<area shape="rect" id="node12" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="662,170,817,212"/>
+<area shape="rect" id="node15" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ab52c19a37c2a7a006c6c15f90ad0539c" title="hpx::agas::addressing\l_service::get_local_locality" alt="" coords="651,236,828,277"/>
+<area shape="rect" id="node16" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="656,301,823,342"/>
+<area shape="rect" id="node13" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="898,123,1017,150"/>
+<area shape="rect" id="node14" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="880,174,1035,216"/>
+</map>

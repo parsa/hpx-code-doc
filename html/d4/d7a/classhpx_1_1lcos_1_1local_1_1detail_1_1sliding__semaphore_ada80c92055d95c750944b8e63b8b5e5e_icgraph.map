@@ -1,0 +1,8 @@
+<map id="hpx::lcos::local::detail::sliding_semaphore::signal" name="hpx::lcos::local::detail::sliding_semaphore::signal">
+<area shape="rect" id="node2" href="$d4/d7a/classhpx_1_1lcos_1_1local_1_1detail_1_1sliding__semaphore.html#ab26e042b6c41b664bfe3977c3ce4b2a1" title="hpx::lcos::local::detail\l::sliding_semaphore::signal_all" alt="" coords="233,5,433,47"/>
+<area shape="rect" id="node4" href="$d4/d2e/classhpx_1_1lcos_1_1local_1_1sliding__semaphore__var.html#a45c335c3fedc79f6e985252feab55a03" title="Signal the semaphore. " alt="" coords="254,71,413,112"/>
+<area shape="rect" id="node3" href="$d4/d2e/classhpx_1_1lcos_1_1local_1_1sliding__semaphore__var.html#abfc766bda4b66000eff05db54f2b0896" title="hpx::lcos::local::sliding\l_semaphore_var::signal_all" alt="" coords="481,5,660,47"/>
+<area shape="rect" id="node5" href="$d2/d38/sliding__semaphore_8cpp.html#af01ee5e0f3ad279c5cc65cf867860433" title="worker" alt="" coords="541,74,601,101"/>
+<area shape="rect" id="node7" href="$da/da6/sliding__semaphore__2338_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="545,125,596,151"/>
+<area shape="rect" id="node6" href="$d2/d38/sliding__semaphore_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="708,74,787,101"/>
+</map>

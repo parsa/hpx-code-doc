@@ -1,0 +1,35 @@
+<map id="format_msg_type.hpp" name="format_msg_type.hpp">
+<area shape="rect" id="node2" href="$d8/d32/manipulator_8hpp.html" title="manipulator.hpp" alt="" coords="687,80,801,107"/>
+<area shape="rect" id="node31" href="$d0/d96/logging_2logging_8hpp.html" title="logging.hpp" alt="" coords="1540,80,1628,107"/>
+<area shape="rect" id="node3" href="$d9/dfc/use__format__write_8hpp.html" title="use_format_write.hpp" alt="" coords="1369,155,1514,181"/>
+<area shape="rect" id="node5" href="$d4/d0a/format_8hpp.html" title="format.hpp" alt="" coords="996,304,1079,331"/>
+<area shape="rect" id="node6" href="$d1/da2/format_2formatter_2tags_8hpp.html" title="tags.hpp" alt="" coords="344,379,416,405"/>
+<area shape="rect" id="node7" href="$dc/d44/tag_2high__precision__time_8hpp.html" title="high_precision_time.hpp" alt="" coords="43,453,205,480"/>
+<area shape="rect" id="node18" href="$de/d26/util_2logging_2format_2destination_2defaults_8hpp.html" title="defaults.hpp" alt="" coords="1047,229,1139,256"/>
+<area shape="rect" id="node19" href="$db/d3b/file_8hpp.html" title="file.hpp" alt="" coords="1126,155,1189,181"/>
+<area shape="rect" id="node20" href="$d6/d61/named_8hpp.html" title="named.hpp" alt="" coords="163,304,250,331"/>
+<area shape="rect" id="node21" href="$dd/d1b/rolling__file_8hpp.html" title="rolling_file.hpp" alt="" coords="432,304,536,331"/>
+<area shape="rect" id="node22" href="$d7/d1a/util_2logging_2format_2formatter_2defaults_8hpp.html" title="defaults.hpp" alt="" coords="829,229,921,256"/>
+<area shape="rect" id="node23" href="$d1/d9c/format_2formatter_2high__precision__time_8hpp.html" title="high_precision_time.hpp" alt="" coords="43,379,205,405"/>
+<area shape="rect" id="node24" href="$d8/d86/named__spacer_8hpp.html" title="named_spacer.hpp" alt="" coords="209,229,341,256"/>
+<area shape="rect" id="node25" href="$df/dd7/spacer_8hpp.html" title="spacer.hpp" alt="" coords="913,155,999,181"/>
+<area shape="rect" id="node26" href="$d1/ded/thread__id_8hpp.html" title="thread_id.hpp" alt="" coords="563,155,663,181"/>
+<area shape="rect" id="node27" href="$de/d99/time_8hpp.html" title="time.hpp" alt="" coords="467,155,539,181"/>
+<area shape="rect" id="node28" href="$df/d7b/time__strf_8hpp.html" title="time_strf.hpp" alt="" coords="739,155,837,181"/>
+<area shape="rect" id="node29" href="$d6/d2d/on__dedicated__thread_8hpp.html" title="on_dedicated_thread.hpp" alt="" coords="1234,304,1401,331"/>
+<area shape="rect" id="node30" href="$d7/d6e/ts__write_8hpp.html" title="ts_write.hpp" alt="" coords="713,229,805,256"/>
+<area shape="rect" id="node4" href="$dd/de1/format__write__detail_8hpp.html" title="format_write_detail.hpp" alt="" coords="1215,229,1369,256"/>
+<area shape="rect" id="node8" href="$d3/d4c/format__all_8hpp.html" title="format_all.hpp" alt="" coords="534,379,637,405"/>
+<area shape="rect" id="node9" href="$d1/d05/format__fwd_8hpp.html" title="format_fwd.hpp" alt="" coords="1215,379,1324,405"/>
+<area shape="rect" id="node14" href="$d0/d09/format__ts_8hpp.html" title="format_ts.hpp" alt="" coords="817,379,919,405"/>
+<area shape="rect" id="node17" href="$de/d2e/format__write_8hpp.html" title="format_write.hpp" alt="" coords="979,379,1096,405"/>
+<area shape="rect" id="node10" href="$d4/d3a/find__format__writer_8hpp.html" title="find_format_writer.hpp" alt="" coords="1333,453,1481,480"/>
+<area shape="rect" id="node11" href="$d9/dbe/profile_8hpp.html" title="Allows you to profile your application&#39; logging. " alt="" coords="1323,528,1405,555"/>
+<area shape="rect" id="node12" href="$d0/ddf/named__write__fwd_8hpp.html" title="named_write_fwd.hpp" alt="" coords="1060,528,1207,555"/>
+<area shape="rect" id="node13" href="$d5/d9a/console__logging__server_8cpp.html" title="console_logging_server.cpp" alt="" coords="1097,603,1279,629"/>
+<area shape="rect" id="node15" href="$dc/dc4/writer_2named__write_8hpp.html" title="named_write.hpp" alt="" coords="523,453,643,480"/>
+<area shape="rect" id="node16" href="$d1/db9/format_2named__write_8hpp.html" title="named_write.hpp" alt="" coords="523,528,643,555"/>
+<area shape="rect" id="node32" href="$d1/dbc/format__fwd__detail_8hpp.html" title="format_fwd_detail.hpp" alt="" coords="1511,304,1657,331"/>
+<area shape="rect" id="node33" href="$df/d28/util_2logging_2tag_2defaults_8hpp.html" title="defaults.hpp" alt="" coords="1538,155,1630,181"/>
+<area shape="rect" id="node34" href="$dc/d5a/detail_2tags_8hpp.html" title="tags.hpp" alt="" coords="1548,229,1620,256"/>
+</map>

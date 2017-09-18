@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="da/dc2/classhpx_1_1components_1_1abstract__fixed__component__base" kind="class" language="C++" prot="public">
+    <compoundname>hpx::components::abstract_fixed_component_base</compoundname>
+    <basecompoundref refid="d6/d72/structhpx_1_1traits_1_1detail_1_1fixed__component__tag" prot="private" virt="non-virtual">hpx::traits::detail::fixed_component_tag</basecompoundref>
+    <includes refid="d7/db5/abstract__component__base_8hpp" local="no">abstract_component_base.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>typename Component</type>
+      </param>
+    </templateparamlist>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="da/dc2/classhpx_1_1components_1_1abstract__fixed__component__base_1a9a2cb798b694486b7467ed91d16beae5" prot="private" static="no">
+        <type><ref refid="df/d93/classhpx_1_1components_1_1fixed__component" kindref="compound">fixed_component</ref>&lt; Component &gt;</type>
+        <definition>typedef fixed_component&lt;Component&gt; hpx::components::abstract_fixed_component_base&lt; Component &gt;::outer_wrapping_type</definition>
+        <argsstring></argsstring>
+        <name>outer_wrapping_type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" line="90" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" bodystart="90" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="da/dc2/classhpx_1_1components_1_1abstract__fixed__component__base_1ac447989158cba8c08424d7532fec7e47" prot="public" static="no">
+        <type>Component</type>
+        <definition>typedef Component hpx::components::abstract_fixed_component_base&lt; Component &gt;::base_type_holder</definition>
+        <argsstring></argsstring>
+        <name>base_type_holder</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" line="95" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" bodystart="95" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="da/dc2/classhpx_1_1components_1_1abstract__fixed__component__base_1a978f5ed6aa536b8aed7f5552bb1ad5ec" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type></type>
+        <definition>virtual hpx::components::abstract_fixed_component_base&lt; Component &gt;::~abstract_fixed_component_base</definition>
+        <argsstring>()</argsstring>
+        <name>~abstract_fixed_component_base</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" line="93" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" bodystart="93" bodyend="93"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="da/dc2/classhpx_1_1components_1_1abstract__fixed__component__base_1a291f96dc07d15ed32dd42fcfc02423e3" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="d5/d76/namespacehpx_1_1components_1ad96e19b1e501dc557a7b67b68ee89f7e" kindref="member">component_type</ref></type>
+        <definition>static component_type hpx::components::abstract_fixed_component_base&lt; Component &gt;::get_component_type</definition>
+        <argsstring>()</argsstring>
+        <name>get_component_type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" line="97" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" bodystart="97" bodyend="100"/>
+      </memberdef>
+      <memberdef kind="function" id="da/dc2/classhpx_1_1components_1_1abstract__fixed__component__base_1aa47fd669e15342102b94497f030b454e" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void hpx::components::abstract_fixed_component_base&lt; Component &gt;::set_component_type</definition>
+        <argsstring>(component_type t)</argsstring>
+        <name>set_component_type</name>
+        <param>
+          <type><ref refid="d5/d76/namespacehpx_1_1components_1ad96e19b1e501dc557a7b67b68ee89f7e" kindref="member">component_type</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" line="102" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" bodystart="102" bodyend="105"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="95">
+        <label>hpx::traits::detail::fixed_component_tag</label>
+        <link refid="d6/d72/structhpx_1_1traits_1_1detail_1_1fixed__component__tag"/>
+      </node>
+      <node id="94">
+        <label>hpx::components::abstract_fixed_component_base&lt; Component &gt;</label>
+        <link refid="da/dc2/classhpx_1_1components_1_1abstract__fixed__component__base"/>
+        <childnode refid="95" relation="private-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="97">
+        <label>hpx::traits::detail::fixed_component_tag</label>
+        <link refid="d6/d72/structhpx_1_1traits_1_1detail_1_1fixed__component__tag"/>
+      </node>
+      <node id="96">
+        <label>hpx::components::abstract_fixed_component_base&lt; Component &gt;</label>
+        <link refid="da/dc2/classhpx_1_1components_1_1abstract__fixed__component__base"/>
+        <childnode refid="97" relation="private-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" line="88" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" bodystart="86" bodyend="106"/>
+    <listofallmembers>
+      <member refid="da/dc2/classhpx_1_1components_1_1abstract__fixed__component__base_1ac447989158cba8c08424d7532fec7e47" prot="public" virt="non-virtual"><scope>hpx::components::abstract_fixed_component_base</scope><name>base_type_holder</name></member>
+      <member refid="da/dc2/classhpx_1_1components_1_1abstract__fixed__component__base_1a291f96dc07d15ed32dd42fcfc02423e3" prot="public" virt="non-virtual"><scope>hpx::components::abstract_fixed_component_base</scope><name>get_component_type</name></member>
+      <member refid="da/dc2/classhpx_1_1components_1_1abstract__fixed__component__base_1a9a2cb798b694486b7467ed91d16beae5" prot="private" virt="non-virtual"><scope>hpx::components::abstract_fixed_component_base</scope><name>outer_wrapping_type</name></member>
+      <member refid="da/dc2/classhpx_1_1components_1_1abstract__fixed__component__base_1aa47fd669e15342102b94497f030b454e" prot="public" virt="non-virtual"><scope>hpx::components::abstract_fixed_component_base</scope><name>set_component_type</name></member>
+      <member refid="da/dc2/classhpx_1_1components_1_1abstract__fixed__component__base_1a978f5ed6aa536b8aed7f5552bb1ad5ec" prot="public" virt="virtual"><scope>hpx::components::abstract_fixed_component_base</scope><name>~abstract_fixed_component_base</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,5 @@
+<map id="hpx::agas::addressing_service::bind_local" name="hpx::agas::addressing_service::bind_local">
+<area shape="rect" id="node2" href="$d8/dcb/namespacehpx_1_1applier.html#a65b30e90067adab7066951084f779cf2" title="hpx::applier::bind\l_range_local" alt="" coords="204,5,325,47"/>
+<area shape="rect" id="node3" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="373,13,556,39"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="604,5,767,47"/>
+</map>

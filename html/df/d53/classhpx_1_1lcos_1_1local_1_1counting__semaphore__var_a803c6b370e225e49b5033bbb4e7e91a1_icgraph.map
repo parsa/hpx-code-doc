@@ -1,0 +1,5 @@
+<map id="hpx::lcos::local::counting_semaphore_var::wait" name="hpx::lcos::local::counting_semaphore_var::wait">
+<area shape="rect" id="node2" href="$df/de9/counting__semaphore_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="264,5,343,32"/>
+<area shape="rect" id="node3" href="$d3/d41/classhpx_1_1process_1_1process.html#acc7ec4687f3bf5ae121ef7b494d991d8" title="hpx.process.process.join" alt="" coords="220,56,387,83"/>
+<area shape="rect" id="node4" href="$d0/d20/classhpx_1_1threads_1_1executors_1_1detail_1_1thread__pool__executor.html#a985ac5d8e9202879fdfb64789caf44ea" title="hpx::threads::executors\l::detail::thread_pool\l_executor::~thread_pool\l_executor" alt="" coords="222,107,385,178"/>
+</map>

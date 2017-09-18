@@ -1,0 +1,7 @@
+<map id="jacobi::server::stencil_iterator::init" name="jacobi::server::stencil_iterator::init">
+<area shape="rect" id="node2" href="$d4/dc9/namespacehpx_1_1naming.html#a974088e9850b201443d067f94afd5020" title="hpx::naming::get_locality\l_from_id" alt="" coords="197,35,364,76"/>
+<area shape="rect" id="node5" href="$df/deb/structjacobi_1_1row.html#ab622fcd79a36b51af88363552dc490a9" title="jacobi::row::init" alt="" coords="226,101,335,127"/>
+<area shape="rect" id="node6" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="210,151,351,178"/>
+<area shape="rect" id="node3" href="$d4/dc9/namespacehpx_1_1naming.html#a70eba20e5dbbfcb7b61f3302a27fd2ea" title="hpx::naming::get_id\l_from_locality_id" alt="" coords="412,5,548,47"/>
+<area shape="rect" id="node4" href="$d4/dc9/namespacehpx_1_1naming.html#af568527a84c2ea192f494afa8a236e8c" title="hpx::naming::get_locality\l_id_from_id" alt="" coords="596,35,763,76"/>
+</map>

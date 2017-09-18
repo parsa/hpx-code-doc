@@ -1,0 +1,12 @@
+<map id="hpx::set_config_entry" name="hpx::set_config_entry">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="427,20,569,46"/>
+<area shape="rect" id="node4" href="$d0/d7b/classhpx_1_1runtime.html#a0bfe0241e54b1fe1dd4ec181d944de43" title="access configuration information " alt="" coords="208,41,369,68"/>
+<area shape="rect" id="node5" href="$dd/de4/classhpx_1_1util_1_1section.html#aeed5774f5ae714ca96c3d5e339043e7c" title="hpx::util::section\l::add_entry" alt="" coords="229,210,348,251"/>
+<area shape="rect" id="node6" href="$dd/ddc/jacobi__nonuniform_8cpp.html#a1d03047ddb8a18a032426a9522b0173b" title="add_entry" alt="" coords="459,188,537,214"/>
+<area shape="rect" id="node7" href="$d4/d2c/make__continuation__1615_8cpp.html#acbdae3e81403e1ffc527c18dc1cd51dd" title="to_string" alt="" coords="253,276,325,302"/>
+<area shape="rect" id="node9" href="$dd/da5/namespacehpx_1_1resource.html#af91354c369d9a22a00581d6b6da7d0ee" title="hpx::resource::get\l_partitioner" alt="" coords="225,92,352,134"/>
+<area shape="rect" id="node11" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a16fe01dd59b2c89bd556788b5713522e" title="hpx::resource::detail\l::partitioner::get_command\l_line_switches" alt="" coords="200,326,377,382"/>
+<area shape="rect" id="node3" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="619,12,781,54"/>
+<area shape="rect" id="node8" href="$d4/d2c/make__continuation__1615_8cpp.html#a8b2f8a7c58b490fcb1260f36bac46541" title="HPX_PLAIN_ACTION" alt="" coords="425,276,571,302"/>
+<area shape="rect" id="node10" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a2967c633948a3bf17a3b5405ef5a8318" title="hpx::util::static_::get" alt="" coords="427,100,569,126"/>
+</map>

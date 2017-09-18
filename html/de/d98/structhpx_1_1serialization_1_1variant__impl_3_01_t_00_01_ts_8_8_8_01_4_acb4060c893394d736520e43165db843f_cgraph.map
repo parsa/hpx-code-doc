@@ -1,0 +1,9 @@
+<map id="hpx::serialization::variant_impl&lt; T, Ts... &gt;::load" name="hpx::serialization::variant_impl&lt; T, Ts... &gt;::load">
+<area shape="rect" id="node2" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="474,71,513,98"/>
+<area shape="rect" id="node5" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="204,15,355,42"/>
+<area shape="rect" id="node7" href="$d5/d3c/namespacehpx_1_1serialization.html#a4f25225154ff39784d62d0dfafd319bb" title="hpx::serialization\l::load" alt="" coords="219,121,339,163"/>
+<area shape="rect" id="node3" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="632,71,719,98"/>
+<area shape="rect" id="node4" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="767,64,932,105"/>
+<area shape="rect" id="node6" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="433,5,553,47"/>
+<area shape="rect" id="node8" href="$d5/d3c/namespacehpx_1_1serialization.html#a9d7d87e5e581b834cc7e631444a67317" title="hpx::serialization\l::HPX_SERIALIZATION\l_SPLIT_FREE_TEMPLATE" alt="" coords="403,122,584,178"/>
+</map>

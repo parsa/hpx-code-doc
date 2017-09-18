@@ -1,0 +1,6 @@
+<map id="hpx::threads::coroutines::coroutine::operator bool" name="hpx::threads::coroutines::coroutine::operator bool">
+<area shape="rect" id="node2" href="$da/d2e/classhpx_1_1threads_1_1coroutines_1_1coroutine.html#a8efacac8a66c4fb0af3d0f49d5818798" title="hpx::threads::coroutines\l::coroutine::good" alt="" coords="220,71,383,112"/>
+<area shape="rect" id="node3" href="$da/d2e/classhpx_1_1threads_1_1coroutines_1_1coroutine.html#a1c0babd3302dbc019a5ec032a8b56aab" title="hpx::threads::coroutines\l::coroutine::empty" alt="" coords="431,5,593,47"/>
+<area shape="rect" id="node4" href="$da/d2e/classhpx_1_1threads_1_1coroutines_1_1coroutine.html#a810eaeb37de4195f495c1daf7554990a" title="hpx::threads::coroutines\l::coroutine::exited" alt="" coords="431,71,593,112"/>
+<area shape="rect" id="node5" href="$da/d2e/classhpx_1_1threads_1_1coroutines_1_1coroutine.html#a928499f5b48fd552ce84759e51f4ed7c" title="hpx::threads::coroutines\l::coroutine::waiting" alt="" coords="431,136,593,177"/>
+</map>

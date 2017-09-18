@@ -1,0 +1,8 @@
+<map id="hpx::lcos::local::detail::counting_semaphore::wait" name="hpx::lcos::local::detail::counting_semaphore::wait">
+<area shape="rect" id="node2" href="$df/d53/classhpx_1_1lcos_1_1local_1_1counting__semaphore__var.html#a803c6b370e225e49b5033bbb4e7e91a1" title="Wait for the semaphore to be signaled. " alt="" coords="253,79,419,121"/>
+<area shape="rect" id="node4" href="$d3/d41/classhpx_1_1process_1_1process.html#acc7ec4687f3bf5ae121ef7b494d991d8" title="hpx.process.process.join" alt="" coords="487,152,653,179"/>
+<area shape="rect" id="node6" href="$d3/d61/classhpx_1_1lcos_1_1local_1_1detail_1_1counting__semaphore.html#ac320439e96c0cda1540d408c75d26aa3" title="hpx::lcos::local::detail\l::counting_semaphore::try_wait" alt="" coords="235,203,437,245"/>
+<area shape="rect" id="node3" href="$df/de9/counting__semaphore_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="531,5,609,32"/>
+<area shape="rect" id="node5" href="$d0/d20/classhpx_1_1threads_1_1executors_1_1detail_1_1thread__pool__executor.html#a985ac5d8e9202879fdfb64789caf44ea" title="hpx::threads::executors\l::detail::thread_pool\l_executor::~thread_pool\l_executor" alt="" coords="489,57,651,127"/>
+<area shape="rect" id="node7" href="$df/d53/classhpx_1_1lcos_1_1local_1_1counting__semaphore__var.html#a81da6f6de5f9518e74768cde90d9d5b7" title="Try to wait for the semaphore to be signaled. " alt="" coords="485,203,655,245"/>
+</map>

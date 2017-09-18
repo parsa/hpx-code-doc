@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="dc/dee/classhpx_1_1components_1_1access__memory__block" kind="class" language="C++" prot="public">
+    <compoundname>hpx::components::access_memory_block</compoundname>
+    <includes refid="d6/d1f/memory__block_8hpp" local="no">memory_block.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>typename</type>
+        <declname>T</declname>
+        <defname>T</defname>
+      </param>
+    </templateparamlist>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="dc/dee/classhpx_1_1components_1_1access__memory__block_1a59e28e970d816de64cf17c9571e40ce0" prot="private" static="no">
+        <type>std::remove_const&lt; <ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref> &gt;::type</type>
+        <definition>typedef std::remove_const&lt;T&gt;::type hpx::components::access_memory_block&lt; T &gt;::target_type</definition>
+        <argsstring></argsstring>
+        <name>target_type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" line="203" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" bodystart="203" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="dc/dee/classhpx_1_1components_1_1access__memory__block_1aaa85a32bc677f9a1c1a4d3a082a4e2c4" prot="private" static="no" mutable="no">
+        <type><ref refid="d5/d76/classhpx_1_1components_1_1memory__block__data" kindref="compound">memory_block_data</ref></type>
+        <definition>memory_block_data hpx::components::access_memory_block&lt; T &gt;::mb_</definition>
+        <argsstring></argsstring>
+        <name>mb_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" line="269" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" bodystart="269" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="dc/dee/classhpx_1_1components_1_1access__memory__block_1aef68c30b0fcbd4472ee04901e438dd59" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>hpx::components::access_memory_block&lt; T &gt;::access_memory_block</definition>
+        <argsstring>()</argsstring>
+        <name>access_memory_block</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" line="206" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" bodystart="206" bodyend="207"/>
+      </memberdef>
+      <memberdef kind="function" id="dc/dee/classhpx_1_1components_1_1access__memory__block_1ab1706bc3e4c0d1b476be8ea74a53fc81" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>hpx::components::access_memory_block&lt; T &gt;::access_memory_block</definition>
+        <argsstring>(memory_block_data const &amp;mb)</argsstring>
+        <name>access_memory_block</name>
+        <param>
+          <type><ref refid="d5/d76/classhpx_1_1components_1_1memory__block__data" kindref="compound">memory_block_data</ref> const &amp;</type>
+          <declname>mb</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" line="208" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" bodystart="208" bodyend="210"/>
+      </memberdef>
+      <memberdef kind="function" id="dc/dee/classhpx_1_1components_1_1access__memory__block_1ab9399d831fc9dced829586015aa22323" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="dc/dee/classhpx_1_1components_1_1access__memory__block" kindref="compound">access_memory_block</ref> &amp;</type>
+        <definition>access_memory_block&amp; hpx::components::access_memory_block&lt; T &gt;::operator=</definition>
+        <argsstring>(memory_block_data const &amp;mb)</argsstring>
+        <name>operator=</name>
+        <param>
+          <type><ref refid="d5/d76/classhpx_1_1components_1_1memory__block__data" kindref="compound">memory_block_data</ref> const &amp;</type>
+          <declname>mb</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" line="212" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" bodystart="212" bodyend="216"/>
+      </memberdef>
+      <memberdef kind="function" id="dc/dee/classhpx_1_1components_1_1access__memory__block_1a2a381e62148ffb4900927802fff840b7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="db/d4c/classhpx_1_1components_1_1access__memory__block__proxy" kindref="compound">access_memory_block_proxy</ref>&lt; <ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref> &gt;</type>
+        <definition>access_memory_block_proxy&lt;T&gt; hpx::components::access_memory_block&lt; T &gt;::operator*</definition>
+        <argsstring>()</argsstring>
+        <name>operator*</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" line="219" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" bodystart="219" bodyend="222"/>
+      </memberdef>
+      <memberdef kind="function" id="dc/dee/classhpx_1_1components_1_1access__memory__block_1a617900494aa96a362b0ca0433d960d4d" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="db/d4c/classhpx_1_1components_1_1access__memory__block__proxy" kindref="compound">access_memory_block_proxy</ref>&lt; <ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref> const  &gt;</type>
+        <definition>access_memory_block_proxy&lt;T const&gt; hpx::components::access_memory_block&lt; T &gt;::operator*</definition>
+        <argsstring>() const</argsstring>
+        <name>operator*</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" line="223" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" bodystart="223" bodyend="226"/>
+      </memberdef>
+      <memberdef kind="function" id="dc/dee/classhpx_1_1components_1_1access__memory__block_1ab2e7ffc015c53c7f29d719abd5f5b261" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>target_type *</type>
+        <definition>target_type* hpx::components::access_memory_block&lt; T &gt;::operator-&gt;</definition>
+        <argsstring>()</argsstring>
+        <name>operator-&gt;</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" line="229" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" bodystart="229" bodyend="233"/>
+        <references refid="d2/d54/assert_8hpp_1a8d1e72f13bfab6a86ea41d879f6ce8c1" compoundref="d2/d54/assert_8hpp" startline="60">HPX_ASSERT</references>
+      </memberdef>
+      <memberdef kind="function" id="dc/dee/classhpx_1_1components_1_1access__memory__block_1a6eb759938acc1d7c2a4a5eec4b9fd613" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type>target_type const  *</type>
+        <definition>target_type const* hpx::components::access_memory_block&lt; T &gt;::operator-&gt;</definition>
+        <argsstring>() const</argsstring>
+        <name>operator-&gt;</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" line="234" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" bodystart="234" bodyend="238"/>
+        <references refid="d2/d54/assert_8hpp_1a8d1e72f13bfab6a86ea41d879f6ce8c1" compoundref="d2/d54/assert_8hpp" startline="60">HPX_ASSERT</references>
+      </memberdef>
+      <memberdef kind="function" id="dc/dee/classhpx_1_1components_1_1access__memory__block_1a61af1a3f402fe81ceb26410272c36bd0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>target_type *</type>
+        <definition>target_type* hpx::components::access_memory_block&lt; T &gt;::get_ptr</definition>
+        <argsstring>()</argsstring>
+        <name>get_ptr</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" line="241" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" bodystart="241" bodyend="245"/>
+        <references refid="d2/d54/assert_8hpp_1a8d1e72f13bfab6a86ea41d879f6ce8c1" compoundref="d2/d54/assert_8hpp" startline="60">HPX_ASSERT</references>
+      </memberdef>
+      <memberdef kind="function" id="dc/dee/classhpx_1_1components_1_1access__memory__block_1a1802bee288ca01896fad367e6f7c3d4a" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type>target_type const  *</type>
+        <definition>target_type const* hpx::components::access_memory_block&lt; T &gt;::get_ptr</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ptr</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" line="247" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" bodystart="247" bodyend="251"/>
+        <references refid="d2/d54/assert_8hpp_1a8d1e72f13bfab6a86ea41d879f6ce8c1" compoundref="d2/d54/assert_8hpp" startline="60">HPX_ASSERT</references>
+      </memberdef>
+      <memberdef kind="function" id="dc/dee/classhpx_1_1components_1_1access__memory__block_1af0c5ac0a2196f30a27e03a5d0f31f599" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>target_type &amp;</type>
+        <definition>target_type&amp; hpx::components::access_memory_block&lt; T &gt;::get</definition>
+        <argsstring>()</argsstring>
+        <name>get</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" line="254" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" bodystart="254" bodyend="258"/>
+        <references refid="d2/d54/assert_8hpp_1a8d1e72f13bfab6a86ea41d879f6ce8c1" compoundref="d2/d54/assert_8hpp" startline="60">HPX_ASSERT</references>
+      </memberdef>
+      <memberdef kind="function" id="dc/dee/classhpx_1_1components_1_1access__memory__block_1a870994326234f21da14c91fc97fba429" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type>target_type const  &amp;</type>
+        <definition>target_type const&amp; hpx::components::access_memory_block&lt; T &gt;::get</definition>
+        <argsstring>() const</argsstring>
+        <name>get</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" line="260" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" bodystart="260" bodyend="264"/>
+        <references refid="d2/d54/assert_8hpp_1a8d1e72f13bfab6a86ea41d879f6ce8c1" compoundref="d2/d54/assert_8hpp" startline="60">HPX_ASSERT</references>
+      </memberdef>
+      <memberdef kind="function" id="dc/dee/classhpx_1_1components_1_1access__memory__block_1ac8b8f5110ac64f5be25abbc4742f3f72" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="d5/d76/classhpx_1_1components_1_1memory__block__data" kindref="compound">memory_block_data</ref> const  &amp;</type>
+        <definition>memory_block_data const&amp; hpx::components::access_memory_block&lt; T &gt;::get_memory_block</definition>
+        <argsstring>() const</argsstring>
+        <name>get_memory_block</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" line="266" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" bodystart="266" bodyend="266"/>
+        <referencedby refid="d2/d46/structhpx_1_1components_1_1stubs_1_1memory__block_1ac46eb0661314e237f2f49c4ac6e354a4" compoundref="d2/d7e/stubs_2memory__block_8hpp" startline="116" endline="124">hpx::components::stubs::memory_block::checkin_async</referencedby>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" line="26" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/memory_block.hpp" bodystart="26" bodyend="-1"/>
+    <listofallmembers>
+      <member refid="dc/dee/classhpx_1_1components_1_1access__memory__block_1aef68c30b0fcbd4472ee04901e438dd59" prot="public" virt="non-virtual"><scope>hpx::components::access_memory_block</scope><name>access_memory_block</name></member>
+      <member refid="dc/dee/classhpx_1_1components_1_1access__memory__block_1ab1706bc3e4c0d1b476be8ea74a53fc81" prot="public" virt="non-virtual"><scope>hpx::components::access_memory_block</scope><name>access_memory_block</name></member>
+      <member refid="dc/dee/classhpx_1_1components_1_1access__memory__block_1af0c5ac0a2196f30a27e03a5d0f31f599" prot="public" virt="non-virtual"><scope>hpx::components::access_memory_block</scope><name>get</name></member>
+      <member refid="dc/dee/classhpx_1_1components_1_1access__memory__block_1a870994326234f21da14c91fc97fba429" prot="public" virt="non-virtual"><scope>hpx::components::access_memory_block</scope><name>get</name></member>
+      <member refid="dc/dee/classhpx_1_1components_1_1access__memory__block_1ac8b8f5110ac64f5be25abbc4742f3f72" prot="public" virt="non-virtual"><scope>hpx::components::access_memory_block</scope><name>get_memory_block</name></member>
+      <member refid="dc/dee/classhpx_1_1components_1_1access__memory__block_1a61af1a3f402fe81ceb26410272c36bd0" prot="public" virt="non-virtual"><scope>hpx::components::access_memory_block</scope><name>get_ptr</name></member>
+      <member refid="dc/dee/classhpx_1_1components_1_1access__memory__block_1a1802bee288ca01896fad367e6f7c3d4a" prot="public" virt="non-virtual"><scope>hpx::components::access_memory_block</scope><name>get_ptr</name></member>
+      <member refid="dc/dee/classhpx_1_1components_1_1access__memory__block_1aaa85a32bc677f9a1c1a4d3a082a4e2c4" prot="private" virt="non-virtual"><scope>hpx::components::access_memory_block</scope><name>mb_</name></member>
+      <member refid="dc/dee/classhpx_1_1components_1_1access__memory__block_1a2a381e62148ffb4900927802fff840b7" prot="public" virt="non-virtual"><scope>hpx::components::access_memory_block</scope><name>operator*</name></member>
+      <member refid="dc/dee/classhpx_1_1components_1_1access__memory__block_1a617900494aa96a362b0ca0433d960d4d" prot="public" virt="non-virtual"><scope>hpx::components::access_memory_block</scope><name>operator*</name></member>
+      <member refid="dc/dee/classhpx_1_1components_1_1access__memory__block_1ab2e7ffc015c53c7f29d719abd5f5b261" prot="public" virt="non-virtual"><scope>hpx::components::access_memory_block</scope><name>operator-&gt;</name></member>
+      <member refid="dc/dee/classhpx_1_1components_1_1access__memory__block_1a6eb759938acc1d7c2a4a5eec4b9fd613" prot="public" virt="non-virtual"><scope>hpx::components::access_memory_block</scope><name>operator-&gt;</name></member>
+      <member refid="dc/dee/classhpx_1_1components_1_1access__memory__block_1ab9399d831fc9dced829586015aa22323" prot="public" virt="non-virtual"><scope>hpx::components::access_memory_block</scope><name>operator=</name></member>
+      <member refid="dc/dee/classhpx_1_1components_1_1access__memory__block_1a59e28e970d816de64cf17c9571e40ce0" prot="private" virt="non-virtual"><scope>hpx::components::access_memory_block</scope><name>target_type</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

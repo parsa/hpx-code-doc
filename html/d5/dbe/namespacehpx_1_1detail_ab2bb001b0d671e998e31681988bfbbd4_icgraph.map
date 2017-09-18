@@ -1,0 +1,5 @@
+<map id="hpx::detail::get_affinity_description" name="hpx::detail::get_affinity_description">
+<area shape="rect" id="node2" href="$d7/d9b/structhpx_1_1threads_1_1policies_1_1detail_1_1affinity__data.html#af1b5d1af92b58e065b42048f9114f107" title="hpx::threads::policies\l::detail::affinity_data::init" alt="" coords="218,5,381,47"/>
+<area shape="rect" id="node4" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#a06b54e28bef5baacf1e8bff34adac4d0" title="hpx::threads::threadmanager\l::create_pools" alt="" coords="205,71,393,112"/>
+<area shape="rect" id="node3" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a8319dd5018945e7d493f7a6d88a6ca02" title="hpx::resource::detail\l::partitioner::parse" alt="" coords="441,5,581,47"/>
+</map>

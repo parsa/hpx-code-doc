@@ -1,0 +1,7 @@
+<map id="set_description" name="set_description">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#a55d8618440b2770d27c9a3b0409cc458" title="hpx::threads::set_thread\l_description" alt="" coords="165,5,327,47"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#afafe0f900b9fac3d4ed3c747625c1cfe" title="hpx::threads::get_self_id" alt="" coords="164,71,328,98"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="376,13,551,39"/>
+<area shape="rect" id="node5" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="379,71,548,98"/>
+<area shape="rect" id="node6" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="599,71,745,98"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="hpx::runtime_impl::get_id_pool" name="hpx::runtime_impl::get_id_pool">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a70e0fdd6c4daa17767b9d1bf6d25d813" title="hpx::keep_factory_alive" alt="" coords="187,71,344,98"/>
+<area shape="rect" id="node6" href="$d8/d83/namespacehpx.html#a028d0bc1a7bf003e699001e1321d8d11" title="hpx::get_thread_pool" alt="" coords="194,189,337,215"/>
+<area shape="rect" id="node9" href="$d8/d83/namespacehpx.html#a0bdf7871dfff58e68ae5eab9af23f2aa" title="hpx::register_thread" alt="" coords="197,134,334,161"/>
+<area shape="rect" id="node11" href="$d8/d83/namespacehpx.html#ae6fab9f567417d9f1fa0772537b5dc2b" title="hpx::unregister_thread" alt="" coords="190,334,341,361"/>
+<area shape="rect" id="node13" href="$d8/d83/namespacehpx.html#a725008903204988ebda872abebdfdc7a" title="hpx::get_notification\l_policy" alt="" coords="196,240,335,281"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="419,71,560,98"/>
+<area shape="rect" id="node5" href="$d0/d7b/classhpx_1_1runtime.html#a794bbb2a684418c61eef7a562f04325e" title="hpx::runtime::keep\l_factory_alive" alt="" coords="424,5,555,47"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="635,64,797,105"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="430,239,549,266"/>
+<area shape="rect" id="node8" href="$d0/d7b/classhpx_1_1runtime.html#abd3bbc942910f9c7800f1ba9ffc4c0c2" title="hpx::runtime::get_thread_pool" alt="" coords="392,189,587,215"/>
+<area shape="rect" id="node10" href="$d0/d7b/classhpx_1_1runtime.html#a7d70f896b57248c228b504e9062f043c" title="Register an external OS&#45;thread with HPX. " alt="" coords="417,123,562,164"/>
+<area shape="rect" id="node12" href="$d0/d7b/classhpx_1_1runtime.html#afa6e1a3ce0a0d8a5d17560e9ae8ae77f" title="Unregister an external OS&#45;thread with HPX. " alt="" coords="410,356,569,397"/>
+<area shape="rect" id="node14" href="$d0/d7b/classhpx_1_1runtime.html#a76e14728fb198e108e1d7830dbeb5f08" title="hpx::runtime::get_notification\l_policy" alt="" coords="395,291,584,332"/>
+</map>

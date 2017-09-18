@@ -1,0 +1,13 @@
+digraph "stepper::heat_part_data"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node530 [label="stepper::heat_part_data",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node530 -> Node531 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node531 [label="partition_data::size",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d97/structpartition__data.html#a4fba3ef8b0d3058a6d6b37718202b9ab"];
+  Node530 -> Node532 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node532 [label="hpx::parallel::v1::\ldetail::next",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#a0a6696d8c17a32b8ebfaa496b9ab3332"];
+  Node532 -> Node533 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node533 [label="hpx::parallel::v1::\ldetail::calculate_distance::call",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/dfa/structhpx_1_1parallel_1_1v1_1_1detail_1_1calculate__distance.html#a950a6627830a7d019ac0e734b0a447bf"];
+}

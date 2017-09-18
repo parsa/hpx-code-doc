@@ -1,0 +1,9 @@
+<map id="hpx::serialization::output_archive::bytes_written" name="hpx::serialization::output_archive::bytes_written">
+<area shape="rect" id="node2" href="$de/d58/file__serialization_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="263,5,313,32"/>
+<area shape="rect" id="node3" href="$db/d4a/serialization__vector_8cpp.html#ad402ad5e57054a884c607f2dd5bdb4e5" title="test" alt="" coords="266,56,310,83"/>
+<area shape="rect" id="node4" href="$db/d4a/serialization__vector_8cpp.html#a1562c7873e81687d6bf131c9993a198d" title="test_fp" alt="" coords="257,107,319,133"/>
+<area shape="rect" id="node5" href="$d4/dea/zero__copy__serialization_8cpp.html#a169330aa77c78eb70d3ed75a7a8e7576" title="test_parcel_serialization" alt="" coords="207,157,369,184"/>
+<area shape="rect" id="node6" href="$d4/dea/zero__copy__serialization_8cpp.html#aba21b7c3d321648638f268e088f757fa" title="test_normal_serialization" alt="" coords="427,132,594,159"/>
+<area shape="rect" id="node8" href="$d4/dea/zero__copy__serialization_8cpp.html#abe7516b587abbdf4c789b5b351ee6330" title="test_zero_copy_serialization" alt="" coords="417,183,604,209"/>
+<area shape="rect" id="node7" href="$d4/dea/zero__copy__serialization_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="652,157,731,184"/>
+</map>

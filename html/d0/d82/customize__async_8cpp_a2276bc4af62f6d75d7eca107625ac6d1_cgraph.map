@@ -1,0 +1,8 @@
+<map id="run_with_high_priority" name="run_with_high_priority">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#a9c6b2fec0c1cf5b06ff83ce756ca6d42" title="hpx::threads::get_thread\l_priority_name" alt="" coords="200,5,363,47"/>
+<area shape="rect" id="node3" href="$d9/d52/namespacehpx_1_1this__thread.html#ab49ad5fcd17d3b4f0aba65ba15db23f1" title="hpx::this_thread::get\l_priority" alt="" coords="211,71,352,112"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#ac200e4ded92585c732c4d8bd5a0c8d5f" title="hpx::threads::get_thread\l_priority" alt="" coords="411,41,574,83"/>
+<area shape="rect" id="node5" href="$d7/d28/namespacehpx_1_1threads.html#afafe0f900b9fac3d4ed3c747625c1cfe" title="hpx::threads::get_self_id" alt="" coords="411,107,575,134"/>
+<area shape="rect" id="node6" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="623,107,792,134"/>
+<area shape="rect" id="node7" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="840,107,987,134"/>
+</map>

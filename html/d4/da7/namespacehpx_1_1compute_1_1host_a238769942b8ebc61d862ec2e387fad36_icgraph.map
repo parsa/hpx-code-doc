@@ -1,0 +1,9 @@
+<map id="hpx::compute::host::get_local_targets" name="hpx::compute::host::get_local_targets">
+<area shape="rect" id="node2" href="$d4/da7/namespacehpx_1_1compute_1_1host.html#a4245026cb24f42b34b7e2b19a158675f" title="hpx::compute::host\l::get_targets" alt="" coords="197,27,331,69"/>
+<area shape="rect" id="node5" href="$da/d5f/stream_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="225,93,303,120"/>
+<area shape="rect" id="node6" href="$d9/d46/structhpx_1_1compute_1_1host_1_1target.html#a9de14ce81878c25554e9fba447b39e77" title="hpx::compute::host\l::target::get_local\l_targets" alt="" coords="197,144,331,200"/>
+<area shape="rect" id="node7" href="$db/d72/structhpx_1_1compute_1_1detail_1_1target__distribution__policy.html#ad226e2886f92e3bb62722a937d577224" title="hpx::compute::detail\l::target_distribution\l_policy\&lt; host::target\l \&gt;::get_next_target" alt="" coords="193,225,335,295"/>
+<area shape="rect" id="node8" href="$db/d72/structhpx_1_1compute_1_1detail_1_1target__distribution__policy.html#ac9e72095f6f4e2104d7baeea016c6731" title="hpx::compute::detail\l::target_distribution\l_policy\&lt; host::target\l \&gt;::get_num_partitions" alt="" coords="188,319,340,390"/>
+<area shape="rect" id="node3" href="$d9/dd1/partitioned__vector__target_8cpp.html#a6d87fc781021613fc9f4ff247fbd5c86" title="allocation_tests" alt="" coords="399,5,513,32"/>
+<area shape="rect" id="node4" href="$d9/d46/structhpx_1_1compute_1_1host_1_1target.html#a49590aa5b04c3aaec68e14a716e8b36c" title="hpx::compute::host\l::target::get_targets" alt="" coords="388,57,524,98"/>
+</map>

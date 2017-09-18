@@ -1,0 +1,11 @@
+<map id="test_partition_bad_alloc" name="test_partition_bad_alloc">
+<area shape="rect" id="node2" href="$df/dd8/partition__tests_8hpp.html#a765fabc35bd245f88fdda3ec78b2b7ca" title="test_partition_bad\l_alloc" alt="" coords="179,72,304,113"/>
+<area shape="rect" id="node10" href="$df/dd8/partition__tests_8hpp.html#aa65f1a0ce9071f010b859e3366ec2f39" title="test_partition_bad\l_alloc_async" alt="" coords="179,137,304,178"/>
+<area shape="rect" id="node3" href="$df/d04/namespacetest.html#abdbbc37e6fb67287495e853a554c493a" title="test::iota" alt="" coords="352,119,425,146"/>
+<area shape="rect" id="node4" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#a31e165df2b865cdd961f35ce938db41a" title="hpx::util::detail::\lrange_impl::begin" alt="" coords="473,118,597,160"/>
+<area shape="rect" id="node5" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#afb2ea48b0902f52ee4d8b764807b4316" title="hpx::util::detail::\lrange_impl::end" alt="" coords="478,53,593,94"/>
+<area shape="rect" id="node6" href="$d3/d1e/quicksort_8cpp.html#a036bce8f1d8715bef11fc9c9fe2854da" title="partition" alt="" coords="355,170,423,196"/>
+<area shape="rect" id="node7" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="516,184,555,211"/>
+<area shape="rect" id="node8" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="645,184,732,211"/>
+<area shape="rect" id="node9" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="780,177,945,218"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="reduce.hpp" name="reduce.hpp">
+<area shape="rect" id="node2" href="$d4/d04/parallel__reduce_8hpp.html" title="parallel_reduce.hpp" alt="" coords="117,155,251,181"/>
+<area shape="rect" id="node5" href="$de/dd5/numeric_8hpp.html" title="numeric.hpp" alt="" coords="611,80,704,107"/>
+<area shape="rect" id="node15" href="$d8/d1a/parallel_2segmented__algorithms_2reduce_8hpp.html" title="reduce.hpp" alt="" coords="222,80,309,107"/>
+<area shape="rect" id="node3" href="$d5/d03/reduce___8cpp.html" title="reduce_.cpp" alt="" coords="5,237,99,263"/>
+<area shape="rect" id="node4" href="$d0/d35/partitioned__vector__reduce_8cpp.html" title="partitioned_vector\l_reduce.cpp" alt="" coords="123,229,245,271"/>
+<area shape="rect" id="node6" href="$d9/db1/parallel__numeric_8hpp.html" title="parallel_numeric.hpp" alt="" coords="863,155,1004,181"/>
+<area shape="rect" id="node7" href="$df/de9/vector__counting__dotproduct_8cpp.html" title="vector_counting_dotproduct.cpp" alt="" coords="269,237,475,263"/>
+<area shape="rect" id="node8" href="$dc/d18/vector__zip__dotproduct_8cpp.html" title="vector_zip_dotproduct.cpp" alt="" coords="499,237,672,263"/>
+<area shape="rect" id="node9" href="$de/d68/transpose__await_8cpp.html" title="transpose_await.cpp" alt="" coords="696,237,837,263"/>
+<area shape="rect" id="node10" href="$d0/de1/transpose__block_8cpp.html" title="transpose_block.cpp" alt="" coords="862,237,1005,263"/>
+<area shape="rect" id="node11" href="$dd/d3b/transpose__block__numa_8cpp.html" title="transpose_block_numa.cpp" alt="" coords="1029,237,1211,263"/>
+<area shape="rect" id="node12" href="$d2/d99/transpose__smp_8cpp.html" title="transpose_smp.cpp" alt="" coords="1235,237,1371,263"/>
+<area shape="rect" id="node13" href="$da/d4d/transpose__smp__block_8cpp.html" title="transpose_smp_block.cpp" alt="" coords="1395,237,1570,263"/>
+<area shape="rect" id="node14" href="$db/d2a/transform__reduce__scaling_8cpp.html" title="transform_reduce_scaling.cpp" alt="" coords="1595,237,1789,263"/>
+</map>

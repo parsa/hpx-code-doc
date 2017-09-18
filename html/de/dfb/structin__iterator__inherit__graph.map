@@ -1,0 +1,5 @@
+<map id="in_iterator&lt; T &gt;" name="in_iterator&lt; T &gt;">
+<area shape="rect" id="node2" href="$dd/d31/classhpx_1_1util_1_1iterator__adaptor.html" title="hpx::util::iterator\l_adaptor\&lt; in_iterator\l\&lt; T \&gt;, tests::input_iterator\l_archetype_no_proxy\&lt; T \&gt; \&gt;" alt="" coords="487,20,676,91"/>
+<area shape="rect" id="node3" href="$db/d7c/structhpx_1_1util_1_1iterator__facade.html" title="hpx::util::detail::\literator_adaptor_base\l\&lt; in_iterator\&lt; T \&gt; , tests\l::input_iterator_archetype\l_no_proxy\&lt; T \&gt; , void , void\l , void , void , void &#160;\&gt;::type" alt="" coords="257,5,439,105"/>
+<area shape="rect" id="node4" href="$d5/d11/classhpx_1_1util_1_1detail_1_1iterator__facade__base.html" title="hpx::util::detail::\literator_facade_base\l\&lt; Derived, T, Category,\l Reference, Distance, Pointer \&gt;" alt="" coords="5,20,209,91"/>
+</map>

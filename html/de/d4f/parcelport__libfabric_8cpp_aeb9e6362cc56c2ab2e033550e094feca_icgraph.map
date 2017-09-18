@@ -1,0 +1,5 @@
+<map id="HPX_REGISTER_PARCELPORT" name="HPX_REGISTER_PARCELPORT">
+<area shape="rect" id="node2" href="$dc/d91/structhpx_1_1parcelset_1_1policies_1_1libfabric_1_1parcelport.html#a1299b9b7cabee8bb18d010da1a81cfe7" title="hpx::parcelset::policies\l::libfabric::parcelport\l::background_work" alt="" coords="267,5,423,61"/>
+<area shape="rect" id="node3" href="$dc/d91/structhpx_1_1parcelset_1_1policies_1_1libfabric_1_1parcelport.html#a48c9362bdf1151cfa23edd3f9b16361c" title="hpx::parcelset::policies\l::libfabric::parcelport\l::io_service_work" alt="" coords="471,5,627,61"/>
+<area shape="rect" id="node4" href="$dc/d91/structhpx_1_1parcelset_1_1policies_1_1libfabric_1_1parcelport.html#a6e57ffdf7bb6390a115e6a1cde9872c5" title="hpx::parcelset::policies\l::libfabric::parcelport\l::do_run" alt="" coords="675,5,831,61"/>
+</map>

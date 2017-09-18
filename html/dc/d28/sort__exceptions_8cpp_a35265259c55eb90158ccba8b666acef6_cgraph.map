@@ -1,0 +1,15 @@
+<map id="test_exceptions" name="test_exceptions">
+<area shape="rect" id="node2" href="$d8/d97/sort__tests_8hpp.html#aae163a7ad9beb8083ffd5e80bb6a0d0b" title="test_sort_exception" alt="" coords="168,193,304,219"/>
+<area shape="rect" id="node13" href="$d8/d97/sort__tests_8hpp.html#afdf2470e718f1a267cbe48f0bc8b6982" title="test_sort_exception\l_async" alt="" coords="168,244,304,285"/>
+<area shape="rect" id="node3" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="404,146,443,173"/>
+<area shape="rect" id="node6" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#ae1153bd13c544f90055c5ca181145297" title="hpx::parallel::v1::sort" alt="" coords="352,197,495,223"/>
+<area shape="rect" id="node4" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="543,67,629,94"/>
+<area shape="rect" id="node5" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="677,5,843,47"/>
+<area shape="rect" id="node7" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="565,173,607,199"/>
+<area shape="rect" id="node8" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="723,223,797,250"/>
+<area shape="rect" id="node9" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="687,71,833,98"/>
+<area shape="rect" id="node10" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="724,122,796,149"/>
+<area shape="rect" id="node11" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="945,177,1031,203"/>
+<area shape="rect" id="node12" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="891,111,1085,152"/>
+<area shape="rect" id="node14" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="353,325,494,351"/>
+</map>

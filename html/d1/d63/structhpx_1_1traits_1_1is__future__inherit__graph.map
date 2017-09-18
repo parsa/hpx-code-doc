@@ -1,0 +1,6 @@
+<map id="hpx::traits::is_future&lt; Future &gt;" name="hpx::traits::is_future&lt; Future &gt;">
+<area shape="rect" id="node4" href="$d5/def/structhpx_1_1lcos_1_1detail_1_1is__future__or__shared__state.html" title="hpx::lcos::detail::\lis_future_or_shared\l_state\&lt; Future \&gt;" alt="" coords="571,5,706,61"/>
+<area shape="rect" id="node5" href="$d0/d29/structhpx_1_1traits_1_1is__ref__wrapped__future_3_01boost_1_1reference__wrapper_3_01_future_01_4_01_4.html" title="hpx::traits::is_ref\l_wrapped_future\&lt; boost\l::reference_wrapper\&lt; Future \&gt; \&gt;" alt="" coords="535,85,743,141"/>
+<area shape="rect" id="node6" href="$d3/dcd/structhpx_1_1traits_1_1is__ref__wrapped__future_3_01std_1_1reference__wrapper_3_01_future_01_4_01_4.html" title="hpx::traits::is_ref\l_wrapped_future\&lt; std\l::reference_wrapper\&lt;\l Future \&gt; \&gt;" alt="" coords="565,166,712,237"/>
+<area shape="rect" id="node2" href="$d9/d0b/structhpx_1_1traits_1_1detail_1_1is__future__customization__point.html" title="hpx::traits::detail\l::is_future_customization\l_point\&lt; Future \&gt;" alt="" coords="135,85,301,141"/>
+</map>

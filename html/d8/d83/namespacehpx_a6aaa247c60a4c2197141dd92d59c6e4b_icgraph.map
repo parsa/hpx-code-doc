@@ -1,0 +1,11 @@
+<map id="hpx::terminate" name="hpx::terminate">
+<area shape="rect" id="node2" href="$d5/dc2/classhpx_1_1components_1_1process_1_1server_1_1child.html#ae6e81db9c99fa1a70f22170c42d86afe" title="hpx::components::process\l::server::child::child" alt="" coords="174,5,350,47"/>
+<area shape="rect" id="node3" href="$da/dc7/structhpx_1_1parallel_1_1util_1_1detail_1_1handle__local__exceptions_3_01execution_1_1parallel__unsequenced__policy_01_4.html#a9d246df10fd3ea1096882ccf938af51c" title="hpx::parallel::util\l::detail::handle_local\l_exceptions\&lt; execution\l::parallel_unsequenced\l_policy \&gt;::call" alt="" coords="182,71,342,157"/>
+<area shape="rect" id="node4" href="$d2/d07/structhpx_1_1parallel_1_1util_1_1detail_1_1handle__remote__exceptions_3_01execution_1_1parallel__unsequenced__policy_01_4.html#a06be9e734671973cf02dde0f1052115f" title="hpx::parallel::util\l::detail::handle_remote\l_exceptions\&lt; execution\l::parallel_unsequenced_policy\l \&gt;::call" alt="" coords="164,181,360,266"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#adadfe0973783fa126afca52feda59529" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="217,290,307,317"/>
+<area shape="rect" id="node6" href="$d9/dc4/classhpx_1_1util_1_1detail_1_1interval__timer.html#af12950eb0bf44b39c6b1eb11fcb3cd7c" title="hpx::util::detail::\linterval_timer::is_terminated" alt="" coords="170,341,354,383"/>
+<area shape="rect" id="node7" href="$d5/d67/classhpx_1_1process_1_1process__group.html#adcfb796ea57830ecf0c854f89e10f7b0" title="hpx.process.process\l_group.join_all" alt="" coords="191,407,333,448"/>
+<area shape="rect" id="node9" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#ab76dc3ec60d4ceeb7e52494c307a7cfd" title="hpx::components::stubs\l::runtime_support::create\l_memory_block" alt="" coords="179,473,345,529"/>
+<area shape="rect" id="node10" href="$de/d5c/runtime__support__server_8cpp.html#a2c7fd60adfab122ae67b173ad73fc706" title="HPX_REGISTER_BROADCAST\l_ACTION_ID" alt="" coords="159,553,365,595"/>
+<area shape="rect" id="node8" href="$d5/d67/classhpx_1_1process_1_1process__group.html#a9250808f2c832dbcce173126d1df9106" title="hpx.process.process\l_group.read_all" alt="" coords="413,407,556,448"/>
+</map>

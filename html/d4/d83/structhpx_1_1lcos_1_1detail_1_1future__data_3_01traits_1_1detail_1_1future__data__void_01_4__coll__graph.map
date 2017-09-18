@@ -1,0 +1,5 @@
+<map id="hpx::lcos::detail::future_data&lt; traits::detail::future_data_void &gt;" name="hpx::lcos::detail::future_data&lt; traits::detail::future_data_void &gt;">
+<area shape="rect" id="node2" href="$da/d11/structhpx_1_1lcos_1_1detail_1_1future__data__refcnt__base.html" title="hpx::lcos::detail::\lfuture_data_refcnt_base" alt="" coords="5,95,165,136"/>
+<area shape="rect" id="node3" href="$dc/d59/classhpx_1_1util_1_1atomic__count.html" title="hpx::util::atomic_count" alt="" coords="8,5,163,32"/>
+<area shape="rect" id="node4" href="$da/dbc/structhpx_1_1lcos_1_1local_1_1spinlock.html" title="boost::mutex&#45;compatible spinlock class " alt="" coords="190,102,357,129"/>
+</map>

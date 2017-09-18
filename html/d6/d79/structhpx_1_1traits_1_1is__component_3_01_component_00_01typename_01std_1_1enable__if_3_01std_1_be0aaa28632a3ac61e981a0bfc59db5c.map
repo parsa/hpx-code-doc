@@ -1,0 +1,2 @@
+<map id="hpx::traits::is_component&lt; Component, typename std::enable_if&lt; std::is_base_of&lt; detail::component_tag, Component &gt;::value &gt;::type &gt;" name="hpx::traits::is_component&lt; Component, typename std::enable_if&lt; std::is_base_of&lt; detail::component_tag, Component &gt;::value &gt;::type &gt;">
+</map>

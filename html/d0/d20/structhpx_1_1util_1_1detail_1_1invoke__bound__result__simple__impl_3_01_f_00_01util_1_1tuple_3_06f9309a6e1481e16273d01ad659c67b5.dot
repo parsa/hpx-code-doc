@@ -1,0 +1,22 @@
+digraph "hpx::util::detail::invoke_bound_result_simple_impl&lt; F, util::tuple&lt; Ts... &gt; &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node8 [label="hpx::util::detail::\linvoke_bound_result\l_simple_impl\< F, util\l::tuple\< Ts... \> \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node9 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="hpx::util::invoke_result\l\< F &, Ts &... \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/df1/structhpx_1_1util_1_1invoke__result.html"];
+  Node10 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="hpx::util::detail::\lresult_of_impl\< std\l::decay\< F & \>::type,\l F & &&(Ts &&...)\>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbd/structhpx_1_1util_1_1detail_1_1result__of__impl.html"];
+  Node11 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="hpx::util::detail::\lresult_of_function_object\l_impl::result_of_function\l_object\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/db3/structhpx_1_1util_1_1detail_1_1result__of__function__object__impl_1_1result__of__function__object.html"];
+  Node12 -> Node9 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< F &, Ts &... \>" ,fontname="Helvetica"];
+  Node12 [label="hpx::util::invoke_result\l\< F, Ts \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/df1/structhpx_1_1util_1_1invoke__result.html"];
+  Node13 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="hpx::util::detail::\lresult_of_impl\< std\l::decay\< F \>::type, F\l &&(Ts &&...)\>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbd/structhpx_1_1util_1_1detail_1_1result__of__impl.html"];
+  Node14 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="hpx::util::detail::\lresult_of_function_object\l_impl::result_of_function\l_object\< F && \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/db3/structhpx_1_1util_1_1detail_1_1result__of__function__object__impl_1_1result__of__function__object.html"];
+  Node15 -> Node13 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< std::decay\< F \>::\ltype, F &&(Ts &&...)\>" ,fontname="Helvetica"];
+  Node15 [label="hpx::util::detail::\lresult_of_impl\< FD, T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbd/structhpx_1_1util_1_1detail_1_1result__of__impl.html"];
+  Node11 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

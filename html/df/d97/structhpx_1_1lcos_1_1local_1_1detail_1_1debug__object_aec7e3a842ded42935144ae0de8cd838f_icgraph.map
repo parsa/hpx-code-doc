@@ -1,0 +1,4 @@
+<map id="hpx::lcos::local::detail::debug_object::check" name="hpx::lcos::local::detail::debug_object::check">
+<area shape="rect" id="node2" href="$d4/dde/structhpx_1_1lcos_1_1local_1_1stage__task__cleanup.html#a16b5f82aaa95171f752d678955659732" title="hpx::lcos::local::stage\l_task_cleanup::~stage\l_task_cleanup" alt="" coords="215,5,370,61"/>
+<area shape="rect" id="node3" href="$df/d42/structhpx_1_1lcos_1_1local_1_1run__composable__cleanup.html#ac01beb3caa8761c43c0b1be51d8c97a6" title="hpx::lcos::local::run\l_composable_cleanup::\l~run_composable_cleanup" alt="" coords="204,85,381,141"/>
+</map>

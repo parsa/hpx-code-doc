@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d7/dd0/classhpx_1_1threads_1_1coroutines_1_1abnormal__exit" kind="class" language="C++" prot="public">
+    <compoundname>hpx::threads::coroutines::abnormal_exit</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">exception</basecompoundref>
+    <includes refid="d8/d05/runtime_2threads_2coroutines_2exception_8hpp" local="no">exception.hpp</includes>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="d7/dd0/classhpx_1_1threads_1_1coroutines_1_1abnormal__exit_1a4725d24cc08622e324ad0ab0d77b94e1" prot="private" static="no" mutable="no">
+        <type>std::type_info const  &amp;</type>
+        <definition>std::type_info const&amp; hpx::threads::coroutines::abnormal_exit::m_e</definition>
+        <argsstring></argsstring>
+        <name>m_e</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/threads/coroutines/exception.hpp" line="82" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/threads/coroutines/exception.hpp" bodystart="82" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d7/dd0/classhpx_1_1threads_1_1coroutines_1_1abnormal__exit_1a7361c2eab9790549c45f3df064d416c1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>hpx::threads::coroutines::abnormal_exit::abnormal_exit</definition>
+        <argsstring>(std::type_info const &amp;e)</argsstring>
+        <name>abnormal_exit</name>
+        <param>
+          <type>std::type_info const &amp;</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/threads/coroutines/exception.hpp" line="68" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/threads/coroutines/exception.hpp" bodystart="68" bodyend="68"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/dd0/classhpx_1_1threads_1_1coroutines_1_1abnormal__exit_1a5b6f5cc6dd0d6ea53bccf1aa4e0ecad1" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type>char const  *</type>
+        <definition>char const* hpx::threads::coroutines::abnormal_exit::what</definition>
+        <argsstring>() const</argsstring>
+        <name>what</name>
+        <exceptions> throw ()</exceptions>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/threads/coroutines/exception.hpp" line="70" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/threads/coroutines/exception.hpp" bodystart="70" bodyend="74"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/dd0/classhpx_1_1threads_1_1coroutines_1_1abnormal__exit_1adb35c2d03f601941fda53d397cb07b6a" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type>std::type_info const  &amp;</type>
+        <definition>std::type_info const&amp; hpx::threads::coroutines::abnormal_exit::type</definition>
+        <argsstring>() const</argsstring>
+        <name>type</name>
+        <exceptions> throw ()</exceptions>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/threads/coroutines/exception.hpp" line="76" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/threads/coroutines/exception.hpp" bodystart="76" bodyend="79"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="57">
+        <label>hpx::threads::coroutines::abnormal_exit</label>
+        <link refid="d7/dd0/classhpx_1_1threads_1_1coroutines_1_1abnormal__exit"/>
+        <childnode refid="58" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="58">
+        <label>std::exception</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="59">
+        <label>hpx::threads::coroutines::abnormal_exit</label>
+        <link refid="d7/dd0/classhpx_1_1threads_1_1coroutines_1_1abnormal__exit"/>
+        <childnode refid="60" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="60">
+        <label>std::exception</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/threads/coroutines/exception.hpp" line="66" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/threads/coroutines/exception.hpp" bodystart="65" bodyend="83"/>
+    <listofallmembers>
+      <member refid="d7/dd0/classhpx_1_1threads_1_1coroutines_1_1abnormal__exit_1a7361c2eab9790549c45f3df064d416c1" prot="public" virt="non-virtual"><scope>hpx::threads::coroutines::abnormal_exit</scope><name>abnormal_exit</name></member>
+      <member refid="d7/dd0/classhpx_1_1threads_1_1coroutines_1_1abnormal__exit_1a4725d24cc08622e324ad0ab0d77b94e1" prot="private" virt="non-virtual"><scope>hpx::threads::coroutines::abnormal_exit</scope><name>m_e</name></member>
+      <member refid="d7/dd0/classhpx_1_1threads_1_1coroutines_1_1abnormal__exit_1adb35c2d03f601941fda53d397cb07b6a" prot="public" virt="non-virtual"><scope>hpx::threads::coroutines::abnormal_exit</scope><name>type</name></member>
+      <member refid="d7/dd0/classhpx_1_1threads_1_1coroutines_1_1abnormal__exit_1a5b6f5cc6dd0d6ea53bccf1aa4e0ecad1" prot="public" virt="non-virtual"><scope>hpx::threads::coroutines::abnormal_exit</scope><name>what</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

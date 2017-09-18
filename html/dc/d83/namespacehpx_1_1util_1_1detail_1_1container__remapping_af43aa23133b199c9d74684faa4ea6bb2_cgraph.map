@@ -1,0 +1,12 @@
+<map id="hpx::util::detail::container_remapping::remap" name="hpx::util::detail::container_remapping::remap">
+<area shape="rect" id="node2" href="$dc/d83/namespacehpx_1_1util_1_1detail_1_1container__remapping.html#a62a3e4918be4f03dcebf58095f758dbd" title="Remap the container to zero arguments. " alt="" coords="196,145,339,201"/>
+<area shape="rect" id="node9" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="451,225,490,251"/>
+<area shape="rect" id="node3" href="$dc/d83/namespacehpx_1_1util_1_1detail_1_1container__remapping.html#ad97196adab454793e6ec6645af508c4b" title="hpx::util::detail::\lcontainer_remapping\l::container_accessor_of" alt="" coords="391,27,551,83"/>
+<area shape="rect" id="node7" href="$d7/d9f/cxx11__rvalue__references_8cpp.html#af7915b786893359294d506dd7f4c6508" title="forward" alt="" coords="439,107,502,134"/>
+<area shape="rect" id="node8" href="$d3/d60/namespacehpx_1_1util_1_1detail_1_1spreading.html#a00d25f8d807c32a619162a3d1f09e488" title="hpx::util::detail::\lspreading::empty_spread" alt="" coords="387,159,555,200"/>
+<area shape="rect" id="node4" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="603,13,753,39"/>
+<area shape="rect" id="node6" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#a31e165df2b865cdd961f35ce938db41a" title="hpx::util::detail::\lrange_impl::begin" alt="" coords="616,64,740,105"/>
+<area shape="rect" id="node5" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="824,5,944,47"/>
+<area shape="rect" id="node10" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="635,225,721,251"/>
+<area shape="rect" id="node11" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="801,217,967,259"/>
+</map>

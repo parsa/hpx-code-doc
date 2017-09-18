@@ -1,0 +1,4 @@
+<map id="hpx::lcos::detail::intrusive_ptr_release" name="hpx::lcos::detail::intrusive_ptr_release">
+<area shape="rect" id="node2" href="$da/d11/structhpx_1_1lcos_1_1detail_1_1future__data__refcnt__base.html#ace7f78a871903ef1d017ea1190614fee" title="hpx::lcos::detail::\lfuture_data_refcnt_base\l::requires_delete" alt="" coords="193,5,353,61"/>
+<area shape="rect" id="node3" href="$da/d11/structhpx_1_1lcos_1_1detail_1_1future__data__refcnt__base.html#a8718641792a16aaeeb206ef631443cda" title="hpx::lcos::detail::\lfuture_data_refcnt_base\l::destroy" alt="" coords="193,85,353,141"/>
+</map>

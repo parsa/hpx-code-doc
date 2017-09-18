@@ -1,0 +1,6 @@
+<map id="hpx::agas::gva::resolve" name="hpx::agas::gva::resolve">
+<area shape="rect" id="node2" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ab1d0ff454f580a5082a9b5d25b4f06fd" title="Bind unique range of global ids to given base address. " alt="" coords="217,5,391,47"/>
+<area shape="rect" id="node3" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ae6f42662e19483b27cbf2e2779104b6c" title="hpx::agas::addressing\l_service::bind_postproc" alt="" coords="225,71,383,112"/>
+<area shape="rect" id="node5" href="$d7/d3a/structhpx_1_1agas_1_1server_1_1primary__namespace.html#a87560fb730ac846b91fc7287dc4e247b" title="hpx::agas::server::\lprimary_namespace::allocate" alt="" coords="208,136,400,177"/>
+<area shape="rect" id="node4" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ad125f48a33347da6ab20c84f57822af7" title="hpx::agas::addressing\l_service::bind_range_async" alt="" coords="448,71,631,112"/>
+</map>

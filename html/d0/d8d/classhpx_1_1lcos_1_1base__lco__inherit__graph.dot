@@ -1,0 +1,38 @@
+digraph "hpx::lcos::base_lco"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::lcos::base_lco",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::lcos::base_lco\l_with_value\< bool, std\l::ptrdiff_t \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/da5/classhpx_1_1lcos_1_1base__lco__with__value.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::lcos::server::\llatch",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d72/classhpx_1_1lcos_1_1server_1_1latch.html"];
+  Node0 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hpx::lcos::base_lco\l_with_value\< Result,\l RemoteResult \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/da5/classhpx_1_1lcos_1_1base__lco__with__value.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::lcos::detail::\lpromise_lco_base\< Result,\l RemoteResult \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dd9/classhpx_1_1lcos_1_1detail_1_1promise__lco__base.html"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="hpx::lcos::detail::\lpromise_lco\< Result,\l RemoteResult \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dd8/classhpx_1_1lcos_1_1detail_1_1promise__lco.html"];
+  Node4 -> Node6 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< void, hpx::util::\lunused_type \>" ,fontname="Helvetica"];
+  Node6 [label="hpx::lcos::detail::\lpromise_lco_base\< void,\l hpx::util::unused_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dd9/classhpx_1_1lcos_1_1detail_1_1promise__lco__base.html"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hpx::lcos::detail::\lpromise_lco\< void, hpx\l::util::unused_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dc9/classhpx_1_1lcos_1_1detail_1_1promise__lco_3_01void_00_01hpx_1_1util_1_1unused__type_01_4.html"];
+  Node0 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="hpx::lcos::base_lco\l_with_value\< T, RemoteType,\l traits::detail::component_tag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/da5/classhpx_1_1lcos_1_1base__lco__with__value.html"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="hpx::lcos::server::\lchannel\< T, RemoteType \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d63/classhpx_1_1lcos_1_1server_1_1channel.html"];
+  Node0 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="hpx::lcos::base_lco\l_with_value\< void, hpx\l::util::unused_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/da5/classhpx_1_1lcos_1_1base__lco__with__value.html"];
+  Node10 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="hpx::lcos::base_lco\l_with_value\< Result,\l RemoteResult, ComponentTag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/da5/classhpx_1_1lcos_1_1base__lco__with__value.html"];
+  Node11 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Result, RemoteResult \>" ,fontname="Helvetica"];
+  Node11 -> Node10 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< void, hpx::util::\lunused_type \>" ,fontname="Helvetica"];
+  Node11 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< bool, std::ptrdiff_t \>" ,fontname="Helvetica"];
+  Node11 -> Node8 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< T, RemoteType, traits\l::detail::component_tag \>" ,fontname="Helvetica"];
+  Node0 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="hpx::lcos::base_lco\l_with_value\< void, void,\l ComponentTag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dbc/classhpx_1_1lcos_1_1base__lco__with__value_3_01void_00_01void_00_01_component_tag_01_4.html"];
+  Node0 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="hpx::lcos::detail::\lbarrier_node",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dd7/structhpx_1_1lcos_1_1detail_1_1barrier__node.html"];
+}

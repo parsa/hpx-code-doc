@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d7/d59/structhpx_1_1compute_1_1traits_1_1access__target" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::compute::traits::access_target</compoundname>
+    <includes refid="dd/da2/traits_2access__target_8hpp" local="no">access_target.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>typename Target</type>
+      </param>
+      <param>
+        <type>typename Enable</type>
+        <defval>void</defval>
+      </param>
+    </templateparamlist>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/compute/traits/access_target.hpp" line="16" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/compute/traits/access_target.hpp" bodystart="16" bodyend="-1"/>
+    <listofallmembers>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

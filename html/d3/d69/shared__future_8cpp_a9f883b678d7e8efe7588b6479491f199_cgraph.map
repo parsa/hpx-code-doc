@@ -1,0 +1,5 @@
+<map id="test_wait_callback" name="test_wait_callback">
+<area shape="rect" id="node2" href="$d6/de4/classhpx_1_1lcos_1_1local_1_1promise.html#aee94596c23f090f136cf9a4d4838f44b" title="hpx::lcos::local::promise\l::get_future" alt="" coords="183,5,347,47"/>
+<area shape="rect" id="node3" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a04d77a61f72ce77d4e20fc32c956d7fa" title="hpx::lcos::detail::\lfuture_base\&lt; shared\l_future\&lt; R \&gt;, R \&gt;::then" alt="" coords="187,71,343,127"/>
+<area shape="rect" id="node4" href="$d3/d69/shared__future_8cpp.html#a9c83134f77d135d21ef15e3f8114fade" title="wait_callback" alt="" coords="215,151,315,178"/>
+</map>

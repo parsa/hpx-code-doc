@@ -1,0 +1,4 @@
+<map id="hpx::parallel::util::detail::static_scan_partitioner::call" name="hpx::parallel::util::detail::static_scan_partitioner::call">
+<area shape="rect" id="node2" href="$d3/dc5/structhpx_1_1parallel_1_1util_1_1detail_1_1scan__partitioner_3_01_ex_policy___00_01_r_00_01_resu8681f2069743f920fc415be5cbab4cfc.html#a81f03c80515157478188ed27de54ec14" title="hpx::parallel::util\l::detail::scan_partitioner\l\&lt; ExPolicy_, R, Result1,\l Result2, parallel::traits\l::static_partitioner_tag \&gt;::call" alt="" coords="198,5,389,91"/>
+<area shape="rect" id="node3" href="$dc/d0d/structhpx_1_1parallel_1_1util_1_1detail_1_1scan__partitioner_3_01execution_1_1parallel__task__po27cdc75dfa3303c868d1c8542c2a4e05.html#a668fa903a77643f2e22c7bdb3e02daee" title="hpx::parallel::util\l::detail::scan_partitioner\l\&lt; execution::parallel_task\l_policy, R, Result1, Result2,\l parallel::traits::static_partitioner\l_tag \&gt;::call" alt="" coords="189,115,397,215"/>
+</map>

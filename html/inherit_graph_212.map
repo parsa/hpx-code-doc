@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d8/d54/structhpx_1_1components_1_1executor__component.html" title="hpx::components::executor\l_component\&lt; Executor, BaseComponent \&gt;" alt="" coords="172,5,445,47"/>
+<area shape="rect" id="node3" href="$d7/de1/structhpx_1_1components_1_1locking__hook.html" title="hpx::components::locking\l_hook\&lt; BaseComponent, Mutex \&gt;" alt="" coords="198,71,419,112"/>
+<area shape="rect" id="node4" href="$db/d0d/structhpx_1_1components_1_1migration__support.html" title="hpx::components::migration\l_support\&lt; BaseComponent,\l Mutex \&gt;" alt="" coords="217,137,401,193"/>
+</map>

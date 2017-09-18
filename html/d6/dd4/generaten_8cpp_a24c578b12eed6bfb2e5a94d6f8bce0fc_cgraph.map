@@ -1,0 +1,25 @@
+<map id="test_generate_n_exception" name="test_generate_n_exception">
+<area shape="rect" id="node2" href="$d6/dd4/generaten_8cpp.html#a82b7c005daa2f345a6d9772ebb1ad352" title="test_generate_n_exception" alt="" coords="232,273,411,300"/>
+<area shape="rect" id="node23" href="$d6/dd4/generaten_8cpp.html#a11c09961134208131e0d6a3f325e3fc4" title="test_generate_n_exception\l_async" alt="" coords="232,325,411,366"/>
+<area shape="rect" id="node3" href="$d1/db5/rnd__future__reduce_8cpp.html#a4621694235e63056ade9557eed1948a4" title="gen" alt="" coords="525,273,568,300"/>
+<area shape="rect" id="node4" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a9fd6a170d9742750007e88805764ec8a" title="hpx::parallel::v1::\lgenerate_n" alt="" coords="487,197,607,238"/>
+<area shape="rect" id="node15" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#a31e165df2b865cdd961f35ce938db41a" title="hpx::util::detail::\lrange_impl::begin" alt="" coords="485,390,609,431"/>
+<area shape="rect" id="node16" href="$da/ddb/structtest_1_1test__num__exceptions.html#a2c1e3b76f9abd4d358ae0258203b90b7" title="test::test_num_exceptions\l::call" alt="" coords="459,325,635,366"/>
+<area shape="rect" id="node5" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#adf2e40fc4b20ad0fd442ee3118a4d527" title="hpx::parallel::v1::\ldetail::is_negative" alt="" coords="709,103,835,145"/>
+<area shape="rect" id="node6" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="973,81,1016,108"/>
+<area shape="rect" id="node12" href="$d2/d42/structhpx_1_1parallel_1_1util_1_1detail_1_1algorithm__result__impl.html#ab5b051e8ec74eff5e0e62fd63f5d377e" title="hpx::parallel::util\l::detail::algorithm\l_result_impl\&lt; hpx::util\l::decay\&lt; ExPolicy \&gt;::type,\l T \&gt;::get" alt="" coords="683,169,861,255"/>
+<area shape="rect" id="node13" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="697,279,847,305"/>
+<area shape="rect" id="node7" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="1172,107,1247,133"/>
+<area shape="rect" id="node8" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="1137,157,1282,184"/>
+<area shape="rect" id="node9" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="1173,56,1245,83"/>
+<area shape="rect" id="node10" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="1393,5,1479,32"/>
+<area shape="rect" id="node11" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="1339,57,1533,98"/>
+<area shape="rect" id="node14" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="935,267,1055,309"/>
+<area shape="rect" id="node17" href="$d2/def/classhpx_1_1exception__list.html#ae4e3e1b70e8185033656d891749a234e" title="hpx::exception_list\l::size" alt="" coords="707,330,837,371"/>
+<area shape="rect" id="node18" href="$d8/d83/namespacehpx.html#ae0cb050327ed37e6863061bd1761409e" title="Return the number of worker OS&#45; threads used to execute HPX threads. " alt="" coords="699,402,845,443"/>
+<area shape="rect" id="node19" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="924,413,1065,440"/>
+<area shape="rect" id="node21" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="917,465,1072,506"/>
+<area shape="rect" id="node22" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a55800470ad2b28e283653df58d59ec49" title="hpx::agas::addressing\l_service::get_num_overall\l_threads" alt="" coords="909,333,1080,389"/>
+<area shape="rect" id="node20" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="1128,406,1291,447"/>
+<area shape="rect" id="node24" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="476,456,617,483"/>
+</map>

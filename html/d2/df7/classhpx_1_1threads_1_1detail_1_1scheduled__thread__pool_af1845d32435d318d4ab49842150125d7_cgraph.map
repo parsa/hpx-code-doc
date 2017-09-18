@@ -1,0 +1,5 @@
+<map id="hpx::threads::detail::scheduled_thread_pool::get_scheduler" name="hpx::threads::detail::scheduled_thread_pool::get_scheduler">
+<area shape="rect" id="node2" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#afbef55d51af59eb01a6b15227b4363ea" title="hpx::threads::detail\l::scheduled_thread_pool\l::get_state" alt="" coords="216,5,379,61"/>
+<area shape="rect" id="node3" href="$de/dae/classhpx_1_1threads_1_1detail_1_1thread__pool__base.html#aeced5b0c527cc55b06466dff964a631e" title="hpx::threads::detail\l::thread_pool_base::get\l_worker_thread_num" alt="" coords="427,5,585,61"/>
+<area shape="rect" id="node4" href="$d7/d24/classhpx_1_1threads_1_1detail_1_1thread__num__tss.html#a5b13dea127bd6a3013b42e8965c58fd3" title="hpx::threads::detail\l::thread_num_tss::get\l_worker_thread_num" alt="" coords="633,5,783,61"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="hpx::get_runtime_state_name" name="hpx::get_runtime_state_name">
+<area shape="rect" id="node2" href="$d5/dbe/namespacehpx_1_1detail.html#a9bc870a59e82a707b66f801d11a31524" title="hpx::detail::get_exception" alt="" coords="248,93,419,120"/>
+<area shape="rect" id="node6" href="$d0/d7b/classhpx_1_1runtime.html#a6a5b777b1d6beee1983b3e9851dab523" title="hpx::runtime::set_state" alt="" coords="255,181,411,208"/>
+<area shape="rect" id="node3" href="$d0/ddf/classhpx_1_1error__code.html#a6c75f772a727844e82acc4bda0478be1" title="hpx::error_code::error_code" alt="" coords="467,5,648,32"/>
+<area shape="rect" id="node4" href="$d4/d41/namespacehpx_1_1parcelset.html#afbd7ba917a0c0adcad43f9b8b0ef1dc2" title="hpx::parcelset::default\l_write_handler" alt="" coords="482,57,633,98"/>
+<area shape="rect" id="node5" href="$d5/dbe/namespacehpx_1_1detail.html#ae1fcb86925dcb6c7699a858634407236" title="hpx::detail::get_exception" alt="" coords="472,123,643,149"/>
+<area shape="rect" id="node7" href="$dc/d80/classhpx_1_1runtime__impl.html#a19b55584b2e6b6b4d72ae159fbef0f6e" title="hpx::runtime_impl::\lruntime_impl" alt="" coords="491,174,624,215"/>
+<area shape="rect" id="node8" href="$dc/d80/classhpx_1_1runtime__impl.html#a701851190a0f98e3ed6d94c2bde4b6f8" title="The destructor makes sure all HPX runtime services are properly shut down before exiting. " alt="" coords="491,239,624,281"/>
+</map>

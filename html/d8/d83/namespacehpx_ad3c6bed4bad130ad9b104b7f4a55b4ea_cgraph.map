@@ -1,0 +1,5 @@
+<map id="hpx::reset_active_counters" name="hpx::reset_active_counters">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="231,13,372,39"/>
+<area shape="rect" id="node4" href="$d0/d7b/classhpx_1_1runtime.html#a6602c70f93ef040e337ee1916cbf07ec" title="hpx::runtime::reset\l_active_counters" alt="" coords="236,64,367,105"/>
+<area shape="rect" id="node3" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="420,5,583,47"/>
+</map>

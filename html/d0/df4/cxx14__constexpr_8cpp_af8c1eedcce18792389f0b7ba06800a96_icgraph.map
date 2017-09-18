@@ -1,0 +1,8 @@
+<map id="zero" name="zero">
+<area shape="rect" id="node2" href="$d4/de8/structblock__vector__t.html#a23f4dc6a852eead1e56f1bb6face9392" title="block_vector_t::operator()" alt="" coords="105,5,273,32"/>
+<area shape="rect" id="node3" href="$d5/d16/structblock__matrix__t.html#a32e00f9af71d82d2df08b744fb8dbbce" title="block_matrix_t::operator()" alt="" coords="103,56,274,83"/>
+<area shape="rect" id="node4" href="$d4/dde/structhpx_1_1lcos_1_1local_1_1stage__task__cleanup.html#a16b5f82aaa95171f752d678955659732" title="hpx::lcos::local::stage\l_task_cleanup::~stage\l_task_cleanup" alt="" coords="111,107,266,163"/>
+<area shape="rect" id="node5" href="$df/d42/structhpx_1_1lcos_1_1local_1_1run__composable__cleanup.html#ac01beb3caa8761c43c0b1be51d8c97a6" title="hpx::lcos::local::run\l_composable_cleanup::\l~run_composable_cleanup" alt="" coords="100,187,277,243"/>
+<area shape="rect" id="node6" href="$d8/d74/classhpx_1_1lcos_1_1local_1_1guard.html#ad3433f31b4f5fd28044473fb310ba371" title="hpx::lcos::local::guard\l::~guard" alt="" coords="113,267,264,309"/>
+<area shape="rect" id="node7" href="$d0/df4/cxx14__constexpr_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="163,333,214,360"/>
+</map>

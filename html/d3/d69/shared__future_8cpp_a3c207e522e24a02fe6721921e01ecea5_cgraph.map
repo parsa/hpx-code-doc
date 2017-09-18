@@ -1,0 +1,5 @@
+<map id="test_shared_future_for_string" name="test_shared_future_for_string">
+<area shape="rect" id="node2" href="$d6/de4/classhpx_1_1lcos_1_1local_1_1promise.html#aee94596c23f090f136cf9a4d4838f44b" title="hpx::lcos::local::promise\l::get_future" alt="" coords="194,5,358,47"/>
+<area shape="rect" id="node3" href="$d6/de4/classhpx_1_1lcos_1_1local_1_1promise.html#a9d4be37d3883e18b9556aa9f63daf3d1" title="hpx::lcos::local::promise\l::set_value" alt="" coords="194,71,358,112"/>
+<area shape="rect" id="node4" href="$d4/d31/classhpx_1_1lcos_1_1shared__future.html#a316b62d06e2bbab9e8d93fe64d13527e" title="hpx::lcos::shared_future::get" alt="" coords="183,137,369,163"/>
+</map>

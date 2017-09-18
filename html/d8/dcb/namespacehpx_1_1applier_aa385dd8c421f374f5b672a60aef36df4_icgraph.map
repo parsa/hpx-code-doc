@@ -1,0 +1,7 @@
+<map id="hpx::applier::register_thread" name="hpx::applier::register_thread">
+<area shape="rect" id="node2" href="$d9/d52/namespacehpx_1_1this__thread.html#a15c12bd6b0b99c9a65e1a3669492805d" title="hpx::this_thread::suspend" alt="" coords="193,71,365,98"/>
+<area shape="rect" id="node5" href="$df/ddc/classthrottle_1_1server_1_1throttle.html#a049732ad9c4e70a61accca4b50874b7d" title="throttle::server::throttle\l::is_suspended" alt="" coords="203,123,355,164"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#ae3f683ad072d61249bf20c67134d604c" title="hpx::threads::interrupt\l_thread" alt="" coords="425,5,574,47"/>
+<area shape="rect" id="node4" href="$d9/d52/namespacehpx_1_1this__thread.html#a13faad4167a300676b16c76733aac1df" title="hpx::this_thread::suspend" alt="" coords="413,71,585,98"/>
+<area shape="rect" id="node6" href="$df/ddc/classthrottle_1_1server_1_1throttle.html#ac4a593e4e48066b2ee29fb54bdd862a1" title="throttle::server::throttle\l::suspend" alt="" coords="423,123,575,164"/>
+</map>

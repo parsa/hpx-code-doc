@@ -1,0 +1,10 @@
+<map id="hpx::lcos::detail::when_each_frame::await_range" name="hpx::lcos::detail::when_each_frame::await_range">
+<area shape="rect" id="node2" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#afb2ea48b0902f52ee4d8b764807b4316" title="hpx::util::detail::\lrange_impl::end" alt="" coords="273,5,388,47"/>
+<area shape="rect" id="node3" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#a0a6696d8c17a32b8ebfaa496b9ab3332" title="hpx::parallel::v1::\ldetail::next" alt="" coords="271,71,391,112"/>
+<area shape="rect" id="node5" href="$de/d59/namespacehpx_1_1traits_1_1detail.html#ad87b094b7d0f33956fcad9f91be03134" title="hpx::traits::detail\l::get_shared_state" alt="" coords="265,136,396,177"/>
+<area shape="rect" id="node6" href="$df/dad/namespacehpx_1_1util.html#acdded623c658a7a3436f7e76bc9d881c" title="hpx::util::deferred_call" alt="" coords="256,202,405,229"/>
+<area shape="rect" id="node7" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="477,282,627,309"/>
+<area shape="rect" id="node9" href="$d7/d3f/structhpx_1_1lcos_1_1detail_1_1dispatch.html#aa8eaeed97097420707be9926539a2fec" title="hpx::lcos::detail::\ldispatch::call" alt="" coords="269,304,392,345"/>
+<area shape="rect" id="node4" href="$db/dfa/structhpx_1_1parallel_1_1v1_1_1detail_1_1calculate__distance.html#a950a6627830a7d019ac0e734b0a447bf" title="hpx::parallel::v1::\ldetail::calculate_distance::call" alt="" coords="453,71,651,112"/>
+<area shape="rect" id="node8" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="699,275,819,316"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hpx::agas::unregister_name" name="hpx::agas::unregister_name">
+<area shape="rect" id="node2" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="245,57,400,98"/>
+<area shape="rect" id="node5" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a510af72cebe74e33944d43773f3ec64a" title="hpx::agas::addressing\l_service::unregister_name" alt="" coords="236,122,409,163"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="499,5,618,32"/>
+<area shape="rect" id="node4" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="481,57,636,98"/>
+<area shape="rect" id="node6" href="$dd/d5e/structhpx_1_1agas_1_1symbol__namespace.html#aeedb5bc47d003b876f9887cdd29f331b" title="hpx::agas::symbol_namespace\l::unbind" alt="" coords="457,122,660,163"/>
+</map>

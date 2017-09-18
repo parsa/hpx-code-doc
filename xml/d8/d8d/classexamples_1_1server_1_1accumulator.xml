@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d8/d8d/classexamples_1_1server_1_1accumulator" kind="class" language="C++" prot="public">
+    <compoundname>examples::server::accumulator</compoundname>
+    <basecompoundref refid="d7/de1/structhpx_1_1components_1_1locking__hook" prot="public" virt="non-virtual">hpx::components::locking_hook&lt; hpx::components::component_base&lt; accumulator &gt; &gt;</basecompoundref>
+    <includes refid="d4/d9d/server_2accumulator_8hpp" local="no">accumulator.hpp</includes>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="d8/d8d/classexamples_1_1server_1_1accumulator_1a42aefb576ace3abbdc4b3dc212aff23d" prot="public" static="no">
+        <type>std::int64_t</type>
+        <definition>typedef std::int64_t examples::server::accumulator::argument_type</definition>
+        <argsstring></argsstring>
+        <name>argument_type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/server/accumulator.hpp" line="51" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/server/accumulator.hpp" bodystart="51" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="d8/d8d/classexamples_1_1server_1_1accumulator_1afa84ef03ca512df5398c8c4ced47e991" prot="private" static="no" mutable="no">
+        <type><ref refid="d8/d8d/classexamples_1_1server_1_1accumulator_1a42aefb576ace3abbdc4b3dc212aff23d" kindref="member">argument_type</ref></type>
+        <definition>argument_type examples::server::accumulator::value_</definition>
+        <argsstring></argsstring>
+        <name>value_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/server/accumulator.hpp" line="95" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/server/accumulator.hpp" bodystart="95" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d8/d8d/classexamples_1_1server_1_1accumulator_1ab4e19a42100e4ef7d1bb2b6f0deee751" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>examples::server::accumulator::accumulator</definition>
+        <argsstring>()</argsstring>
+        <name>accumulator</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/server/accumulator.hpp" line="54" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/server/accumulator.hpp" bodystart="54" bodyend="54"/>
+      </memberdef>
+      <memberdef kind="function" id="d8/d8d/classexamples_1_1server_1_1accumulator_1a3fe3b8a1d1ea6f340e68ca8696c1d205" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void examples::server::accumulator::reset</definition>
+        <argsstring>()</argsstring>
+        <name>reset</name>
+        <briefdescription>
+<para>Reset the components value to 0. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/server/accumulator.hpp" line="62" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/server/accumulator.hpp" bodystart="62" bodyend="66"/>
+        <referencedby refid="d8/d8d/classexamples_1_1server_1_1accumulator_1a3fcf2be65fd7f1523b990b38f4905dad" compoundref="d4/d9d/server_2accumulator_8hpp" startline="76" endline="80">query</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d8/d8d/classexamples_1_1server_1_1accumulator_1a1dd02fa007bc2dc0d07fb8a9a6c9f79a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void examples::server::accumulator::add</definition>
+        <argsstring>(argument_type arg)</argsstring>
+        <name>add</name>
+        <param>
+          <type><ref refid="d8/d8d/classexamples_1_1server_1_1accumulator_1a42aefb576ace3abbdc4b3dc212aff23d" kindref="member">argument_type</ref></type>
+          <declname>arg</declname>
+        </param>
+        <briefdescription>
+<para>Add the given number to the accumulator. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/server/accumulator.hpp" line="69" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/server/accumulator.hpp" bodystart="69" bodyend="73"/>
+      </memberdef>
+      <memberdef kind="function" id="d8/d8d/classexamples_1_1server_1_1accumulator_1a3fcf2be65fd7f1523b990b38f4905dad" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="d8/d8d/classexamples_1_1server_1_1accumulator_1a42aefb576ace3abbdc4b3dc212aff23d" kindref="member">argument_type</ref></type>
+        <definition>argument_type examples::server::accumulator::query</definition>
+        <argsstring>() const</argsstring>
+        <name>query</name>
+        <briefdescription>
+<para>Return the current value to the caller. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/server/accumulator.hpp" line="76" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/server/accumulator.hpp" bodystart="76" bodyend="80"/>
+        <references refid="d8/d8d/classexamples_1_1server_1_1accumulator_1ab54954c85bfa801d4f271dbd98c966d1">HPX_DEFINE_COMPONENT_ACTION</references>
+        <references refid="d8/d8d/classexamples_1_1server_1_1accumulator_1a3fe3b8a1d1ea6f340e68ca8696c1d205" compoundref="d4/d9d/server_2accumulator_8hpp" startline="62" endline="66">reset</references>
+        <references refid="d4/d9d/server_2accumulator_8hpp_1a9ee1853a55729d31db52698415cc55ec">HPX_REGISTER_ACTION_DECLARATION</references>
+      </memberdef>
+      <memberdef kind="function" id="d8/d8d/classexamples_1_1server_1_1accumulator_1ab54954c85bfa801d4f271dbd98c966d1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>examples::server::accumulator::HPX_DEFINE_COMPONENT_ACTION</definition>
+        <argsstring>(accumulator, reset)</argsstring>
+        <name>HPX_DEFINE_COMPONENT_ACTION</name>
+        <param>
+          <type><ref refid="d8/d8d/classexamples_1_1server_1_1accumulator" kindref="compound">accumulator</ref></type>
+        </param>
+        <param>
+          <type><ref refid="d8/d8d/classexamples_1_1server_1_1accumulator_1a3fe3b8a1d1ea6f340e68ca8696c1d205" kindref="member">reset</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/server/accumulator.hpp" line="88" column="1"/>
+        <referencedby refid="d8/d8d/classexamples_1_1server_1_1accumulator_1a3fcf2be65fd7f1523b990b38f4905dad" compoundref="d4/d9d/server_2accumulator_8hpp" startline="76" endline="80">query</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d8/d8d/classexamples_1_1server_1_1accumulator_1a61b6bc7a03dddbac50a1132eb4f4e970" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>examples::server::accumulator::HPX_DEFINE_COMPONENT_ACTION</definition>
+        <argsstring>(accumulator, add)</argsstring>
+        <name>HPX_DEFINE_COMPONENT_ACTION</name>
+        <param>
+          <type><ref refid="d8/d8d/classexamples_1_1server_1_1accumulator" kindref="compound">accumulator</ref></type>
+        </param>
+        <param>
+          <type><ref refid="de/d2b/structadd" kindref="compound">add</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/server/accumulator.hpp" line="89" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="d8/d8d/classexamples_1_1server_1_1accumulator_1ae6f48f743ec14b05a4d2ec3ecf2ea30d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>examples::server::accumulator::HPX_DEFINE_COMPONENT_ACTION</definition>
+        <argsstring>(accumulator, query)</argsstring>
+        <name>HPX_DEFINE_COMPONENT_ACTION</name>
+        <param>
+          <type><ref refid="d8/d8d/classexamples_1_1server_1_1accumulator" kindref="compound">accumulator</ref></type>
+        </param>
+        <param>
+          <type><ref refid="d8/d8d/classexamples_1_1server_1_1accumulator_1a3fcf2be65fd7f1523b990b38f4905dad" kindref="member">query</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/server/accumulator.hpp" line="90" column="1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>This class is a very simple example of an HPX component. An HPX component is a class that: <verbatim>* Inherits from a component base class:
+  \a hpx::components::component_base
+* Exposes methods that can be called asynchronously and/or remotely.
+  These constructs are known as HPX actions.
+</verbatim></para><para>By deriving this component from <emphasis>locking_hook</emphasis> the runtime system ensures that all action invocations are serialized. That means that the system ensures that no two actions are invoked at the same time on a given component instance. This makes the component thread safe and no additional locking has to be implemented by the user.</para><para>Components are first-class objects in HPX. This means that they are globally addressable; all components have a unique GID.</para><para>This example demonstrates how to write a simple component. Simple components are allocated one at a time with the C++&apos;s new allocator. When a component needs to be created in small quantities, simple components should be used. At least two AGAS requests will be made when a simple component is created.</para><para>This component exposes 3 different actions: reset, add and query. </para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="144">
+        <label>hpx::components::locking_hook&lt; hpx::components::component_base&lt; accumulator &gt; &gt;</label>
+        <link refid="d7/de1/structhpx_1_1components_1_1locking__hook"/>
+        <childnode refid="145" relation="public-inheritance">
+        </childnode>
+        <childnode refid="148" relation="template-instance">
+          <edgelabel>&lt; hpx::components::component_base&lt; accumulator &gt; &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="147">
+        <label>hpx::components::component_base&lt; Component &gt;</label>
+        <link refid="d2/de6/classhpx_1_1components_1_1component__base"/>
+        <childnode refid="146" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="145">
+        <label>hpx::components::component_base&lt; accumulator &gt;</label>
+        <link refid="d2/de6/classhpx_1_1components_1_1component__base"/>
+        <childnode refid="146" relation="public-inheritance">
+        </childnode>
+        <childnode refid="147" relation="template-instance">
+          <edgelabel>&lt; accumulator &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="143">
+        <label>examples::server::accumulator</label>
+        <link refid="d8/d8d/classexamples_1_1server_1_1accumulator"/>
+        <childnode refid="144" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="148">
+        <label>hpx::components::locking_hook&lt; BaseComponent, Mutex &gt;</label>
+        <link refid="d7/de1/structhpx_1_1components_1_1locking__hook"/>
+        <childnode refid="149" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="146">
+        <label>hpx::traits::detail::component_tag</label>
+        <link refid="d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag"/>
+      </node>
+      <node id="149">
+        <label>BaseComponent</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="151">
+        <label>hpx::components::locking_hook&lt; hpx::components::component_base&lt; accumulator &gt; &gt;</label>
+        <link refid="d7/de1/structhpx_1_1components_1_1locking__hook"/>
+        <childnode refid="152" relation="public-inheritance">
+        </childnode>
+        <childnode refid="156" relation="template-instance">
+          <edgelabel>&lt; hpx::components::component_base&lt; accumulator &gt; &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="155">
+        <label>hpx::components::component_base&lt; Component &gt;</label>
+        <link refid="d2/de6/classhpx_1_1components_1_1component__base"/>
+        <childnode refid="153" relation="public-inheritance">
+        </childnode>
+        <childnode refid="154" relation="usage">
+          <edgelabel>gid_</edgelabel>
+        </childnode>
+      </node>
+      <node id="152">
+        <label>hpx::components::component_base&lt; accumulator &gt;</label>
+        <link refid="d2/de6/classhpx_1_1components_1_1component__base"/>
+        <childnode refid="153" relation="public-inheritance">
+        </childnode>
+        <childnode refid="154" relation="usage">
+          <edgelabel>gid_</edgelabel>
+        </childnode>
+        <childnode refid="155" relation="template-instance">
+          <edgelabel>&lt; accumulator &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="154">
+        <label>hpx::naming::gid_type</label>
+        <link refid="d3/d67/structhpx_1_1naming_1_1gid__type"/>
+      </node>
+      <node id="150">
+        <label>examples::server::accumulator</label>
+        <link refid="d8/d8d/classexamples_1_1server_1_1accumulator"/>
+        <childnode refid="151" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="156">
+        <label>hpx::components::locking_hook&lt; BaseComponent, Mutex &gt;</label>
+        <link refid="d7/de1/structhpx_1_1components_1_1locking__hook"/>
+        <childnode refid="157" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="153">
+        <label>hpx::traits::detail::component_tag</label>
+        <link refid="d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag"/>
+      </node>
+      <node id="157">
+        <label>BaseComponent</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/server/accumulator.hpp" line="49" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/server/accumulator.hpp" bodystart="45" bodyend="97"/>
+    <listofallmembers>
+      <member refid="d8/d8d/classexamples_1_1server_1_1accumulator_1ab4e19a42100e4ef7d1bb2b6f0deee751" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>accumulator</name></member>
+      <member refid="d8/d8d/classexamples_1_1server_1_1accumulator_1a1dd02fa007bc2dc0d07fb8a9a6c9f79a" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>add</name></member>
+      <member refid="d8/d8d/classexamples_1_1server_1_1accumulator_1a42aefb576ace3abbdc4b3dc212aff23d" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>argument_type</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1afd8709b7b7989670b132a927f4d233ad" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>base_type_holder</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1aedcb4fa1645d4f575f0e71ee4bd8e51d" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>component_base</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1a4f0bf1fd3bc0c12e61363157d7d29bd4" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>component_base</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1a1f342214eb5dcb9d61cab48c690d6c90" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>component_base</name></member>
+      <member refid="d7/de1/structhpx_1_1components_1_1locking__hook_1a0bf6af234e3c3ae53ac0e5680e2c79b5" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>decorate_action</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1ace07b8b6aa4242f32929010c383d2700" prot="protected" virt="non-virtual"><scope>examples::server::accumulator</scope><name>derived</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1ad2c8d32a6683e4ff4970dd1c871c42ff" prot="protected" virt="non-virtual"><scope>examples::server::accumulator</scope><name>derived</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1a02c23391a27423b555d800a87f8fe92a" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>finalize</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1afdd9f4d30f44a6732fe6ee64f48be7cc" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>get_base_gid</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1a31d30c8bee41ef854f5b1b51f745999f" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>get_component_type</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1a158c6874c847422beb28c9deee381907" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>get_current_address</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1a4c8fd93514039bdf01c48d66d82b19cd" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>get_id</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1ab5427cfcce9531bf4162700c86e877a8" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>get_unmanaged_id</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1a1efc525399206e5c54d22a4274145995" prot="protected" virt="non-virtual"><scope>examples::server::accumulator</scope><name>gid_</name></member>
+      <member refid="d8/d8d/classexamples_1_1server_1_1accumulator_1ab54954c85bfa801d4f271dbd98c966d1" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>HPX_DEFINE_COMPONENT_ACTION</name></member>
+      <member refid="d8/d8d/classexamples_1_1server_1_1accumulator_1a61b6bc7a03dddbac50a1132eb4f4e970" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>HPX_DEFINE_COMPONENT_ACTION</name></member>
+      <member refid="d8/d8d/classexamples_1_1server_1_1accumulator_1ae6f48f743ec14b05a4d2ec3ecf2ea30d" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>HPX_DEFINE_COMPONENT_ACTION</name></member>
+      <member refid="d7/de1/structhpx_1_1components_1_1locking__hook_1a4b973e946870ee00ce48f032606d6eff" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>locking_hook</name></member>
+      <member refid="d7/de1/structhpx_1_1components_1_1locking__hook_1aa2b0b8fd4a74a0b7b8b31004f05e3694" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>locking_hook</name></member>
+      <member refid="d7/de1/structhpx_1_1components_1_1locking__hook_1a999dfffa92d2f785ac55a2c7f2f66ed1" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>locking_hook</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1a8ab0fa2c5668623df02fdbe6e7f3ef73" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>mark_as_migrated</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1a87c0eecdd7a3f03160a483533360f0fe" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>on_migrated</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1a8efecea55da76a60a2a8b31318f7873e" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>operator=</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1aed09598988cbfeec61347b229ffb8d64" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>operator=</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1a016c95605e04ce6e6a00d45ba7554e46" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>pin</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1aaf1d3109fce808d3c1fbd57aa258ac0a" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>pin_count</name></member>
+      <member refid="d8/d8d/classexamples_1_1server_1_1accumulator_1a3fcf2be65fd7f1523b990b38f4905dad" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>query</name></member>
+      <member refid="d8/d8d/classexamples_1_1server_1_1accumulator_1a3fe3b8a1d1ea6f340e68ca8696c1d205" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>reset</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1a19d173db447b17d37a83e51363bf3f7b" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>set_component_type</name></member>
+      <member refid="d7/de1/structhpx_1_1components_1_1locking__hook_1a69f2cd5fbcc6a3b48e574df0f1b412a2" prot="protected" virt="non-virtual"><scope>examples::server::accumulator</scope><name>thread_function</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1ad8b3bf64627a5e1cc314e17d88e9a5e8" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>unpin</name></member>
+      <member refid="d8/d8d/classexamples_1_1server_1_1accumulator_1afa84ef03ca512df5398c8c4ced47e991" prot="private" virt="non-virtual"><scope>examples::server::accumulator</scope><name>value_</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1ae12c15fd9cfd8e230f933f50e2e6346a" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>wrapped_type</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1a2adf1af624ef7f02391b767d49506a08" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>wrapping_type</name></member>
+      <member refid="d7/de1/structhpx_1_1components_1_1locking__hook_1a930f55801b3c91171ae6aea5bd59c8c0" prot="protected" virt="non-virtual"><scope>examples::server::accumulator</scope><name>yield_decorator_type</name></member>
+      <member refid="d7/de1/structhpx_1_1components_1_1locking__hook_1ac3ceab4fd88c5e78693a1de46be6510f" prot="protected" virt="non-virtual"><scope>examples::server::accumulator</scope><name>yield_function</name></member>
+      <member refid="d2/de6/classhpx_1_1components_1_1component__base_1aee06874939549ee4e9d632ace69eebc0" prot="public" virt="non-virtual"><scope>examples::server::accumulator</scope><name>~component_base</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

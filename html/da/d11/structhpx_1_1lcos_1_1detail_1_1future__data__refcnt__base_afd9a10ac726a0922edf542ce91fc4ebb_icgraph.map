@@ -1,0 +1,4 @@
+<map id="hpx::lcos::detail::future_data_refcnt_base::set_on_completed" name="hpx::lcos::detail::future_data_refcnt_base::set_on_completed">
+<area shape="rect" id="node2" href="$df/db6/classhpx_1_1serialization_1_1detail_1_1preprocess.html#abe630ebd03b2c4f99c9d6d86f8b2043f" title="hpx::serialization\l::detail::preprocess\l::await_future" alt="" coords="213,5,347,61"/>
+<area shape="rect" id="node3" href="$d5/de0/structhpx_1_1traits_1_1serialization__access__data_3_01serialization_1_1detail_1_1preprocess_01_4.html#a50fb0ccb03e34223b90eb83981485459" title="hpx::traits::serialization\l_access_data\&lt; serialization\l::detail::preprocess \&gt;::await_future" alt="" coords="395,5,617,61"/>
+</map>

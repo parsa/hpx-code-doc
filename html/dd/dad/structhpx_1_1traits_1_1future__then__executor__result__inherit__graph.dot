@@ -1,0 +1,11 @@
+digraph "hpx::traits::future_then_executor_result&lt; Executor, Future, F, Ts &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::traits::future\l_then_executor_result\l\< Executor, Future, F, Ts \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::traits::detail\l::future_then_executor\l_result\< std::decay\< Executor\l \>::type, Future, F, hpx::util\l::detail::pack\< Ts... \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/deb/structhpx_1_1traits_1_1detail_1_1future__then__executor__result.html"];
+  Node2 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< std::decay\< Executor\l \>::type, Future, F, hpx\l::util::detail::pack\< Ts... \> \>" ,fontname="Helvetica"];
+  Node2 [label="hpx::traits::detail\l::future_then_executor\l_result\< Executor, Future,\l F, Pack, Enable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/deb/structhpx_1_1traits_1_1detail_1_1future__then__executor__result.html"];
+}

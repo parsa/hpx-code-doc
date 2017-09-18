@@ -1,0 +1,31 @@
+digraph "hpx::traits::detail::fixed_component_tag"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::traits::detail\l::fixed_component_tag",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::components::fixed\l_component_base\< component\l_namespace \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dfd/classhpx_1_1components_1_1fixed__component__base.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::agas::server::\lcomponent_namespace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/dc8/structhpx_1_1agas_1_1server_1_1component__namespace.html"];
+  Node0 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hpx::components::fixed\l_component_base\< locality\l_namespace \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dfd/classhpx_1_1components_1_1fixed__component__base.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::agas::server::\llocality_namespace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d72/structhpx_1_1agas_1_1server_1_1locality__namespace.html"];
+  Node0 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="hpx::components::fixed\l_component_base\< primary\l_namespace \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dfd/classhpx_1_1components_1_1fixed__component__base.html"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hpx::agas::server::\lprimary_namespace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d3a/structhpx_1_1agas_1_1server_1_1primary__namespace.html",tooltip="AGAS&#39;s primary namespace maps 128-bit global identifiers (GIDs) to resolved addresses. "];
+  Node0 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hpx::components::fixed\l_component_base\< symbol\l_namespace \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dfd/classhpx_1_1components_1_1fixed__component__base.html"];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="hpx::agas::server::\lsymbol_namespace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/da6/structhpx_1_1agas_1_1server_1_1symbol__namespace.html"];
+  Node0 -> Node9 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="hpx::components::abstract\l_fixed_component_base\<\l Component \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/dc2/classhpx_1_1components_1_1abstract__fixed__component__base.html"];
+  Node0 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="hpx::components::fixed\l_component_base\< Component \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dfd/classhpx_1_1components_1_1fixed__component__base.html",tooltip="\ endcond "];
+  Node10 -> Node5 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< primary_namespace \>" ,fontname="Helvetica"];
+  Node10 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< locality_namespace \>" ,fontname="Helvetica"];
+  Node10 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< component_namespace \>" ,fontname="Helvetica"];
+  Node10 -> Node7 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< symbol_namespace \>" ,fontname="Helvetica"];
+}

@@ -1,0 +1,6 @@
+<map id="hpx::parallel::util::detail::loop_with_cleanup_n::call_with_token" name="hpx::parallel::util::detail::loop_with_cleanup_n::call_with_token">
+<area shape="rect" id="node2" href="$df/dc6/namespacehpx_1_1parallel_1_1util.html#a150a0c4bbb2d498186a6c8ebfa5dd53b" title="hpx::parallel::util\l::loop_with_cleanup\l_n_with_token" alt="" coords="239,5,375,61"/>
+<area shape="rect" id="node3" href="$d2/de8/structhpx_1_1compute_1_1host_1_1block__allocator.html#af22eecbbc8ea06ffff3855dbf12fb612" title="hpx::compute::host\l::block_allocator::bulk\l_construct" alt="" coords="423,5,572,61"/>
+<area shape="rect" id="node4" href="$dc/d4a/block__allocator_8cpp.html#a2925f1fe6a1a36584c3568c90a34f9fb" title="test_block_construction" alt="" coords="620,20,780,47"/>
+<area shape="rect" id="node5" href="$dc/d4a/block__allocator_8cpp.html#aad021fb470ac159eac4609ba96066d4d" title="test_bulk_allocator" alt="" coords="828,20,959,47"/>
+</map>

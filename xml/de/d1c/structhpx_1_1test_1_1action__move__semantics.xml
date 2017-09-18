@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="de/d1c/structhpx_1_1test_1_1action__move__semantics" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::test::action_move_semantics</compoundname>
+    <basecompoundref refid="d9/dad/classhpx_1_1components_1_1client__base" prot="public" virt="non-virtual">hpx::components::client_base&lt; action_move_semantics, stubs::action_move_semantics &gt;</basecompoundref>
+    <includes refid="dc/d37/action__move__semantics_8hpp" local="no">action_move_semantics.hpp</includes>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="de/d1c/structhpx_1_1test_1_1action__move__semantics_1a2875bbf9858aff89329ac7476da9e725" prot="public" static="no">
+        <type><ref refid="d9/dad/classhpx_1_1components_1_1client__base" kindref="compound">components::client_base</ref>&lt; <ref refid="de/d1c/structhpx_1_1test_1_1action__move__semantics" kindref="compound">action_move_semantics</ref>, <ref refid="d8/d44/structhpx_1_1test_1_1stubs_1_1action__move__semantics" kindref="compound">stubs::action_move_semantics</ref> &gt;</type>
+        <definition>typedef components::client_base&lt; action_move_semantics, stubs::action_move_semantics &gt; hpx::test::action_move_semantics::base_type</definition>
+        <argsstring></argsstring>
+        <name>base_type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/regressions/actions/components/action_move_semantics.hpp" line="22" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/regressions/actions/components/action_move_semantics.hpp" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="de/d1c/structhpx_1_1test_1_1action__move__semantics_1ad765cfde257055bf5702bb4be76a5ddc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>hpx::test::action_move_semantics::action_move_semantics</definition>
+        <argsstring>()</argsstring>
+        <name>action_move_semantics</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/regressions/actions/components/action_move_semantics.hpp" line="24" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/regressions/actions/components/action_move_semantics.hpp" bodystart="24" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="de/d1c/structhpx_1_1test_1_1action__move__semantics_1aa7444f05369512fbecd747e490643b3e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>hpx::test::action_move_semantics::action_move_semantics</definition>
+        <argsstring>(hpx::future&lt; naming::id_type &gt; &amp;&amp;id)</argsstring>
+        <name>action_move_semantics</name>
+        <param>
+          <type><ref refid="d0/d33/classhpx_1_1lcos_1_1future" kindref="compound">hpx::future</ref>&lt; <ref refid="db/dee/structhpx_1_1naming_1_1id__type" kindref="compound">naming::id_type</ref> &gt; &amp;&amp;</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/regressions/actions/components/action_move_semantics.hpp" line="25" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/regressions/actions/components/action_move_semantics.hpp" bodystart="25" bodyend="27"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="227">
+        <label>detail::make_stub&lt; Stub &gt;::type</label>
+        <link refid="de/dfa/structhpx_1_1components_1_1stub__base"/>
+      </node>
+      <node id="225">
+        <label>detail::make_stub&lt; stubs::action_move_semantics  &gt;::type</label>
+        <link refid="de/dfa/structhpx_1_1components_1_1stub__base"/>
+      </node>
+      <node id="226">
+        <label>hpx::components::client_base&lt; Derived, Stub &gt;</label>
+        <link refid="d9/dad/classhpx_1_1components_1_1client__base"/>
+        <childnode refid="227" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="224">
+        <label>hpx::components::client_base&lt; action_move_semantics, stubs::action_move_semantics &gt;</label>
+        <link refid="d9/dad/classhpx_1_1components_1_1client__base"/>
+        <childnode refid="225" relation="public-inheritance">
+        </childnode>
+        <childnode refid="226" relation="template-instance">
+          <edgelabel>&lt; action_move_semantics, stubs::action_move_semantics &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="223">
+        <label>hpx::test::action_move_semantics</label>
+        <link refid="de/d1c/structhpx_1_1test_1_1action__move__semantics"/>
+        <childnode refid="224" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="233">
+        <label>detail::make_stub&lt; Stub &gt;::type</label>
+        <link refid="de/dfa/structhpx_1_1components_1_1stub__base"/>
+      </node>
+      <node id="231">
+        <label>string</label>
+      </node>
+      <node id="230">
+        <label>detail::make_stub&lt; stubs::action_move_semantics  &gt;::type</label>
+        <link refid="de/dfa/structhpx_1_1components_1_1stub__base"/>
+      </node>
+      <node id="232">
+        <label>hpx::components::client_base&lt; Derived, Stub &gt;</label>
+        <link refid="d9/dad/classhpx_1_1components_1_1client__base"/>
+        <childnode refid="233" relation="public-inheritance">
+        </childnode>
+        <childnode refid="231" relation="usage">
+          <edgelabel>registered_name_</edgelabel>
+        </childnode>
+      </node>
+      <node id="229">
+        <label>hpx::components::client_base&lt; action_move_semantics, stubs::action_move_semantics &gt;</label>
+        <link refid="d9/dad/classhpx_1_1components_1_1client__base"/>
+        <childnode refid="230" relation="public-inheritance">
+        </childnode>
+        <childnode refid="231" relation="usage">
+          <edgelabel>registered_name_</edgelabel>
+        </childnode>
+        <childnode refid="232" relation="template-instance">
+          <edgelabel>&lt; action_move_semantics, stubs::action_move_semantics &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="228">
+        <label>hpx::test::action_move_semantics</label>
+        <link refid="de/d1c/structhpx_1_1test_1_1action__move__semantics"/>
+        <childnode refid="229" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/tests/regressions/actions/components/action_move_semantics.hpp" line="19" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/regressions/actions/components/action_move_semantics.hpp" bodystart="17" bodyend="28"/>
+    <listofallmembers>
+      <member refid="de/d1c/structhpx_1_1test_1_1action__move__semantics_1ad765cfde257055bf5702bb4be76a5ddc" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>action_move_semantics</name></member>
+      <member refid="de/d1c/structhpx_1_1test_1_1action__move__semantics_1aa7444f05369512fbecd747e490643b3e" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>action_move_semantics</name></member>
+      <member refid="de/d1c/structhpx_1_1test_1_1action__move__semantics_1a2875bbf9858aff89329ac7476da9e725" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>base_type</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1a268ea33c68c29f4c3f5221afd6ca42a3" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>bulk_create</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1a6a68ca7a26f10ac3d61e8f2167bee5ac" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>bulk_create_async</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1ad551b512974d7d4bf11f6b76b589e096" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>bulk_create_colocated</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1af4dca498f0cb050e876cd5b6c22f4ca0" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>bulk_create_colocated_async</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a985910e9959283a960582f3605f803ce" prot="protected" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1abf3065ef0a2f690b7e69b3f7bcac4860" prot="protected" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a24458d3bbcf126e3d50a3c41a92252cb" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1acb082f5bdae60cda0783f38a61969ddd" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1ac4af911d43b9bf85c414d7f3dafe2897" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a25ea6bb1d3df8e461787977d8bafc30d" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a0348743631c6db4d3f17275da74336e0" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a4939abece4a52d909ce402a3d4073bf8" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a054b62ecd95907355a79254aaa40ea2b" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1aaa9897134576cbb8ecd33d5818692a63" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1aff75713e7a147f2aefd7d85092560be7" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>client_base</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a799b739d230d80abb078dce9845dc277" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>connect_to</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1ab57228eb99827ba33f2e47febd266608" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>create</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1a352a867161e19ad1e6f5ebd321e6b2d3" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>create_async</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1ad8269573e1872281578b0e5c31e508c3" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>create_colocated</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1abd66d6f66b31a32cb547eb3de2dc63a6" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>create_colocated_async</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1aa1af310d69b8c1b29ba076fb61e9ca29" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>detach</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a5f9ce510e65ead00da165d79c0c3d93c" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>free</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1ae572f0885b90806fc41c4e5feeb99d03" prot="public" virt="non-virtual" ambiguityscope="hpx::components::stub_base::"><scope>hpx::test::action_move_semantics</scope><name>free</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1acbc8b7903b53744c08b7079fcb587df2" prot="public" virt="non-virtual" ambiguityscope="hpx::components::stub_base::"><scope>hpx::test::action_move_semantics</scope><name>free</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a41c6f42cb3acf6f5066418a4176c9063" prot="protected" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>future_type</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a6d59aae0bee4da523a27bea9719d97c0" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>get</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1abc28ca541f2e2eb38bb5fd4f0e057185" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>get_component_type</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1ae3afee0d00a1a21908aa72cb70817454" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>get_exception_ptr</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a0cdfe4b8fed578eb1ce34222c0f07b03" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>get_id</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a64effbd49c5a286e087a0d9a2855c8c3" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>get_raw_gid</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1af3e419678e593a74390deb23e69be72f" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>has_exception</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a78565ed46ca28ad0edf4fd44118d0fcb" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>has_value</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a487c8eb8743958b58ac966b9b2a0c6fe" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>is_client_tag</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a32168236d71eca86ffc30b65eed10e65" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>is_ready</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1ae5c54fadd8bdfbb4eb5e939bac76bf1c" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>operator bool</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a38712560bf9ebcb302de09d252a8c135" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>operator=</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a62a9f57ac6fd6237a4d253bcca4315b3" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>operator=</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a406f42578020ddfe8a65940bc55f8fb5" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>operator=</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a3ff2046eac3d45e9caf173ea97c99e2f" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>operator=</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a850f6f6cf716674db71228015ec5ef08" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>operator=</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a25b0d7435d871de95f6cbef5fc46f6c7" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>operator=</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1aa7d58d05fd086c06c4c658a16d66c9e1" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>operator=</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a632d14405be3f73ace2827cf3e0d71a0" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>register_as</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1adbd7a338e8bc364ed4b67270d2046fcf" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>registered_name</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a26d8a0e6a063e6899035a50c00d29f0e" prot="protected" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>registered_name_</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a92804c0497b7fd54232dc4349768a52c" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>reset</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a7a0944e64e08254a335197504ec4e316" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>reset</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a12510e0ea5b7eae57c990ed070aae3c1" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>reset</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a721825e8fc102f50618c448a2d188c57" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>reset_registered_name</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a2a7fd42d01aa2979965363d7f1829797" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>server_component_type</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1ac5af75af2b3ac752427f3bf3b3f459f4" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>share</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a943f9ddbe1506baf328132a6dd7d67e7" prot="protected" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>shared_state_</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1aadbfac4a28c367bd4d6ab83a5ae04486" prot="protected" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>shared_state_type</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1adf5772f9c27974fe616fac5882b3652c" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>stub_argument_type</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a46a769df4a97557c3069cd3a5734ce8d" prot="protected" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>stub_type</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1a195e205b5917c50455e9eab169045a2f" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>then</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1ab3df549067cef8df0708874bbfa3f570" prot="protected" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>unregister_held_object</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1ac63f8aa0c5da91cc79c8b4d030cc5713" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>valid</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1ae26e4c559c4567d1e3b8f65e141f4ff0" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>wait</name></member>
+      <member refid="d9/dad/classhpx_1_1components_1_1client__base_1aca5e3161dac9ac330693b35f157b21d0" prot="public" virt="non-virtual"><scope>hpx::test::action_move_semantics</scope><name>~client_base</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

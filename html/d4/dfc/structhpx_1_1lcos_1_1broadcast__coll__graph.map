@@ -1,0 +1,10 @@
+<map id="hpx::lcos::broadcast&lt; Action &gt;" name="hpx::lcos::broadcast&lt; Action &gt;">
+<area shape="rect" id="node2" href="$d3/dc1/classhpx_1_1lcos_1_1local_1_1promise_3_01void_01_4.html" title="hpx::lcos::local::promise\l\&lt; void \&gt;" alt="" coords="221,5,385,47"/>
+<area shape="rect" id="node3" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html" title="hpx::lcos::local::detail\l::promise_base\&lt; void \&gt;" alt="" coords="8,5,165,47"/>
+<area shape="rect" id="node4" href="$db/dee/structhpx_1_1naming_1_1id__type.html" title="hpx::naming::id_type" alt="" coords="231,71,374,98"/>
+<area shape="rect" id="node5" href="$d0/d33/classhpx_1_1lcos_1_1future.html" title="hpx::lcos::future\&lt;\l void \&gt;" alt="" coords="241,123,364,164"/>
+<area shape="rect" id="node6" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html" title="hpx::lcos::detail::\lfuture_base\&lt; future\l\&lt; void \&gt;, void \&gt;" alt="" coords="20,115,153,171"/>
+<area shape="rect" id="node7" href="$da/dbc/structhpx_1_1lcos_1_1local_1_1spinlock.html" title="boost::mutex&#45;compatible spinlock class " alt="" coords="219,189,386,215"/>
+<area shape="rect" id="node8" href="$d6/d4e/structhpx_1_1lcos_1_1local_1_1and__gate.html" title="hpx::lcos::local::and_gate" alt="" coords="217,239,388,266"/>
+<area shape="rect" id="node9" href="$df/d91/structhpx_1_1lcos_1_1local_1_1base__and__gate.html" title="hpx::lcos::local::base\l_and_gate\&lt; no_mutex \&gt;" alt="" coords="5,232,168,273"/>
+</map>

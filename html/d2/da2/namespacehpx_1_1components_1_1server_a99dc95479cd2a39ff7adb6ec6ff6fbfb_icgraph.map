@@ -1,0 +1,10 @@
+<map id="hpx::components::server::get_error_dispatcher" name="hpx::components::server::get_error_dispatcher">
+<area shape="rect" id="node2" href="$d2/da2/namespacehpx_1_1components_1_1server.html#a690e445bd980a7ec4040fbba96dbfa61" title="hpx::components::server\l::console_error_sink" alt="" coords="223,39,387,80"/>
+<area shape="rect" id="node7" href="$da/df7/classhpx_1_1components_1_1server_1_1console__error__dispatcher.html#a501474c45bd71f17add2ee56c77ee400" title="hpx::components::server\l::console_error_dispatcher\l::operator()" alt="" coords="217,105,392,161"/>
+<area shape="rect" id="node8" href="$dc/d80/classhpx_1_1runtime__impl.html#a19b55584b2e6b6b4d72ae159fbef0f6e" title="hpx::runtime_impl::\lruntime_impl" alt="" coords="238,185,371,227"/>
+<area shape="rect" id="node9" href="$dc/d80/classhpx_1_1runtime__impl.html#a5e70244e3e08e5a408605744f5830c24" title="hpx::runtime_impl::\lregister_error_sink" alt="" coords="238,251,371,292"/>
+<area shape="rect" id="node3" href="$dc/d80/classhpx_1_1runtime__impl.html#aabdaeb29966bd884e97f5fbca0ecae3d" title="Report a non&#45;recoverable error to the runtime system. " alt="" coords="440,39,573,80"/>
+<area shape="rect" id="node4" href="$dc/d80/classhpx_1_1runtime__impl.html#a5183bfa1e494d6a1455d6c10300d202d" title="Report a non&#45;recoverable error to the runtime system. " alt="" coords="630,5,763,47"/>
+<area shape="rect" id="node5" href="$dc/d80/classhpx_1_1runtime__impl.html#aa9de8265198ceaf0e1e3f2ac1d78462e" title="hpx::runtime_impl::\lget_notification_policy" alt="" coords="621,71,772,112"/>
+<area shape="rect" id="node6" href="$dc/d80/classhpx_1_1runtime__impl.html#af8458421582bcb47802b012932a68757" title="Run the HPX runtime system, initially use the given number of (OS) threads in the thread&#45;manager and ..." alt="" coords="820,78,971,105"/>
+</map>

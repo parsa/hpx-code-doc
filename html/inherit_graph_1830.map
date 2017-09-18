@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d7/daf/structhpx_1_1util_1_1tuple__element.html" title="hpx::util::tuple_element\l\&lt; N, std::pair\&lt; detail\l::tag_elem\&lt; Tag1 \&gt;::type,\l detail::tag_elem\&lt; Tag2 \&gt;\l::type \&gt; \&gt;" alt="" coords="5,5,177,91"/>
+<area shape="rect" id="node2" href="$d0/dce/structhpx_1_1util_1_1tuple__element_3_01_n_00_01tagged__pair_3_01_tag1_00_01_tag2_01_4_01_4.html" title="hpx::util::tuple_element\l\&lt; N, tagged_pair\&lt; Tag1,\l Tag2 \&gt; \&gt;" alt="" coords="225,20,388,76"/>
+</map>

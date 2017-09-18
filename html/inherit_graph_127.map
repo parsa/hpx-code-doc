@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d1/db6/structhpx_1_1actions_1_1basic__action.html" title="hpx::actions::basic\l_action\&lt; plain_data\l\&lt; hpx::actions::detail\l::action_type\&lt; data_get\l_action\&lt; T, Data, Derived\l \&gt;, Derived \&gt;::type \&gt;, std\l::remove_pointer\&lt; std::remove\l_pointer\&lt; T \&gt;::type \&gt;::type()\l, hpx::actions::detail::action\l_type\&lt; data_get_action\&lt; T, Data,\l Derived \&gt;, Derived \&gt;::type \&gt;" alt="" coords="5,5,221,179"/>
+<area shape="rect" id="node2" href="$d8/de6/structdata__get__action__base.html" title="data_get_action_base\l\&lt; std::remove_pointer\l\&lt; T \&gt;::type, hpx::actions\l::detail::action_type\&lt; data\l_get_action\&lt; T, Data, Derived\l \&gt;, Derived \&gt;::type \&gt;" alt="" coords="269,42,463,142"/>
+<area shape="rect" id="node3" href="$d1/d20/structdata__get__action.html" title="data_get_action\&lt; T,\l Data, Derived \&gt;" alt="" coords="511,71,648,113"/>
+</map>

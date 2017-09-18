@@ -1,0 +1,9 @@
+<map id="hpx::lcos::send_channel::set" name="hpx::lcos::send_channel::set">
+<area shape="rect" id="node2" href="$dd/d5f/channel_8cpp.html#a31952c316bede27c4018c8419164bd29" title="ping" alt="" coords="259,5,305,32"/>
+<area shape="rect" id="node5" href="$dd/d5f/channel_8cpp.html#a3a0a327792f8c51a715f824c2bd3984e" title="pong" alt="" coords="257,56,307,83"/>
+<area shape="rect" id="node6" href="$dd/d5f/channel_8cpp.html#af5d09b5e4022b8488fda050c31ff36f3" title="ping_void" alt="" coords="245,107,319,133"/>
+<area shape="rect" id="node8" href="$dd/d5f/channel_8cpp.html#ad5eceda9b5f308a2772eb6ad9d659249" title="pong_void" alt="" coords="243,157,321,184"/>
+<area shape="rect" id="node3" href="$dd/d5f/channel_8cpp.html#a98455318a14c684f23b1b988094d0dd6" title="pingpong" alt="" coords="383,56,458,83"/>
+<area shape="rect" id="node4" href="$dd/d5f/channel_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="520,81,571,108"/>
+<area shape="rect" id="node7" href="$dd/d5f/channel_8cpp.html#a659049f1fa01e349ee95b1e08189a24a" title="pingpong_void" alt="" coords="369,107,472,133"/>
+</map>

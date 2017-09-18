@@ -1,0 +1,5 @@
+<map id="hpx::threads::policies::scheduler_base::background_callback" name="hpx::threads::policies::scheduler_base::background_callback">
+<area shape="rect" id="node2" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a32d8c1d6d55b20d42149c5710792142f" title="hpx::threads::detail\l::scheduled_thread_pool\l::thread_func" alt="" coords="249,45,412,101"/>
+<area shape="rect" id="node3" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a18f2b38df9ce10cde72b3a19174b18fe" title="hpx::threads::detail\l::scheduled_thread_pool\l::get_os_thread_handle" alt="" coords="460,5,623,61"/>
+<area shape="rect" id="node4" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a83df1a54306c268c2cc95d0c4b9b9eb6" title="hpx::threads::detail\l::scheduled_thread_pool\l::add_processing_unit" alt="" coords="460,85,623,141"/>
+</map>

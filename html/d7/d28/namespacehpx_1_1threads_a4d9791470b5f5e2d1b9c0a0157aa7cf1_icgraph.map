@@ -1,0 +1,4 @@
+<map id="hpx::threads::get_thread_interruption_enabled" name="hpx::threads::get_thread_interruption_enabled">
+<area shape="rect" id="node2" href="$d9/d52/namespacehpx_1_1this__thread.html#a8a68e7805419dd290528a99d64db670f" title="hpx::this_thread::interruption\l_enabled" alt="" coords="216,5,403,47"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#a6cbf4d996ae9166d232f8d06dd80a916" title="Set the thread state of the thread referenced by the thread_id id. " alt="" coords="228,71,391,112"/>
+</map>

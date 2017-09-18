@@ -1,0 +1,10 @@
+digraph "hpx::traits::detail::shared_state_ptr_for&lt; Derived, typename std::enable_if&lt; is_client&lt; Derived &gt;::value &gt;::type &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node3 [label="hpx::traits::detail\l::shared_state_ptr_for\l\< Derived, typename std\l::enable_if\< is_client\<\l Derived \>::value \>::type \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::traits::detail\l::shared_state_ptr\<\l traits::future_traits\l\< Derived \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d87/structhpx_1_1traits_1_1detail_1_1shared__state__ptr.html"];
+  Node5 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< traits::future_traits\l\< Derived \>::type \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::traits::detail\l::shared_state_ptr\< R \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d87/structhpx_1_1traits_1_1detail_1_1shared__state__ptr.html"];
+}

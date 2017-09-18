@@ -1,0 +1,5 @@
+<map id="hpx_main" name="hpx_main">
+<area shape="rect" id="node2" href="$d6/d8d/timed__futures_8cpp.html#a97914b275b4f893c5324fc44accdb230" title="wake_up_after_2_seconds" alt="" coords="132,5,307,32"/>
+<area shape="rect" id="node3" href="$d6/d8d/timed__futures_8cpp.html#a555751c57bb52b88bbf58570e4ff09b1" title="return_int_at_time" alt="" coords="156,56,283,83"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="174,107,265,133"/>
+</map>

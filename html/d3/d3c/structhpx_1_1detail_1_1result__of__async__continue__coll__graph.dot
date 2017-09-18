@@ -1,0 +1,18 @@
+digraph "hpx::detail::result_of_async_continue&lt; Action, Cont &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node6 [label="hpx::detail::result\l_of_async_continue\<\l Action, Cont \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hpx::traits::action\l_remote_result\< util\l::invoke_result\< util\l::decay\< Cont \>::type,\l naming::id_type, hpx::\ltraits::extract_action\<\l Action \>::remote_result\l_type \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/dfc/structhpx_1_1traits_1_1action__remote__result.html"];
+  Node8 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="hpx::traits::detail\l::action_remote_result\l_customization_point\<\l util::invoke_result\< util\l::decay\< Cont \>::type, naming\l::id_type, hpx::traits::extract\l_action\< Action \>::remote_result\l_type \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d1b/structhpx_1_1traits_1_1detail_1_1action__remote__result__customization__point.html"];
+  Node9 -> Node8 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< util::invoke_result\l\< util::decay\< Cont \>\l::type, naming::id_type,\l hpx::traits::extract_action\l\< Action \>::remote_result_type\l \>::type \>" ,fontname="Helvetica"];
+  Node9 [label="hpx::traits::detail\l::action_remote_result\l_customization_point\<\l Result, Enable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d1b/structhpx_1_1traits_1_1detail_1_1action__remote__result__customization__point.html"];
+  Node10 -> Node7 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< util::invoke_result\l\< util::decay\< Cont \>\l::type, naming::id_type,\l hpx::traits::extract_action\l\< Action \>::remote_result_type\l \>::type \>" ,fontname="Helvetica"];
+  Node10 [label="hpx::traits::action\l_remote_result\< Result \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/dfc/structhpx_1_1traits_1_1action__remote__result.html"];
+  Node11 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="hpx::traits::detail\l::action_remote_result\l_customization_point\<\l Result \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d1b/structhpx_1_1traits_1_1detail_1_1action__remote__result__customization__point.html"];
+  Node9 -> Node11 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Result \>" ,fontname="Helvetica"];
+}

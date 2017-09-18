@@ -1,0 +1,10 @@
+<map id="DisplayBitmapInfo" name="DisplayBitmapInfo">
+<area shape="rect" id="node2" href="$dd/d53/_easy_b_m_p_8cpp.html#a66cd5022854084cc377337cced3866e6" title="GetBMFH" alt="" coords="180,56,260,83"/>
+<area shape="rect" id="node8" href="$dd/d53/_easy_b_m_p_8cpp.html#ad3884939602af9979dab7e63b8892ce6" title="GetBMIH" alt="" coords="183,107,257,133"/>
+<area shape="rect" id="node3" href="$dd/d53/_easy_b_m_p_8cpp.html#a7151a3d14fa85dc0d9f4909b188c6b91" title="SafeFread" alt="" coords="351,56,432,83"/>
+<area shape="rect" id="node4" href="$d2/df6/_easy_b_m_p___data_structures_8h.html#ac6ab566aa4b7764fb0cbcaab5afab089" title="IsBigEndian" alt="" coords="346,107,437,133"/>
+<area shape="rect" id="node5" href="$d7/d2a/class_b_m_f_h.html#a749e4bb6cfa10ed9fa77c3578c471110" title="BMFH::SwitchEndianess" alt="" coords="308,5,475,32"/>
+<area shape="rect" id="node6" href="$d2/df6/_easy_b_m_p___data_structures_8h.html#af747c0c8ddceeffab9b86640d59cb14a" title="FlipWORD" alt="" coords="527,31,611,57"/>
+<area shape="rect" id="node7" href="$d2/df6/_easy_b_m_p___data_structures_8h.html#a109ee493d87625eee6f8a528ee85eec4" title="FlipDWORD" alt="" coords="523,132,616,159"/>
+<area shape="rect" id="node9" href="$dc/d50/class_b_m_i_h.html#aece3c1b46fe1712b5926d0b47eb1739f" title="BMIH::SwitchEndianess" alt="" coords="310,157,473,184"/>
+</map>

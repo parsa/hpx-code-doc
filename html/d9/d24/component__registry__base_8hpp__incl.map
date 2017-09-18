@@ -1,0 +1,32 @@
+<map id="component_registry_base.hpp" name="component_registry_base.hpp">
+<area shape="rect" id="node2" href="$d8/dfd/config_8hpp.html" title="hpx/config.hpp" alt="" coords="1125,691,1232,717"/>
+<area shape="rect" id="node17" href="$db/d82/static__factory__data_8hpp.html" title="hpx/runtime/components\l/static_factory_data.hpp" alt="" coords="303,169,468,211"/>
+<area shape="rect" id="node18" href="$d1/d06/export__plugin_8hpp.html" title="hpx/util/plugin/export\l_plugin.hpp" alt="" coords="782,259,925,300"/>
+<area shape="rect" id="node33" href="$d1/dab/plugin_8hpp.html" title="hpx/util/plugin.hpp" alt="" coords="1197,95,1323,121"/>
+<area shape="rect" id="node3" href="$df/d6a/attributes_8hpp.html" title="hpx/config/attributes.hpp" alt="" coords="449,773,613,799"/>
+<area shape="rect" id="node5" href="$d2/d97/compiler__specific_8hpp.html" title="hpx/config/compiler\l_specific.hpp" alt="" coords="682,855,817,896"/>
+<area shape="rect" id="node6" href="$de/d38/branch__hints_8hpp.html" title="hpx/config/branch_hints.hpp" alt="" coords="1056,773,1240,799"/>
+<area shape="rect" id="node7" href="$d4/dce/constexpr_8hpp.html" title="hpx/config/constexpr.hpp" alt="" coords="1343,862,1510,889"/>
+<area shape="rect" id="node8" href="$d6/de2/emulate__deleted_8hpp.html" title="hpx/config/emulate\l_deleted.hpp" alt="" coords="1315,765,1445,807"/>
+<area shape="rect" id="node9" href="$d8/df6/config_2export__definitions_8hpp.html" title="hpx/config/export_definitions.hpp" alt="" coords="869,862,1080,889"/>
+<area shape="rect" id="node10" href="$d7/d7f/forceinline_8hpp.html" title="hpx/config/forceinline.hpp" alt="" coords="637,773,805,799"/>
+<area shape="rect" id="node11" href="$de/d75/manual__profiling_8hpp.html" title="hpx/config/manual_profiling.hpp" alt="" coords="1621,773,1824,799"/>
+<area shape="rect" id="node12" href="$d5/ddd/config_2version_8hpp.html" title="hpx/config/version.hpp" alt="" coords="881,773,1031,799"/>
+<area shape="rect" id="node13" href="$d0/d47/cat_8hpp.html" title="hpx/util/detail/pp\l/cat.hpp" alt="" coords="301,855,419,896"/>
+<area shape="rect" id="node16" href="$de/ded/stringize_8hpp.html" title="hpx/util/detail/pp\l/stringize.hpp" alt="" coords="205,765,323,807"/>
+<area shape="rect" id="node14" href="$d2/d1a/util_2detail_2pp_2config_8hpp.html" title="hpx/util/detail/pp\l/config.hpp" alt="" coords="253,944,371,985"/>
+<area shape="rect" id="node23" href="$de/da8/virtual__constructor_8hpp.html" title="hpx/util/plugin/virtual\l_constructor.hpp" alt="" coords="771,527,909,568"/>
+<area shape="rect" id="node19" href="$d5/da5/abstract__factory_8hpp.html" title="hpx/util/plugin/abstract\l_factory.hpp" alt="" coords="867,437,1021,479"/>
+<area shape="rect" id="node24" href="$dd/df2/util_2plugin_2config_8hpp.html" title="hpx/util/plugin/config.hpp" alt="" coords="693,616,859,643"/>
+<area shape="rect" id="node29" href="$da/d20/concrete__factory_8hpp.html" title="hpx/util/plugin/concrete\l_factory.hpp" alt="" coords="699,348,855,389"/>
+<area shape="rect" id="node20" href="$d3/d83/pack_8hpp.html" title="hpx/util/detail/pack.hpp" alt="" coords="985,616,1141,643"/>
+<area shape="rect" id="node30" href="$d0/d45/plugin__wrapper_8hpp.html" title="hpx/util/plugin/plugin\l_wrapper.hpp" alt="" coords="601,437,741,479"/>
+<area shape="rect" id="node34" href="$dc/d07/dll_8hpp.html" title="hpx/util/plugin/dll.hpp" alt="" coords="1516,266,1660,293"/>
+<area shape="rect" id="node48" href="$d6/d1e/plugin__factory_8hpp.html" title="hpx/util/plugin/plugin\l_factory.hpp" alt="" coords="2849,169,2989,211"/>
+<area shape="rect" id="node35" href="$d6/dff/dll__dlopen_8hpp.html" title="hpx/util/plugin/detail\l/dll_dlopen.hpp" alt="" coords="1761,348,1898,389"/>
+<area shape="rect" id="node36" href="$db/d3c/compat_2mutex_8hpp.html" title="hpx/compat/mutex.hpp" alt="" coords="1485,445,1640,471"/>
+<area shape="rect" id="node38" href="$d3/d5f/error__code_8hpp.html" title="hpx/error_code.hpp" alt="" coords="2587,445,2720,471"/>
+<area shape="rect" id="node40" href="$d7/d3a/throw__exception_8hpp.html" title="hpx/throw_exception.hpp" alt="" coords="2670,534,2837,561"/>
+<area shape="rect" id="node41" href="$d2/d54/assert_8hpp.html" title="hpx/util/assert.hpp" alt="" coords="2433,445,2562,471"/>
+<area shape="rect" id="node49" href="$d7/d7c/function_8hpp.html" title="hpx/util/function.hpp" alt="" coords="3269,355,3408,382"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="hpx::lcos::local::detail::intrusive_ptr_release" name="hpx::lcos::local::detail::intrusive_ptr_release">
+<area shape="rect" id="node2" href="$d1/df1/structhpx_1_1lcos_1_1local_1_1detail_1_1channel__impl__base.html#abb44b0fe78d681d27d61a73715cef912" title="hpx::lcos::local::detail\l::channel_impl_base::requires_delete" alt="" coords="203,5,440,47"/>
+<area shape="rect" id="node4" href="$d1/df1/structhpx_1_1lcos_1_1local_1_1detail_1_1channel__impl__base.html#a0ebc4494823e44b02e996a5d4f3868c2" title="hpx::lcos::local::detail\l::channel_impl_base::destroy" alt="" coords="225,71,417,112"/>
+<area shape="rect" id="node3" href="$d1/df1/structhpx_1_1lcos_1_1local_1_1detail_1_1channel__impl__base.html#ab03c5b8a551e0d7a8efd0211e70467d2" title="hpx::lcos::local::detail\l::channel_impl_base::release" alt="" coords="488,5,679,47"/>
+</map>

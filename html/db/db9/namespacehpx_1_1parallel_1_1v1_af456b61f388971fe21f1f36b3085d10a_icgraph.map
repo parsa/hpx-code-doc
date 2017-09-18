@@ -1,0 +1,12 @@
+<map id="hpx::parallel::v1::for_each_n" name="hpx::parallel::v1::for_each_n">
+<area shape="rect" id="node2" href="$d4/d2c/algorithms_2foreach__tests_8hpp.html#abfa02612e9838cfd6335405ce7ef6707" title="test_for_each_n" alt="" coords="205,5,319,32"/>
+<area shape="rect" id="node3" href="$d4/d2c/algorithms_2foreach__tests_8hpp.html#aa9f7f18d8ba9151e0d0211f00d2ac977" title="test_for_each_n_async" alt="" coords="184,56,340,83"/>
+<area shape="rect" id="node5" href="$dc/dad/foreachn__bad__alloc_8cpp.html#a4496235f0eb792fcd3cf2df561ee3a3d" title="test_for_each_n_bad\l_alloc" alt="" coords="191,107,333,149"/>
+<area shape="rect" id="node7" href="$dc/dad/foreachn__bad__alloc_8cpp.html#a512e60fa6f1c63405d9ed2bb36387148" title="test_for_each_n_bad\l_alloc_async" alt="" coords="191,173,333,214"/>
+<area shape="rect" id="node8" href="$d7/d9a/foreachn__exception_8cpp.html#ac19da618c4eb3ec6df03eee4e7a8152c" title="test_for_each_n_exception" alt="" coords="173,239,351,265"/>
+<area shape="rect" id="node10" href="$d7/d9a/foreachn__exception_8cpp.html#a0b7b511160d05ade5fbd958a180eb445" title="test_for_each_n_exception\l_async" alt="" coords="173,290,351,331"/>
+<area shape="rect" id="node11" href="$de/dc8/partitioned__vector__for__each_8cpp.html#abf8171f27cbe43370d530a93d000de65" title="for_each_n_tests" alt="" coords="201,356,323,383"/>
+<area shape="rect" id="node4" href="$d3/d1b/foreachn_8cpp.html#a1763a1698d56e24b4e424e2f76b16974" title="test_for_each_n" alt="" coords="430,56,545,83"/>
+<area shape="rect" id="node6" href="$dc/dad/foreachn__bad__alloc_8cpp.html#add3ad57288ad51f7d794eec7620de345" title="test_for_each_n_bad\l_alloc" alt="" coords="416,158,559,199"/>
+<area shape="rect" id="node9" href="$d7/d9a/foreachn__exception_8cpp.html#a6b9e4013e39c30c4376aa56ccf15c8cf" title="test_for_each_n_exception" alt="" coords="399,253,576,280"/>
+</map>

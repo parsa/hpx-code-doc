@@ -1,0 +1,8 @@
+<map id="hpx::agas::bind" name="hpx::agas::bind">
+<area shape="rect" id="node2" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="164,57,319,98"/>
+<area shape="rect" id="node5" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a0e706be27e3a44b581b8ee1a04d8fd7d" title="hpx::agas::addressing\l_service::bind_async" alt="" coords="166,122,317,163"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="385,5,503,32"/>
+<area shape="rect" id="node4" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="367,57,521,98"/>
+<area shape="rect" id="node6" href="$d4/dc9/namespacehpx_1_1naming.html#ae50a3ecdb5854b6a25a556ebc9830541" title="hpx::naming::get_gid\l_from_locality_id" alt="" coords="373,122,515,163"/>
+<area shape="rect" id="node7" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="569,122,736,163"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="hpx::util::logging::detail::common_base_holder&lt; gather_msg, write_msg &gt;" name="hpx::util::logging::detail::common_base_holder&lt; gather_msg, write_msg &gt;">
+<area shape="rect" id="node2" href="$da/d10/structhpx_1_1util_1_1logging_1_1logger__base.html" title="logger base class. " alt="" coords="276,35,424,91"/>
+<area shape="rect" id="node5" href="$da/d10/structhpx_1_1util_1_1logging_1_1logger__base.html" title="logger_base\&lt; gather\l_msg, write_msg \&gt;" alt="" coords="280,123,420,164"/>
+<area shape="rect" id="node3" href="$d3/d3e/structhpx_1_1util_1_1logging_1_1logger.html" title="logger\&lt; detail::format\l_find_gather\&lt; gather \&gt;\l::type, detail::format\l_find_writer\&lt; format_base,\l destination_base, lock_resource,\l thread_safety \&gt;::type \&gt;" alt="" coords="472,5,689,105"/>
+<area shape="rect" id="node4" href="$db/d69/structhpx_1_1util_1_1logging_1_1logger__format__write.html" title="Makes it easier to use a logger with format_write class. " alt="" coords="737,13,928,98"/>
+<area shape="rect" id="node6" href="$d3/d3e/structhpx_1_1util_1_1logging_1_1logger.html" title="The logger class. Every log from your application is an instance of this (see workflow) ..." alt="" coords="506,130,655,186"/>
+<area shape="rect" id="node7" href="$d5/d80/structhpx_1_1util_1_1logging_1_1forward__to__logger.html" title="forward_to_logger\&lt;\l detail::format_find\l_gather\&lt; gather \&gt;::type,\l write_type \&gt;" alt="" coords="751,123,914,193"/>
+</map>

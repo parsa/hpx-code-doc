@@ -1,0 +1,9 @@
+<map id="hpx::lcos::local::detail::promise_base::get_future" name="hpx::lcos::local::detail::promise_base::get_future">
+<area shape="rect" id="node2" href="$d4/dd8/call__promise__get__gid__more__than__once_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="304,5,383,32"/>
+<area shape="rect" id="node3" href="$de/d66/promise__allocator_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="318,56,369,83"/>
+<area shape="rect" id="node4" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#aea7da73b35a156d71c948a86b07c8d16" title="Shutdown the given runtime system. " alt="" coords="229,107,457,149"/>
+<area shape="rect" id="node6" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#a29f660c7e67afbad26e7b043f44f5be9" title="Retrieve configuration information. " alt="" coords="230,173,457,214"/>
+<area shape="rect" id="node5" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#ad094409d35b8296bd0c58a282d84d308" title="hpx::components::stubs\l::runtime_support::shutdown" alt="" coords="505,107,692,149"/>
+<area shape="rect" id="node7" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#a279b53f1b62a49555fcd02d264bb911f" title="hpx::components::stubs\l::runtime_support::terminate" alt="" coords="506,173,691,214"/>
+<area shape="rect" id="node8" href="$d3/d41/classhpx_1_1process_1_1process.html#a8c96317a0d57a9dfd75375b25e434b8b" title="hpx.process.process.\l__init__" alt="" coords="740,173,887,214"/>
+</map>

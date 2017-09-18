@@ -1,0 +1,7 @@
+<map id="hpx::util::logging::destination::detail::file_info" name="hpx::util::logging::destination::detail::file_info">
+<area shape="rect" id="node2" href="$d9/d05/structhpx_1_1util_1_1logging_1_1destination_1_1file__settings.html" title="settings for when constructing a file class. To see how it&#39;s used, see Dealing with flags..." alt="" coords="523,70,640,126"/>
+<area shape="rect" id="node3" href="$dd/dfe/structhpx_1_1util_1_1logging_1_1detail_1_1flag_1_1t.html" title="hpx::util::logging\l::detail::flag\&lt; self\l_type \&gt;::t\&lt; bool \&gt;" alt="" coords="244,14,371,70"/>
+<area shape="rect" id="node4" href="$d2/d11/structhpx_1_1util_1_1logging_1_1detail_1_1flag__with__self__type.html" title="hpx::util::logging\l::detail::flag_with\l_self_type\&lt; self_type,\l bool \&gt;" alt="" coords="23,5,172,76"/>
+<area shape="rect" id="node5" href="$dd/dfe/structhpx_1_1util_1_1logging_1_1detail_1_1flag_1_1t.html" title="hpx::util::logging\l::detail::flag\&lt; self\l_type \&gt;::t\&lt; std::ios\l_base::openmode \&gt;" alt="" coords="239,97,376,168"/>
+<area shape="rect" id="node6" href="$d2/d11/structhpx_1_1util_1_1logging_1_1detail_1_1flag__with__self__type.html" title="hpx::util::logging\l::detail::flag_with\l_self_type\&lt; self_type,\l std::ios_base::openmode \&gt;" alt="" coords="5,100,189,171"/>
+</map>

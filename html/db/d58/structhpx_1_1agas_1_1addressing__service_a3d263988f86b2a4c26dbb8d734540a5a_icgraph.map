@@ -1,0 +1,11 @@
+<map id="hpx::agas::addressing_service::get_localities" name="hpx::agas::addressing_service::get_localities">
+<area shape="rect" id="node2" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a762854405164e7c9633875ca149bbb62" title="hpx::parcelset::parcelhandler\l::get_raw_remote_localities" alt="" coords="207,71,396,112"/>
+<area shape="rect" id="node6" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#ac4cb84a74380ddbab1039ad7ab672007" title="hpx::parcelset::parcelhandler\l::get_raw_localities" alt="" coords="207,136,396,177"/>
+<area shape="rect" id="node3" href="$da/dcb/classhpx_1_1applier_1_1applier.html#a6a2df8a55727abb84e46b4929d0fd773" title="Return list of localities of all remote localities registered with the AGAS service for a specific co..." alt="" coords="444,5,624,47"/>
+<area shape="rect" id="node4" href="$da/dcb/classhpx_1_1applier_1_1applier.html#a33c33c885876d2f53263a0fb87172851" title="hpx::applier::applier\l::get_remote_localities" alt="" coords="457,71,611,112"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#a733bed68dc49d3a0fa2d1368e6203588" title="Return the list of locality ids of remote localities supporting the given component type..." alt="" coords="672,78,848,105"/>
+<area shape="rect" id="node7" href="$da/dcb/classhpx_1_1applier_1_1applier.html#a40cfc6d661a9fd01ea77b62ec415804c" title="Return list of locality_ids of all localities registered with the AGAS service for a specific compone..." alt="" coords="467,136,601,177"/>
+<area shape="rect" id="node8" href="$da/dcb/classhpx_1_1applier_1_1applier.html#a1d4a6d6d2a6e941d365075f597ce590f" title="hpx::applier::applier\l::get_localities" alt="" coords="467,201,601,243"/>
+<area shape="rect" id="node9" href="$d8/d83/namespacehpx.html#a265cd11a586a37b9c3f3c9dfd44eb958" title="Return the list of global ids representing all localities available to this application which support..." alt="" coords="685,183,835,210"/>
+<area shape="rect" id="node10" href="$d8/d83/namespacehpx.html#adde1eeefca5bbb4863e54ca81dfb1b6f" title="Return the global id representing an arbitrary locality which supports the given component type..." alt="" coords="701,234,819,261"/>
+</map>

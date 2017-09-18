@@ -1,0 +1,8 @@
+<map id="hpx::runtime_impl::keep_factory_alive" name="hpx::runtime_impl::keep_factory_alive">
+<area shape="rect" id="node2" href="$dc/d80/classhpx_1_1runtime__impl.html#ad038e06c49f0e3d63d6eac4538041f40" title="hpx::runtime_impl::\ladd_shutdown_function" alt="" coords="187,5,344,47"/>
+<area shape="rect" id="node3" href="$dc/d80/classhpx_1_1runtime__impl.html#a19b55584b2e6b6b4d72ae159fbef0f6e" title="hpx::runtime_impl::\lruntime_impl" alt="" coords="1028,49,1161,91"/>
+<area shape="rect" id="node4" href="$dc/d80/classhpx_1_1runtime__impl.html#a6b2c973ef7938badd839422e45bf857e" title="hpx::runtime_impl::\ladd_pre_shutdown_function" alt="" coords="392,35,575,76"/>
+<area shape="rect" id="node5" href="$dc/d80/classhpx_1_1runtime__impl.html#aedf7ab79886e7d9a2d6e02a4e9591f2c" title="hpx::runtime_impl::\ladd_startup_function" alt="" coords="623,85,765,127"/>
+<area shape="rect" id="node6" href="$dc/d80/classhpx_1_1runtime__impl.html#accf86f9b92cef9d4120d05b175693fa7" title="hpx::runtime_impl::\ladd_pre_startup_function" alt="" coords="813,136,980,177"/>
+<area shape="rect" id="node7" href="$dc/d80/classhpx_1_1runtime__impl.html#ac0009affe323cd040ae3d8ae2ddab4e1" title="hpx::runtime_impl::\lget_next_id" alt="" coords="1028,136,1161,177"/>
+</map>

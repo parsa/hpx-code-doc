@@ -1,0 +1,9 @@
+<map id="hpx::test::server::action_move_semantics::return_test_non_movable" name="hpx::test::server::action_move_semantics::return_test_non_movable">
+<area shape="rect" id="node2" href="$da/d04/structhpx_1_1test_1_1server_1_1action__move__semantics.html#a7385f66791e43af92fe10e0ef504356b" title="hpx::test::server::\laction_move_semantics\l::HPX_DEFINE_COMPONENT\l_ACTION" alt="" coords="228,5,427,76"/>
+<area shape="rect" id="node3" href="$da/d04/structhpx_1_1test_1_1server_1_1action__move__semantics.html#a459f81d4542874e7a754b847200d70fa" title="hpx::test::server::\laction_move_semantics\l::test_movable" alt="" coords="247,101,408,157"/>
+<area shape="rect" id="node5" href="$da/d04/structhpx_1_1test_1_1server_1_1action__move__semantics.html#a7ff761c7b90e1b6b94e4df4395a8ba45" title="hpx::test::server::\laction_move_semantics\l::test_non_movable" alt="" coords="247,181,408,237"/>
+<area shape="rect" id="node7" href="$da/d04/structhpx_1_1test_1_1server_1_1action__move__semantics.html#adeb3711c5859acbafb7ff631837d1b4a" title="hpx::test::server::\laction_move_semantics\l::HPX_DEFINE_COMPONENT\l_DIRECT_ACTION" alt="" coords="228,261,427,332"/>
+<area shape="rect" id="node8" href="$da/d04/structhpx_1_1test_1_1server_1_1action__move__semantics.html#a7b926e6d14ad0f09ccc18235f877d752" title="hpx::test::server::\laction_move_semantics\l::return_test_movable" alt="" coords="247,357,408,413"/>
+<area shape="rect" id="node4" href="$d2/d83/classhpx_1_1test_1_1movable__object.html#aa83c7840f3689a26988e2049987e241d" title="hpx::test::movable\l_object::get_count" alt="" coords="488,108,617,149"/>
+<area shape="rect" id="node6" href="$da/df9/classhpx_1_1test_1_1non__movable__object.html#af227ad3fbb448ab79224ac8cace991f1" title="hpx::test::non_movable\l_object::get_count" alt="" coords="475,188,631,229"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="hpx::performance_counters::manage_counter::~manage_counter" name="hpx::performance_counters::manage_counter::~manage_counter">
+<area shape="rect" id="node2" href="$d8/d3b/structhpx_1_1performance__counters_1_1manage__counter.html#acccd7538ef62c68bc5227130d3887940" title="hpx::performance_counters\l::manage_counter::uninstall" alt="" coords="241,5,424,47"/>
+<area shape="rect" id="node4" href="$d8/d3b/structhpx_1_1performance__counters_1_1manage__counter.html#aa424d572161bc4934f44c68d6af170dc" title="hpx::performance_counters\l::manage_counter::install" alt="" coords="243,71,422,112"/>
+<area shape="rect" id="node6" href="$d0/d36/namespacehpx_1_1performance__counters.html#ac63ec0b42b85c3aa1c63d54418aa3a45" title="hpx::performance_counters\l::install_counter" alt="" coords="243,188,422,229"/>
+<area shape="rect" id="node3" href="$d0/df8/namespacehpx_1_1performance__counters_1_1detail.html#aca5aac8da51bac3e9c73fb984ee4f274" title="Remove an existing performance counter instance with the given id (as returned from create_counter) ..." alt="" coords="475,5,654,47"/>
+<area shape="rect" id="node5" href="$d0/df8/namespacehpx_1_1performance__counters_1_1detail.html#a0713120de3ece946bc233d5143f117d7" title="Add an existing performance counter instance to the registry. " alt="" coords="475,71,654,112"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="505,137,624,163"/>
+<area shape="rect" id="node8" href="$d0/d7b/classhpx_1_1runtime.html#ae740fb89e06b12759723e52a8e7c4ebe" title="hpx::runtime::add_shutdown\l_function" alt="" coords="472,188,657,229"/>
+<area shape="rect" id="node9" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="515,254,615,281"/>
+<area shape="rect" id="node10" href="$d0/d36/namespacehpx_1_1performance__counters.html#a5dac14a367bca3b3fabc6def8e6f0674" title="hpx::performance_counters\l::counter_shutdown" alt="" coords="475,305,654,347"/>
+</map>

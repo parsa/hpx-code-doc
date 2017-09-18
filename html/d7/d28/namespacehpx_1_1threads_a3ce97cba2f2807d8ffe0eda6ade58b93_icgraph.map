@@ -1,0 +1,12 @@
+<map id="hpx::threads::get_thread_phase" name="hpx::threads::get_thread_phase">
+<area shape="rect" id="node2" href="$da/d2e/classhpx_1_1threads_1_1coroutines_1_1coroutine.html#a66fbeadc9f349792de4ad9fa9e9237ec" title="hpx::threads::coroutines\l::coroutine::get_thread_id" alt="" coords="216,5,385,47"/>
+<area shape="rect" id="node3" href="$d7/dd2/classhpx_1_1threads_1_1coroutines_1_1detail_1_1coroutine__impl.html#a27e1bb0d870c3b7221769414886e5ceb" title="hpx::threads::coroutines\l::detail::coroutine_impl\l::bind_result_pointer" alt="" coords="219,71,382,127"/>
+<area shape="rect" id="node4" href="$d5/dca/hpx__thread__phase_8cpp.html#a33ae614742af7a5d14a763390f10b5ce" title="lock_and_wait" alt="" coords="249,151,353,178"/>
+<area shape="rect" id="node6" href="$d3/d00/classhpx_1_1threads_1_1thread__data.html#a77c5594c1b80cbc4d5dc4305698e53d6" title="hpx::threads::thread\l_data::~thread_data" alt="" coords="231,203,370,244"/>
+<area shape="rect" id="node10" href="$d3/d00/classhpx_1_1threads_1_1thread__data.html#ab98cf47cc0cef1ed9fe378bfef200eb3" title="hpx::threads::thread\l_data::rebind" alt="" coords="231,268,370,309"/>
+<area shape="rect" id="node11" href="$d7/d28/namespacehpx_1_1threads.html#a6cbf4d996ae9166d232f8d06dd80a916" title="Set the thread state of the thread referenced by the thread_id id. " alt="" coords="219,333,382,375"/>
+<area shape="rect" id="node5" href="$d5/dca/hpx__thread__phase_8cpp.html#aaf67a3863f19ff7033e239ebb1204fb7" title="hpx_main" alt="" coords="469,151,547,178"/>
+<area shape="rect" id="node7" href="$d7/d28/namespacehpx_1_1threads.html#a05b4c9659b34ad13f3c0e2fb866bff9f" title="hpx::threads::intrusive\l_ptr_release" alt="" coords="433,203,583,244"/>
+<area shape="rect" id="node8" href="$d6/d50/structhpx_1_1threads_1_1detail_1_1manage__executor.html#ad6071a250caf4951bda3a3b611dadff2" title="hpx::threads::detail\l::manage_executor::~manage\l_executor" alt="" coords="631,158,825,214"/>
+<area shape="rect" id="node9" href="$d6/da2/classhpx_1_1threads_1_1detail_1_1executor__base.html#a2cf15a7e6fcf1613b5ba140ca67361f8" title="hpx::threads::detail\l::executor_base::create_id" alt="" coords="640,239,816,280"/>
+</map>

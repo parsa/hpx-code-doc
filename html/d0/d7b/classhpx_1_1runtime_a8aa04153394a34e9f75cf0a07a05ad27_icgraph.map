@@ -1,0 +1,8 @@
+<map id="hpx::runtime::init_tss" name="hpx::runtime::init_tss">
+<area shape="rect" id="node2" href="$d0/d7b/classhpx_1_1runtime.html#ab43f75dc859aa23717d94f591b7c3ff8" title="construct a new instance of a runtime " alt="" coords="200,5,345,32"/>
+<area shape="rect" id="node3" href="$dc/d80/classhpx_1_1runtime__impl.html#af9bdb195f306613b511f9055416bfd22" title="Start the runtime system. " alt="" coords="206,57,339,98"/>
+<area shape="rect" id="node6" href="$dc/d80/classhpx_1_1runtime__impl.html#aa9de8265198ceaf0e1e3f2ac1d78462e" title="hpx::runtime_impl::\lget_notification_policy" alt="" coords="197,122,348,163"/>
+<area shape="rect" id="node4" href="$dc/d80/classhpx_1_1runtime__impl.html#a65be9f67d82e42bc9d6ad34da1fd8e68" title="Start the runtime system. " alt="" coords="405,6,538,47"/>
+<area shape="rect" id="node5" href="$dc/d80/classhpx_1_1runtime__impl.html#ad97f579306f8e516c65886ca56a58f2b" title="Run the HPX runtime system, use the given function for the main thread and block waiting for all thre..." alt="" coords="396,72,547,99"/>
+<area shape="rect" id="node7" href="$dc/d80/classhpx_1_1runtime__impl.html#af8458421582bcb47802b012932a68757" title="Run the HPX runtime system, initially use the given number of (OS) threads in the thread&#45;manager and ..." alt="" coords="396,129,547,156"/>
+</map>

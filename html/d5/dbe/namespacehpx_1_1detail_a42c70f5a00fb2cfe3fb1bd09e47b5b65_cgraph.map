@@ -1,0 +1,6 @@
+<map id="hpx::detail::async_continue_r_cb" name="hpx::detail::async_continue_r_cb">
+<area shape="rect" id="node2" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html#a941a7057c3296a4c06ecbbb5032146a2" title="hpx::lcos::local::detail\l::promise_base\&lt; Result,\l detail::promise_data\&lt; Result\l \&gt; \&gt;::get_future" alt="" coords="179,5,371,76"/>
+<area shape="rect" id="node3" href="$d4/def/classhpx_1_1lcos_1_1detail_1_1promise__base.html#a2517464a9b53f71a7531c5cf75323ef5" title="hpx::lcos::detail::\lpromise_base\&lt; Result,\l RemoteResult, detail\l::promise_data\&lt; Result\l \&gt; \&gt;::get_id" alt="" coords="196,101,353,186"/>
+<area shape="rect" id="node4" href="$d7/d7f/async__cb__colocated_8cpp.html#ae8e7b15d60cbf27f78a81c0b74124fab" title="cb" alt="" coords="255,210,294,237"/>
+<area shape="rect" id="node5" href="$d7/d7f/async__cb__colocated_8cpp.html#a52e3aad384eb40b3744f885060f82339" title="callback_called" alt="" coords="419,210,529,237"/>
+</map>

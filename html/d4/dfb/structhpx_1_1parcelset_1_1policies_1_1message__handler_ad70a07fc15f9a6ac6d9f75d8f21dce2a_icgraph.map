@@ -1,0 +1,12 @@
+<map id="hpx::parcelset::policies::message_handler::put_parcel" name="hpx::parcelset::policies::message_handler::put_parcel">
+<area shape="rect" id="node2" href="$d4/dfb/structhpx_1_1parcelset_1_1policies_1_1message__handler.html#a07d08c7e2400ad84d8eccb2e1c0805db" title="hpx::parcelset::policies\l::message_handler::~message\l_handler" alt="" coords="253,72,455,128"/>
+<area shape="rect" id="node3" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#ac47bfb07dba5c3273d36fabe0868d43b" title="hpx::parcelset::parcelhandler\l::put_parcel" alt="" coords="259,153,449,194"/>
+<area shape="rect" id="node7" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a32ef958ef057a82fe01c70df5da51c6a" title="hpx::parcelset::parcelhandler\l::put_parcels" alt="" coords="259,239,449,281"/>
+<area shape="rect" id="node4" href="$d6/d81/structhpx_1_1parcelset_1_1detail_1_1put__parcel__handler.html#a108c3182042dc70fac236ffefd75df24" title="hpx::parcelset::detail\l::put_parcel_handler::\loperator()" alt="" coords="517,5,664,61"/>
+<area shape="rect" id="node5" href="$d1/df2/structhpx_1_1parcelset_1_1detail_1_1put__parcel__handler__cb.html#a2748057527af1b9f5f5984703b59d8f8" title="hpx::parcelset::detail\l::put_parcel_handler_cb\l::operator()" alt="" coords="511,85,671,141"/>
+<area shape="rect" id="node6" href="$d7/d3a/structhpx_1_1agas_1_1server_1_1primary__namespace.html#a9037a1baa55fb13097a541bc365f2d0b" title="hpx::agas::server::\lprimary_namespace::route" alt="" coords="503,166,679,207"/>
+<area shape="rect" id="node8" href="$df/d23/put__parcels_8cpp.html#a60e7e37daaa74f7106c7cf614d219a87" title="test_plain_argument" alt="" coords="521,232,660,259"/>
+<area shape="rect" id="node10" href="$df/d23/put__parcels_8cpp.html#aaffb237829db631d8aaaf45d07e1ad9b" title="test_future_argument" alt="" coords="519,283,663,309"/>
+<area shape="rect" id="node11" href="$df/d23/put__parcels_8cpp.html#a24eb81d6a10219027bfd00fa26f0d382" title="test_mixed_arguments" alt="" coords="513,333,668,360"/>
+<area shape="rect" id="node9" href="$df/d23/put__parcels_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="727,283,805,309"/>
+</map>

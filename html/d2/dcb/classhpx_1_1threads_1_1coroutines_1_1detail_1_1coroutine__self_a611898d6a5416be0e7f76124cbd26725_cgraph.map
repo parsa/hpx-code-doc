@@ -1,0 +1,4 @@
+<map id="hpx::threads::coroutines::detail::coroutine_self::init_self" name="hpx::threads::coroutines::detail::coroutine_self::init_self">
+<area shape="rect" id="node2" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node3" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a39c7045b96ffecd7220745a72a89ea6e" title="hpx::util::thread_specific\l_ptr::reset" alt="" coords="216,71,379,112"/>
+</map>

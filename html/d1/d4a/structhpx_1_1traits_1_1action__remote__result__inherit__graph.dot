@@ -1,0 +1,15 @@
+digraph "hpx::traits::action_remote_result&lt; Result &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::traits::action\l_remote_result\< Result \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::traits::detail\l::action_remote_result\l_customization_point\<\l Result \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d1b/structhpx_1_1traits_1_1detail_1_1action__remote__result__customization__point.html"];
+  Node2 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Result \>" ,fontname="Helvetica"];
+  Node2 [label="hpx::traits::detail\l::action_remote_result\l_customization_point\<\l Result, Enable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d1b/structhpx_1_1traits_1_1detail_1_1action__remote__result__customization__point.html"];
+  Node0 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< util::invoke_result\l\< util::decay\< Cont \>\l::type, naming::id_type,\l hpx::traits::extract_action\l\< Action \>::remote_result_type\l \>::type \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::traits::action\l_remote_result\< util\l::invoke_result\< util\l::decay\< Cont \>::type,\l naming::id_type, hpx::\ltraits::extract_action\<\l Action \>::remote_result\l_type \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/dfc/structhpx_1_1traits_1_1action__remote__result.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::detail::result\l_of_async_continue\<\l Action, Cont \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d60/structhpx_1_1detail_1_1result__of__async__continue.html"];
+}

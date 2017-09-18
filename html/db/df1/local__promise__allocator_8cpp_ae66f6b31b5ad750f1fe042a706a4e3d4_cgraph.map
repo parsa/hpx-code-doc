@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d6/de4/classhpx_1_1lcos_1_1local_1_1promise.html#aee94596c23f090f136cf9a4d4838f44b" title="hpx::lcos::local::promise\l::get_future" alt="" coords="104,5,268,47"/>
+<area shape="rect" id="node3" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#aaf7beb7374815614363033bd96573e75" title="hpx::lcos::detail::\lfuture_base\&lt; future\l\&lt; R \&gt;, R \&gt;::valid" alt="" coords="119,71,253,127"/>
+<area shape="rect" id="node4" href="$d3/dc1/classhpx_1_1lcos_1_1local_1_1promise_3_01void_01_4.html#ae516327b0cef99cbb715a41bcf1d82d2" title="hpx::lcos::local::promise\l\&lt; void \&gt;::get_future" alt="" coords="104,152,268,193"/>
+<area shape="rect" id="node5" href="$df/dad/namespacehpx_1_1util.html#afbf0ff58a7808ecc4cdb8a9225cd4164" title="hpx::util::report_errors" alt="" coords="111,218,261,245"/>
+<area shape="rect" id="node6" href="$d4/dd9/structhpx_1_1util_1_1detail_1_1fixture.html#a556e0694a5dd410f2a6cbd58917c585c" title="hpx::util::detail::\lfixture::get" alt="" coords="316,211,431,252"/>
+</map>

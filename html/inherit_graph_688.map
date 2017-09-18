@@ -1,0 +1,3 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$df/d89/structhpx_1_1parallel_1_1v1_1_1detail_1_1algorithm__result__helper_3_01future_3_01hpx_1_1util_1_24fb0c40b86f16e6f0629b6db7b74776.html" title="hpx::parallel::v1::\ldetail::algorithm_result\l_helper\&lt; future\&lt; hpx::util\l::tuple\&lt; Iterator1, Iterator2,\l Iterator3 \&gt; \&gt;, typename std\l::enable_if\&lt; hpx::traits::is_segmented\l_local_iterator\&lt; Iterator1 \&gt;::value\|\l\|hpx::traits::is_segmented_local_iterator\l\&lt; Iterator2 \&gt;::value\|\|hpx::traits::is_segmented\l_local_iterator\&lt; Iterator3 \&gt;::value \&gt;::type \&gt;" alt="" coords="5,5,288,164"/>
+</map>

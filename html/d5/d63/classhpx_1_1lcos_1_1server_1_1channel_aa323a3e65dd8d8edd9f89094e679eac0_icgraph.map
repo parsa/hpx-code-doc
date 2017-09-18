@@ -1,0 +1,5 @@
+<map id="hpx::lcos::server::channel::HPX_DEFINE_COMPONENT_ACTION" name="hpx::lcos::server::channel::HPX_DEFINE_COMPONENT_ACTION">
+<area shape="rect" id="node2" href="$d5/d63/classhpx_1_1lcos_1_1server_1_1channel.html#a5ba1c3b8d1dfa840731f0772d04d30fe" title="hpx::lcos::server::\lchannel::get_generation" alt="" coords="220,5,380,47"/>
+<area shape="rect" id="node3" href="$d5/d63/classhpx_1_1lcos_1_1server_1_1channel.html#a073b9d8d6b79f0284b6e329a616937ac" title="hpx::lcos::server::\lchannel::set_generation" alt="" coords="220,71,380,112"/>
+<area shape="rect" id="node4" href="$d5/d63/classhpx_1_1lcos_1_1server_1_1channel.html#a2407f176e242ccd319d1005b00e08216" title="hpx::lcos::server::\lchannel::close" alt="" coords="237,136,363,177"/>
+</map>

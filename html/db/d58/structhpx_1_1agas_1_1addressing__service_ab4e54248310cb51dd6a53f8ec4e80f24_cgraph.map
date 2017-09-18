@@ -1,0 +1,12 @@
+<map id="hpx::agas::addressing_service::mark_as_migrated" name="hpx::agas::addressing_service::mark_as_migrated">
+<area shape="rect" id="node2" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#ad3a849cb7ebd5dccf9aefadccc21dd89" title="hpx::naming::detail\l::get_stripped_gid" alt="" coords="503,53,635,94"/>
+<area shape="rect" id="node6" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a513ab9557be7ea50244572ef3bcc3939" title="hpx::agas::addressing\l_service::remove_cache_entry" alt="" coords="237,155,433,197"/>
+<area shape="rect" id="node10" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="260,257,411,284"/>
+<area shape="rect" id="node3" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a95cca4d4bc82a9da3e804b225b03dfaf" title="hpx::naming::detail\l::strip_internal_bits\l_from_gid" alt="" coords="723,5,855,61"/>
+<area shape="rect" id="node4" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a1ab848588112d0f7fac377a15692c9cc" title="hpx::naming::detail\l::get_stripped_gid_except\l_dont_cache" alt="" coords="704,85,875,141"/>
+<area shape="rect" id="node5" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#aabeb51a92376c6bfb9cf31bf9ff0c4cc" title="hpx::naming::detail\l::strip_internal_bits\l_except_dont_cache_from_gid" alt="" coords="923,85,1121,141"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="481,119,656,145"/>
+<area shape="rect" id="node8" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a58e1ddcbd72ed4042377e11f32abf3fa" title="hpx::naming::detail\l::store_in_cache" alt="" coords="503,170,635,211"/>
+<area shape="rect" id="node9" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="485,235,652,277"/>
+<area shape="rect" id="node11" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="509,301,629,342"/>
+</map>

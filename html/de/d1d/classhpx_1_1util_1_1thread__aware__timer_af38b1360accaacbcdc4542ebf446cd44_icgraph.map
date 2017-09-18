@@ -1,0 +1,8 @@
+<map id="hpx::util::thread_aware_timer::sample_time" name="hpx::util::thread_aware_timer::sample_time">
+<area shape="rect" id="node2" href="$de/d1d/classhpx_1_1util_1_1thread__aware__timer.html#af14ccb9b2257816fb630fbfff60dd9c4" title="hpx::util::thread_aware\l_timer::take_time_stamp" alt="" coords="207,136,373,177"/>
+<area shape="rect" id="node3" href="$de/d1d/classhpx_1_1util_1_1thread__aware__timer.html#a9361a3da793845c922e362dc3fde9cd6" title="hpx::util::thread_aware\l_timer::now" alt="" coords="444,5,597,47"/>
+<area shape="rect" id="node4" href="$de/d1d/classhpx_1_1util_1_1thread__aware__timer.html#a88f210a64557987984f0b776bcad2ddd" title="hpx::util::thread_aware\l_timer::restart" alt="" coords="444,71,597,112"/>
+<area shape="rect" id="node5" href="$de/d1d/classhpx_1_1util_1_1thread__aware__timer.html#a26d807ff873fb2563b9dfd57bd763a07" title="hpx::util::thread_aware\l_timer::elapsed" alt="" coords="444,136,597,177"/>
+<area shape="rect" id="node6" href="$de/d1d/classhpx_1_1util_1_1thread__aware__timer.html#a7d5ef68077ad72ed62f85e7990e9d9fd" title="hpx::util::thread_aware\l_timer::elapsed_microseconds" alt="" coords="421,201,620,243"/>
+<area shape="rect" id="node7" href="$de/d1d/classhpx_1_1util_1_1thread__aware__timer.html#a930f778d1069620bd597512886acc69d" title="hpx::util::thread_aware\l_timer::elapsed_nanoseconds" alt="" coords="423,267,618,308"/>
+</map>

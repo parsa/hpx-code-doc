@@ -1,0 +1,6 @@
+<map id="hpx::agas::destroy_big_boot_barrier" name="hpx::agas::destroy_big_boot_barrier">
+<area shape="rect" id="node2" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ae7751ba0893dc6faac663544f2e4cbb3" title="hpx::agas::addressing\l_service::~addressing\l_service" alt="" coords="184,5,335,61"/>
+<area shape="rect" id="node3" href="$d8/db6/structhpx_1_1agas_1_1big__boot__barrier.html#a4f0a3fbaed50482d5fba106e49c0d1af" title="hpx::agas::big_boot\l_barrier::add_thunk" alt="" coords="191,86,327,127"/>
+<area shape="rect" id="node4" href="$dc/d54/namespacehpx_1_1agas.html#a3c98dc053a97fca0f3f3b5719d9f8336" title="hpx::agas::register\l_worker" alt="" coords="383,86,513,127"/>
+<area shape="rect" id="node5" href="$de/dae/structhpx_1_1agas_1_1notification__header.html#aa028cf0e80baf9259523c340c4568634" title="hpx::agas::notification\l_header::serialize" alt="" coords="561,86,711,127"/>
+</map>

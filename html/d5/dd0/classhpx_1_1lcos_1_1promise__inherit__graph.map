@@ -1,0 +1,4 @@
+<map id="hpx::lcos::promise&lt; Result, RemoteResult &gt;" name="hpx::lcos::promise&lt; Result, RemoteResult &gt;">
+<area shape="rect" id="node2" href="$d4/def/classhpx_1_1lcos_1_1detail_1_1promise__base.html" title="hpx::lcos::detail::\lpromise_base\&lt; Result,\l RemoteResult, detail\l::promise_data\&lt; Result \&gt; \&gt;" alt="" coords="269,5,451,76"/>
+<area shape="rect" id="node3" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html" title="hpx::lcos::local::detail\l::promise_base\&lt; Result,\l detail::promise_data\&lt; Result \&gt; \&gt;" alt="" coords="5,13,221,69"/>
+</map>

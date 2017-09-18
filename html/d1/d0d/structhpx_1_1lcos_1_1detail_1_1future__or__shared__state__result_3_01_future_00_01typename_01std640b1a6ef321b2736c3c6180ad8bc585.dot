@@ -1,0 +1,18 @@
+digraph "hpx::lcos::detail::future_or_shared_state_result&lt; Future, typename std::enable_if&lt; traits::is_future&lt; Future &gt;::value &gt;::type &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node6 [label="hpx::lcos::detail::\lfuture_or_shared_state\l_result\< Future, typename\l std::enable_if\< traits::\lis_future\< Future \>::value\l \>::type \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hpx::traits::future\l_traits\< Future \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d1b/structhpx_1_1traits_1_1future__traits.html"];
+  Node8 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="hpx::traits::detail\l::future_traits_customization\l_point\< Future \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dbb/structhpx_1_1traits_1_1detail_1_1future__traits__customization__point.html"];
+  Node9 -> Node8 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Future \>" ,fontname="Helvetica"];
+  Node9 [label="hpx::traits::detail\l::future_traits_customization\l_point\< Future, Enable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dbb/structhpx_1_1traits_1_1detail_1_1future__traits__customization__point.html"];
+  Node10 -> Node7 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Future \>" ,fontname="Helvetica"];
+  Node10 [label="hpx::traits::future\l_traits\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d1b/structhpx_1_1traits_1_1future__traits.html"];
+  Node11 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="hpx::traits::detail\l::future_traits_customization\l_point\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dbb/structhpx_1_1traits_1_1detail_1_1future__traits__customization__point.html"];
+  Node9 -> Node11 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< T \>" ,fontname="Helvetica"];
+}

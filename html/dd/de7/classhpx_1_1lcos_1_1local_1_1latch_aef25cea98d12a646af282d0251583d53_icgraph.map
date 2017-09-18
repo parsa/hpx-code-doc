@@ -1,0 +1,8 @@
+<map id="hpx::lcos::local::latch::count_down" name="hpx::lcos::local::latch::count_down">
+<area shape="rect" id="node2" href="$d7/d72/classhpx_1_1lcos_1_1server_1_1latch.html#a547d6f9581fc315e3ab990be67bfa5eb" title="This is invoked whenever the count_down() function is called. " alt="" coords="200,5,325,47"/>
+<area shape="rect" id="node3" href="$d4/db4/local__latch_8cpp.html#a6920c9633d0c95c497d3a4ee446a2bc5" title="test_count_down" alt="" coords="203,71,323,98"/>
+<area shape="rect" id="node5" href="$d8/d83/minimal__async__executor_8cpp.html#a7e42b6242cfc769ca209a7d7db8e7f16" title="apply_test" alt="" coords="221,122,304,149"/>
+<area shape="rect" id="node4" href="$d4/db4/local__latch_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="375,71,454,98"/>
+<area shape="rect" id="node6" href="$d8/d83/minimal__async__executor_8cpp.html#a5f84f0aa2a8c7b97a91aff6d6eb013fc" title="test_apply" alt="" coords="373,122,456,149"/>
+<area shape="rect" id="node7" href="$d8/d83/minimal__async__executor_8cpp.html#a12065ee56eec28d3895ba316405a7116" title="test_executor" alt="" coords="504,122,605,149"/>
+</map>

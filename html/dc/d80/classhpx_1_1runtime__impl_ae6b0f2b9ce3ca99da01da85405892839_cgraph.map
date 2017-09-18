@@ -1,0 +1,12 @@
+<map id="hpx::runtime_impl::get_thread_pool" name="hpx::runtime_impl::get_thread_pool">
+<area shape="rect" id="node2" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a82ecb2cc65719abbac1e2bb8f31c6a78" title="Return the reference to an existing io_service. " alt="" coords="187,133,376,175"/>
+<area shape="rect" id="node3" href="$dc/d80/classhpx_1_1runtime__impl.html#ada1c5b8e9307027efe75b0c85fee631a" title="Register an external OS&#45;thread with HPX. " alt="" coords="215,199,348,240"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#ab4fd45e3ad18628b8eb4c41cab914ae3" title="hpx::locality_prefix" alt="" coords="425,151,556,178"/>
+<area shape="rect" id="node7" href="$d0/d7b/classhpx_1_1runtime.html#a0bfe0241e54b1fe1dd4ec181d944de43" title="access configuration information " alt="" coords="613,239,774,266"/>
+<area shape="rect" id="node11" href="$dc/d80/classhpx_1_1runtime__impl.html#a578a83880ffb6eee136b74b934b702fc" title="Unregister an external OS&#45;thread with HPX. " alt="" coords="424,257,557,299"/>
+<area shape="rect" id="node5" href="$dd/de4/classhpx_1_1util_1_1section.html#a02ac2ca2a4490347405dec03df46af88" title="hpx::util::section\l::get_entry" alt="" coords="634,5,753,47"/>
+<area shape="rect" id="node6" href="$df/dad/namespacehpx_1_1util.html#aca0372e368b829ebac21ebfb2f50a82b" title="hpx::util::safe_lexical_cast" alt="" coords="605,71,781,98"/>
+<area shape="rect" id="node8" href="$df/dad/namespacehpx_1_1util.html#ae0c76dfbb0996d93545fff1bccedd8ba" title="hpx::util::set_thread_name" alt="" coords="605,122,781,149"/>
+<area shape="rect" id="node9" href="$db/d19/classhpx_1_1util_1_1io__service__pool.html#ad01d51199d15e6ccdcac40eca4881c63" title="Stop all io_service objects in the pool. " alt="" coords="627,173,760,215"/>
+<area shape="rect" id="node10" href="$db/d19/classhpx_1_1util_1_1io__service__pool.html#ae8be3e5729401e310e0990dd1a590093" title="hpx::util::io_service\l_pool::stop_locked" alt="" coords="829,173,963,215"/>
+</map>

@@ -1,0 +1,15 @@
+digraph "hpx::util::integer::endian&lt; big, T, n_bits, unaligned &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::integer\l::endian\< big, T, n\l_bits, unaligned \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::util::integer\l::cover_operators\< endian\l\< big, T, n_bits \>, T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d87/classhpx_1_1util_1_1integer_1_1cover__operators.html"];
+  Node2 -> Node1 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="boost::operators\< endian\l\< big, T, n_bits \>  \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< endian\< big, T, n\l_bits \>, T \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::util::integer\l::cover_operators\< T,\l IntegerType \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d87/classhpx_1_1util_1_1integer_1_1cover__operators.html"];
+  Node4 -> Node3 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="boost::operators\< T \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

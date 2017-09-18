@@ -1,0 +1,7 @@
+<map id="hpx::parallel::v3::static_chunk_size::static_chunk_size" name="hpx::parallel::v3::static_chunk_size::static_chunk_size">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#acb87d71df2ff331d25e32c90d729f7a2" title="hpx::threads::reset\l_thread_distribution" alt="" coords="220,57,355,98"/>
+<area shape="rect" id="node6" href="$d5/d3c/namespacehpx_1_1serialization.html#a5558bd8a923a1df82ce17bad40b0a060" title="hpx::serialization\l::serialize" alt="" coords="227,122,347,163"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="437,5,556,32"/>
+<area shape="rect" id="node4" href="$d0/d7b/classhpx_1_1runtime.html#a865b12d57fcd44a8d3dda3e35414f563" title="hpx::runtime::get_thread\l_manager" alt="" coords="415,57,578,98"/>
+<area shape="rect" id="node5" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#a4abd51aa1c838d6f2b8a3e59f8c4ca32" title="hpx::threads::threadmanager\l::reset_thread_distribution" alt="" coords="403,122,591,163"/>
+</map>

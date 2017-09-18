@@ -1,0 +1,6 @@
+<map id="hpx::util::batch_environment::retrieve_number_of_threads" name="hpx::util::batch_environment::retrieve_number_of_threads">
+<area shape="rect" id="node2" href="$d2/d8e/namespacehpx_1_1util_1_1detail.html#a8a8566d3479868554568678b9e5ebcf2" title="hpx::util::detail::\lhandle_num_threads" alt="" coords="480,5,623,47"/>
+<area shape="rect" id="node4" href="$d2/d8e/namespacehpx_1_1util_1_1detail.html#a23a47f04c3a8a73b6c0a0898ce5bf65b" title="hpx::util::detail::\lget_number_of_default_cores" alt="" coords="241,68,432,109"/>
+<area shape="rect" id="node3" href="$d2/df0/structhpx_1_1util_1_1command__line__handling.html#a1aa8a009a61fe583bf8de6e144846eee" title="hpx::util::command\l_line_handling::handle\l_arguments" alt="" coords="671,31,821,87"/>
+<area shape="rect" id="node5" href="$d2/d8e/namespacehpx_1_1util_1_1detail.html#a6ff8fe3dac1304fff17a3cf0da2a4f72" title="hpx::util::detail::\lhandle_num_cores" alt="" coords="486,71,617,112"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="set_initialdata" name="set_initialdata">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="193,25,295,51"/>
+<area shape="rect" id="node6" href="$d2/d46/structhpx_1_1components_1_1stubs_1_1memory__block.html#ac0b437099cfd5df6dcf1328874059e81" title="hpx::components::stubs\l::memory_block::create" alt="" coords="163,76,325,117"/>
+<area shape="rect" id="node7" href="$d2/d46/structhpx_1_1components_1_1stubs_1_1memory__block.html#a37128bbb38e0ee31010f3d06d6de4e66" title="hpx::components::stubs\l::memory_block::checkout" alt="" coords="156,141,332,183"/>
+<area shape="rect" id="node50" href="$d4/dc9/namespacehpx_1_1naming.html#af568527a84c2ea192f494afa8a236e8c" title="hpx::naming::get_locality\l_id_from_id" alt="" coords="161,207,327,248"/>
+<area shape="rect" id="node3" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="380,13,563,39"/>
+<area shape="rect" id="node5" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="391,63,551,90"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="611,5,773,47"/>
+<area shape="rect" id="node8" href="$d5/d76/classhpx_1_1components_1_1memory__block__data.html#a97ce2f01b730d8d90d329c1642fc0b28" title="hpx::components::memory\l_block_data::get" alt="" coords="383,141,560,183"/>
+<area shape="rect" id="node9" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="673,78,711,105"/>
+<area shape="rect" id="node12" href="$d8/d83/namespacehpx.html#aeb814737de830a2e8e340ca052d5ebfa" title="Returns a future referring to the pointer to the underlying memory of a component. " alt="" coords="647,171,737,198"/>
+<area shape="rect" id="node10" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="841,71,928,98"/>
+<area shape="rect" id="node11" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="996,60,1161,101"/>
+<area shape="rect" id="node13" href="$dc/d54/namespacehpx_1_1agas.html#aa3252ce39fbc229439bb0d85875b01fb" title="hpx::agas::resolve" alt="" coords="821,261,948,287"/>
+<area shape="rect" id="node46" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a17045dee172c36e208b2cbd400fa8797" title="hpx::lcos::future::then" alt="" coords="1453,126,1601,153"/>
+<area shape="rect" id="node47" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="1477,209,1577,235"/>
+<area shape="rect" id="node14" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="1001,253,1156,295"/>
+<area shape="rect" id="node17" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a3344990e7d5c255f51bf89a8fb2828eb" title="hpx::agas::addressing\l_service::resolve_async" alt="" coords="999,409,1158,451"/>
+<area shape="rect" id="node15" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="1241,227,1360,254"/>
+<area shape="rect" id="node16" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="1223,279,1378,320"/>
+<area shape="rect" id="node18" href="$d2/dc9/namespacehpx_1_1lcos.html#a42997564ddfde91d475b8a2cea8f53e4" title="hpx::lcos::make_ready\l_future" alt="" coords="1450,439,1605,480"/>
+<area shape="rect" id="node27" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a187ac62b4a4b7c1b98b75979357f07a9" title="hpx::agas::addressing\l_service::resolve_cached" alt="" coords="1217,792,1384,833"/>
+<area shape="rect" id="node43" href="$d5/dbe/namespacehpx_1_1detail.html#ad5b3b2c9c75cdd2d75f4473c03230643" title="hpx::detail::access\l_exception" alt="" coords="1235,344,1367,385"/>
+<area shape="rect" id="node44" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#af678e6288e0f302b9c96b813a8e660ef" title="hpx::agas::addressing\l_service::resolve_full_async" alt="" coords="1209,409,1392,451"/>
+<area shape="rect" id="node19" href="$d8/d83/namespacehpx.html#a3c694ea960b47c56b33351ba16e3d76b" title="Main entry point for launching the HPX runtime system. " alt="" coords="1728,499,1796,526"/>
+<area shape="rect" id="node22" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="1923,445,2073,471"/>
+<area shape="rect" id="node24" href="$d2/da2/namespacehpx_1_1components_1_1server.html#ac776c89f3d68ceb910e8cee9fa937ab4" title="Create arrays of components using their default constructor. " alt="" coords="1680,380,1844,421"/>
+<area shape="rect" id="node20" href="$df/dad/namespacehpx_1_1util.html#ae40a23c1ba0a48d9304dcf717a95793e" title="hpx::util::set_hpx\l_prefix" alt="" coords="1937,496,2059,537"/>
+<area shape="rect" id="node21" href="$d3/dd2/namespacehpx__startup.html#aaac571d88bd3912a4225a23eb3261637" title="hpx_startup::user_main\l_config" alt="" coords="1919,561,2077,603"/>
+<area shape="rect" id="node23" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="2158,437,2278,479"/>
+<area shape="rect" id="node25" href="$d2/da2/namespacehpx_1_1components_1_1server.html#a77d26de181c97b444565e230577981bd" title="hpx::components::server\l::create" alt="" coords="1916,325,2080,367"/>
+<area shape="rect" id="node26" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#acf303558375048e8a7cc9a2c2e09477f" title="hpx::parallel::v1::\ldestroy" alt="" coords="2158,349,2278,391"/>
+<area shape="rect" id="node28" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a1ab848588112d0f7fac377a15692c9cc" title="hpx::naming::detail\l::get_stripped_gid_except\l_dont_cache" alt="" coords="1442,817,1613,873"/>
+<area shape="rect" id="node30" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#afb44b2c86524b47d1431d9d66524075c" title="hpx::agas::addressing\l_service::resolve_locally\l_known_addresses" alt="" coords="1447,1065,1608,1121"/>
+<area shape="rect" id="node36" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="2135,1039,2301,1080"/>
+<area shape="rect" id="node37" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="1440,1145,1615,1171"/>
+<area shape="rect" id="node38" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a58e1ddcbd72ed4042377e11f32abf3fa" title="hpx::naming::detail\l::store_in_cache" alt="" coords="1696,564,1828,605"/>
+<area shape="rect" id="node39" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#aade8c179c3866b1212fe6439b586ace1" title="Maintain list of migrated objects. " alt="" coords="1452,635,1603,691"/>
+<area shape="rect" id="node40" href="$da/d17/cxx11__noexcept_8cpp.html#a96f5ebe659f57f5faa7343c54f8ea39a" title="g" alt="" coords="1508,715,1547,742"/>
+<area shape="rect" id="node41" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#aa49e358ece0734e36829a90603b51c63" title="hpx::agas::addressing\l_service::get_cache_entry" alt="" coords="1675,948,1849,989"/>
+<area shape="rect" id="node42" href="$dc/d8a/structhpx_1_1agas_1_1gva.html#aea2401483cd9320a0a8ca504e79e076b" title="hpx::agas::gva::lva" alt="" coords="1463,766,1592,793"/>
+<area shape="rect" id="node29" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#aabeb51a92376c6bfb9cf31bf9ff0c4cc" title="hpx::naming::detail\l::strip_internal_bits\l_except_dont_cache_from_gid" alt="" coords="1663,817,1861,873"/>
+<area shape="rect" id="node31" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a95cca4d4bc82a9da3e804b225b03dfaf" title="hpx::naming::detail\l::strip_internal_bits\l_from_gid" alt="" coords="1932,999,2064,1055"/>
+<area shape="rect" id="node32" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#af9469c8740aeb898ce6937e2d0e57095" title="hpx::agas::addressing\l_service::is_local_lva\l_encoded_address" alt="" coords="1687,1065,1837,1121"/>
+<area shape="rect" id="node33" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ab52c19a37c2a7a006c6c15f90ad0539c" title="hpx::agas::addressing\l_service::get_local_locality" alt="" coords="1909,1101,2087,1143"/>
+<area shape="rect" id="node34" href="$d4/dc9/namespacehpx_1_1naming.html#a960045d29982b0fda774809643cf2be8" title="hpx::naming::is_locality" alt="" coords="1683,1246,1841,1273"/>
+<area shape="rect" id="node35" href="$d4/dc9/namespacehpx_1_1naming.html#a0b1c0ab6510a7a869fa4e3c7717748e5" title="hpx::naming::get_locality\l_from_gid" alt="" coords="1915,1188,2081,1229"/>
+<area shape="rect" id="node45" href="$d1/d43/structhpx_1_1agas_1_1primary__namespace.html#ae7bd476e130fc743397d0d18bb161f74" title="hpx::agas::primary\l_namespace::resolve_full" alt="" coords="1444,321,1611,363"/>
+<area shape="rect" id="node48" href="$df/dad/namespacehpx_1_1util.html#a273e61be42a72415291e0ec0a4f28c7a" title="hpx::util::one_shot" alt="" coords="1463,387,1592,414"/>
+<area shape="rect" id="node49" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a9adf9683a9e200a15224e7c04f8d6339" title="hpx::agas::addressing\l_service::resolve_full\l_postproc" alt="" coords="1452,505,1603,561"/>
+</map>

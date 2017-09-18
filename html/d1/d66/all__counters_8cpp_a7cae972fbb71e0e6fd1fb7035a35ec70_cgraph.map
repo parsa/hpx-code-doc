@@ -1,0 +1,19 @@
+<map id="test_all_locality_pool_thread_no_total_counters" name="test_all_locality_pool_thread_no_total_counters">
+<area shape="rect" id="node2" href="$d1/d66/all__counters_8cpp.html#a17dd2a4fa0112d73e3edb75c812eb31d" title="test_all_locality_thread\l_counters" alt="" coords="228,129,383,171"/>
+<area shape="rect" id="node3" href="$d0/d36/namespacehpx_1_1performance__counters.html#a20efd215ad44c2a1d6bf36731b07094c" title="Fill the given counter_path_elements instance from the given full name of a counter. " alt="" coords="431,5,621,47"/>
+<area shape="rect" id="node4" href="$d0/d36/namespacehpx_1_1performance__counters.html#af277aab5e2e75f4d32dedcb1f4cdf21d" title="Create a full name of a counter from the contents of the given counter_path_elements instance..." alt="" coords="437,71,615,112"/>
+<area shape="rect" id="node5" href="$d4/d4e/simplest__performance__counter_8cpp.html#a1375933872cc10f089fc47be9f245be0" title="counter" alt="" coords="493,137,559,163"/>
+<area shape="rect" id="node6" href="$db/d1c/structhpx_1_1performance__counters_1_1performance__counter.html#a2f1835b6e832694101be438754bd3657" title="hpx::performance_counters\l::performance_counter::\lget_name" alt="" coords="437,187,615,243"/>
+<area shape="rect" id="node16" href="$db/d1c/structhpx_1_1performance__counters_1_1performance__counter.html#a246dc30a4790b7236ce3a5717ea886fa" title="hpx::performance_counters\l::performance_counter::\lget_value" alt="" coords="437,267,615,323"/>
+<area shape="rect" id="node7" href="$db/d1c/structhpx_1_1performance__counters_1_1performance__counter.html#a80fc8f48f4b43acddefca6b22d8569d0" title="hpx::performance_counters\l::performance_counter::\lget_info" alt="" coords="669,187,848,243"/>
+<area shape="rect" id="node8" href="$dc/d43/structhpx_1_1performance__counters_1_1stubs_1_1performance__counter.html#a50a7599bfe3bd237bbc0ba74265bb091" title="hpx::performance_counters\l::stubs::performance_counter\l::get_info" alt="" coords="898,122,1089,178"/>
+<area shape="rect" id="node9" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="1139,170,1225,197"/>
+<area shape="rect" id="node15" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a0cdfe4b8fed578eb1ce34222c0f07b03" title="hpx::components::client\l_base\&lt; performance_counter,\l stubs::performance_counter\l \&gt;::get_id" alt="" coords="896,253,1091,324"/>
+<area shape="rect" id="node10" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="1273,145,1316,171"/>
+<area shape="rect" id="node11" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="1399,94,1474,121"/>
+<area shape="rect" id="node12" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="1364,145,1509,171"/>
+<area shape="rect" id="node13" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="1401,195,1473,222"/>
+<area shape="rect" id="node14" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="1557,188,1752,229"/>
+<area shape="rect" id="node17" href="$d0/d6b/1d__stencil__4__repart_8cpp.html#a8e0f0439eca934090d2b0c1f9e20baa9" title="get_counter_value" alt="" coords="695,274,822,301"/>
+<area shape="rect" id="node18" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="709,325,809,351"/>
+</map>

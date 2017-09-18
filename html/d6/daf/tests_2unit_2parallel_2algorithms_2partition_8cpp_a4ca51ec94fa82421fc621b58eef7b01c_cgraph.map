@@ -1,0 +1,6 @@
+<map id="hpx_main" name="hpx_main">
+<area shape="rect" id="node2" href="$d6/daf/tests_2unit_2parallel_2algorithms_2partition_8cpp.html#a20e758e54bece08fd75c2c3e67767ed7" title="partition_test" alt="" coords="163,5,261,32"/>
+<area shape="rect" id="node3" href="$d6/daf/tests_2unit_2parallel_2algorithms_2partition_8cpp.html#a9ae2ca47a7abcd3b1b9d05b0e4644575" title="partition_exception_test" alt="" coords="132,56,292,83"/>
+<area shape="rect" id="node4" href="$d6/daf/tests_2unit_2parallel_2algorithms_2partition_8cpp.html#a12b3b1035d23353327c42b1f617def65" title="partition_bad_alloc_test" alt="" coords="133,107,291,133"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="167,157,257,184"/>
+</map>

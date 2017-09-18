@@ -1,0 +1,5 @@
+<map id="wait_for_flag::wait_with_predicate" name="wait_for_flag::wait_with_predicate">
+<area shape="rect" id="node2" href="$df/db3/classhpx_1_1lcos_1_1local_1_1condition__variable.html#aedaf61bec02b674b30104c54ebf3738c" title="hpx::lcos::local::condition\l_variable::wait" alt="" coords="177,5,348,47"/>
+<area shape="rect" id="node4" href="$d6/d81/structwait__for__flag_1_1check__flag.html#a60ff4939696e0779be6782ea6b897344" title="wait_for_flag::check\l_flag::check_flag" alt="" coords="195,71,331,112"/>
+<area shape="rect" id="node3" href="$df/dad/namespacehpx_1_1util.html#a4f5b17e2809bff886e3e10868af110b8" title="hpx::util::ignore_lock" alt="" coords="396,13,539,39"/>
+</map>

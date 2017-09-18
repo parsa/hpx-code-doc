@@ -1,0 +1,15 @@
+digraph "hpx::util::cache::entries::fifo_entry&lt; Value &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::cache::entries\l::fifo_entry\< Value \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::util::cache::entries\l::entry\< Value, fifo_entry\l\< Value \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/da4/classhpx_1_1util_1_1cache_1_1entries_1_1entry.html"];
+  Node2 -> Node1 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="boost::less_than_comparable\l\< detail::derived\< Value,\l fifo_entry\< Value \> \>::type \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Value, fifo_entry\l\< Value \> \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::util::cache::entries\l::entry\< Value, Derived \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/da4/classhpx_1_1util_1_1cache_1_1entries_1_1entry.html"];
+  Node4 -> Node3 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="boost::less_than_comparable\l\< detail::derived\< Value,\l Derived \>::type \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

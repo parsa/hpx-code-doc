@@ -1,0 +1,8 @@
+<map id="hpx::partitioned_vector_partition::resize" name="hpx::partitioned_vector_partition::resize">
+<area shape="rect" id="node2" href="$da/d87/classhpx_1_1partitioned__vector__partition.html#ab56143ae4c02e2e4fa73bfe0634e3f8f" title="hpx::partitioned_vector\l_partition::resize_async" alt="" coords="205,49,365,90"/>
+<area shape="rect" id="node4" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="487,115,525,141"/>
+<area shape="rect" id="node7" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="215,165,356,192"/>
+<area shape="rect" id="node3" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a0cdfe4b8fed578eb1ce34222c0f07b03" title="hpx::components::client\l_base\&lt; partitioned_vector\l_partition\&lt; T, Data \&gt;, server\l::partitioned_vector\&lt; T, Data\l \&gt; \&gt;::get_id" alt="" coords="413,5,599,91"/>
+<area shape="rect" id="node5" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="647,115,733,141"/>
+<area shape="rect" id="node6" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="781,107,947,149"/>
+</map>

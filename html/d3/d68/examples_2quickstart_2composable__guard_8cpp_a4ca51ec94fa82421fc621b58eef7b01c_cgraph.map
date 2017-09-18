@@ -1,0 +1,15 @@
+<map id="hpx_main" name="hpx_main">
+<area shape="rect" id="node2" href="$da/d48/classhpx_1_1lcos_1_1local_1_1guard__set.html#af7fe2d05ad1a0d62a9f15dc30a6ccf4d" title="hpx::lcos::local::guard\l_set::add" alt="" coords="132,5,283,47"/>
+<area shape="rect" id="node3" href="$d3/d68/examples_2quickstart_2composable__guard_8cpp.html#ad227e269e1a99e6e57f292488e3a1d10" title="l1" alt="" coords="188,71,227,98"/>
+<area shape="rect" id="node4" href="$d3/d68/examples_2quickstart_2composable__guard_8cpp.html#ab5915d49dbac840287eda1fda3e0a0c8" title="l2" alt="" coords="188,122,227,149"/>
+<area shape="rect" id="node5" href="$d0/d47/namespacehpx_1_1lcos_1_1local.html#a9082d0cab5e6831cf8a7739469af5825" title="hpx::lcos::local::run\l_guarded" alt="" coords="139,173,275,215"/>
+<area shape="rect" id="node8" href="$d3/d68/examples_2quickstart_2composable__guard_8cpp.html#a7021ecbd3e9d3b0c3fc86b6a06faa77d" title="both" alt="" coords="184,341,231,367"/>
+<area shape="rect" id="node11" href="$d3/d68/examples_2quickstart_2composable__guard_8cpp.html#a3a7e025ff9dc0d33a8c2b7831dc4a496" title="incr1" alt="" coords="182,239,233,266"/>
+<area shape="rect" id="node12" href="$d3/d68/examples_2quickstart_2composable__guard_8cpp.html#a89d354166390d066515ac9dfa7bf237d" title="incr2" alt="" coords="182,391,233,418"/>
+<area shape="rect" id="node13" href="$d3/d68/examples_2quickstart_2composable__guard_8cpp.html#a83f8adca24e250bfb5c9a90a35503ae9" title="check" alt="" coords="179,290,236,317"/>
+<area shape="rect" id="node14" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="162,442,253,469"/>
+<area shape="rect" id="node6" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="331,181,481,207"/>
+<area shape="rect" id="node7" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="529,173,649,215"/>
+<area shape="rect" id="node9" href="$d3/d68/examples_2quickstart_2composable__guard_8cpp.html#a4105245531e8a0ba3cc8b3ad1c44f65c" title="i1" alt="" coords="387,290,425,317"/>
+<area shape="rect" id="node10" href="$d3/d68/examples_2quickstart_2composable__guard_8cpp.html#a991ddaaffe0bac4f44bc53c75e69a55f" title="i2" alt="" coords="387,341,425,367"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="registration_wrapper" name="registration_wrapper">
+<area shape="rect" id="node2" href="$d0/d7b/classhpx_1_1runtime.html" title="hpx::runtime" alt="" coords="475,156,569,183"/>
+<area shape="rect" id="node3" href="$d5/daf/structhpx_1_1threads_1_1topology.html" title="hpx::threads::topology" alt="" coords="181,5,332,32"/>
+<area shape="rect" id="node4" href="$d8/d70/classhpx_1_1util_1_1runtime__configuration.html" title="hpx::util::runtime\l_configuration" alt="" coords="197,57,316,98"/>
+<area shape="rect" id="node5" href="$dd/de4/classhpx_1_1util_1_1section.html" title="hpx::util::section" alt="" coords="5,64,124,91"/>
+<area shape="rect" id="node6" href="$d5/dfa/structhpx_1_1util_1_1reinit__helper.html" title="hpx::util::reinit_helper" alt="" coords="183,123,330,149"/>
+<area shape="rect" id="node7" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html" title="hpx::util::thread_specific\l_ptr\&lt; std::string, hpx::\lruntime::tls_tag \&gt;" alt="" coords="175,173,338,229"/>
+<area shape="rect" id="node8" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html" title="hpx::util::thread_specific\l_ptr\&lt; std::uint64_t, hpx\l::runtime::tls_tag \&gt;" alt="" coords="175,253,338,309"/>
+<area shape="rect" id="node9" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html" title="hpx::util::thread_specific\l_ptr\&lt; hpx::runtime *, hpx\l::runtime::tls_tag \&gt;" alt="" coords="173,333,340,389"/>
+</map>

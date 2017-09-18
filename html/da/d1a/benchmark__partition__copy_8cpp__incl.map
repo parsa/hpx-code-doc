@@ -1,0 +1,32 @@
+<map id="benchmark_partition_copy.cpp" name="benchmark_partition_copy.cpp">
+<area shape="rect" id="node2" href="$d5/df5/hpx__init_8hpp.html" title="hpx/hpx_init.hpp" alt="" coords="548,191,665,218"/>
+<area shape="rect" id="node22" href="$d0/daa/hpx_8hpp.html" title="hpx/hpx.hpp" alt="" coords="1392,191,1485,218"/>
+<area shape="rect" id="node29" href="$dc/d04/high__resolution__clock_8hpp.html" title="hpx/util/high_resolution\l_clock.hpp" alt="" coords="1259,363,1413,404"/>
+<area shape="rect" id="node31" href="$d5/d82/parallel__partition_8hpp.html" title="hpx/include/parallel\l_partition.hpp" alt="" coords="2131,95,2264,136"/>
+<area shape="rect" id="node35" href="$da/da1/parallel__generate_8hpp.html" title="hpx/include/parallel\l_generate.hpp" alt="" coords="2469,184,2603,225"/>
+<area shape="rect" id="node39" href="$d3/dab/lightweight__test_8hpp.html" title="hpx/util/lightweight\l_test.hpp" alt="" coords="3231,273,3361,315"/>
+<area shape="rect" id="node47" href="$d2/d18/performance_2parallel__algorithms_2local_2test__utils_8hpp.html" title="test_utils.hpp" alt="" coords="2773,191,2873,218"/>
+<area shape="rect" id="node3" href="$d8/dfd/config_8hpp.html" title="hpx/config.hpp" alt="" coords="1605,452,1712,479"/>
+<area shape="rect" id="node8" href="$d0/d0c/hpx__finalize_8hpp.html" title="hpx/hpx_finalize.hpp" alt="" coords="807,281,947,307"/>
+<area shape="rect" id="node9" href="$dc/d89/runtime__mode_8hpp.html" title="hpx/runtime/runtime\l_mode.hpp" alt="" coords="145,363,282,404"/>
+<area shape="rect" id="node11" href="$d3/def/shutdown__function_8hpp.html" title="hpx/runtime/shutdown\l_function.hpp" alt="" coords="672,363,821,404"/>
+<area shape="rect" id="node12" href="$d4/dd0/startup__function_8hpp.html" title="hpx/runtime/startup\l_function.hpp" alt="" coords="897,363,1031,404"/>
+<area shape="rect" id="node13" href="$d7/d7c/function_8hpp.html" title="hpx/util/function.hpp" alt="" coords="1589,370,1728,397"/>
+<area shape="rect" id="node18" href="$d3/d6b/hpx__init__impl_8hpp.html" title="hpx/hpx_init_impl.hpp" alt="" coords="533,281,681,307"/>
+<area shape="rect" id="node4" href="$df/d6a/attributes_8hpp.html" title="hpx/config/attributes.hpp" alt="" coords="1698,534,1862,561"/>
+<area shape="rect" id="node5" href="$d2/d97/compiler__specific_8hpp.html" title="hpx/config/compiler\l_specific.hpp" alt="" coords="1549,616,1683,657"/>
+<area shape="rect" id="node6" href="$de/d38/branch__hints_8hpp.html" title="hpx/config/branch_hints.hpp" alt="" coords="1489,534,1673,561"/>
+<area shape="rect" id="node7" href="$de/ded/stringize_8hpp.html" title="hpx/util/detail/pp\l/stringize.hpp" alt="" coords="1887,527,2004,568"/>
+<area shape="rect" id="node19" href="$d2/d54/assert_8hpp.html" title="hpx/util/assert.hpp" alt="" coords="2137,370,2266,397"/>
+<area shape="rect" id="node23" href="$d7/d1e/exception_8hpp.html" title="hpx/exception.hpp" alt="" coords="1107,370,1235,397"/>
+<area shape="rect" id="node25" href="$d5/deb/lcos_8hpp.html" title="hpx/include/lcos.hpp" alt="" coords="1073,281,1215,307"/>
+<area shape="rect" id="node26" href="$d6/dac/performance__counters_8hpp.html" title="hpx/include/performance\l_counters.hpp" alt="" coords="1239,273,1401,315"/>
+<area shape="rect" id="node27" href="$d5/d15/include_2runtime_8hpp.html" title="hpx/include/runtime.hpp" alt="" coords="1476,281,1636,307"/>
+<area shape="rect" id="node28" href="$df/d72/include_2util_8hpp.html" title="hpx/include/util.hpp" alt="" coords="1762,281,1897,307"/>
+<area shape="rect" id="node32" href="$db/d01/hpx_2parallel_2algorithms_2partition_8hpp.html" title="hpx/parallel/algorithms\l/partition.hpp" alt="" coords="2023,273,2175,315"/>
+<area shape="rect" id="node34" href="$d2/d20/hpx_2parallel_2container__algorithms_2partition_8hpp.html" title="hpx/parallel/container\l_algorithms/partition.hpp" alt="" coords="1995,184,2159,225"/>
+<area shape="rect" id="node36" href="$d5/da9/algorithms_2generate_8hpp.html" title="hpx/parallel/algorithms\l/generate.hpp" alt="" coords="2443,363,2595,404"/>
+<area shape="rect" id="node37" href="$d4/d84/container__algorithms_2generate_8hpp.html" title="hpx/parallel/container\l_algorithms/generate.hpp" alt="" coords="2391,273,2559,315"/>
+<area shape="rect" id="node38" href="$d2/d5d/segmented__algorithms_2generate_8hpp.html" title="hpx/parallel/segmented\l_algorithms/generate.hpp" alt="" coords="2199,273,2367,315"/>
+<area shape="rect" id="node48" href="$d5/ddf/parallel__execution__policy_8hpp.html" title="hpx/include/parallel\l_execution_policy.hpp" alt="" coords="2634,273,2785,315"/>
+</map>

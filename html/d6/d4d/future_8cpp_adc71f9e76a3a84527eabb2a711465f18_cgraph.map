@@ -1,0 +1,7 @@
+<map id="test_task_stores_exception_if_function_throws" name="test_task_stores_exception_if_function_throws">
+<area shape="rect" id="node2" href="$d6/d4d/future_8cpp.html#abae4abf0582eecb7182f22915d766c9a" title="throw_runtime_error" alt="" coords="256,5,392,32"/>
+<area shape="rect" id="node3" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a628625094362627e776fe22b68404111" title="hpx::lcos::detail::\lfuture_base\&lt; future\l\&lt; R \&gt;, R \&gt;::is_ready" alt="" coords="253,56,395,112"/>
+<area shape="rect" id="node4" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a21423c49daa024230c4e4e85d7e0aa0a" title="hpx::lcos::detail::\lfuture_base\&lt; future\l\&lt; R \&gt;, R \&gt;::has_value" alt="" coords="249,136,399,192"/>
+<area shape="rect" id="node5" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#aa95b01f70ad95706ae420ff1db2e5b99" title="hpx::lcos::detail::\lfuture_base\&lt; future\l\&lt; R \&gt;, R \&gt;::has_exception" alt="" coords="236,216,412,272"/>
+<area shape="rect" id="node6" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="253,296,395,323"/>
+</map>

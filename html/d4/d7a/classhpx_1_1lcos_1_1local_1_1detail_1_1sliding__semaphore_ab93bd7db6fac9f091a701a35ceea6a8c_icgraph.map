@@ -1,0 +1,8 @@
+<map id="hpx::lcos::local::detail::sliding_semaphore::wait" name="hpx::lcos::local::detail::sliding_semaphore::wait">
+<area shape="rect" id="node2" href="$d3/d41/classhpx_1_1process_1_1process.html#acc7ec4687f3bf5ae121ef7b494d991d8" title="hpx.process.process.join" alt="" coords="463,73,629,99"/>
+<area shape="rect" id="node3" href="$d4/d7a/classhpx_1_1lcos_1_1local_1_1detail_1_1sliding__semaphore.html#a3f898ca8cb6887f6c1325e8c0392724f" title="hpx::lcos::local::detail\l::sliding_semaphore::try_wait" alt="" coords="223,5,413,47"/>
+<area shape="rect" id="node5" href="$d4/d2e/classhpx_1_1lcos_1_1local_1_1sliding__semaphore__var.html#a5f0aa09a61e9d9fb091d7ba6b10c8550" title="Wait for the semaphore to be signaled. " alt="" coords="241,123,395,164"/>
+<area shape="rect" id="node4" href="$d4/d2e/classhpx_1_1lcos_1_1local_1_1sliding__semaphore__var.html#a48d43b408a60a3d0e1e85948c40d9eb6" title="Try to wait for the semaphore to be signaled. " alt="" coords="461,5,631,47"/>
+<area shape="rect" id="node6" href="$d2/d38/sliding__semaphore_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="507,127,585,154"/>
+<area shape="rect" id="node7" href="$da/da6/sliding__semaphore__2338_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="521,178,571,205"/>
+</map>

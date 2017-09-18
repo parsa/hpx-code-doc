@@ -1,0 +1,12 @@
+<map id="hpx::components::target_distribution_policy::bulk_create" name="hpx::components::target_distribution_policy::bulk_create">
+<area shape="rect" id="node2" href="$d4/dc8/structhpx_1_1components_1_1target__distribution__policy.html#a0a8c503fd217bf3de0dbdc804ec89ba2" title="hpx::components::target\l_distribution_policy::\lget_next_target" alt="" coords="222,89,385,145"/>
+<area shape="rect" id="node9" href="$de/dfa/structhpx_1_1components_1_1stub__base.html#a6a68ca7a26f10ac3d61e8f2167bee5ac" title="hpx::components::stub\l_base::bulk_create_async" alt="" coords="216,169,391,211"/>
+<area shape="rect" id="node10" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a17045dee172c36e208b2cbd400fa8797" title="hpx::lcos::future::then" alt="" coords="229,235,377,262"/>
+<area shape="rect" id="node11" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="233,286,374,313"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="471,38,573,65"/>
+<area shape="rect" id="node7" href="$d4/dc8/structhpx_1_1components_1_1target__distribution__policy.html#a93bc4bcf8ef0cd2461c1fccc9a9754cd" title="hpx::components::target\l_distribution_policy::\ltarget_distribution_policy" alt="" coords="439,89,605,145"/>
+<area shape="rect" id="node8" href="$d5/d3c/namespacehpx_1_1serialization.html#a5558bd8a923a1df82ce17bad40b0a060" title="hpx::serialization\l::serialize" alt="" coords="462,169,582,211"/>
+<area shape="rect" id="node4" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="653,13,836,39"/>
+<area shape="rect" id="node6" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="665,63,825,90"/>
+<area shape="rect" id="node5" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="884,5,1047,47"/>
+</map>

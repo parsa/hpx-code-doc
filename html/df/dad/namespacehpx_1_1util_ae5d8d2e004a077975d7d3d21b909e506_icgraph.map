@@ -1,0 +1,4 @@
+<map id="hpx::util::accept_begin" name="hpx::util::accept_begin">
+<area shape="rect" id="node2" href="$df/dad/namespacehpx_1_1util.html#a2b4700a92b384bc2caddc1a038a9f5ed" title="hpx::util::connect_end" alt="" coords="208,5,359,32"/>
+<area shape="rect" id="node3" href="$df/dad/namespacehpx_1_1util.html#a2fb9ab634bf36822282a638a066cc451" title="Returns an iterator which when dereferenced will give an endpoint suitable for a call to accept() rel..." alt="" coords="207,56,360,83"/>
+</map>

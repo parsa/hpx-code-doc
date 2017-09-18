@@ -1,0 +1,12 @@
+<map id="hpx::resource::detail::throw_invalid_argument" name="hpx::resource::detail::throw_invalid_argument">
+<area shape="rect" id="node2" href="$dc/d21/classhpx_1_1resource_1_1detail_1_1init__pool__data.html#aa7c8d5ec084f7562b12eda90e19919e2" title="hpx::resource::detail\l::init_pool_data::add\l_resource" alt="" coords="239,5,379,61"/>
+<area shape="rect" id="node4" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a977de08d91df2ca53d358b45313f0cc2" title="hpx::resource::detail\l::partitioner::get_num\l_threads" alt="" coords="236,85,381,141"/>
+<area shape="rect" id="node5" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a10d9722251e04e2ded798ac0540eb25e" title="hpx::resource::detail\l::partitioner::get_pool_name" alt="" coords="217,166,400,207"/>
+<area shape="rect" id="node10" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#ab3b993cdf82212962ba91cd58914206d" title="hpx::resource::detail\l::partitioner::get_pool_index" alt="" coords="217,231,400,273"/>
+<area shape="rect" id="node3" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a6fc88349ac96168910cd846a41e4066b" title="hpx::resource::detail\l::partitioner::add_resource" alt="" coords="448,13,621,54"/>
+<area shape="rect" id="node6" href="$dd/da5/namespacehpx_1_1resource.html#abc2ed94ba9496a1f78e41d496791ddd4" title="Return the name of the pool given its internal index. " alt="" coords="471,166,598,207"/>
+<area shape="rect" id="node7" href="$dd/da5/namespacehpx_1_1resource.html#a8ab78d95eaa6f193a085a1d983ea9f5b" title="Return the thread pool given its internal index. " alt="" coords="701,114,827,155"/>
+<area shape="rect" id="node8" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a932efced0bbfee361094b8552334d931" title="hpx::resource::detail\l::partitioner::get_affinity_data" alt="" coords="669,231,859,273"/>
+<area shape="rect" id="node9" href="$d8/dd8/resource__partitioner_8cpp.html#ab1825231fb9efbfb464404767c072654" title="hpx_main" alt="" coords="725,180,803,207"/>
+<area shape="rect" id="node11" href="$dd/da5/namespacehpx_1_1resource.html#ac7e9a020183708e907604dbf16260e84" title="Return the internal index of the pool given its name. " alt="" coords="471,231,598,273"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="hpx::lcos::local::swap" name="hpx::lcos::local::swap">
+<area shape="rect" id="node2" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html#aa75e4ae901f1429ad65e46289c94ba3b" title="hpx::lcos::local::detail\l::promise_base\&lt; Result,\l detail::promise_data\&lt; Result\l \&gt; \&gt;::swap" alt="" coords="201,5,393,76"/>
+<area shape="rect" id="node3" href="$d6/de4/classhpx_1_1lcos_1_1local_1_1promise.html#ad3bdbe2550cd1e49895c68a49703c361" title="hpx::lcos::local::promise\l\&lt; std::uint64_t \&gt;::swap" alt="" coords="215,100,379,141"/>
+<area shape="rect" id="node4" href="$df/dba/classhpx_1_1lcos_1_1local_1_1promise_3_01_r_01_6_01_4.html#ab57129707e4ff7ce35c0bb1fefbb8964" title="hpx::lcos::local::promise\l\&lt; R &amp; \&gt;::swap" alt="" coords="215,165,379,207"/>
+<area shape="rect" id="node5" href="$d3/dc1/classhpx_1_1lcos_1_1local_1_1promise_3_01void_01_4.html#a571be0e32b6961ca4698143d11f8c7e7" title="hpx::lcos::local::promise\l\&lt; void \&gt;::swap" alt="" coords="215,231,379,272"/>
+</map>

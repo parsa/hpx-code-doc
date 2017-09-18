@@ -1,0 +1,8 @@
+<map id="hpx_main" name="hpx_main">
+<area shape="rect" id="node2" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html#a941a7057c3296a4c06ecbbb5032146a2" title="hpx::lcos::local::detail\l::promise_base::get_future" alt="" coords="132,5,308,47"/>
+<area shape="rect" id="node3" href="$d4/def/classhpx_1_1lcos_1_1detail_1_1promise__base.html#a2517464a9b53f71a7531c5cf75323ef5" title="hpx::lcos::detail::\lpromise_base::get_id" alt="" coords="147,71,293,112"/>
+<area shape="rect" id="node4" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#ab1bd7017282cf07702a1ab3746c6a3ec" title="hpx::naming::detail\l::strip_internal_bits\l_and_locality_from_gid" alt="" coords="143,137,297,193"/>
+<area shape="rect" id="node5" href="$db/dee/structhpx_1_1naming_1_1id__type.html#a38f1d3a5fec155a85eeeed0941d378d2" title="hpx::naming::id_type\l::get_msb" alt="" coords="149,217,291,259"/>
+<area shape="rect" id="node6" href="$db/dee/structhpx_1_1naming_1_1id__type.html#a143c7dc9576d403fc93a76ac9a6b93a3" title="hpx::naming::id_type\l::get_lsb" alt="" coords="149,283,291,324"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="175,349,265,375"/>
+</map>

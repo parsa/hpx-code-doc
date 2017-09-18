@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d7/df9/structhpx_1_1traits_1_1detail_1_1belongs__to__iterator__category_3_01_iter_00_01_cat_00_01typena7fda8e6b3ad77e635f3749b1d6fcd38e.html" title="hpx::traits::detail\l::belongs_to_iterator\l_category\&lt; Iter, Cat,\l typename std::enable_if\l\&lt; is_iterator\&lt; Iter \&gt;::value\l \&gt;::type \&gt;" alt="" coords="138,5,309,105"/>
+<area shape="rect" id="node3" href="$d5/d9f/structhpx_1_1traits_1_1detail_1_1belongs__to__iterator__traversal_3_01_iter_00_01_traversal_00_04dbe4d6b1ca56612c678b62b58e2f0e3.html" title="hpx::traits::detail\l::belongs_to_iterator\l_traversal\&lt; Iter, Traversal,\l typename std::enable_if\&lt;\l is_iterator\&lt; Iter \&gt;::value\l \&gt;::type \&gt;" alt="" coords="137,129,309,229"/>
+<area shape="rect" id="node4" href="$d5/de7/structhpx_1_1traits_1_1detail_1_1is__launch__policy.html" title="hpx::traits::detail\l::is_launch_policy\&lt;\l Policy \&gt;" alt="" coords="156,254,291,310"/>
+<area shape="rect" id="node5" href="$d1/d9b/structhpx_1_1traits_1_1detail_1_1is__threads__executor.html" title="hpx::traits::detail\l::is_threads_executor\l\&lt; Policy \&gt;" alt="" coords="150,334,297,390"/>
+<area shape="rect" id="node6" href="$d5/de7/structhpx_1_1traits_1_1detail_1_1is__launch__policy.html" title="hpx::traits::detail\l::is_launch_policy\&lt;\l hpx::util::decay\&lt; Policy\l \&gt;::type \&gt;" alt="" coords="142,415,305,485"/>
+<area shape="rect" id="node8" href="$d1/d9b/structhpx_1_1traits_1_1detail_1_1is__threads__executor.html" title="hpx::traits::detail\l::is_threads_executor\l\&lt; hpx::util::decay\&lt; Policy\l \&gt;::type \&gt;" alt="" coords="138,509,309,580"/>
+<area shape="rect" id="node7" href="$d1/d2a/structhpx_1_1traits_1_1is__launch__policy.html" title="hpx::traits::is_launch\l_policy\&lt; Policy \&gt;" alt="" coords="360,429,503,471"/>
+<area shape="rect" id="node9" href="$df/d1c/structhpx_1_1traits_1_1is__threads__executor.html" title="hpx::traits::is_threads\l_executor\&lt; Policy \&gt;" alt="" coords="357,524,505,565"/>
+</map>

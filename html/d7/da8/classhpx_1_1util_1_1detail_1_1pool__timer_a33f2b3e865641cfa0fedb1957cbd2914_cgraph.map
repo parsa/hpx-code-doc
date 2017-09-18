@@ -1,0 +1,5 @@
+<map id="hpx::util::detail::pool_timer::is_terminated" name="hpx::util::detail::pool_timer::is_terminated">
+<area shape="rect" id="node2" href="$d7/da8/classhpx_1_1util_1_1detail_1_1pool__timer.html#ad047832b9aa2c9f6c4aab724babc604c" title="hpx::util::detail::\lpool_timer::timer_handler" alt="" coords="221,5,389,47"/>
+<area shape="rect" id="node3" href="$d7/da8/classhpx_1_1util_1_1detail_1_1pool__timer.html#a4475a4d2472de27287a3476d702ff5e3" title="hpx::util::detail::\lpool_timer::terminate" alt="" coords="233,71,377,112"/>
+<area shape="rect" id="node4" href="$d7/da8/classhpx_1_1util_1_1detail_1_1pool__timer.html#a9db70d5b39c630cc52bd8b99864cc00c" title="hpx::util::detail::\lpool_timer::stop_locked" alt="" coords="437,100,597,141"/>
+</map>

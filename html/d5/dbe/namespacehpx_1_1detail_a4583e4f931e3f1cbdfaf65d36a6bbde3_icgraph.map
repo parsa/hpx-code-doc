@@ -1,0 +1,6 @@
+<map id="hpx::detail::report_exception_and_continue" name="hpx::detail::report_exception_and_continue">
+<area shape="rect" id="node2" href="$dc/d80/classhpx_1_1runtime__impl.html#aabdaeb29966bd884e97f5fbca0ecae3d" title="Report a non&#45;recoverable error to the runtime system. " alt="" coords="223,39,356,80"/>
+<area shape="rect" id="node3" href="$dc/d80/classhpx_1_1runtime__impl.html#a5183bfa1e494d6a1455d6c10300d202d" title="Report a non&#45;recoverable error to the runtime system. " alt="" coords="413,5,546,47"/>
+<area shape="rect" id="node4" href="$dc/d80/classhpx_1_1runtime__impl.html#aa9de8265198ceaf0e1e3f2ac1d78462e" title="hpx::runtime_impl::\lget_notification_policy" alt="" coords="404,71,555,112"/>
+<area shape="rect" id="node5" href="$dc/d80/classhpx_1_1runtime__impl.html#af8458421582bcb47802b012932a68757" title="Run the HPX runtime system, initially use the given number of (OS) threads in the thread&#45;manager and ..." alt="" coords="603,78,753,105"/>
+</map>

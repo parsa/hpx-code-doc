@@ -1,0 +1,6 @@
+<map id="hpx::segment_unordered_map_iterator::is_at_end" name="hpx::segment_unordered_map_iterator::is_at_end">
+<area shape="rect" id="node2" href="$dd/d31/classhpx_1_1util_1_1iterator__adaptor.html#afea4fe9be86341e00d81fa52ffbf6883" title="hpx::util::iterator\l_adaptor\&lt; segment_unordered\l_map_iterator\&lt; Key, T, Hash,\l KeyEqual, BaseIter \&gt;, BaseIter\l \&gt;::base_reference" alt="" coords="219,5,425,91"/>
+<area shape="rect" id="node3" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="303,115,341,141"/>
+<area shape="rect" id="node4" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="473,115,560,141"/>
+<area shape="rect" id="node5" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="608,107,773,149"/>
+</map>

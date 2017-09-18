@@ -1,0 +1,11 @@
+<map id="hpx::performance_counters::performance_counter::get_name" name="hpx::performance_counters::performance_counter::get_name">
+<area shape="rect" id="node2" href="$d1/d66/all__counters_8cpp.html#a17dd2a4fa0112d73e3edb75c812eb31d" title="test_all_locality_thread\l_counters" alt="" coords="244,71,399,112"/>
+<area shape="rect" id="node8" href="$db/d1c/structhpx_1_1performance__counters_1_1performance__counter.html#acd43d8bbcbf9421c56b94c30cb8bdf57" title="hpx::performance_counters\l::performance_counter::\lget_name" alt="" coords="232,137,411,193"/>
+<area shape="rect" id="node9" href="$df/d62/put__parcels__with__compression_8cpp.html#a08198bac17e41571a7d9cb6b0215dcad" title="verify_counters" alt="" coords="267,217,375,243"/>
+<area shape="rect" id="node3" href="$d1/d66/all__counters_8cpp.html#aa2f25281ad7ef8c1905b5787adb4f409" title="test_all_locality_pool\l_thread_counters" alt="" coords="475,5,617,47"/>
+<area shape="rect" id="node6" href="$d1/d66/all__counters_8cpp.html#a7cae972fbb71e0e6fd1fb7035a35ec70" title="test_all_locality_pool\l_thread_no_total_counters" alt="" coords="459,71,633,112"/>
+<area shape="rect" id="node7" href="$d1/d66/all__counters_8cpp.html#a662f0ae86e6db77be34692641335de96" title="test_all_locality_counters" alt="" coords="461,137,631,163"/>
+<area shape="rect" id="node4" href="$d1/d66/all__counters_8cpp.html#a34bf97a9c78dd60c22389da383f346fd" title="test_all_counters_locality" alt="" coords="681,78,851,105"/>
+<area shape="rect" id="node5" href="$d1/d66/all__counters_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="899,78,949,105"/>
+<area shape="rect" id="node10" href="$df/d62/put__parcels__with__compression_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="507,217,585,243"/>
+</map>

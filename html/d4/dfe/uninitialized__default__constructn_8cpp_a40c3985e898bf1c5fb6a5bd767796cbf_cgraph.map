@@ -1,0 +1,19 @@
+<map id="test_uninitialized_default_construct_n_bad_alloc" name="test_uninitialized_default_construct_n_bad_alloc">
+<area shape="rect" id="node2" href="$d4/dfe/uninitialized__default__constructn_8cpp.html#af88df6cf53e74bd5e3d5170b42fd951d" title="test_uninitialized\l_default_construct_n\l_bad_alloc" alt="" coords="196,195,339,251"/>
+<area shape="rect" id="node18" href="$d4/dfe/uninitialized__default__constructn_8cpp.html#a5ca40d769ebf24639ba831d6fb336148" title="test_uninitialized\l_default_construct_n\l_bad_alloc_async" alt="" coords="196,275,339,331"/>
+<area shape="rect" id="node3" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a786214ac9816e7377ad82774535d1dc2" title="hpx::parallel::v1::\luninitialized_default\l_construct_n" alt="" coords="394,166,529,222"/>
+<area shape="rect" id="node14" href="$d5/d3c/namespacehpx_1_1serialization.html#a7cd7fb4033cb3e8a052c92c752f9dfd6" title="hpx::serialization\l::load" alt="" coords="401,247,521,288"/>
+<area shape="rect" id="node17" href="$d4/dcb/namespacehpx_1_1lcos_1_1local_1_1detail.html#a55a940f019734e9bb045dc123cd80e48" title="hpx::lcos::local::detail\l::free" alt="" coords="387,312,536,353"/>
+<area shape="rect" id="node4" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#adf2e40fc4b20ad0fd442ee3118a4d527" title="hpx::parallel::v1::\ldetail::is_negative" alt="" coords="611,173,736,215"/>
+<area shape="rect" id="node5" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="849,239,892,266"/>
+<area shape="rect" id="node11" href="$d2/d42/structhpx_1_1parallel_1_1util_1_1detail_1_1algorithm__result__impl.html#ab5b051e8ec74eff5e0e62fd63f5d377e" title="hpx::parallel::util\l::detail::algorithm\l_result_impl\&lt; hpx::util\l::decay\&lt; ExPolicy \&gt;::type,\l T \&gt;::get" alt="" coords="584,63,763,149"/>
+<area shape="rect" id="node12" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="598,13,749,39"/>
+<area shape="rect" id="node6" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="1014,163,1089,190"/>
+<area shape="rect" id="node7" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="979,214,1124,241"/>
+<area shape="rect" id="node8" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="1015,315,1087,342"/>
+<area shape="rect" id="node9" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="1226,265,1313,291"/>
+<area shape="rect" id="node10" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="1172,316,1367,357"/>
+<area shape="rect" id="node13" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="811,5,931,47"/>
+<area shape="rect" id="node15" href="$d2/d8c/namespacehpx_1_1serialization_1_1detail.html#a05353783db1a47f29710b6cf7a6246c1" title="hpx::serialization\l::detail::serialize\l_pointer_tracked" alt="" coords="613,290,733,346"/>
+<area shape="rect" id="node16" href="$d5/d3c/namespacehpx_1_1serialization.html#a93f652c6c9d1cf16d0572f3b13602f74" title="hpx::serialization\l::current_pos" alt="" coords="811,297,931,339"/>
+</map>

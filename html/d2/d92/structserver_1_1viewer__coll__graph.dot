@@ -1,0 +1,14 @@
+digraph "server::viewer"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node4 [label="server::viewer",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="hpx::components::managed\l_component_base\< viewer \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d7b/classhpx_1_1components_1_1managed__component__base.html"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hpx::traits::detail\l::managed_component_tag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d31/structhpx_1_1traits_1_1detail_1_1managed__component__tag.html"];
+  Node7 -> Node5 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< viewer \>" ,fontname="Helvetica"];
+  Node7 [label="hpx::components::managed\l_component_base\< Component,\l Wrapper, CtorPolicy, DtorPolicy \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d7b/classhpx_1_1components_1_1managed__component__base.html"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

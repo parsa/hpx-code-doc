@@ -1,0 +1,11 @@
+digraph "hpx::parallel::util::partitioner_with_cleanup&lt; ExPolicy, R, Result, PartTag &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node3 [label="hpx::parallel::util\l::partitioner_with_cleanup\l\< ExPolicy, R, Result, PartTag \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::parallel::util\l::detail::partitioner\l_with_cleanup\< hpx::util\l::decay\< ExPolicy \>::type,\l R, Result, PartTag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d24/structhpx_1_1parallel_1_1util_1_1detail_1_1partitioner__with__cleanup.html"];
+  Node5 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::util::decay\l\< ExPolicy \>::type,\l R, Result, PartTag \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::parallel::util\l::detail::partitioner\l_with_cleanup\< ExPolicy,\l R, Result, Tag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d24/structhpx_1_1parallel_1_1util_1_1detail_1_1partitioner__with__cleanup.html"];
+}

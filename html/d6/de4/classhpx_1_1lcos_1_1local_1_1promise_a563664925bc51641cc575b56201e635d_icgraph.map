@@ -1,0 +1,6 @@
+<map id="hpx::lcos::local::promise::set_exception" name="hpx::lcos::local::promise::set_exception">
+<area shape="rect" id="node2" href="$d6/d4d/future_8cpp.html#a36c4b09fff810ee4a090a8e2dcf626c6" title="set_promise_exception\l_thread" alt="" coords="227,5,383,47"/>
+<area shape="rect" id="node3" href="$d9/ddf/future__unwrap__878_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="279,71,330,98"/>
+<area shape="rect" id="node4" href="$d4/daf/structhpx_1_1lcos_1_1local_1_1receive__buffer_1_1entry__data.html#a26c4c5507ade37e263e8fdeea9e783a8" title="hpx::lcos::local::receive\l_buffer::entry_data::cancel" alt="" coords="217,123,392,164"/>
+<area shape="rect" id="node5" href="$df/d0b/structhpx_1_1lcos_1_1local_1_1receive__buffer_3_01void_00_01_mutex_01_4_1_1entry__data.html#a21224d2b082c34ede66a1e1bd4f72163" title="hpx::lcos::local::receive\l_buffer\&lt; void, Mutex \&gt;\l::entry_data::cancel" alt="" coords="225,189,384,245"/>
+</map>

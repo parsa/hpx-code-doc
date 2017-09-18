@@ -1,0 +1,9 @@
+<map id="test_set_value_can_be_retrieved" name="test_set_value_can_be_retrieved">
+<area shape="rect" id="node2" href="$d6/de4/classhpx_1_1lcos_1_1local_1_1promise.html#aee94596c23f090f136cf9a4d4838f44b" title="hpx::lcos::local::promise\l::get_future" alt="" coords="193,5,357,47"/>
+<area shape="rect" id="node3" href="$d6/de4/classhpx_1_1lcos_1_1local_1_1promise.html#a9d4be37d3883e18b9556aa9f63daf3d1" title="hpx::lcos::local::promise\l::set_value" alt="" coords="193,71,357,112"/>
+<area shape="rect" id="node4" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a028190ad98b2865e267745247b6b5ae8" title="hpx::lcos::detail::\lfuture_base\&lt; future\l\&lt; R \&gt;, R \&gt;::wait" alt="" coords="208,137,341,193"/>
+<area shape="rect" id="node5" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a628625094362627e776fe22b68404111" title="hpx::lcos::detail::\lfuture_base\&lt; future\l\&lt; R \&gt;, R \&gt;::is_ready" alt="" coords="204,217,345,273"/>
+<area shape="rect" id="node6" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a21423c49daa024230c4e4e85d7e0aa0a" title="hpx::lcos::detail::\lfuture_base\&lt; future\l\&lt; R \&gt;, R \&gt;::has_value" alt="" coords="200,297,349,353"/>
+<area shape="rect" id="node7" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#aa95b01f70ad95706ae420ff1db2e5b99" title="hpx::lcos::detail::\lfuture_base\&lt; future\l\&lt; R \&gt;, R \&gt;::has_exception" alt="" coords="187,377,363,433"/>
+<area shape="rect" id="node8" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="204,457,345,483"/>
+</map>

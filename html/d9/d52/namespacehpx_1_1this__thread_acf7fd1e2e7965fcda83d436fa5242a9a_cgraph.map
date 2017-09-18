@@ -1,0 +1,7 @@
+<map id="hpx::this_thread::interruption_requested" name="hpx::this_thread::interruption_requested">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#ae64a7fdb8b5c8bac7be0c8282672a03b" title="hpx::threads::get_thread\l_interruption_requested" alt="" coords="241,5,403,47"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#afafe0f900b9fac3d4ed3c747625c1cfe" title="hpx::threads::get_self_id" alt="" coords="240,71,404,98"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="452,13,627,39"/>
+<area shape="rect" id="node5" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="455,71,624,98"/>
+<area shape="rect" id="node6" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="675,71,821,98"/>
+</map>

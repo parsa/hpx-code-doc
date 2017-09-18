@@ -1,0 +1,51 @@
+<map id="hpx::thread::set_thread_data" name="hpx::thread::set_thread_data">
+<area shape="rect" id="node2" href="$de/d9b/classhpx_1_1thread.html#acf48190d264ab64c1c4ec99d0b421b5a" title="hpx::thread::native\l_handle" alt="" coords="241,178,369,219"/>
+<area shape="rect" id="node10" href="$d9/d52/namespacehpx_1_1this__thread.html#afc042a5a5fa52eef2d1d177a343435cf" title="hpx::this_thread::sleep_for" alt="" coords="653,1181,828,1208"/>
+<area shape="rect" id="node3" href="$de/d7d/future__timed__wait__1025_8cpp.html#a0e3d5409a174e5dac600412849dc9d93" title="test_wait_for" alt="" coords="930,179,1025,205"/>
+<area shape="rect" id="node5" href="$de/d7d/future__timed__wait__1025_8cpp.html#af6d52682ea10ff7a073cce3b5708c7c9" title="test_wait_until" alt="" coords="925,128,1030,155"/>
+<area shape="rect" id="node6" href="$de/d9b/classhpx_1_1thread.html#aec031f492a39c521c2c78e0cd47c4ed8" title="hpx::thread::get_id" alt="" coords="446,5,577,32"/>
+<area shape="rect" id="node7" href="$de/d9b/classhpx_1_1thread.html#ac34d0d033aa743c476a79dbc2e1a8a39" title="hpx::thread::interrupt" alt="" coords="669,183,812,209"/>
+<area shape="rect" id="node8" href="$de/d9b/classhpx_1_1thread.html#a33276bb4c20bbb0b1978944e18ef71b8" title="hpx::thread::interruption\l_requested" alt="" coords="432,57,591,98"/>
+<area shape="rect" id="node9" href="$de/d9b/classhpx_1_1thread.html#a4535ef82cec3b953d2c941d20e3e3904" title="hpx::thread::get_thread_data" alt="" coords="417,349,605,376"/>
+<area shape="rect" id="node50" href="$d9/d52/namespacehpx_1_1this__thread.html#a60baac157054035f3d1aec354d0a1ed3" title="hpx::this_thread::yield_to" alt="" coords="427,299,595,325"/>
+<area shape="rect" id="node4" href="$de/d7d/future__timed__wait__1025_8cpp.html#a255f773d830db5ca937cff11c2692fa2" title="hpx_main" alt="" coords="1127,153,1205,180"/>
+<area shape="rect" id="node11" href="$de/d9b/structhpx_1_1applier_1_1detail_1_1apply__helper_3_01_action_00_01false_01_4.html#a567fbb92986df0974d5b30ca9a002130" title="hpx::applier::detail\l::apply_helper\&lt; Action,\l false \&gt;::call" alt="" coords="899,499,1055,555"/>
+<area shape="rect" id="node12" href="$d1/db8/cancelable__action__client_8cpp.html#a46617129de426f6e7ab5eb91b008cd9e" title="interrupt_do_it" alt="" coords="925,579,1029,605"/>
+<area shape="rect" id="node13" href="$d1/ded/tests_2unit_2lcos_2condition__variable_8cpp.html#a578d8e27a7396ab57393dea2b8badee3" title="test_multiple_notify\l_one_calls_wakes_multiple\l_threads" alt="" coords="887,629,1067,685"/>
+<area shape="rect" id="node14" href="$d1/ded/tests_2unit_2lcos_2condition__variable_8cpp.html#a6dd6eca404b61c749747efb07bebe3fd" title="test_notify_all_following\l_notify_one_wakes_all_threads" alt="" coords="876,710,1079,751"/>
+<area shape="rect" id="node15" href="$d1/ded/tests_2unit_2lcos_2condition__variable_8cpp.html#a1dd2e7c76971df521b245377c9611cd9" title="test_condition_waits" alt="" coords="907,776,1047,803"/>
+<area shape="rect" id="node16" href="$d2/d02/structmul.html#ab5eaa3d788f0a8d13cc19948e528c0e5" title="mul::operator()" alt="" coords="924,827,1031,853"/>
+<area shape="rect" id="node17" href="$d2/dfd/future__2667_8cpp.html#a9ceebb831160f2acf3a047384add9064" title="do_more_work" alt="" coords="924,877,1031,904"/>
+<area shape="rect" id="node18" href="$df/da5/future__then_8cpp.html#a8978a24b044bacf963e33824a4c1ac98" title="p1" alt="" coords="958,928,997,955"/>
+<area shape="rect" id="node19" href="$df/da5/future__then_8cpp.html#a0dabf50b87b0ab6126c07663b7c82650" title="p2" alt="" coords="958,979,997,1005"/>
+<area shape="rect" id="node20" href="$df/da5/future__then_8cpp.html#ada3ca76feabb79611290ef351f1ad171" title="p3" alt="" coords="958,1029,997,1056"/>
+<area shape="rect" id="node21" href="$d8/dfd/id__type__ref__counting__1032_8cpp.html#a5264b94bf7c262ac0e521fb290d476d5" title="ensure_garbage_collect" alt="" coords="898,1080,1057,1107"/>
+<area shape="rect" id="node22" href="$d6/dad/init__globally_8cpp.html#a8a8d615bebf690e74310a83cf727ee26" title="hpx_thread_func1" alt="" coords="915,1131,1039,1157"/>
+<area shape="rect" id="node23" href="$d6/dad/init__globally_8cpp.html#ac5f2c84652d6978affc6c2debf76b77b" title="hpx_thread_func2" alt="" coords="915,1181,1039,1208"/>
+<area shape="rect" id="node24" href="$d5/d5d/structtest__server.html#ab9499c1c79f536f09e03614a78f35ebb" title="test_server::busy_work" alt="" coords="900,1232,1055,1259"/>
+<area shape="rect" id="node25" href="$d9/de5/structhpx_1_1util_1_1logging_1_1writer_1_1on__dedicated__thread.html#a7e1cdffd568d8087a2ed2245bdd327bb" title="Pauses the writes, so that you can manipulate the base object (the formatters/destinations, for instance) " alt="" coords="904,1283,1051,1339"/>
+<area shape="rect" id="node26" href="$d2/d67/promise__1620_8cpp.html#ab1825231fb9efbfb464404767c072654" title="hpx_main" alt="" coords="938,1363,1017,1389"/>
+<area shape="rect" id="node27" href="$d3/d69/shared__future_8cpp.html#a705c7614d231fc70ec236f627c8287f1" title="make_int_slowly" alt="" coords="918,1413,1037,1440"/>
+<area shape="rect" id="node28" href="$da/d0b/shared__mutex_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="952,1464,1003,1491"/>
+<area shape="rect" id="node29" href="$d8/d57/shared__mutex1_8cpp.html#a7e6cff03e4e39beaddad71d1e6f86822" title="test_only_one_writer\l_permitted" alt="" coords="907,1515,1048,1557"/>
+<area shape="rect" id="node30" href="$d8/d57/shared__mutex1_8cpp.html#a09a6e935cb3d020800c953b77c7acfce" title="test_reader_blocks\l_writer" alt="" coords="911,1581,1043,1622"/>
+<area shape="rect" id="node31" href="$d8/d57/shared__mutex1_8cpp.html#adafce733b086f2745649aa4fe059ea2d" title="test_unlocking_writer\l_unblocks_all_readers" alt="" coords="902,1646,1053,1687"/>
+<area shape="rect" id="node32" href="$d8/d57/shared__mutex1_8cpp.html#a6bae4077436aa83b700879278b66d86e" title="test_unlocking_last\l_reader_only_unblocks\l_one_writer" alt="" coords="900,1712,1055,1768"/>
+<area shape="rect" id="node33" href="$d1/d40/shared__mutex2_8cpp.html#a3b416ff0daae0b32baa4a12321489b78" title="test_only_one_upgrade\l_lock_permitted" alt="" coords="899,1793,1055,1834"/>
+<area shape="rect" id="node34" href="$d1/d40/shared__mutex2_8cpp.html#ac255d0d05ec2ff8919f94c4660c236cb" title="test_can_lock_upgrade\l_if_currently_locked\l_shared" alt="" coords="899,1859,1055,1915"/>
+<area shape="rect" id="node35" href="$d1/d40/shared__mutex2_8cpp.html#ae14092e4dc7e9e7a09c0ae66f2e7c7de" title="test_if_other_thread\l_has_write_lock_try_lock\l_shared_returns_false" alt="" coords="893,1939,1061,1995"/>
+<area shape="rect" id="node36" href="$d1/d40/shared__mutex2_8cpp.html#a1ff1d2c578b1519417397d4d686168e0" title="test_if_other_thread\l_has_write_lock_try_lock\l_upgrade_returns_false" alt="" coords="893,2019,1061,2075"/>
+<area shape="rect" id="node37" href="$d1/d40/shared__mutex2_8cpp.html#aef7e49788250daad7cbb0d7e2a148549" title="test_if_other_thread\l_has_shared_lock_try\l_lock_shared_returns_true" alt="" coords="890,2099,1065,2155"/>
+<area shape="rect" id="node38" href="$d1/d40/shared__mutex2_8cpp.html#a4d0b5f662bddc8db38e41c5fddb90b7b" title="test_if_other_thread\l_has_shared_lock_try\l_lock_upgrade_returns_true" alt="" coords="886,2179,1069,2235"/>
+<area shape="rect" id="node39" href="$d1/d40/shared__mutex2_8cpp.html#a4c8a69fd444994b0c9758f722a75ae98" title="test_if_other_thread\l_has_upgrade_lock_try\l_lock_upgrade_returns_false" alt="" coords="884,2259,1071,2315"/>
+<area shape="rect" id="node40" href="$d0/d69/split__future_8cpp.html#a80889e6e6f5561cff1178805ab1e5901" title="make_tuple0_slowly" alt="" coords="908,2339,1047,2365"/>
+<area shape="rect" id="node41" href="$d0/d69/split__future_8cpp.html#ab83c8df3dddd50a92f5a237faa3bbd3b" title="make_tuple1_slowly" alt="" coords="908,2389,1047,2416"/>
+<area shape="rect" id="node42" href="$d0/d69/split__future_8cpp.html#a5c96c1fcaa07fd3dfd58c7c42e33b8a4" title="make_tuple2_slowly" alt="" coords="908,2440,1047,2467"/>
+<area shape="rect" id="node43" href="$d0/d69/split__future_8cpp.html#a4d9700415f90a11a2e142226f3a7fc43" title="make_tuple3_slowly" alt="" coords="908,2491,1047,2517"/>
+<area shape="rect" id="node44" href="$d0/d69/split__future_8cpp.html#aee73c8698d7fdad26631aa651429f12d" title="make_pair_slowly" alt="" coords="915,2541,1040,2568"/>
+<area shape="rect" id="node45" href="$d0/d69/split__future_8cpp.html#af8566e03323cfdfef51d2bd8ea0c8ad9" title="make_array0_slowly" alt="" coords="907,229,1047,256"/>
+<area shape="rect" id="node46" href="$d0/d69/split__future_8cpp.html#ae2b24798bf5cf57dad1627d510c9a5af" title="make_array_slowly" alt="" coords="911,280,1044,307"/>
+<area shape="rect" id="node47" href="$d0/d4e/tests_2unit_2threads_2thread_8cpp.html#adec4347033eb01a71a73b15eafb2a8c3" title="test_sleep" alt="" coords="936,331,1019,357"/>
+<area shape="rect" id="node48" href="$df/ddc/classthrottle_1_1server_1_1throttle.html#a049732ad9c4e70a61accca4b50874b7d" title="throttle::server::throttle\l::is_suspended" alt="" coords="901,382,1053,423"/>
+<area shape="rect" id="node49" href="$d0/d95/when__each_8cpp.html#a27bcaa2e7706d5613129208e1358a75e" title="make_unsigned_slowly" alt="" coords="899,448,1055,475"/>
+</map>

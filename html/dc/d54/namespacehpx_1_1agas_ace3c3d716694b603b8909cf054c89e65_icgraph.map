@@ -1,0 +1,7 @@
+<map id="hpx::agas::get_num_localities" name="hpx::agas::get_num_localities">
+<area shape="rect" id="node2" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#afc981128183c37506bfa139a4060ed5e" title="hpx::agas::addressing\l_service::get_localities" alt="" coords="207,5,360,47"/>
+<area shape="rect" id="node3" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a66a76d30b0f6a01e0ad2f87079f405ef" title="hpx::agas::addressing\l_service::get_num_localities" alt="" coords="191,71,376,112"/>
+<area shape="rect" id="node4" href="$d4/dc8/structhpx_1_1agas_1_1server_1_1component__namespace.html#a8d8d86bc3beb96a74ce6207acc5d7a82" title="hpx::agas::server::\lcomponent_namespace\l::component_namespace" alt="" coords="199,137,367,193"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#a1db549da58aaa9b452db490fda2f09e4" title="Return the number of localities which are currently registered for the running application. " alt="" coords="204,217,363,243"/>
+<area shape="rect" id="node6" href="$dc/d72/structhpx_1_1agas_1_1server_1_1locality__namespace.html#aa9f3ea539ff11605d5e9620e200f56d2" title="hpx::agas::server::\llocality_namespace::\llocality_namespace" alt="" coords="211,267,356,323"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="hpx::lcos::base_lco" name="hpx::lcos::base_lco">
+<area shape="rect" id="node2" href="$df/da5/classhpx_1_1lcos_1_1base__lco__with__value.html" title="hpx::lcos::base_lco\l_with_value\&lt; bool, std\l::ptrdiff_t \&gt;" alt="" coords="220,5,371,61"/>
+<area shape="rect" id="node4" href="$df/da5/classhpx_1_1lcos_1_1base__lco__with__value.html" title="hpx::lcos::base_lco\l_with_value\&lt; Result,\l RemoteResult \&gt;" alt="" coords="225,85,366,141"/>
+<area shape="rect" id="node7" href="$df/da5/classhpx_1_1lcos_1_1base__lco__with__value.html" title="hpx::lcos::base_lco\l_with_value\&lt; T, RemoteType,\l traits::detail::component_tag \&gt;" alt="" coords="194,165,397,221"/>
+<area shape="rect" id="node9" href="$df/da5/classhpx_1_1lcos_1_1base__lco__with__value.html" title="hpx::lcos::base_lco\l_with_value\&lt; void, hpx\l::util::unused_type \&gt;" alt="" coords="220,245,371,301"/>
+<area shape="rect" id="node12" href="$df/da5/classhpx_1_1lcos_1_1base__lco__with__value.html" title="hpx::lcos::base_lco\l_with_value\&lt; Result,\l RemoteResult, ComponentTag \&gt;" alt="" coords="188,325,403,381"/>
+<area shape="rect" id="node13" href="$d0/dbc/classhpx_1_1lcos_1_1base__lco__with__value_3_01void_00_01void_00_01_component_tag_01_4.html" title="hpx::lcos::base_lco\l_with_value\&lt; void, void,\l ComponentTag \&gt;" alt="" coords="217,405,373,461"/>
+<area shape="rect" id="node14" href="$dc/dd7/structhpx_1_1lcos_1_1detail_1_1barrier__node.html" title="hpx::lcos::detail::\lbarrier_node" alt="" coords="234,486,357,527"/>
+<area shape="rect" id="node3" href="$d7/d72/classhpx_1_1lcos_1_1server_1_1latch.html" title="hpx::lcos::server::\llatch" alt="" coords="478,13,603,54"/>
+<area shape="rect" id="node5" href="$de/dd9/classhpx_1_1lcos_1_1detail_1_1promise__lco__base.html" title="hpx::lcos::detail::\lpromise_lco_base\&lt; Result,\l RemoteResult \&gt;" alt="" coords="451,85,631,141"/>
+<area shape="rect" id="node6" href="$df/dd8/classhpx_1_1lcos_1_1detail_1_1promise__lco.html" title="hpx::lcos::detail::\lpromise_lco\&lt; Result,\l RemoteResult \&gt;" alt="" coords="683,85,829,141"/>
+<area shape="rect" id="node8" href="$d5/d63/classhpx_1_1lcos_1_1server_1_1channel.html" title="hpx::lcos::server::\lchannel\&lt; T, RemoteType \&gt;" alt="" coords="451,173,630,214"/>
+<area shape="rect" id="node10" href="$de/dd9/classhpx_1_1lcos_1_1detail_1_1promise__lco__base.html" title="hpx::lcos::detail::\lpromise_lco_base\&lt; void,\l hpx::util::unused_type \&gt;" alt="" coords="457,245,624,301"/>
+<area shape="rect" id="node11" href="$d0/dc9/classhpx_1_1lcos_1_1detail_1_1promise__lco_3_01void_00_01hpx_1_1util_1_1unused__type_01_4.html" title="hpx::lcos::detail::\lpromise_lco\&lt; void, hpx\l::util::unused_type \&gt;" alt="" coords="679,245,833,301"/>
+</map>

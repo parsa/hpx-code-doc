@@ -1,0 +1,4 @@
+<map id="hpx::parcelset::parcelhandler::stop" name="hpx::parcelset::parcelhandler::stop">
+<area shape="rect" id="node2" href="$dc/d80/classhpx_1_1runtime__impl.html#a701851190a0f98e3ed6d94c2bde4b6f8" title="The destructor makes sure all HPX runtime services are properly shut down before exiting. " alt="" coords="251,5,385,47"/>
+<area shape="rect" id="node3" href="$dc/d80/classhpx_1_1runtime__impl.html#ad97f579306f8e516c65886ca56a58f2b" title="Run the HPX runtime system, use the given function for the main thread and block waiting for all thre..." alt="" coords="243,71,393,98"/>
+</map>

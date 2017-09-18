@@ -1,0 +1,4 @@
+<map id="hpx::agas::addressing_service::remove_resolved_locality" name="hpx::agas::addressing_service::remove_resolved_locality">
+<area shape="rect" id="node2" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a638529ee757d39f50d2a2d4a2fe5b466" title="Remove a locality from the runtime. " alt="" coords="257,5,408,61"/>
+<area shape="rect" id="node3" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a7c0ca2cb6299e2cc668c4083379152b3" title="Make sure the specified locality is not held by any connection caches anymore. " alt="" coords="225,86,440,127"/>
+</map>

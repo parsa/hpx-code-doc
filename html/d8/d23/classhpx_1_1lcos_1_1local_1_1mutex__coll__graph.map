@@ -1,0 +1,4 @@
+<map id="hpx::lcos::local::mutex" name="hpx::lcos::local::mutex">
+<area shape="rect" id="node2" href="$d2/d39/classhpx_1_1lcos_1_1local_1_1detail_1_1condition__variable.html" title="hpx::lcos::local::detail\l::condition_variable" alt="" coords="5,5,155,47"/>
+<area shape="rect" id="node3" href="$da/dbc/structhpx_1_1lcos_1_1local_1_1spinlock.html" title="boost::mutex&#45;compatible spinlock class " alt="" coords="179,13,346,39"/>
+</map>

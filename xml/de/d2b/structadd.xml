@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="de/d2b/structadd" kind="struct" language="C++" prot="public">
+    <compoundname>add</compoundname>
+    <includes refid="d7/dcc/transform__binary2__tests_8hpp" local="no">transform_binary2_tests.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>typename <ref refid="d6/da1/dataflow__791_8cpp_1ab7a5abfe99cd5d4166daf685448148be" kindref="member">U</ref></type>
+      </param>
+    </templateparamlist>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="de/d2b/structadd_1a006a6d2314ec5a8317c576d6ffa34bfb" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename T1</type>
+          </param>
+          <param>
+            <type>typename T2</type>
+          </param>
+        </templateparamlist>
+        <type>auto</type>
+        <definition>auto add&lt; U &gt;::operator()</definition>
+        <argsstring>(T1 const &amp;v1, T2 const &amp;v2) const -&gt; decltype(v1+v2)</argsstring>
+        <name>operator()</name>
+        <param>
+          <type>T1 const &amp;</type>
+          <declname>v1</declname>
+        </param>
+        <param>
+          <type>T2 const &amp;</type>
+          <declname>v2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/parallel/algorithms/transform_binary2_tests.hpp" line="24" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/parallel/algorithms/transform_binary2_tests.hpp" bodystart="24" bodyend="27"/>
+        <references refid="d8/da8/tuple_8cpp_1a9fb7a3b74a4a188f28f25663c9678041" compoundref="d8/da8/tuple_8cpp" startline="92">v2</references>
+      </memberdef>
+      <memberdef kind="function" id="de/d2b/structadd_1a006a6d2314ec5a8317c576d6ffa34bfb" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename T1</type>
+          </param>
+          <param>
+            <type>typename T2</type>
+          </param>
+        </templateparamlist>
+        <type>auto</type>
+        <definition>auto add&lt; U &gt;::operator()</definition>
+        <argsstring>(T1 const &amp;v1, T2 const &amp;v2) const -&gt; decltype(v1+v2)</argsstring>
+        <name>operator()</name>
+        <param>
+          <type>T1 const &amp;</type>
+          <declname>v1</declname>
+        </param>
+        <param>
+          <type>T2 const &amp;</type>
+          <declname>v2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/parallel/algorithms/transform_binary_tests.hpp" line="24" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/parallel/algorithms/transform_binary_tests.hpp" bodystart="24" bodyend="27"/>
+        <references refid="d8/da8/tuple_8cpp_1a9fb7a3b74a4a188f28f25663c9678041" compoundref="d8/da8/tuple_8cpp" startline="92">v2</references>
+      </memberdef>
+      <memberdef kind="function" id="de/d2b/structadd_1a2c088c29eb8055d1a35232400f82475f" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename T1</type>
+          </param>
+          <param>
+            <type>typename T2</type>
+          </param>
+        </templateparamlist>
+        <type><ref refid="d6/da1/dataflow__791_8cpp_1ab7a5abfe99cd5d4166daf685448148be" kindref="member">U</ref></type>
+        <definition>U add&lt; U &gt;::operator()</definition>
+        <argsstring>(T1 const &amp;v1, T2 const &amp;v2) const</argsstring>
+        <name>operator()</name>
+        <param>
+          <type>T1 const &amp;</type>
+          <declname>v1</declname>
+        </param>
+        <param>
+          <type>T2 const &amp;</type>
+          <declname>v2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/parallel/segmented_algorithms/partitioned_vector_transform.cpp" line="35" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/parallel/segmented_algorithms/partitioned_vector_transform.cpp" bodystart="35" bodyend="38"/>
+        <references refid="d6/da1/dataflow__791_8cpp_1ab7a5abfe99cd5d4166daf685448148be" compoundref="d6/da1/dataflow__791_8cpp" startline="56">U</references>
+      </memberdef>
+      <memberdef kind="function" id="de/d2b/structadd_1a2c088c29eb8055d1a35232400f82475f" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename T1</type>
+          </param>
+          <param>
+            <type>typename T2</type>
+          </param>
+        </templateparamlist>
+        <type><ref refid="d6/da1/dataflow__791_8cpp_1ab7a5abfe99cd5d4166daf685448148be" kindref="member">U</ref></type>
+        <definition>U add&lt; U &gt;::operator()</definition>
+        <argsstring>(T1 const &amp;v1, T2 const &amp;v2) const</argsstring>
+        <name>operator()</name>
+        <param>
+          <type>T1 const &amp;</type>
+          <declname>v1</declname>
+        </param>
+        <param>
+          <type>T2 const &amp;</type>
+          <declname>v2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/parallel/segmented_algorithms/partitioned_vector_transform_binary.cpp" line="35" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/parallel/segmented_algorithms/partitioned_vector_transform_binary.cpp" bodystart="35" bodyend="38"/>
+        <references refid="d6/da1/dataflow__791_8cpp_1ab7a5abfe99cd5d4166daf685448148be" compoundref="d6/da1/dataflow__791_8cpp" startline="56">U</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/parallel/algorithms/transform_binary2_tests.hpp" line="22" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/parallel/algorithms/transform_binary2_tests.hpp" bodystart="21" bodyend="28"/>
+    <listofallmembers>
+      <member refid="de/d2b/structadd_1a006a6d2314ec5a8317c576d6ffa34bfb" prot="public" virt="non-virtual"><scope>add</scope><name>operator()</name></member>
+      <member refid="de/d2b/structadd_1a006a6d2314ec5a8317c576d6ffa34bfb" prot="public" virt="non-virtual"><scope>add</scope><name>operator()</name></member>
+      <member refid="de/d2b/structadd_1a2c088c29eb8055d1a35232400f82475f" prot="public" virt="non-virtual"><scope>add</scope><name>operator()</name></member>
+      <member refid="de/d2b/structadd_1a2c088c29eb8055d1a35232400f82475f" prot="public" virt="non-virtual"><scope>add</scope><name>operator()</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

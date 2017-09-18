@@ -1,0 +1,5 @@
+<map id="hpx::lcos::barrier::synchronize" name="hpx::lcos::barrier::synchronize">
+<area shape="rect" id="node2" href="$db/daa/network__storage_8cpp.html#ad940e27486bbdb223140ebe25e357823" title="test_write" alt="" coords="172,5,251,32"/>
+<area shape="rect" id="node4" href="$db/daa/network__storage_8cpp.html#ac40bb11cad5e1d25954468e43c1bb0e2" title="test_read" alt="" coords="173,56,249,83"/>
+<area shape="rect" id="node3" href="$db/daa/network__storage_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="299,31,377,57"/>
+</map>

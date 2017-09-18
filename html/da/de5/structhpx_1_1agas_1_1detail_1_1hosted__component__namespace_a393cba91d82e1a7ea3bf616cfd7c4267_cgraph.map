@@ -1,0 +1,16 @@
+<map id="hpx::agas::detail::hosted_component_namespace::gid" name="hpx::agas::detail::hosted_component_namespace::gid">
+<area shape="rect" id="node2" href="$da/de5/structhpx_1_1agas_1_1detail_1_1hosted__component__namespace.html#a7e127f7cb687dc5ec6fbdfaf44880a94" title="hpx::agas::detail::\lhosted_component_namespace\l::bind_prefix" alt="" coords="284,5,491,61"/>
+<area shape="rect" id="node3" href="$da/de5/structhpx_1_1agas_1_1detail_1_1hosted__component__namespace.html#a7a4d59a3b5a9ecb6f088da7f4088da2c" title="hpx::agas::detail::\lhosted_component_namespace\l::bind_name" alt="" coords="284,85,491,141"/>
+<area shape="rect" id="node4" href="$da/de5/structhpx_1_1agas_1_1detail_1_1hosted__component__namespace.html#ad67197afc21676a337fa87799aa98080" title="hpx::agas::detail::\lhosted_component_namespace\l::resolve_id" alt="" coords="284,165,491,221"/>
+<area shape="rect" id="node5" href="$da/de5/structhpx_1_1agas_1_1detail_1_1hosted__component__namespace.html#a06d3348d8afb2c6e177a4ede778f16e4" title="hpx::agas::detail::\lhosted_component_namespace\l::unbind" alt="" coords="284,245,491,301"/>
+<area shape="rect" id="node6" href="$da/de5/structhpx_1_1agas_1_1detail_1_1hosted__component__namespace.html#a5458fbd5d86d8255c5663988c7148bdf" title="hpx::agas::detail::\lhosted_component_namespace\l::iterate_types" alt="" coords="284,325,491,381"/>
+<area shape="rect" id="node7" href="$da/de5/structhpx_1_1agas_1_1detail_1_1hosted__component__namespace.html#a821f57f9cfdf1863603c9e0cb909f453" title="hpx::agas::detail::\lhosted_component_namespace\l::get_component_type_name" alt="" coords="284,405,491,461"/>
+<area shape="rect" id="node8" href="$da/de5/structhpx_1_1agas_1_1detail_1_1hosted__component__namespace.html#a66ad846057dc8f6a4f47e07fe960f363" title="hpx::agas::detail::\lhosted_component_namespace\l::get_num_localities" alt="" coords="284,485,491,541"/>
+<area shape="rect" id="node15" href="$da/de5/structhpx_1_1agas_1_1detail_1_1hosted__component__namespace.html#a471248d3ad892485b58b05eea8cd9ce0" title="hpx::agas::detail::\lhosted_component_namespace\l::statistics_counter" alt="" coords="284,565,491,621"/>
+<area shape="rect" id="node9" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="539,500,625,527"/>
+<area shape="rect" id="node10" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="673,475,716,501"/>
+<area shape="rect" id="node11" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="799,424,874,451"/>
+<area shape="rect" id="node12" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="764,475,909,501"/>
+<area shape="rect" id="node13" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="801,525,873,552"/>
+<area shape="rect" id="node14" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="957,518,1152,559"/>
+</map>

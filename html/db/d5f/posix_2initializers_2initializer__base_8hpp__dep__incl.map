@@ -1,0 +1,31 @@
+<map id="initializer_base.hpp" name="initializer_base.hpp">
+<area shape="rect" id="node2" href="$d2/d5b/bind__fd_8hpp.html" title="bind_fd.hpp" alt="" coords="5,80,93,107"/>
+<area shape="rect" id="node3" href="$da/ded/posix_2initializers_2bind__stderr_8hpp.html" title="bind_stderr.hpp" alt="" coords="118,80,229,107"/>
+<area shape="rect" id="node4" href="$d3/d63/posix_2initializers_2bind__stdin_8hpp.html" title="bind_stdin.hpp" alt="" coords="253,80,360,107"/>
+<area shape="rect" id="node5" href="$de/d14/posix_2initializers_2bind__stdout_8hpp.html" title="bind_stdout.hpp" alt="" coords="384,80,499,107"/>
+<area shape="rect" id="node6" href="$de/d90/close__fd_8hpp.html" title="close_fd.hpp" alt="" coords="523,80,618,107"/>
+<area shape="rect" id="node11" href="$d0/d9b/close__fds_8hpp.html" title="close_fds.hpp" alt="" coords="642,80,745,107"/>
+<area shape="rect" id="node12" href="$da/dcd/close__fds__if_8hpp.html" title="close_fds_if.hpp" alt="" coords="769,80,884,107"/>
+<area shape="rect" id="node13" href="$df/d66/posix_2initializers_2close__stderr_8hpp.html" title="close_stderr.hpp" alt="" coords="909,80,1027,107"/>
+<area shape="rect" id="node14" href="$dd/dd4/posix_2initializers_2close__stdin_8hpp.html" title="close_stdin.hpp" alt="" coords="1051,80,1165,107"/>
+<area shape="rect" id="node15" href="$d8/d14/posix_2initializers_2close__stdout_8hpp.html" title="close_stdout.hpp" alt="" coords="1189,80,1310,107"/>
+<area shape="rect" id="node16" href="$db/d2b/posix_2initializers_2hide__console_8hpp.html" title="hide_console.hpp" alt="" coords="1335,80,1457,107"/>
+<area shape="rect" id="node17" href="$d8/dc5/posix_2initializers_2inherit__env_8hpp.html" title="inherit_env.hpp" alt="" coords="1482,80,1590,107"/>
+<area shape="rect" id="node18" href="$da/d62/notify__io__service_8hpp.html" title="notify_io_service.hpp" alt="" coords="1614,80,1757,107"/>
+<area shape="rect" id="node19" href="$d9/d35/on__exec__error_8hpp.html" title="on_exec_error.hpp" alt="" coords="1781,80,1910,107"/>
+<area shape="rect" id="node20" href="$d0/d0a/on__exec__setup_8hpp.html" title="on_exec_setup.hpp" alt="" coords="1934,80,2069,107"/>
+<area shape="rect" id="node21" href="$d4/d4a/on__fork__error_8hpp.html" title="on_fork_error.hpp" alt="" coords="2093,80,2216,107"/>
+<area shape="rect" id="node22" href="$db/db9/on__fork__setup_8hpp.html" title="on_fork_setup.hpp" alt="" coords="2240,80,2368,107"/>
+<area shape="rect" id="node23" href="$dc/dae/on__fork__success_8hpp.html" title="on_fork_success.hpp" alt="" coords="2393,80,2538,107"/>
+<area shape="rect" id="node24" href="$d0/d72/posix_2initializers_2run__exe_8hpp.html" title="run_exe.hpp" alt="" coords="2563,80,2656,107"/>
+<area shape="rect" id="node25" href="$df/d8a/posix_2initializers_2set__args_8hpp.html" title="set_args.hpp" alt="" coords="2681,80,2778,107"/>
+<area shape="rect" id="node26" href="$d4/db8/posix_2initializers_2set__cmd__line_8hpp.html" title="set_cmd_line.hpp" alt="" coords="2802,80,2926,107"/>
+<area shape="rect" id="node27" href="$d4/dd3/posix_2initializers_2set__env_8hpp.html" title="set_env.hpp" alt="" coords="2951,80,3041,107"/>
+<area shape="rect" id="node28" href="$d2/dac/posix_2initializers_2start__in__dir_8hpp.html" title="start_in_dir.hpp" alt="" coords="3066,80,3177,107"/>
+<area shape="rect" id="node29" href="$d8/d1e/posix_2initializers_2throw__on__error_8hpp.html" title="throw_on_error.hpp" alt="" coords="3201,80,3333,107"/>
+<area shape="rect" id="node30" href="$d7/dc3/posix_2initializers_2wait__on__latch_8hpp.html" title="wait_on_latch.hpp" alt="" coords="3357,80,3483,107"/>
+<area shape="rect" id="node7" href="$db/d4f/posix_2initializers_8hpp.html" title="initializers.hpp" alt="" coords="1949,155,2054,181"/>
+<area shape="rect" id="node8" href="$db/d29/initializers_8hpp.html" title="initializers.hpp" alt="" coords="1949,229,2054,256"/>
+<area shape="rect" id="node9" href="$d0/da9/include_2process_8hpp.html" title="process.hpp" alt="" coords="1955,304,2048,331"/>
+<area shape="rect" id="node10" href="$df/ddc/launch__process_8cpp.html" title="launch_process.cpp" alt="" coords="1932,379,2071,405"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dc/db8/structhpx_1_1parallel_1_1util_1_1detail_1_1scan__partitioner.html" title="hpx::parallel::util\l::detail::scan_partitioner\l\&lt; ExPolicy, R, Result1,\l Result2, parallel::traits\l::static_partitioner_tag \&gt;" alt="" coords="5,5,168,91"/>
+<area shape="rect" id="node2" href="$dd/d05/structhpx_1_1parallel_1_1util_1_1detail_1_1scan__partitioner_3_01_ex_policy_00_01_r_00_01_result8aa19c1fbde7b63de656c1c4eea01564.html" title="hpx::parallel::util\l::detail::scan_partitioner\l\&lt; ExPolicy, R, Result1,\l Result2, parallel::traits\l::default_partitioner_tag \&gt;" alt="" coords="216,5,385,91"/>
+</map>

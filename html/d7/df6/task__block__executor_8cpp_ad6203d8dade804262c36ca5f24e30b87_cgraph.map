@@ -1,0 +1,5 @@
+<map id="define_task_block_test1" name="define_task_block_test1">
+<area shape="rect" id="node2" href="$d2/d62/namespacehpx_1_1parallel_1_1v2.html#a542a6d325f132739dbda97b8f09dce4f" title="hpx::parallel::v2::\ldefine_task_block" alt="" coords="231,5,357,47"/>
+<area shape="rect" id="node3" href="$d9/df4/structhpx_1_1parallel_1_1execution_1_1parallel__policy.html#a60d4707ab6d8c849399c4c461a822ce0" title="hpx::parallel::execution\l::parallel_policy::on" alt="" coords="216,71,372,112"/>
+<area shape="rect" id="node4" href="$d1/da8/structhpx_1_1parallel_1_1execution_1_1sequenced__task__policy.html#a9f94a35b705ff48867e24a1e3f527c08" title="Return the associated executor parameters object. " alt="" coords="420,63,587,119"/>
+</map>

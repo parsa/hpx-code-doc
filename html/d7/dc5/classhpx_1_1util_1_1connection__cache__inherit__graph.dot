@@ -1,0 +1,8 @@
+digraph "hpx::util::connection_cache&lt; Connection, Key &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node0 [label="hpx::util::connection\l_cache\< Connection, Key \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< connection, hpx::\lparcelset::locality \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::util::connection\l_cache\< connection, hpx\l::parcelset::locality \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d5f/classhpx_1_1util_1_1connection__cache.html"];
+}

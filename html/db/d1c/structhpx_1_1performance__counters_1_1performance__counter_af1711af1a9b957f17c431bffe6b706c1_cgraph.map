@@ -1,0 +1,13 @@
+<map id="hpx::performance_counters::performance_counter::performance_counter" name="hpx::performance_counters::performance_counter::performance_counter">
+<area shape="rect" id="node2" href="$d4/dc9/namespacehpx_1_1naming.html#a960045d29982b0fda774809643cf2be8" title="hpx::naming::is_locality" alt="" coords="250,45,409,71"/>
+<area shape="rect" id="node8" href="$d0/d36/namespacehpx_1_1performance__counters.html#a20efd215ad44c2a1d6bf36731b07094c" title="Fill the given counter_path_elements instance from the given full name of a counter. " alt="" coords="234,96,425,137"/>
+<area shape="rect" id="node9" href="$d4/dc9/namespacehpx_1_1naming.html#af568527a84c2ea192f494afa8a236e8c" title="hpx::naming::get_locality\l_id_from_id" alt="" coords="246,161,413,203"/>
+<area shape="rect" id="node10" href="$d0/d36/namespacehpx_1_1performance__counters.html#af277aab5e2e75f4d32dedcb1f4cdf21d" title="Create a full name of a counter from the contents of the given counter_path_elements instance..." alt="" coords="240,227,419,268"/>
+<area shape="rect" id="node11" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a92804c0497b7fd54232dc4349768a52c" title="hpx::components::client\l_base\&lt; performance_counter,\l stubs::performance_counter\l \&gt;::reset" alt="" coords="232,292,427,363"/>
+<area shape="rect" id="node12" href="$d0/d36/namespacehpx_1_1performance__counters.html#aa69496dbba46619d8d3179c86801f1c7" title="Get the global id of an existing performance counter, if the counter does not exist yet..." alt="" coords="240,387,419,428"/>
+<area shape="rect" id="node3" href="$d4/dc9/namespacehpx_1_1naming.html#a0b1c0ab6510a7a869fa4e3c7717748e5" title="hpx::naming::get_locality\l_from_gid" alt="" coords="475,5,641,47"/>
+<area shape="rect" id="node6" href="$d4/dc9/namespacehpx_1_1naming.html#a27ed9275dccbd5fb677b350f040c21b4" title="hpx::naming::replace\l_locality_id" alt="" coords="487,71,629,112"/>
+<area shape="rect" id="node4" href="$d4/dc9/namespacehpx_1_1naming.html#ae50a3ecdb5854b6a25a556ebc9830541" title="hpx::naming::get_gid\l_from_locality_id" alt="" coords="693,35,836,76"/>
+<area shape="rect" id="node5" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="888,5,1055,47"/>
+<area shape="rect" id="node7" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html#a31d0fb49a563fb184fecaabdced4dcd9" title="hpx::naming::gid_type\l::get_msb" alt="" coords="689,100,840,141"/>
+</map>

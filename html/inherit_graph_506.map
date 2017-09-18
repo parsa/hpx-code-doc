@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html" title="hpx::lcos::local::detail\l::promise_base\&lt; void, detail\l::promise_data\&lt; void \&gt; \&gt;" alt="" coords="5,20,189,76"/>
+<area shape="rect" id="node2" href="$d4/def/classhpx_1_1lcos_1_1detail_1_1promise__base.html" title="hpx::lcos::detail::\lpromise_base\&lt; void,\l hpx::util::unused_type,\l detail::promise_data\&lt;\l void \&gt; \&gt;" alt="" coords="237,5,396,91"/>
+<area shape="rect" id="node3" href="$dd/dcb/classhpx_1_1lcos_1_1promise_3_01void_00_01hpx_1_1util_1_1unused__type_01_4.html" title="hpx::lcos::promise\l\&lt; void, hpx::util::unused\l_type \&gt;" alt="" coords="444,20,604,76"/>
+</map>

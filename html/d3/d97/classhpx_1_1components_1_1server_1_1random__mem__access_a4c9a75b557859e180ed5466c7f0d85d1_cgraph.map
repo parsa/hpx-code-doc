@@ -1,0 +1,6 @@
+<map id="hpx::components::server::random_mem_access::print" name="hpx::components::server::random_mem_access::print">
+<area shape="rect" id="node2" href="$d3/d97/classhpx_1_1components_1_1server_1_1random__mem__access.html#adce8ed1efb85f2af00c0c997deaca397" title="hpx::components::server\l::random_mem_access::HPX\l_DEFINE_COMPONENT_ACTION" alt="" coords="244,5,464,61"/>
+<area shape="rect" id="node3" href="$d3/d97/classhpx_1_1components_1_1server_1_1random__mem__access.html#a62e6d016e54486d77966879361dd1c65" title="Initialize the accumulator. " alt="" coords="263,86,445,127"/>
+<area shape="rect" id="node4" href="$d3/d97/classhpx_1_1components_1_1server_1_1random__mem__access.html#a89b3378fd8f47d83a4e4823a9a933dba" title="Return the current value to the caller. " alt="" coords="255,151,453,193"/>
+<area shape="rect" id="node5" href="$d0/d19/server_2random__mem__access_8hpp.html#a4e14744d008b29c1d34dd628e777d245" title="HPX_REGISTER_ACTION\l_DECLARATION" alt="" coords="267,217,441,258"/>
+</map>

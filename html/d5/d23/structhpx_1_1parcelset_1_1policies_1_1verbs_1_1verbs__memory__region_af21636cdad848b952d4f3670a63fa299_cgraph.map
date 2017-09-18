@@ -1,0 +1,7 @@
+<map id="hpx::parcelset::policies::verbs::verbs_memory_region::release" name="hpx::parcelset::policies::verbs::verbs_memory_region::release">
+<area shape="rect" id="node2" href="$d5/d23/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1verbs__memory__region.html#a09d9007ed16ec9061a7171dcba5ecceb" title="hpx::parcelset::policies\l::verbs::verbs_memory_region\l::get_local_key" alt="" coords="248,5,443,61"/>
+<area shape="rect" id="node3" href="$d5/d23/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1verbs__memory__region.html#acfe40795832d6db411ac66128abcade8" title="hpx::parcelset::policies\l::verbs::verbs_memory_region\l::get_base_address" alt="" coords="248,85,443,141"/>
+<area shape="rect" id="node4" href="$d5/d23/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1verbs__memory__region.html#ae5fce20037fc5a62d759a378f67f2f43" title="hpx::parcelset::policies\l::verbs::verbs_memory_region\l::get_length" alt="" coords="248,165,443,221"/>
+<area shape="rect" id="node5" href="$d5/d23/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1verbs__memory__region.html#a8273cfdc638b2ef68ce824f85a3ac768" title="hpx::parcelset::policies\l::verbs::verbs_memory_region\l::get_partial_region" alt="" coords="248,245,443,301"/>
+<area shape="rect" id="node6" href="$d5/d23/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1verbs__memory__region.html#a6e67bc97e009537efd719ad5c735946b" title="hpx::parcelset::policies\l::verbs::verbs_memory_region\l::get_user_region" alt="" coords="248,325,443,381"/>
+</map>

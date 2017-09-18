@@ -1,0 +1,5 @@
+<map id="hpx::performance_counters::performance_counter_set::performance_counter_set" name="hpx::performance_counters::performance_counter_set::performance_counter_set">
+<area shape="rect" id="node2" href="$d0/d36/namespacehpx_1_1performance__counters.html#a951d5705daa7ed9e5b9851a4f07be360" title="Retrieve the meta data specific for the given counter instance. " alt="" coords="232,5,411,47"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#a7e832bd3c4af93a4619dbe97a5b1c3d2" title="Main non&#45;blocking entry point for launching the HPX runtime system. " alt="" coords="283,71,360,98"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#a01a3c286e028da685dd9d616fb7c33c7" title="Stop the runtime system. " alt="" coords="283,122,359,149"/>
+</map>

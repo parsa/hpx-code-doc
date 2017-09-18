@@ -1,0 +1,10 @@
+<map id="hpx::util::trace_on_new_stack" name="hpx::util::trace_on_new_stack">
+<area shape="rect" id="node2" href="$d3/da2/classhpx_1_1util_1_1backtrace.html#ab453b145b9d469340f8e9d0fa16f4dee" title="hpx::util::backtrace\l::trace" alt="" coords="187,5,320,47"/>
+<area shape="rect" id="node3" href="$d5/dbe/namespacehpx_1_1detail.html#a3f717a9eeb439434890962099aa715b8" title="hpx::detail::backtrace" alt="" coords="180,71,327,98"/>
+<area shape="rect" id="node4" href="$df/dad/namespacehpx_1_1util.html#abb1e31e226710d1bb6a8c67e718d7f44" title="hpx::util::trace" alt="" coords="407,21,513,47"/>
+<area shape="rect" id="node5" href="$d5/dbe/namespacehpx_1_1detail.html#a9bc870a59e82a707b66f801d11a31524" title="hpx::detail::get_exception" alt="" coords="375,71,545,98"/>
+<area shape="rect" id="node9" href="$d3/d00/classhpx_1_1threads_1_1thread__data.html#a65aacc139c80c5732760aa6e8af1982b" title="hpx::threads::thread\l_data::set_backtrace" alt="" coords="388,123,532,164"/>
+<area shape="rect" id="node6" href="$d0/ddf/classhpx_1_1error__code.html#a6c75f772a727844e82acc4bda0478be1" title="hpx::error_code::error_code" alt="" coords="593,13,775,39"/>
+<area shape="rect" id="node7" href="$d4/d41/namespacehpx_1_1parcelset.html#afbd7ba917a0c0adcad43f9b8b0ef1dc2" title="hpx::parcelset::default\l_write_handler" alt="" coords="609,64,759,105"/>
+<area shape="rect" id="node8" href="$d5/dbe/namespacehpx_1_1detail.html#ae1fcb86925dcb6c7699a858634407236" title="hpx::detail::get_exception" alt="" coords="599,130,769,157"/>
+</map>

@@ -1,0 +1,13 @@
+digraph "hpx::traits::is_invocable&lt; F, Ts &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node12 [label="hpx::traits::is_invocable\l\< F, Ts \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node13 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="hpx::traits::detail\l::is_callable_impl\<\l F &&(Ts &&...), void \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d40/structhpx_1_1traits_1_1detail_1_1is__callable__impl.html"];
+  Node14 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="false_type",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node15 -> Node13 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< F &&(Ts &&...), void \>" ,fontname="Helvetica"];
+  Node15 [label="hpx::traits::detail\l::is_callable_impl\<\l T, R, Enable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d40/structhpx_1_1traits_1_1detail_1_1is__callable__impl.html"];
+  Node14 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

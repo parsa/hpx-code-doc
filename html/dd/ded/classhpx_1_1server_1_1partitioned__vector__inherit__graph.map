@@ -1,0 +1,5 @@
+<map id="hpx::server::partitioned_vector&lt; T, Data &gt;" name="hpx::server::partitioned_vector&lt; T, Data &gt;">
+<area shape="rect" id="node2" href="$d7/de1/structhpx_1_1components_1_1locking__hook.html" title="hpx::components::locking\l_hook\&lt; components::component\l_base\&lt; partitioned_vector\&lt;\l T, Data \&gt; \&gt; \&gt;" alt="" coords="415,5,627,76"/>
+<area shape="rect" id="node3" href="$d2/de6/classhpx_1_1components_1_1component__base.html" title="hpx::components::component\l_base\&lt; partitioned_vector\l\&lt; T, Data \&gt; \&gt;" alt="" coords="172,13,367,69"/>
+<area shape="rect" id="node4" href="$d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag.html" title="hpx::traits::detail\l::component_tag" alt="" coords="5,20,124,61"/>
+</map>

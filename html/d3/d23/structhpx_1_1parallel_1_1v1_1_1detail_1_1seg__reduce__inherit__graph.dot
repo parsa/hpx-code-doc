@@ -1,0 +1,10 @@
+digraph "hpx::parallel::v1::detail::seg_reduce&lt; T &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node0 [label="hpx::parallel::v1::\ldetail::seg_reduce\< T \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::parallel::v1::\ldetail::algorithm\< seg\l_reduce\< T \>, T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/db9/structhpx_1_1parallel_1_1v1_1_1detail_1_1algorithm.html"];
+  Node2 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< seg_reduce\< T \>, T \>" ,fontname="Helvetica"];
+  Node2 [label="hpx::parallel::v1::\ldetail::algorithm\< Derived,\l Result \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/db9/structhpx_1_1parallel_1_1v1_1_1detail_1_1algorithm.html"];
+}

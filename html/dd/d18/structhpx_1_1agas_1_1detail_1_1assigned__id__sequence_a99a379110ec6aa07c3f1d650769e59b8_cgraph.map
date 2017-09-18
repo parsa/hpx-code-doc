@@ -1,0 +1,12 @@
+<map id="hpx::agas::detail::assigned_id_sequence::load" name="hpx::agas::detail::assigned_id_sequence::load">
+<area shape="rect" id="node2" href="$dc/d9a/classhpx_1_1serialization_1_1detail_1_1id__registry.html#ab5118609f28337b2a71e7ac63399a2dc" title="hpx::serialization\l::detail::id_registry\l::instance" alt="" coords="491,5,621,61"/>
+<area shape="rect" id="node4" href="$dc/d9a/classhpx_1_1serialization_1_1detail_1_1id__registry.html#a608a41c816cf1aa794aafecae21d2963" title="hpx::serialization\l::detail::id_registry\l::get_max_registered_id" alt="" coords="245,71,407,127"/>
+<area shape="rect" id="node6" href="$dc/d9a/classhpx_1_1serialization_1_1detail_1_1id__registry.html#a2025140f5cb3fb09b90f1cba27ee0014" title="hpx::serialization\l::detail::id_registry\l::try_get_id" alt="" coords="261,151,391,207"/>
+<area shape="rect" id="node7" href="$dc/d9a/classhpx_1_1serialization_1_1detail_1_1id__registry.html#a3ecf46288bd104ca800605842a269fd6" title="hpx::serialization\l::detail::id_registry\l::register_typename" alt="" coords="257,231,395,287"/>
+<area shape="rect" id="node8" href="$d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry.html#a4d8a8074f8a91fdc5a62e8067ef6472c" title="hpx::actions::detail\l::action_registry::instance" alt="" coords="240,311,412,353"/>
+<area shape="rect" id="node9" href="$d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry.html#a76ee685c892012c7fe05c8e29eb6e83a" title="hpx::actions::detail\l::action_registry::try\l_get_id" alt="" coords="257,377,395,433"/>
+<area shape="rect" id="node10" href="$d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry.html#a7352d14b8ad4d97a880c8ff247f0e04a" title="hpx::actions::detail\l::action_registry::register\l_typename" alt="" coords="243,457,409,513"/>
+<area shape="rect" id="node3" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a2967c633948a3bf17a3b5405ef5a8318" title="hpx::util::static_::get" alt="" coords="700,60,841,87"/>
+<area shape="rect" id="node5" href="$dc/d9a/classhpx_1_1serialization_1_1detail_1_1id__registry.html#a667f38001517e0031e3421b1f6719baf" title="hpx::serialization\l::detail::id_registry\l::get_unassigned_typenames" alt="" coords="460,85,652,141"/>
+<area shape="rect" id="node11" href="$d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry.html#a241539d91aa05a0cb41e6949b4f7ffb6" title="hpx::actions::detail\l::action_registry::cache_id" alt="" coords="469,465,643,506"/>
+</map>

@@ -1,0 +1,15 @@
+digraph "hpx::util::detail::basic_function&lt; VTable, Sig, Serializable &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::detail::\lbasic_function\< VTable,\l Sig, Serializable \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< detail::unique_function\l_vtable\< R(Ts...)\>, R(Ts...)\l, Serializable \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::util::detail::\lbasic_function\< detail\l::unique_function_vtable\l\< R(Ts...)\>, R(Ts...), Serializable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/de7/classhpx_1_1util_1_1detail_1_1basic__function.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::util::unique_function\l\< R(Ts...), Serializable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d98/classhpx_1_1util_1_1unique__function_3_01_r_07_ts_8_8_8_08_00_01_serializable_01_4.html"];
+  Node0 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< detail::function\l_vtable\< R(Ts...)\>,\l R(Ts...), Serializable \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::util::detail::\lbasic_function\< detail\l::function_vtable\< R(Ts...)\l\>, R(Ts...), Serializable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/de7/classhpx_1_1util_1_1detail_1_1basic__function.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::util::function\l\< R(Ts...), Serializable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/da0/classhpx_1_1util_1_1function_3_01_r_07_ts_8_8_8_08_00_01_serializable_01_4.html"];
+}

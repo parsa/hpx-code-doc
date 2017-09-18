@@ -1,0 +1,14 @@
+<map id="split" name="split">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="149,66,252,93"/>
+<area shape="rect" id="node6" href="$d6/d80/credit__exhaustion_8cpp.html#ae2c2669500f541428b27b615ec90009e" title="get_credit" alt="" coords="161,122,240,149"/>
+<area shape="rect" id="node11" href="$d4/dc9/namespacehpx_1_1naming.html#a6b37a354c69c6f16926986040398dca1" title="hpx::naming::get_management\l_type_name" alt="" coords="100,173,301,215"/>
+<area shape="rect" id="node12" href="$db/dee/structhpx_1_1naming_1_1id__type.html#a84fabf15e9dc17e27f7e58c8a4d05cff" title="hpx::naming::id_type\l::get_management_type" alt="" coords="119,239,282,280"/>
+<area shape="rect" id="node13" href="$d4/dc9/namespacehpx_1_1naming.html#af568527a84c2ea192f494afa8a236e8c" title="hpx::naming::get_locality\l_id_from_id" alt="" coords="117,304,284,345"/>
+<area shape="rect" id="node3" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="349,14,532,41"/>
+<area shape="rect" id="node5" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="361,66,521,93"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="582,5,745,47"/>
+<area shape="rect" id="node7" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#ae3d27efe8c838d79e29020ed7c9fa25f" title="hpx::naming::detail\l::get_credit_from_gid" alt="" coords="369,121,512,163"/>
+<area shape="rect" id="node8" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#afb823cf706d95f298c25af22fe39653b" title="hpx::naming::detail\l::has_credits" alt="" coords="795,127,927,168"/>
+<area shape="rect" id="node9" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a084e318ac378f38778c0696da8cbdaac" title="hpx::naming::detail\l::power2" alt="" coords="597,123,729,164"/>
+<area shape="rect" id="node10" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a65b5a75f9576e0c15d372d20f0ed37d0" title="hpx::naming::detail\l::get_log2credit_from_gid" alt="" coords="580,188,747,229"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="test_packaged_task_can_be_moved" name="test_packaged_task_can_be_moved">
+<area shape="rect" id="node2" href="$d3/d69/shared__future_8cpp.html#a3a56f2ae9d0bf0a1781b994fcbe14e1b" title="make_int" alt="" coords="245,5,319,32"/>
+<area shape="rect" id="node3" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a628625094362627e776fe22b68404111" title="hpx::lcos::detail::\lfuture_base\&lt; shared\l_future\&lt; R \&gt;, R \&gt;::is_ready" alt="" coords="192,56,372,112"/>
+<area shape="rect" id="node4" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="207,136,357,163"/>
+<area shape="rect" id="node6" href="$de/d25/classhpx_1_1exception.html#a427fc21f422d4a796cf7e8f7b74c1fe1" title="hpx::exception::get\l_error" alt="" coords="215,187,349,229"/>
+<area shape="rect" id="node5" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="420,129,540,170"/>
+</map>

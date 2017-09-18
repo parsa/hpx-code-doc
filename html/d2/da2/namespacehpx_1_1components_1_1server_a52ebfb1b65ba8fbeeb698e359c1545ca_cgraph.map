@@ -1,0 +1,8 @@
+<map id="hpx::components::server::destroy" name="hpx::components::server::destroy">
+<area shape="rect" id="node2" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="217,5,377,32"/>
+<area shape="rect" id="node3" href="$da/dcb/classhpx_1_1applier_1_1applier.html#ab3340d385dbed72ead3b9660937d16e3" title="Allow access to the AGAS client instance used with this applier. " alt="" coords="230,57,365,98"/>
+<area shape="rect" id="node7" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a53ea507e4c2de79bb091302a79a109cf" title="Resolve a given global address (id) to its associated local address. " alt="" coords="222,122,373,163"/>
+<area shape="rect" id="node4" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="425,57,580,98"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="646,35,765,61"/>
+<area shape="rect" id="node6" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="628,86,783,127"/>
+</map>

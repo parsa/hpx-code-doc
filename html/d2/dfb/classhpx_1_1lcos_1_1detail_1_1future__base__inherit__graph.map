@@ -1,0 +1,6 @@
+<map id="hpx::lcos::detail::future_base&lt; Derived, R &gt;" name="hpx::lcos::detail::future_base&lt; Derived, R &gt;">
+<area shape="rect" id="node2" href="$d0/d33/classhpx_1_1lcos_1_1future.html" title="future\&lt; std::uint64_t \&gt;" alt="" coords="225,5,376,32"/>
+<area shape="rect" id="node3" href="$d0/d33/classhpx_1_1lcos_1_1future.html" title="future\&lt; void \&gt;" alt="" coords="251,56,351,83"/>
+<area shape="rect" id="node4" href="$d4/d31/classhpx_1_1lcos_1_1shared__future.html" title="shared_future\&lt; hpx\l::naming::id_type \&gt;" alt="" coords="233,107,368,149"/>
+<area shape="rect" id="node5" href="$d4/d31/classhpx_1_1lcos_1_1shared__future.html" title="shared_future\&lt; jacobi\l::row \&gt;" alt="" coords="227,173,374,214"/>
+</map>

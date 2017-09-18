@@ -1,0 +1,9 @@
+<map id="test_copies_of_shared_future_become_ready_together" name="test_copies_of_shared_future_become_ready_together">
+<area shape="rect" id="node2" href="$d3/d69/shared__future_8cpp.html#a3a56f2ae9d0bf0a1781b994fcbe14e1b" title="make_int" alt="" coords="263,5,338,32"/>
+<area shape="rect" id="node3" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="225,56,376,83"/>
+<area shape="rect" id="node5" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a628625094362627e776fe22b68404111" title="hpx::lcos::detail::\lfuture_base\&lt; shared\l_future\&lt; R \&gt;, R \&gt;::is_ready" alt="" coords="211,107,391,163"/>
+<area shape="rect" id="node6" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a21423c49daa024230c4e4e85d7e0aa0a" title="hpx::lcos::detail::\lfuture_base\&lt; shared\l_future\&lt; R \&gt;, R \&gt;::has_value" alt="" coords="207,187,395,243"/>
+<area shape="rect" id="node7" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#aa95b01f70ad95706ae420ff1db2e5b99" title="hpx::lcos::detail::\lfuture_base\&lt; shared\l_future\&lt; R \&gt;, R \&gt;::has\l_exception" alt="" coords="225,267,377,338"/>
+<area shape="rect" id="node8" href="$d4/d31/classhpx_1_1lcos_1_1shared__future.html#a316b62d06e2bbab9e8d93fe64d13527e" title="hpx::lcos::shared_future::get" alt="" coords="207,363,394,389"/>
+<area shape="rect" id="node4" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="443,49,563,90"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="hpx::parallel::util::numa_allocator::allocate" name="hpx::parallel::util::numa_allocator::allocate">
+<area shape="rect" id="node2" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="299,13,338,39"/>
+<area shape="rect" id="node5" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#a31e165df2b865cdd961f35ce938db41a" title="hpx::util::detail::\lrange_impl::begin" alt="" coords="257,64,381,105"/>
+<area shape="rect" id="node6" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#afb2ea48b0902f52ee4d8b764807b4316" title="hpx::util::detail::\lrange_impl::end" alt="" coords="261,129,376,171"/>
+<area shape="rect" id="node7" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a7669848e3e4ff6cee42c8f645101970f" title="hpx::parallel::v1::\lfor_each" alt="" coords="259,195,379,236"/>
+<area shape="rect" id="node14" href="$d8/d83/namespacehpx.html#ad438935ca2f8603f9cab036b68b34f36" title="Return the number of the current OS&#45;thread running in the runtime instance the current HPX&#45;thread is ..." alt="" coords="224,261,413,287"/>
+<area shape="rect" id="node15" href="$d7/d28/namespacehpx_1_1threads.html#ae892297c3b32629d408b52f8c06a3b40" title="hpx::threads::get_pu_mask" alt="" coords="229,311,409,338"/>
+<area shape="rect" id="node16" href="$d2/dc9/namespacehpx_1_1lcos.html#aa22f424df487aac588e30b71f15dd2fe" title="hpx::lcos::wait_all" alt="" coords="255,362,382,389"/>
+<area shape="rect" id="node3" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="461,13,548,39"/>
+<area shape="rect" id="node4" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="596,5,761,47"/>
+<area shape="rect" id="node8" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="483,202,526,229"/>
+<area shape="rect" id="node9" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="641,126,716,153"/>
+<area shape="rect" id="node10" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="606,177,751,203"/>
+<area shape="rect" id="node11" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="643,278,715,305"/>
+<area shape="rect" id="node12" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="863,227,950,254"/>
+<area shape="rect" id="node13" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="809,279,1004,320"/>
+</map>

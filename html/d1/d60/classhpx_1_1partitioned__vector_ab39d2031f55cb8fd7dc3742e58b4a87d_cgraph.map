@@ -1,0 +1,5 @@
+<map id="hpx::partitioned_vector::segment_cend" name="hpx::partitioned_vector::segment_cend">
+<area shape="rect" id="node2" href="$d8/d51/classhpx_1_1local__segment__vector__iterator.html#a51b5be99088c4a62aad4b711c654aa1a" title="hpx::local_segment\l_vector_iterator::unsatisfy\l_predicate" alt="" coords="205,75,376,131"/>
+<area shape="rect" id="node3" href="$dd/d31/classhpx_1_1util_1_1iterator__adaptor.html#ab727800148fe718ca54ebd2668826c5e" title="hpx::util::iterator\l_adaptor\&lt; local_raw\l_vector_iterator\&lt; T,\l Data, BaseIter \&gt;, BaseIter\l \&gt;::base" alt="" coords="424,5,601,91"/>
+<area shape="rect" id="node4" href="$dd/d31/classhpx_1_1util_1_1iterator__adaptor.html#afea4fe9be86341e00d81fa52ffbf6883" title="hpx::util::iterator\l_adaptor\&lt; local_raw\l_vector_iterator\&lt; T,\l Data, BaseIter \&gt;, BaseIter\l \&gt;::base_reference" alt="" coords="424,115,601,200"/>
+</map>

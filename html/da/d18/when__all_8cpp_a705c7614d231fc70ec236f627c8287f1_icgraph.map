@@ -1,0 +1,10 @@
+<map id="make_int_slowly" name="make_int_slowly">
+<area shape="rect" id="node2" href="$da/d18/when__all_8cpp.html#a9136ffcdb20ffab1177fa2fdee66778b" title="test_wait_for_all_one\l_future" alt="" coords="185,5,327,47"/>
+<area shape="rect" id="node4" href="$da/d18/when__all_8cpp.html#a4b155a72d5a2675631a35dbda5c4e017" title="test_wait_for_all_two\l_futures" alt="" coords="185,71,327,112"/>
+<area shape="rect" id="node5" href="$da/d18/when__all_8cpp.html#aeabf601683ffcbfdd1e520a0fb3dd0f1" title="test_wait_for_all_three\l_futures" alt="" coords="181,136,331,177"/>
+<area shape="rect" id="node6" href="$da/d18/when__all_8cpp.html#a6f397b472846a22a981117c6984a1dea" title="test_wait_for_all_four\l_futures" alt="" coords="185,201,327,243"/>
+<area shape="rect" id="node7" href="$da/d18/when__all_8cpp.html#abd0a7d139e5e783cd2d6d00aafe1cd24" title="test_wait_for_all_five\l_futures" alt="" coords="186,267,326,308"/>
+<area shape="rect" id="node8" href="$da/d18/when__all_8cpp.html#afcdf0a20c77b084840a3ca36adb42828" title="test_wait_for_all_late\l_futures" alt="" coords="185,332,327,373"/>
+<area shape="rect" id="node9" href="$da/d18/when__all_8cpp.html#a01131d948ddda283720ba6ba2735dd94" title="test_wait_for_all_deferred\l_futures" alt="" coords="172,397,340,439"/>
+<area shape="rect" id="node3" href="$da/d18/when__all_8cpp.html#a255f773d830db5ca937cff11c2692fa2" title="hpx_main" alt="" coords="388,209,467,235"/>
+</map>

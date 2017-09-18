@@ -1,0 +1,28 @@
+digraph "hpx::performance_counters::server::statistics_counter&lt; Statistic &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node6 [label="hpx::performance_counters\l::server::statistics_counter\l\< Statistic \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hpx::performance_counters\l::server::base_performance\l_counter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d92/classhpx_1_1performance__counters_1_1server_1_1base__performance__counter.html"];
+  Node8 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="hpx::performance_counters\l::performance_counter_base",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/dab/structhpx_1_1performance__counters_1_1performance__counter__base.html"];
+  Node9 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="hpx::traits::detail\l::component_tag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag.html"];
+  Node10 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" info_" ,fontname="Helvetica"];
+  Node10 [label="hpx::performance_counters\l::counter_info",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/dc4/structhpx_1_1performance__counters_1_1counter__info.html"];
+  Node11 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" unit_of_measure_\nhelptext_\nfullname_" ,fontname="Helvetica"];
+  Node11 [label="string",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node12 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" invocation_count_" ,fontname="Helvetica"];
+  Node12 [label="hpx::util::atomic_count",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d59/classhpx_1_1util_1_1atomic__count.html"];
+  Node13 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="hpx::components::component\l_base\< statistics_counter\l\< Statistic \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/de6/classhpx_1_1components_1_1component__base.html"];
+  Node9 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 -> Node13 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" gid_" ,fontname="Helvetica"];
+  Node14 [label="hpx::naming::gid_type",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d67/structhpx_1_1naming_1_1gid__type.html",tooltip="Global identifier for components across the HPX system. "];
+  Node15 -> Node13 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< statistics_counter\l\< Statistic \> \>" ,fontname="Helvetica"];
+  Node15 [label="hpx::components::component\l_base\< Component \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/de6/classhpx_1_1components_1_1component__base.html"];
+  Node9 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 -> Node15 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" gid_" ,fontname="Helvetica"];
+}

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d7/d1b/classhpx_1_1components_1_1server_1_1detail_1_1memory__block__header.html" title="The memory_block_header holds all information needed to describe a block of memory managed by a serve..." alt="" coords="5,5,169,61"/>
+<area shape="rect" id="node2" href="$d7/d24/classhpx_1_1components_1_1server_1_1detail_1_1memory__block.html" title="The memory_block structure implements the component functionality exposed by a memory_block component..." alt="" coords="217,13,381,54"/>
+</map>

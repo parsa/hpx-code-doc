@@ -1,0 +1,5 @@
+<map id="hpx::agas::symbol_namespace::unbind_async" name="hpx::agas::symbol_namespace::unbind_async">
+<area shape="rect" id="node2" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#acbe6a406b010ce501a7b4f4422494e88" title="Unregister a global name (release any existing association) " alt="" coords="282,5,433,61"/>
+<area shape="rect" id="node4" href="$dd/d5e/structhpx_1_1agas_1_1symbol__namespace.html#abe857253fdfe8a0baa48b5d19d3fda0d" title="hpx::agas::symbol_namespace\l::is_service_instance" alt="" coords="256,86,459,127"/>
+<area shape="rect" id="node3" href="$dc/d54/namespacehpx_1_1agas.html#a52c81a3ed96845383316fd85d4ff82d7" title="hpx::agas::unregister_name" alt="" coords="507,20,689,47"/>
+</map>

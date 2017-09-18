@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="db/db2/structhpx_1_1traits_1_1acquire__future__disp" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::traits::acquire_future_disp</compoundname>
+    <includes refid="d5/dae/acquire__future_8hpp" local="no">acquire_future.hpp</includes>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="db/db2/structhpx_1_1traits_1_1acquire__future__disp_1a6fdcc1bc7a3b54ca1a3a680cc0d90fe2" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename <ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          </param>
+        </templateparamlist>
+        <type><ref refid="d7/d7f/forceinline_8hpp_1a6c8f31b01feb29751470093a9a75b04f" kindref="member">HPX_FORCEINLINE</ref> <ref refid="d0/d7d/structhpx_1_1traits_1_1acquire__future" kindref="compound">acquire_future</ref>&lt; <ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref> &gt;::type</type>
+        <definition>HPX_FORCEINLINE acquire_future&lt;T&gt;::type hpx::traits::acquire_future_disp::operator()</definition>
+        <argsstring>(T &amp;&amp;t) const</argsstring>
+        <name>operator()</name>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref> &amp;&amp;</type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/acquire_future.hpp" line="43" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/acquire_future.hpp" bodystart="43" bodyend="46"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/acquire_future.hpp" line="40" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/acquire_future.hpp" bodystart="39" bodyend="47"/>
+    <listofallmembers>
+      <member refid="db/db2/structhpx_1_1traits_1_1acquire__future__disp_1a6fdcc1bc7a3b54ca1a3a680cc0d90fe2" prot="public" virt="non-virtual"><scope>hpx::traits::acquire_future_disp</scope><name>operator()</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

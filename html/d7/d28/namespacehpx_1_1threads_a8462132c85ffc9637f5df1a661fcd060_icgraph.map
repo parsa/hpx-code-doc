@@ -1,0 +1,5 @@
+<map id="hpx::threads::set_thread_lco_description" name="hpx::threads::set_thread_lco_description">
+<area shape="rect" id="node2" href="$d3/d87/structhpx_1_1this__thread_1_1detail_1_1reset__lco__description.html#a1451f9823839f5612148863009fa1c5e" title="hpx::this_thread::detail\l::reset_lco_description\l::reset_lco_description" alt="" coords="220,5,375,61"/>
+<area shape="rect" id="node3" href="$d3/d87/structhpx_1_1this__thread_1_1detail_1_1reset__lco__description.html#ad88f380325f38b40675cfeefa0c26471" title="hpx::this_thread::detail\l::reset_lco_description\l::~reset_lco_description" alt="" coords="217,85,378,141"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#a6cbf4d996ae9166d232f8d06dd80a916" title="Set the thread state of the thread referenced by the thread_id id. " alt="" coords="216,166,379,207"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="hpx::threads::scheduler_specific_ptr::reset" name="hpx::threads::scheduler_specific_ptr::reset">
+<area shape="rect" id="node2" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="259,13,298,39"/>
+<area shape="rect" id="node5" href="$d2/dd1/namespacehpx_1_1threads_1_1detail.html#a4136518e38e92d0216c00b547bd97b5c" title="hpx::threads::detail\l::set_tss_data" alt="" coords="212,64,345,105"/>
+<area shape="rect" id="node3" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="432,13,519,39"/>
+<area shape="rect" id="node4" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="607,5,773,47"/>
+<area shape="rect" id="node6" href="$d7/d28/namespacehpx_1_1threads.html#afafe0f900b9fac3d4ed3c747625c1cfe" title="hpx::threads::get_self_id" alt="" coords="393,71,557,98"/>
+<area shape="rect" id="node7" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="605,71,775,98"/>
+<area shape="rect" id="node8" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="823,71,969,98"/>
+</map>

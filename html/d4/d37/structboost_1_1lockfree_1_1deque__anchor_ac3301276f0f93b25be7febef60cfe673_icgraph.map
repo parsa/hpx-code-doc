@@ -1,0 +1,6 @@
+<map id="boost::lockfree::deque_anchor::cas" name="boost::lockfree::deque_anchor::cas">
+<area shape="rect" id="node2" href="$db/d6c/structboost_1_1lockfree_1_1deque.html#a147a01fa4cbf3aeec52f2c97794c33c0" title="boost::lockfree::deque\l::push_left" alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node3" href="$db/d6c/structboost_1_1lockfree_1_1deque.html#a21762db2f08fd3a8b7cd9a3930d3c489" title="boost::lockfree::deque\l::push_right" alt="" coords="204,71,355,112"/>
+<area shape="rect" id="node4" href="$db/d6c/structboost_1_1lockfree_1_1deque.html#a95181038a3bfd70e1a14932a089c4360" title="boost::lockfree::deque\l::pop_left" alt="" coords="204,136,355,177"/>
+<area shape="rect" id="node5" href="$db/d6c/structboost_1_1lockfree_1_1deque.html#a6321d3e28747921aa97aea3d967d7dd8" title="boost::lockfree::deque\l::pop_right" alt="" coords="204,201,355,243"/>
+</map>

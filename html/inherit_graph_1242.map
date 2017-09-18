@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d7/db9/structhpx_1_1util_1_1detail_1_1function__first__argument.html" title="hpx::util::detail::\lfunction_first_argument\&lt; F \&gt;" alt="" coords="5,35,193,76"/>
+<area shape="rect" id="node2" href="$d6/db6/structhpx_1_1util_1_1first__argument_3_01_f_00_01typename_01std_1_1enable__if_3_9hpx_1_1traits_1b510d371e2c5d7af891543f4e6611d89.html" title="hpx::util::first_argument\l\&lt; F, typename std::enable\l_if\&lt;!hpx::traits::is_action\l\&lt; F \&gt;::value &amp;&amp;std::is_function\l\&lt; typename std::remove_pointer\l\&lt; F \&gt;::type \&gt;::value \&gt;::type \&gt;" alt="" coords="241,5,449,105"/>
+</map>

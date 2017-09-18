@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d3/d30/structhpx_1_1threads_1_1policies_1_1add__new__tag" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::threads::policies::add_new_tag</compoundname>
+    <includes refid="d6/d20/queue__helpers_8hpp" local="no">queue_helpers.hpp</includes>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/threads/policies/queue_helpers.hpp" line="24" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/threads/policies/queue_helpers.hpp" bodystart="24" bodyend="24"/>
+    <listofallmembers>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

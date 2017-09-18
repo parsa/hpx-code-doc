@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="dd/d37/classhpx_1_1serialization_1_1access" kind="class" language="C++" prot="public">
+    <compoundname>hpx::serialization::access</compoundname>
+    <includes refid="d4/dbf/access_8hpp" local="no">access.hpp</includes>
+    <innerclass refid="d7/d91/classhpx_1_1serialization_1_1access_1_1serialize__dispatcher" prot="private">hpx::serialization::access::serialize_dispatcher</innerclass>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="dd/d37/classhpx_1_1serialization_1_1access_1a5bcb3a4019308b5561ff58a690d6a997" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>class Archive</type>
+          </param>
+          <param>
+            <type>class <ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>static void hpx::serialization::access::serialize</definition>
+        <argsstring>(Archive &amp;ar, T &amp;t, unsigned)</argsstring>
+        <name>serialize</name>
+        <param>
+          <type>Archive &amp;</type>
+          <declname>ar</declname>
+        </param>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref> &amp;</type>
+          <declname>t</declname>
+        </param>
+        <param>
+          <type>unsigned</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/serialization/access.hpp" line="111" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/serialization/access.hpp" bodystart="111" bodyend="114"/>
+        <referencedby refid="da/d97/structpartition__data_1a4fba3ef8b0d3058a6d6b37718202b9ab" compoundref="db/de7/1d__stencil__6_8cpp" startline="93" endline="93">partition_data::size</referencedby>
+        <referencedby refid="d4/db1/structhpx_1_1serialization_1_1base__object__type_1adb192bb17ae2ecfb2600021fec040b6f" compoundref="dd/d5a/base__object_8hpp" startline="32" endline="36">hpx::serialization::base_object_type&lt; Derived, Base, Enable &gt;::serialize</referencedby>
+        <referencedby refid="d5/d72/structhpx_1_1parallel_1_1execution_1_1sequenced__task__policy__shim_1a28ac49a8a0347d81d38b8455c517e735" compoundref="d4/d36/execution__policy_8hpp" startline="322" endline="322">hpx::parallel::execution::sequenced_task_policy_shim&lt; Executor, Parameters &gt;::parameters</referencedby>
+        <referencedby refid="d2/d2e/structhpx_1_1parallel_1_1execution_1_1sequenced__policy__shim_1a2d7ad9e8bf5b1bc7cc5fde7932368717" compoundref="d4/d36/execution__policy_8hpp" startline="625" endline="625">hpx::parallel::execution::sequenced_policy_shim&lt; Executor, Parameters &gt;::parameters</referencedby>
+        <referencedby refid="d3/d01/structhpx_1_1parallel_1_1execution_1_1parallel__task__policy__shim_1aff6e08d19434b3b9ec86a215b683b186" compoundref="d4/d36/execution__policy_8hpp" startline="929" endline="929">hpx::parallel::execution::parallel_task_policy_shim&lt; Executor, Parameters &gt;::parameters</referencedby>
+        <referencedby refid="d6/d75/structhpx_1_1parallel_1_1execution_1_1parallel__policy__shim_1aeaeac21660b5a0ee6c97b4c03b32c959" compoundref="d4/d36/execution__policy_8hpp" startline="1224" endline="1224">hpx::parallel::execution::parallel_policy_shim&lt; Executor, Parameters &gt;::parameters</referencedby>
+        <referencedby refid="de/dbe/structsmall__object_1a038cd6aa0d7bf67a183a8ba3a26f5821" compoundref="de/dea/function_8cpp" startline="82" endline="88">small_object::operator()</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="dd/d37/classhpx_1_1serialization_1_1access_1a16e3b1de551254fdfbbc77a1663b1d34" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename Archive</type>
+          </param>
+          <param>
+            <type>typename <ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          </param>
+        </templateparamlist>
+        <type><ref refid="d7/d7f/forceinline_8hpp_1a6c8f31b01feb29751470093a9a75b04f" kindref="member">HPX_FORCEINLINE</ref> void</type>
+        <definition>static HPX_FORCEINLINE void hpx::serialization::access::save_base_object</definition>
+        <argsstring>(Archive &amp;ar, const T &amp;t, unsigned)</argsstring>
+        <name>save_base_object</name>
+        <param>
+          <type>Archive &amp;</type>
+          <declname>ar</declname>
+        </param>
+        <param>
+          <type>const <ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref> &amp;</type>
+          <declname>t</declname>
+        </param>
+        <param>
+          <type>unsigned</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/serialization/access.hpp" line="117" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/serialization/access.hpp" bodystart="117" bodyend="122"/>
+        <referencedby refid="d0/d90/structhpx_1_1serialization_1_1base__object__type_3_01_derived_00_01_base_00_01std_1_1true__type_01_4_1a0c5dbe3d32fb77b72234b3a35c98ef89" compoundref="dd/d5a/base__object_8hpp" startline="49" endline="52">hpx::serialization::base_object_type&lt; Derived, Base, std::true_type &gt;::save</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="dd/d37/classhpx_1_1serialization_1_1access_1a3012974783753229fd100220873ca4bd" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename Archive</type>
+          </param>
+          <param>
+            <type>typename <ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          </param>
+        </templateparamlist>
+        <type><ref refid="d7/d7f/forceinline_8hpp_1a6c8f31b01feb29751470093a9a75b04f" kindref="member">HPX_FORCEINLINE</ref> void</type>
+        <definition>static HPX_FORCEINLINE void hpx::serialization::access::load_base_object</definition>
+        <argsstring>(Archive &amp;ar, T &amp;t, unsigned)</argsstring>
+        <name>load_base_object</name>
+        <param>
+          <type>Archive &amp;</type>
+          <declname>ar</declname>
+        </param>
+        <param>
+          <type><ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref> &amp;</type>
+          <declname>t</declname>
+        </param>
+        <param>
+          <type>unsigned</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/serialization/access.hpp" line="125" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/serialization/access.hpp" bodystart="125" bodyend="130"/>
+        <referencedby refid="d0/d90/structhpx_1_1serialization_1_1base__object__type_3_01_derived_00_01_base_00_01std_1_1true__type_01_4_1a8400f93a79be85ca7f4f3ed3c86d0579" compoundref="dd/d5a/base__object_8hpp" startline="55" endline="58">hpx::serialization::base_object_type&lt; Derived, Base, std::true_type &gt;::load</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="dd/d37/classhpx_1_1serialization_1_1access_1ae4275c96f8aaafface29ea51d8c1a6d6" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename <ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+          </param>
+        </templateparamlist>
+        <type><ref refid="d7/d7f/forceinline_8hpp_1a6c8f31b01feb29751470093a9a75b04f" kindref="member">HPX_FORCEINLINE</ref> std::string</type>
+        <definition>static HPX_FORCEINLINE std::string hpx::serialization::access::get_name</definition>
+        <argsstring>(const T *t)</argsstring>
+        <name>get_name</name>
+        <param>
+          <type>const <ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref> *</type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/serialization/access.hpp" line="133" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/serialization/access.hpp" bodystart="133" bodyend="136"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/serialization/access.hpp" line="38" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/serialization/access.hpp" bodystart="37" bodyend="137"/>
+    <listofallmembers>
+      <member refid="dd/d37/classhpx_1_1serialization_1_1access_1ae4275c96f8aaafface29ea51d8c1a6d6" prot="public" virt="non-virtual"><scope>hpx::serialization::access</scope><name>get_name</name></member>
+      <member refid="dd/d37/classhpx_1_1serialization_1_1access_1a3012974783753229fd100220873ca4bd" prot="public" virt="non-virtual"><scope>hpx::serialization::access</scope><name>load_base_object</name></member>
+      <member refid="dd/d37/classhpx_1_1serialization_1_1access_1a16e3b1de551254fdfbbc77a1663b1d34" prot="public" virt="non-virtual"><scope>hpx::serialization::access</scope><name>save_base_object</name></member>
+      <member refid="dd/d37/classhpx_1_1serialization_1_1access_1a5bcb3a4019308b5561ff58a690d6a997" prot="public" virt="non-virtual"><scope>hpx::serialization::access</scope><name>serialize</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,9 @@
+<map id="test_void_promise" name="test_void_promise">
+<area shape="rect" id="node2" href="$d9/d80/struct_x.html#acca54984b94385e31ccd14f5dfdb063b" title="X::f" alt="" coords="251,5,291,32"/>
+<area shape="rect" id="node3" href="$d3/dc1/classhpx_1_1lcos_1_1local_1_1promise_3_01void_01_4.html#ae516327b0cef99cbb715a41bcf1d82d2" title="hpx::lcos::local::promise\l\&lt; void \&gt;::get_future" alt="" coords="189,57,353,98"/>
+<area shape="rect" id="node4" href="$d3/dc1/classhpx_1_1lcos_1_1local_1_1promise_3_01void_01_4.html#a02118460968620402b62236f81f2f80b" title="hpx::lcos::local::promise\l\&lt; void \&gt;::set_value" alt="" coords="189,122,353,163"/>
+<area shape="rect" id="node6" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a628625094362627e776fe22b68404111" title="hpx::lcos::detail::\lfuture_base::is_ready" alt="" coords="197,187,344,229"/>
+<area shape="rect" id="node7" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a21423c49daa024230c4e4e85d7e0aa0a" title="hpx::lcos::detail::\lfuture_base::has_value" alt="" coords="193,253,348,294"/>
+<area shape="rect" id="node8" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#aa95b01f70ad95706ae420ff1db2e5b99" title="hpx::lcos::detail::\lfuture_base::has_exception" alt="" coords="180,318,361,359"/>
+<area shape="rect" id="node5" href="$da/d9a/async__io__external_8cpp.html#ae46b07440afec1138286368e32af7ae6" title="set_value" alt="" coords="409,129,485,156"/>
+</map>

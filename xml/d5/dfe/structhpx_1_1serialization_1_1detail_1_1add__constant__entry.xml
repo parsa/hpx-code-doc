@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d5/dfe/structhpx_1_1serialization_1_1detail_1_1add__constant__entry" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::serialization::detail::add_constant_entry</compoundname>
+    <includes refid="d3/dbe/polymorphic__id__factory_8hpp" local="no">polymorphic_id_factory.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>std::uint32_t</type>
+        <declname>Id</declname>
+        <defname>Id</defname>
+      </param>
+    </templateparamlist>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="d5/dfe/structhpx_1_1serialization_1_1detail_1_1add__constant__entry_1afe8fe790fc64d0622af46397d7761668" prot="public" static="yes" mutable="no">
+        <type><ref refid="d5/dfe/structhpx_1_1serialization_1_1detail_1_1add__constant__entry" kindref="compound">add_constant_entry</ref></type>
+        <definition>add_constant_entry&lt; Id &gt; hpx::serialization::detail::add_constant_entry&lt; Id &gt;::instance</definition>
+        <argsstring></argsstring>
+        <name>instance</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/serialization/detail/polymorphic_id_factory.hpp" line="170" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/serialization/detail/polymorphic_id_factory.hpp" bodystart="170" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d5/dfe/structhpx_1_1serialization_1_1detail_1_1add__constant__entry_1a86e806bc4567e2301630e4a606be8ab8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>hpx::serialization::detail::add_constant_entry&lt; Id &gt;::add_constant_entry</definition>
+        <argsstring>()</argsstring>
+        <name>add_constant_entry</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/serialization/detail/polymorphic_id_factory.hpp" line="164" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/serialization/detail/polymorphic_id_factory.hpp" bodystart="164" bodyend="168"/>
+        <references refid="dc/d9a/classhpx_1_1serialization_1_1detail_1_1id__registry_1ab5118609f28337b2a71e7ac63399a2dc" compoundref="df/d30/polymorphic__id__factory_8cpp" startline="21" endline="25">hpx::serialization::detail::id_registry::instance</references>
+        <references refid="dc/d9a/classhpx_1_1serialization_1_1detail_1_1id__registry_1a3ecf46288bd104ca800605842a269fd6" compoundref="df/d30/polymorphic__id__factory_8cpp" startline="54" endline="78">hpx::serialization::detail::id_registry::register_typename</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="294">
+        <label>hpx::serialization::detail::add_constant_entry&lt; Id &gt;</label>
+        <link refid="d5/dfe/structhpx_1_1serialization_1_1detail_1_1add__constant__entry"/>
+        <childnode refid="294" relation="usage">
+          <edgelabel>instance</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/serialization/detail/polymorphic_id_factory.hpp" line="163" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/serialization/detail/polymorphic_id_factory.hpp" bodystart="162" bodyend="171"/>
+    <listofallmembers>
+      <member refid="d5/dfe/structhpx_1_1serialization_1_1detail_1_1add__constant__entry_1a86e806bc4567e2301630e4a606be8ab8" prot="public" virt="non-virtual"><scope>hpx::serialization::detail::add_constant_entry</scope><name>add_constant_entry</name></member>
+      <member refid="d5/dfe/structhpx_1_1serialization_1_1detail_1_1add__constant__entry_1afe8fe790fc64d0622af46397d7761668" prot="public" virt="non-virtual"><scope>hpx::serialization::detail::add_constant_entry</scope><name>instance</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

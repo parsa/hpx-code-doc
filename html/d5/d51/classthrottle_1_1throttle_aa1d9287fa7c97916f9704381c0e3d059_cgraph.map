@@ -1,0 +1,6 @@
+<map id="throttle::throttle::suspend" name="throttle::throttle::suspend">
+<area shape="rect" id="node2" href="$d0/dc3/structthrottle_1_1stubs_1_1throttle.html#a39d0cbe949c24fa5801b454f9aa84fba" title="throttle::stubs::throttle\l::suspend" alt="" coords="164,35,315,76"/>
+<area shape="rect" id="node5" href="$d8/d3c/simple__future__continuation_8cpp.html#a64b28a4bbb16e7f78fc14c60466ddd8d" title="get_id" alt="" coords="211,101,268,127"/>
+<area shape="rect" id="node3" href="$d0/dc3/structthrottle_1_1stubs_1_1throttle.html#a1e78f290d4357444384ced41ead3c650" title="throttle::stubs::throttle\l::suspend_async" alt="" coords="363,5,513,47"/>
+<area shape="rect" id="node4" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="367,71,509,98"/>
+</map>

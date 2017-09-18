@@ -1,0 +1,51 @@
+<map id="hpx::naming::detail::get_stripped_gid" name="hpx::naming::detail::get_stripped_gid">
+<area shape="rect" id="node2" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a10a1512c35379b47df3e9c5c30ab601f" title="Unbind the given range of global ids. " alt="" coords="189,5,377,47"/>
+<area shape="rect" id="node3" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#adae9df2634cf648f129f203c3678c1c1" title="Increment the global reference count for the given id. " alt="" coords="957,129,1107,171"/>
+<area shape="rect" id="node10" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a0f18342491c8f0398bc0747a0634658b" title="Decrement the global reference count for the given id. " alt="" coords="714,691,865,732"/>
+<area shape="rect" id="node16" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a5929d7fd681a5ed692bfbeaa503fc32d" title="Register a global name with a global address (id) " alt="" coords="204,381,363,423"/>
+<area shape="rect" id="node25" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ab49f7530592fc5c804c94720b8ffd61d" title="hpx::agas::addressing\l_service::update_cache_entry" alt="" coords="186,1108,381,1149"/>
+<area shape="rect" id="node31" href="$d1/d4f/local__address__rebind_8cpp.html#aaf67a3863f19ff7033e239ebb1204fb7" title="hpx_main" alt="" coords="493,1350,572,1377"/>
+<area shape="rect" id="node33" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a513ab9557be7ea50244572ef3bcc3939" title="hpx::agas::addressing\l_service::remove_cache_entry" alt="" coords="185,847,381,888"/>
+<area shape="rect" id="node34" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ab4e54248310cb51dd6a53f8ec4e80f24" title="hpx::agas::addressing\l_service::mark_as_migrated" alt="" coords="441,824,625,865"/>
+<area shape="rect" id="node36" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a35130827862a75398bbc18e545f12039" title="Remove the given object from the table of migrated objects. " alt="" coords="433,941,632,983"/>
+<area shape="rect" id="node38" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#aa886d8a2cec16ba48cf61f6ea1f5cacd" title="hpx::agas::addressing\l_service::begin_migration_async" alt="" coords="684,883,895,924"/>
+<area shape="rect" id="node40" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a0a1cf4ede52bbdd93126332d0fb09901" title="hpx::agas::addressing\l_service::end_migration_async" alt="" coords="689,765,889,807"/>
+<area shape="rect" id="node42" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#aade8c179c3866b1212fe6439b586ace1" title="Maintain list of migrated objects. " alt="" coords="208,1225,359,1281"/>
+<area shape="rect" id="node45" href="$dc/da1/classhpx_1_1components_1_1server_1_1component__storage.html#aa8379808e4c616da37db68da3319ab5c" title="hpx::components::server\l::component_storage::migrate\l_to_here" alt="" coords="186,1305,381,1361"/>
+<area shape="rect" id="node46" href="$dc/da1/classhpx_1_1components_1_1server_1_1component__storage.html#af5a570443203702d46750f3a99dd0d7c" title="hpx::components::server\l::component_storage::migrate\l_from_here" alt="" coords="186,1385,381,1441"/>
+<area shape="rect" id="node47" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a721ab5a11bd11a37b0c905ea3fe0a6d7" title="hpx::naming::detail\l::is_locked" alt="" coords="217,600,349,641"/>
+<area shape="rect" id="node50" href="$de/d5f/uncounted__symbol__to__local__object_8cpp.html#a9a1c75cfa4bc8637fb9e22dfdca0891a" title="hpx_test_main" alt="" coords="230,1465,337,1491"/>
+<area shape="rect" id="node4" href="$dc/d54/namespacehpx_1_1agas.html#aad81d2ea721c1a5692e243ef07bf164f" title="hpx::agas::incref" alt="" coords="1202,394,1321,421"/>
+<area shape="rect" id="node5" href="$dc/d54/namespacehpx_1_1agas.html#abb5e5584ed3b536ace8e3f58415e24c2" title="hpx::agas::is_local\l_lva_encoded_address" alt="" coords="1413,815,1566,856"/>
+<area shape="rect" id="node6" href="$da/d76/structgc_1_1server_1_1collectable.html#a8e123e39f5a85da593dc15b5f872748d" title="gc::server::collectable\l::set_ref" alt="" coords="1415,463,1563,504"/>
+<area shape="rect" id="node7" href="$da/d23/structgc_1_1collectable.html#a9ac791be34891330ff8192ac2ef68c7c" title="gc::collectable::collectable" alt="" coords="1401,401,1577,427"/>
+<area shape="rect" id="node8" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a8a41d874bb719f702a76d483293d9d56" title="hpx::naming::detail\l::split_gid_if_needed\l_locked" alt="" coords="1419,550,1559,606"/>
+<area shape="rect" id="node9" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a011ed4fa9a2f4d4319adc54943fa03d6" title="hpx::naming::detail\l::replenish_credits\l_locked" alt="" coords="1423,321,1555,377"/>
+<area shape="rect" id="node11" href="$dc/d54/namespacehpx_1_1agas.html#a08f10ad4320050773ecaf08b7ad1ad3e" title="hpx::agas::decref" alt="" coords="971,685,1093,711"/>
+<area shape="rect" id="node12" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a77add8ef493b3ff577876bbbde8b2ead" title="hpx::agas::addressing\l_service::incref" alt="" coords="1186,445,1337,487"/>
+<area shape="rect" id="node13" href="$da/d23/structgc_1_1collectable.html#aa3ac1547c0889e84cc088090dafcad1e" title="gc::collectable::~collectable" alt="" coords="1169,679,1353,706"/>
+<area shape="rect" id="node14" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a63ddb380473bdb8a186686ffe718b6e2" title="hpx::naming::detail\l::decrement_refcnt" alt="" coords="1195,731,1327,772"/>
+<area shape="rect" id="node15" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a9d2708b2b1a4087d64195137b077ef1d" title="hpx::naming::detail\l::postprocess_incref" alt="" coords="1192,563,1331,604"/>
+<area shape="rect" id="node17" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a664380be3597d3ca31677b2ae5800e76" title="hpx::agas::addressing\l_service::launch_bootstrap" alt="" coords="445,205,621,247"/>
+<area shape="rect" id="node19" href="$dc/d54/namespacehpx_1_1agas.html#a3812793adbf5e7d8c6b468595ac0823f" title="hpx::agas::register_name" alt="" coords="448,389,617,415"/>
+<area shape="rect" id="node18" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a4cd885b12c530009f44f7372c197d54f" title="hpx::agas::addressing\l_service::addressing\l_service" alt="" coords="714,122,865,178"/>
+<area shape="rect" id="node20" href="$d8/d83/namespacehpx.html#acf88178dc8c98cb0d7396325b3ccffdd" title="Register the given id using the given base name. " alt="" coords="727,283,851,324"/>
+<area shape="rect" id="node21" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a195e205b5917c50455e9eab169045a2f" title="hpx::components::client\l_base\&lt; object_semaphore\l\&lt; ValueType \&gt;, lcos::server\l::object_semaphore\&lt; ValueType\l \&gt; \&gt;::then" alt="" coords="685,399,894,485"/>
+<area shape="rect" id="node22" href="$d4/dc8/structhpx_1_1agas_1_1server_1_1component__namespace.html#aa114cf679cc56f70c05ab18aff971ecb" title="hpx::agas::server::\lcomponent_namespace\l::register_server_instance" alt="" coords="704,509,875,565"/>
+<area shape="rect" id="node23" href="$dc/d54/namespacehpx_1_1agas.html#a2430195ce3eb5a044693ffff42ac4124" title="hpx::agas::register_name" alt="" coords="705,589,874,615"/>
+<area shape="rect" id="node24" href="$dc/d72/structhpx_1_1agas_1_1server_1_1locality__namespace.html#af1491746c7368e3824c99bc100f18734" title="hpx::agas::server::\llocality_namespace::\lregister_server_instance" alt="" coords="708,202,871,258"/>
+<area shape="rect" id="node26" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ab1d0ff454f580a5082a9b5d25b4f06fd" title="Bind unique range of global ids to given base address. " alt="" coords="445,1007,620,1048"/>
+<area shape="rect" id="node27" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ae6f42662e19483b27cbf2e2779104b6c" title="hpx::agas::addressing\l_service::bind_postproc" alt="" coords="453,1072,612,1113"/>
+<area shape="rect" id="node28" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#af089b92023be321f1e101f8666f79d56" title="hpx::agas::addressing\l_service::resolve_full_local" alt="" coords="445,1284,620,1325"/>
+<area shape="rect" id="node30" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a9adf9683a9e200a15224e7c04f8d6339" title="hpx::agas::addressing\l_service::resolve_full\l_postproc" alt="" coords="457,1138,608,1194"/>
+<area shape="rect" id="node32" href="$de/d5c/runtime__support__server_8cpp.html#a2c7fd60adfab122ae67b173ad73fc706" title="HPX_REGISTER_BROADCAST\l_ACTION_ID" alt="" coords="429,1219,636,1260"/>
+<area shape="rect" id="node29" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ac22315a71f47927a730953d44c01e119" title="hpx::agas::addressing\l_service::is_local_address\l_cached" alt="" coords="702,1386,877,1442"/>
+<area shape="rect" id="node35" href="$dc/d54/namespacehpx_1_1agas.html#a175b7fd6533e65c745570a64da91dcd2" title="hpx::agas::mark_as\l_migrated" alt="" coords="963,824,1101,865"/>
+<area shape="rect" id="node37" href="$dc/d54/namespacehpx_1_1agas.html#ae352815331af0548e1101f361185eeff" title="hpx::agas::unmark_as\l_migrated" alt="" coords="957,941,1107,983"/>
+<area shape="rect" id="node39" href="$dc/d54/namespacehpx_1_1agas.html#af0e78927700b8906d8fd51a7efc426e4" title="hpx::agas::begin_migration" alt="" coords="943,890,1121,917"/>
+<area shape="rect" id="node41" href="$dc/d54/namespacehpx_1_1agas.html#a4be165f170754eccc78da06c5e048ace" title="hpx::agas::end_migration" alt="" coords="948,773,1116,799"/>
+<area shape="rect" id="node43" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a187ac62b4a4b7c1b98b75979357f07a9" title="hpx::agas::addressing\l_service::resolve_cached" alt="" coords="449,1532,616,1573"/>
+<area shape="rect" id="node44" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ac220bb356c65434ce82d33924dc48122" title="Maintain list of migrated objects. " alt="" coords="457,1451,608,1507"/>
+<area shape="rect" id="node48" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html#a656e757aa769c6ee277701fbdae9aa5d" title="hpx::naming::gid_type\l::~gid_type" alt="" coords="457,573,608,615"/>
+<area shape="rect" id="node49" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html#a34a69830681a8c1f45ce8471ce88581b" title="hpx::naming::gid_type\l::operator=" alt="" coords="457,508,608,549"/>
+</map>

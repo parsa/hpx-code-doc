@@ -1,0 +1,4 @@
+<map id="hpx::parcelset::policies::verbs::details::PODptr::element_size" name="hpx::parcelset::policies::verbs::details::PODptr::element_size">
+<area shape="rect" id="node2" href="$db/d78/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1rdma__chunk__pool.html#a1fbadb612a060137d21cd771cc6423cd" title="hpx::parcelset::policies\l::verbs::rdma_chunk_pool\l\&lt; hpx::parcelset::policies\l::verbs::memory_region_allocator\l \&gt;::release_memory" alt="" coords="211,5,424,91"/>
+<area shape="rect" id="node3" href="$db/d78/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1rdma__chunk__pool.html#aa6cb07c10d882ff9a5e34633ab2b47c0" title="finds which POD in the list &#39;chunk&#39; was allocated from. " alt="" coords="211,115,424,200"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="hpx::apply_p_cb" name="hpx::apply_p_cb">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#aa16b81ab9efec229b7b8810b1ec57dd5" title="The function get_locality returns a reference to the locality prefix. " alt="" coords="187,97,305,124"/>
+<area shape="rect" id="node6" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="171,195,321,221"/>
+<area shape="rect" id="node8" href="$d7/d7f/async__cb__colocated_8cpp.html#ae8e7b15d60cbf27f78a81c0b74124fab" title="cb" alt="" coords="227,249,265,276"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="399,5,517,32"/>
+<area shape="rect" id="node4" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="381,57,535,98"/>
+<area shape="rect" id="node5" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ab52c19a37c2a7a006c6c15f90ad0539c" title="hpx::agas::addressing\l_service::get_local_locality" alt="" coords="369,122,547,163"/>
+<area shape="rect" id="node7" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="398,187,518,229"/>
+<area shape="rect" id="node9" href="$d7/d7f/async__cb__colocated_8cpp.html#a52e3aad384eb40b3744f885060f82339" title="callback_called" alt="" coords="403,253,513,280"/>
+</map>

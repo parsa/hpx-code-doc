@@ -1,0 +1,10 @@
+digraph "hpx::parcelset::parcel_buffer&lt; BufferType, ChunkType &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node4 [label="hpx::parcelset::parcel\l_buffer\< BufferType, ChunkType \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node5 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data_point_" ,fontname="Helvetica"];
+  Node5 [label="hpx::performance_counters\l::parcels::data_point",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/de7/structhpx_1_1performance__counters_1_1parcels_1_1data__point.html",tooltip="A data_point collects all timing and statistical information for a single parcel (either sent or rece..."];
+  Node6 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data_" ,fontname="Helvetica"];
+  Node6 [label="BufferType",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

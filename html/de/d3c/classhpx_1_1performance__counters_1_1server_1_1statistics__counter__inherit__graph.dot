@@ -1,0 +1,19 @@
+digraph "hpx::performance_counters::server::statistics_counter&lt; Statistic &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::performance_counters\l::server::statistics_counter\l\< Statistic \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::performance_counters\l::server::base_performance\l_counter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d92/classhpx_1_1performance__counters_1_1server_1_1base__performance__counter.html"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::performance_counters\l::performance_counter_base",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/dab/structhpx_1_1performance__counters_1_1performance__counter__base.html"];
+  Node3 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hpx::traits::detail\l::component_tag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag.html"];
+  Node4 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::components::component\l_base\< statistics_counter\l\< Statistic \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/de6/classhpx_1_1components_1_1component__base.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< statistics_counter\l\< Statistic \> \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::components::component\l_base\< Component \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/de6/classhpx_1_1components_1_1component__base.html"];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

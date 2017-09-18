@@ -1,0 +1,6 @@
+<map id="int_f4" name="int_f4">
+<area shape="rect" id="node2" href="$d9/d92/local__dataflow_8cpp.html#a81228aa4824a2f2c1db535f6c893b128" title="plain_arguments" alt="" coords="133,5,251,32"/>
+<area shape="rect" id="node4" href="$d9/d92/local__dataflow_8cpp.html#af467fc7759e860e0e1b59571fb635827" title="plain_deferred_arguments" alt="" coords="107,56,277,83"/>
+<area shape="rect" id="node5" href="$d9/d92/local__dataflow_8cpp.html#a2fe272faeadbd2e1b266a7a48e605f72" title="plain_arguments_lazy" alt="" coords="118,107,266,133"/>
+<area shape="rect" id="node3" href="$d9/d92/local__dataflow_8cpp.html#a255f773d830db5ca937cff11c2692fa2" title="hpx_main" alt="" coords="325,56,404,83"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="hpx::performance_counters::stubs::performance_counter::get_value" name="hpx::performance_counters::stubs::performance_counter::get_value">
+<area shape="rect" id="node2" href="$db/d1c/structhpx_1_1performance__counters_1_1performance__counter.html#a2af16c5f8dffeea0fdfac2ac3450c819" title="hpx::performance_counters\l::performance_counter::\lget_counter_value" alt="" coords="244,5,423,61"/>
+<area shape="rect" id="node5" href="$d6/d3f/classhpx_1_1performance__counters_1_1server_1_1statistics__counter.html#afea32e6ba9a2ca14fb3e476bf00b77f8" title="hpx::performance_counters\l::server::statistics_counter\l::evaluate_base_counter" alt="" coords="244,85,423,141"/>
+<area shape="rect" id="node3" href="$df/d62/put__parcels__with__compression_8cpp.html#a08198bac17e41571a7d9cb6b0215dcad" title="verify_counters" alt="" coords="521,20,629,47"/>
+<area shape="rect" id="node4" href="$df/d62/put__parcels__with__compression_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="778,20,857,47"/>
+<area shape="rect" id="node6" href="$d6/d3f/classhpx_1_1performance__counters_1_1server_1_1statistics__counter.html#a2f25a4facc01e405ac5f022f7e426ffe" title="hpx::performance_counters\l::server::statistics_counter\l::evaluate" alt="" coords="486,77,665,133"/>
+<area shape="rect" id="node7" href="$d6/d3f/classhpx_1_1performance__counters_1_1server_1_1statistics__counter.html#abec31473278350e90dbeecf08942dfda" title="hpx::performance_counters\l::server::statistics_counter::start" alt="" coords="471,158,680,199"/>
+<area shape="rect" id="node8" href="$d6/d3f/classhpx_1_1performance__counters_1_1server_1_1statistics__counter.html#a7b610acf7dd5e386bc1c8d9c9ff48b5a" title="hpx::performance_counters\l::server::statistics_counter\l::statistics_counter" alt="" coords="728,151,907,207"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="hpx::parcelset::policies::verbs::sender_connection::destination" name="hpx::parcelset::policies::verbs::sender_connection::destination">
+<area shape="rect" id="node2" href="$d2/d35/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1sender__connection.html#a0ec3c3ef6812b133dc3d7e4b826757cf" title="hpx::parcelset::policies\l::verbs::sender_connection\l::can_send_immediate" alt="" coords="231,5,408,61"/>
+<area shape="rect" id="node3" href="$d2/d35/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1sender__connection.html#ae2d703c869820c2483ede1a06ad6ab2d" title="hpx::parcelset::policies\l::verbs::sender_connection\l::async_write" alt="" coords="231,85,408,141"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="detail::wait" name="detail::wait">
+<area shape="rect" id="node2" href="$d4/d81/set__thread__state_8cpp.html#a3dc52291a245e2c16461379250066835" title="change_thread_state" alt="" coords="137,5,280,32"/>
+<area shape="rect" id="node3" href="$d6/d6d/thread__rescheduling_8cpp.html#afafc261cf7d7d79c8a60f6f47aee96c1" title="tree_boot" alt="" coords="171,56,247,83"/>
+<area shape="rect" id="node4" href="$d6/d6d/thread__rescheduling_8cpp.html#aaf67a3863f19ff7033e239ebb1204fb7" title="hpx_main" alt="" coords="328,56,407,83"/>
+</map>

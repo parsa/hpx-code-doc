@@ -1,0 +1,5 @@
+<map id="htts2::clocksource::now" name="htts2::clocksource::now">
+<area shape="rect" id="node2" href="$d6/d2d/namespacehtts2.html#aa5466b21ab2817a0b5030dba150f218c" title="htts2::payload" alt="" coords="232,5,336,32"/>
+<area shape="rect" id="node3" href="$d9/d20/structhtts2_1_1timer.html#abce02098514444240b4fb4578eb21dcc" title="htts2::timer::restart" alt="" coords="217,56,351,83"/>
+<area shape="rect" id="node4" href="$d9/d20/structhtts2_1_1timer.html#abad98fab0ae6a899bb803e79f494ba43" title="htts2::timer::elapsed" alt="" coords="213,107,355,133"/>
+</map>

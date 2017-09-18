@@ -1,0 +1,7 @@
+<map id="hpx::lcos::detail::set_data" name="hpx::lcos::detail::set_data">
+<area shape="rect" id="node2" href="$d6/dd2/classag_1_1server_1_1allgather__and__gate.html#aa97c3b99361ad9434bc77fc78362b278" title="ag::server::allgather\l_and_gate::allgather\l_and_gate" alt="" coords="188,5,327,61"/>
+<area shape="rect" id="node3" href="$db/df7/structhpx_1_1lcos_1_1detail_1_1dataflow__frame.html#a8d694808548c5627995627664210b3f8" title="hpx::lcos::detail::\ldataflow_frame::execute" alt="" coords="176,86,339,127"/>
+<area shape="rect" id="node5" href="$d6/d98/structhpx_1_1lcos_1_1detail_1_1task__base.html#a138957630c20c390e479c8f2103dfa3c" title="hpx::lcos::detail::\ltask_base::set_data" alt="" coords="187,151,327,193"/>
+<area shape="rect" id="node6" href="$d2/d44/structhpx_1_1detail_1_1thread__task__base.html#a31a4145dde4525b9594e7de4a7ffe872" title="hpx::detail::thread\l_task_base::thread_exit\l_function" alt="" coords="177,217,338,273"/>
+<area shape="rect" id="node4" href="$db/df7/structhpx_1_1lcos_1_1detail_1_1dataflow__frame.html#aacfd73e154e2ae1d4d036bb982b98509" title="hpx::lcos::detail::\ldataflow_frame::finalize" alt="" coords="387,86,543,127"/>
+</map>

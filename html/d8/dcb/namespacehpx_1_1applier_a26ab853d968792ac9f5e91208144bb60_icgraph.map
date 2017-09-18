@@ -1,0 +1,6 @@
+<map id="hpx::applier::register_work_plain" name="hpx::applier::register_work_plain">
+<area shape="rect" id="node2" href="$d8/df4/structhpx_1_1traits_1_1detail_1_1schedule__thread__helper.html#a8b2e568d21b98102e4197faff2ac0365" title="hpx::traits::detail\l::schedule_thread_helper::call" alt="" coords="193,5,388,47"/>
+<area shape="rect" id="node3" href="$d9/d52/namespacehpx_1_1this__thread.html#a15c12bd6b0b99c9a65e1a3669492805d" title="hpx::this_thread::suspend" alt="" coords="205,71,377,98"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#ae3f683ad072d61249bf20c67134d604c" title="hpx::threads::interrupt\l_thread" alt="" coords="447,35,597,76"/>
+<area shape="rect" id="node5" href="$d9/d52/namespacehpx_1_1this__thread.html#a13faad4167a300676b16c76733aac1df" title="hpx::this_thread::suspend" alt="" coords="436,101,608,127"/>
+</map>

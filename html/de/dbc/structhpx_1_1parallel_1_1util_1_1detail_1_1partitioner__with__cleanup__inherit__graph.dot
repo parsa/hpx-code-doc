@@ -1,0 +1,19 @@
+digraph "hpx::parallel::util::detail::partitioner_with_cleanup&lt; ExPolicy, R, Result, Tag &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::parallel::util\l::detail::partitioner\l_with_cleanup\< ExPolicy,\l R, Result, Tag \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::util::decay\l\< ExPolicy \>::type,\l R, Result, PartTag \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::parallel::util\l::detail::partitioner\l_with_cleanup\< hpx::util\l::decay\< ExPolicy \>::type,\l R, Result, PartTag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d24/structhpx_1_1parallel_1_1util_1_1detail_1_1partitioner__with__cleanup.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::parallel::util\l::partitioner_with_cleanup\l\< ExPolicy, R, Result, PartTag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/de9/structhpx_1_1parallel_1_1util_1_1partitioner__with__cleanup.html"];
+  Node0 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< ExPolicy, R, Result,\l parallel::traits::static\l_partitioner_tag \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::parallel::util\l::detail::partitioner\l_with_cleanup\< ExPolicy,\l R, Result, parallel::traits\l::static_partitioner_tag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d24/structhpx_1_1parallel_1_1util_1_1detail_1_1partitioner__with__cleanup.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::parallel::util\l::detail::partitioner\l_with_cleanup\< ExPolicy,\l R, Result, parallel::traits\l::default_partitioner_tag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/de7/structhpx_1_1parallel_1_1util_1_1detail_1_1partitioner__with__cleanup_3_01_ex_policy_00_01_r_00_004638f7f0a7794680175f2829cf90df.html"];
+  Node0 -> Node5 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< execution::parallel\l_task_policy, R, Result,\l parallel::traits::auto\l_partitioner_tag \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::parallel::util\l::detail::partitioner\l_with_cleanup\< execution\l::parallel_task_policy,\l R, Result, parallel::traits\l::auto_partitioner_tag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d24/structhpx_1_1parallel_1_1util_1_1detail_1_1partitioner__with__cleanup.html"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hpx::parallel::util\l::detail::partitioner\l_with_cleanup\< execution\l::parallel_task_policy_shim\l\< Executor, Parameters \>, R,\l Result, parallel::traits::auto\l_partitioner_tag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/db9/structhpx_1_1parallel_1_1util_1_1detail_1_1partitioner__with__cleanup_3_01execution_1_1parallel_98bbcbd1199e6b8764a4037413f9b017.html"];
+}

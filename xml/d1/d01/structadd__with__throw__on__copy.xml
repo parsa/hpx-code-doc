@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d1/d01/structadd__with__throw__on__copy" kind="struct" language="C++" prot="public">
+    <compoundname>add_with_throw_on_copy</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d1/d01/structadd__with__throw__on__copy_1a15532fc37f31efc0ab4f9105c0767013" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int add_with_throw_on_copy::operator()</definition>
+        <argsstring>(int x, int y) const</argsstring>
+        <name>operator()</name>
+        <param>
+          <type>int</type>
+          <declname>x</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>y</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/function/function_test.cpp" line="617" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/function/function_test.cpp" bodystart="617" bodyend="617"/>
+        <references refid="d8/da8/tuple_8cpp_1ab3484afdb2dc610bf8d796cf90e9946e" compoundref="d8/da8/tuple_8cpp" startline="88">y</references>
+      </memberdef>
+      <memberdef kind="function" id="d1/d01/structadd__with__throw__on__copy_1a6b97e3208adb376752eeaf3e11c40573" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>add_with_throw_on_copy::add_with_throw_on_copy</definition>
+        <argsstring>()</argsstring>
+        <name>add_with_throw_on_copy</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/function/function_test.cpp" line="619" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/function/function_test.cpp" bodystart="619" bodyend="619"/>
+      </memberdef>
+      <memberdef kind="function" id="d1/d01/structadd__with__throw__on__copy_1a1ba10356b70ee853801bbdca5fa0f016" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>add_with_throw_on_copy::add_with_throw_on_copy</definition>
+        <argsstring>(const add_with_throw_on_copy &amp;)</argsstring>
+        <name>add_with_throw_on_copy</name>
+        <param>
+          <type>const <ref refid="d1/d01/structadd__with__throw__on__copy" kindref="compound">add_with_throw_on_copy</ref> &amp;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/function/function_test.cpp" line="621" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/function/function_test.cpp" bodystart="621" bodyend="624"/>
+      </memberdef>
+      <memberdef kind="function" id="d1/d01/structadd__with__throw__on__copy_1a2a3592155a7fe8ac1badc687559c0471" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="d1/d01/structadd__with__throw__on__copy" kindref="compound">add_with_throw_on_copy</ref> &amp;</type>
+        <definition>add_with_throw_on_copy&amp; add_with_throw_on_copy::operator=</definition>
+        <argsstring>(const add_with_throw_on_copy &amp;)</argsstring>
+        <name>operator=</name>
+        <param>
+          <type>const <ref refid="d1/d01/structadd__with__throw__on__copy" kindref="compound">add_with_throw_on_copy</ref> &amp;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/function/function_test.cpp" line="626" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/function/function_test.cpp" bodystart="626" bodyend="629"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/function/function_test.cpp" line="616" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/function/function_test.cpp" bodystart="616" bodyend="630"/>
+    <listofallmembers>
+      <member refid="d1/d01/structadd__with__throw__on__copy_1a6b97e3208adb376752eeaf3e11c40573" prot="public" virt="non-virtual"><scope>add_with_throw_on_copy</scope><name>add_with_throw_on_copy</name></member>
+      <member refid="d1/d01/structadd__with__throw__on__copy_1a1ba10356b70ee853801bbdca5fa0f016" prot="public" virt="non-virtual"><scope>add_with_throw_on_copy</scope><name>add_with_throw_on_copy</name></member>
+      <member refid="d1/d01/structadd__with__throw__on__copy_1a15532fc37f31efc0ab4f9105c0767013" prot="public" virt="non-virtual"><scope>add_with_throw_on_copy</scope><name>operator()</name></member>
+      <member refid="d1/d01/structadd__with__throw__on__copy_1a2a3592155a7fe8ac1badc687559c0471" prot="public" virt="non-virtual"><scope>add_with_throw_on_copy</scope><name>operator=</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,5 @@
+<map id="hpx::applier::detail::put_parcel" name="hpx::applier::detail::put_parcel">
+<area shape="rect" id="node2" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#ad478f8b244ec822fcbcb84aa67b17497" title="hpx::parcelset::parcelhandler\l::sync_put_parcel" alt="" coords="181,5,371,47"/>
+<area shape="rect" id="node4" href="$d9/d67/classhpx_1_1parcelset_1_1parcelport.html#a68bd6750625124e4de6309e74283a767" title="hpx::parcelset::parcelport\l::can_connect" alt="" coords="191,71,361,112"/>
+<area shape="rect" id="node3" href="$d1/d2a/namespacehpx_1_1applier_1_1detail.html#ab69485311adeb590afa621a4b4be595d" title="hpx::applier::detail\l::apply_r_sync_p" alt="" coords="419,5,547,47"/>
+</map>

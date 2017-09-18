@@ -1,0 +1,11 @@
+digraph "hpx::util::plugin::abstract_factory&lt; BasePlugin &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node3 [label="hpx::util::plugin::\labstract_factory\< BasePlugin \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::util::plugin::\ldetail::abstract_factory\l_item\< BasePlugin, detail\l::abstract_factory_item_base,\l virtual_constructor\< BasePlugin\l \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d97/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item.html"];
+  Node5 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< BasePlugin, detail\l::abstract_factory_item\l_base, virtual_constructor\l\< BasePlugin \>::type \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::util::plugin::\ldetail::abstract_factory\l_item\< BasePlugin, Base,\l Parameter \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d97/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item.html"];
+}

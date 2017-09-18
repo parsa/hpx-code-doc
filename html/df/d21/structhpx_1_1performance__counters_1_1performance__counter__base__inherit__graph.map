@@ -1,0 +1,12 @@
+<map id="hpx::performance_counters::performance_counter_base" name="hpx::performance_counters::performance_counter_base">
+<area shape="rect" id="node2" href="$d7/d92/classhpx_1_1performance__counters_1_1server_1_1base__performance__counter.html" title="hpx::performance_counters\l::server::base_performance\l_counter" alt="" coords="240,285,419,341"/>
+<area shape="rect" id="node3" href="$db/dbc/classhpx_1_1performance__counters_1_1base__performance__counter.html" title="hpx::performance_counters\l::base_performance_counter\l\&lt; sine_counter \&gt;" alt="" coords="467,5,653,61"/>
+<area shape="rect" id="node5" href="$db/dbc/classhpx_1_1performance__counters_1_1base__performance__counter.html" title="hpx::performance_counters\l::base_performance_counter\l\&lt; Derived \&gt;" alt="" coords="467,85,653,141"/>
+<area shape="rect" id="node6" href="$d4/d45/classhpx_1_1performance__counters_1_1server_1_1arithmetics__counter.html" title="hpx::performance_counters\l::server::arithmetics_counter\l\&lt; Operation \&gt;" alt="" coords="467,165,653,221"/>
+<area shape="rect" id="node7" href="$df/d89/classhpx_1_1performance__counters_1_1server_1_1arithmetics__counter__extended.html" title="hpx::performance_counters\l::server::arithmetics_counter\l_extended\&lt; Statistic \&gt;" alt="" coords="467,245,653,301"/>
+<area shape="rect" id="node8" href="$d0/dbd/classhpx_1_1performance__counters_1_1server_1_1elapsed__time__counter.html" title="hpx::performance_counters\l::server::elapsed_time\l_counter" alt="" coords="471,325,649,381"/>
+<area shape="rect" id="node9" href="$d9/df1/classhpx_1_1performance__counters_1_1server_1_1raw__counter.html" title="hpx::performance_counters\l::server::raw_counter" alt="" coords="471,406,649,447"/>
+<area shape="rect" id="node10" href="$d5/d6d/classhpx_1_1performance__counters_1_1server_1_1raw__values__counter.html" title="hpx::performance_counters\l::server::raw_values_counter" alt="" coords="467,471,653,513"/>
+<area shape="rect" id="node11" href="$d6/d3f/classhpx_1_1performance__counters_1_1server_1_1statistics__counter.html" title="hpx::performance_counters\l::server::statistics_counter\l\&lt; Statistic \&gt;" alt="" coords="471,537,649,593"/>
+<area shape="rect" id="node4" href="$d1/d35/classperformance__counters_1_1sine_1_1server_1_1sine__counter.html" title="performance_counters\l::sine::server::sine\l_counter" alt="" coords="701,5,852,61"/>
+</map>

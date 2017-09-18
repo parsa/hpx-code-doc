@@ -1,0 +1,19 @@
+digraph "hpx::parallel::util::detail::scan_partitioner&lt; ExPolicy, R, Result1, Result2, Tag &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::parallel::util\l::detail::scan_partitioner\l\< ExPolicy, R, Result1,\l Result2, Tag \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< ExPolicy, R, Result1,\l Result2, parallel::traits\l::static_partitioner_tag \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::parallel::util\l::detail::scan_partitioner\l\< ExPolicy, R, Result1,\l Result2, parallel::traits\l::static_partitioner_tag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/db8/structhpx_1_1parallel_1_1util_1_1detail_1_1scan__partitioner.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::parallel::util\l::detail::scan_partitioner\l\< ExPolicy, R, Result1,\l Result2, parallel::traits\l::default_partitioner_tag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d05/structhpx_1_1parallel_1_1util_1_1detail_1_1scan__partitioner_3_01_ex_policy_00_01_r_00_01_result8aa19c1fbde7b63de656c1c4eea01564.html"];
+  Node0 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::util::decay\l\< ExPolicy \>::type,\l R, Result1, Result2,\l PartTag \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::parallel::util\l::detail::scan_partitioner\l\< hpx::util::decay\< ExPolicy\l \>::type, R, Result1, Result2,\l PartTag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/db8/structhpx_1_1parallel_1_1util_1_1detail_1_1scan__partitioner.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::parallel::util\l::scan_partitioner\<\l ExPolicy, R, Result1,\l Result2, PartTag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dae/structhpx_1_1parallel_1_1util_1_1scan__partitioner.html"];
+  Node0 -> Node5 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< execution::parallel\l_task_policy, R, Result1,\l Result2, parallel::traits\l::auto_partitioner_tag \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::parallel::util\l::detail::scan_partitioner\l\< execution::parallel_task\l_policy, R, Result1, Result2,\l parallel::traits::auto_partitioner_tag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/db8/structhpx_1_1parallel_1_1util_1_1detail_1_1scan__partitioner.html"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hpx::parallel::util\l::detail::scan_partitioner\l\< execution::parallel_task\l_policy_shim\< Executor, Parameters\l \>, R, Result1, Result2, parallel\l::traits::auto_partitioner_tag \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d7a/structhpx_1_1parallel_1_1util_1_1detail_1_1scan__partitioner_3_01execution_1_1parallel__task__pob445c93c794e060cb22fbe9b3ce72b23.html"];
+}

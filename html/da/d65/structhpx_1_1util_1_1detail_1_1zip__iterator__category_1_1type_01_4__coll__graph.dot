@@ -1,0 +1,11 @@
+digraph "hpx::util::detail::zip_iterator_category&lt; IteratorTuple, Enable &gt;::type &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node3 [label="hpx::util::detail::\lzip_iterator_category\l\< IteratorTuple, Enable\l \>::type \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::util::detail::\lzip_iterator_category\l_impl\< zip_iterator_category\l_impl\< std::iterator_traits\l\< T \>::iterator_category, std\l::iterator_traits\< U \>::iterator\l_category \>::type, zip_iterator\l_category\< tuple\< Tail... \> \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d1e/structhpx_1_1util_1_1detail_1_1zip__iterator__category__impl.html"];
+  Node5 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< zip_iterator_category\l_impl\< std::iterator_traits\l\< T \>::iterator_category,\l std::iterator_traits\< U \>\l::iterator_category \>::type,\l zip_iterator_category\< tuple\l\< Tail... \> \>::type \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::util::detail::\lzip_iterator_category\l_impl\< T, U \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d1e/structhpx_1_1util_1_1detail_1_1zip__iterator__category__impl.html"];
+}

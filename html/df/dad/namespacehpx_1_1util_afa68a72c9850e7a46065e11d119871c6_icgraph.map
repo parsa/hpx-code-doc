@@ -1,0 +1,31 @@
+<map id="hpx::util::unregister_lock" name="hpx::util::unregister_lock">
+<area shape="rect" id="node2" href="$d2/dd8/classhpx_1_1lcos_1_1local_1_1mutex.html#a7d26a65ecfa3babe4eaab84f974d2b64" title="hpx::lcos::local::mutex\l::unlock" alt="" coords="223,238,378,279"/>
+<area shape="rect" id="node4" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html#a165bffa5b7b6befad832c2270b18a7d5" title="hpx::naming::gid_type\l::unlock" alt="" coords="225,333,376,374"/>
+<area shape="rect" id="node23" href="$d0/d2e/structhpx_1_1lcos_1_1local_1_1detail_1_1recursive__mutex__impl.html#a5a33fa79e50e7ebf5f93eea45fe2091f" title="hpx::lcos::local::detail\l::recursive_mutex_impl\l::unlock" alt="" coords="223,399,378,455"/>
+<area shape="rect" id="node24" href="$da/dbc/structhpx_1_1lcos_1_1local_1_1spinlock.html#ab48874a6990cc4132f9a0803b26cdcc5" title="hpx::lcos::local::spinlock\l::unlock" alt="" coords="217,479,384,521"/>
+<area shape="rect" id="node26" href="$d4/dc9/structhpx_1_1util_1_1spinlock.html#a395c1bf47c7a66521bb246830c43b1f6" title="hpx::util::spinlock\l::unlock" alt="" coords="239,545,363,586"/>
+<area shape="rect" id="node27" href="$d0/daf/structhpx_1_1lcos_1_1local_1_1spinlock__no__backoff.html#af28945f46b80804639f3c8a1d5324252" title="hpx::lcos::local::spinlock\l_no_backoff::unlock" alt="" coords="217,610,384,651"/>
+<area shape="rect" id="node28" href="$de/d7e/structtest_1_1local__spinlock.html#aff6993471e0f15f04c581dde1bcca56b" title="test::local_spinlock\l::unlock" alt="" coords="233,675,368,717"/>
+<area shape="rect" id="node29" href="$d7/d0b/classhpx_1_1util_1_1spinlock__pool_1_1scoped__lock.html#a2b9c5a9bbe1d685fb18b545fc01cffad" title="hpx::util::spinlock\l_pool::scoped_lock::\lunlock" alt="" coords="229,741,372,797"/>
+<area shape="rect" id="node3" href="$d2/dd8/classhpx_1_1lcos_1_1local_1_1mutex.html#a5803440ac847bca2eec131d27457ca2f" title="hpx::lcos::local::mutex\l::try_lock" alt="" coords="452,210,607,251"/>
+<area shape="rect" id="node5" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a36bf06018d30e574c731af78319595d2" title="Resolve a locality to its prefix. " alt="" coords="447,275,612,317"/>
+<area shape="rect" id="node17" href="$d7/d3a/structhpx_1_1agas_1_1server_1_1primary__namespace.html#ab1681a26c8e8cc901a7e21544a88a951" title="hpx::agas::server::\lprimary_namespace::bind_gid" alt="" coords="432,341,627,382"/>
+<area shape="rect" id="node22" href="$d7/d3a/structhpx_1_1agas_1_1server_1_1primary__namespace.html#a87560fb730ac846b91fc7287dc4e247b" title="hpx::agas::server::\lprimary_namespace::allocate" alt="" coords="433,406,625,447"/>
+<area shape="rect" id="node6" href="$db/d9f/classhpx_1_1parcelset_1_1policies_1_1libfabric_1_1libfabric__controller.html#a96eeb6553564bb53a45fd8e516afe9b1" title="hpx::parcelset::policies\l::libfabric::libfabric\l_controller::initialize\l_localities" alt="" coords="692,181,848,251"/>
+<area shape="rect" id="node7" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a5e857a3061fc6df60c1d5fd8988b5e3e" title="hpx::parcelset::parcelhandler\l::find_appropriate_destination" alt="" coords="675,275,865,317"/>
+<area shape="rect" id="node8" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#ac47bfb07dba5c3273d36fabe0868d43b" title="hpx::parcelset::parcelhandler\l::put_parcel" alt="" coords="918,130,1107,171"/>
+<area shape="rect" id="node12" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a32ef958ef057a82fe01c70df5da51c6a" title="hpx::parcelset::parcelhandler\l::put_parcels" alt="" coords="918,275,1107,317"/>
+<area shape="rect" id="node9" href="$d6/d81/structhpx_1_1parcelset_1_1detail_1_1put__parcel__handler.html#a108c3182042dc70fac236ffefd75df24" title="hpx::parcelset::detail\l::put_parcel_handler::\loperator()" alt="" coords="1197,5,1344,61"/>
+<area shape="rect" id="node10" href="$d1/df2/structhpx_1_1parcelset_1_1detail_1_1put__parcel__handler__cb.html#a2748057527af1b9f5f5984703b59d8f8" title="hpx::parcelset::detail\l::put_parcel_handler_cb\l::operator()" alt="" coords="1191,85,1351,141"/>
+<area shape="rect" id="node11" href="$d7/d3a/structhpx_1_1agas_1_1server_1_1primary__namespace.html#a9037a1baa55fb13097a541bc365f2d0b" title="hpx::agas::server::\lprimary_namespace::route" alt="" coords="1183,166,1359,207"/>
+<area shape="rect" id="node13" href="$df/d23/put__parcels_8cpp.html#a60e7e37daaa74f7106c7cf614d219a87" title="test_plain_argument" alt="" coords="1201,232,1340,259"/>
+<area shape="rect" id="node15" href="$df/d23/put__parcels_8cpp.html#aaffb237829db631d8aaaf45d07e1ad9b" title="test_future_argument" alt="" coords="1199,283,1343,309"/>
+<area shape="rect" id="node16" href="$df/d23/put__parcels_8cpp.html#a24eb81d6a10219027bfd00fa26f0d382" title="test_mixed_arguments" alt="" coords="1193,333,1348,360"/>
+<area shape="rect" id="node14" href="$df/d23/put__parcels_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="1505,283,1584,309"/>
+<area shape="rect" id="node18" href="$dc/d72/structhpx_1_1agas_1_1server_1_1locality__namespace.html#a584777211619893840252d5c72b726ac" title="hpx::agas::server::\llocality_namespace::\lallocate" alt="" coords="697,359,843,415"/>
+<area shape="rect" id="node19" href="$d2/d28/structhpx_1_1agas_1_1detail_1_1bootstrap__locality__namespace.html#a17fa8a29a5b6c64ac5f92b67fd816be1" title="hpx::agas::detail::\lbootstrap_locality_namespace\l::allocate" alt="" coords="913,368,1112,424"/>
+<area shape="rect" id="node20" href="$d2/d28/structhpx_1_1agas_1_1detail_1_1bootstrap__locality__namespace.html#a5d4dcef228d9a8e6040f2e404546a7b8" title="hpx::agas::detail::\lbootstrap_locality_namespace::ptr" alt="" coords="1160,385,1381,426"/>
+<area shape="rect" id="node21" href="$d2/d28/structhpx_1_1agas_1_1detail_1_1bootstrap__locality__namespace.html#a6a5b1a39f25283d49aae9a42b5c4388a" title="hpx::agas::detail::\lbootstrap_locality_namespace::addr" alt="" coords="1429,385,1660,426"/>
+<area shape="rect" id="node25" href="$d6/d82/classhpx_1_1lcos_1_1local_1_1spinlock__pool_1_1scoped__lock.html#a5eaf4409cdcba0b08274b1c65893cc71" title="hpx::lcos::local::spinlock\l_pool::scoped_lock::unlock" alt="" coords="439,479,619,521"/>
+<area shape="rect" id="node30" href="$d3/d00/classhpx_1_1threads_1_1thread__data.html#adb6d1591ddc50cc429a1a71d3583b7e2" title="hpx::threads::thread\l_data::interrupt" alt="" coords="460,749,599,790"/>
+</map>

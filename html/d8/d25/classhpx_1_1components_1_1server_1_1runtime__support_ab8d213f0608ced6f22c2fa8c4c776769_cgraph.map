@@ -1,0 +1,4 @@
+<map id="hpx::components::server::runtime_support::terminate_act" name="hpx::components::server::runtime_support::terminate_act">
+<area shape="rect" id="node2" href="$d8/d25/classhpx_1_1components_1_1server_1_1runtime__support.html#a6ede3b9d3a9fa6809c793584bd4d7cdb" title="Shutdown this runtime system instance. " alt="" coords="274,5,459,47"/>
+<area shape="rect" id="node3" href="$d8/d25/classhpx_1_1components_1_1server_1_1runtime__support.html#aba24533d9a7910b8bc255e675c03fd4f" title="Shutdown runtime system instances on all localities. " alt="" coords="264,71,469,112"/>
+</map>

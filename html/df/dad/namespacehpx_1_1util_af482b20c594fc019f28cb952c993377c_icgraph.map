@@ -1,0 +1,23 @@
+<map id="hpx::util::register_lock" name="hpx::util::register_lock">
+<area shape="rect" id="node2" href="$d2/dd8/classhpx_1_1lcos_1_1local_1_1mutex.html#a82c6428f1de7bf66ce8a6e915a2aed5f" title="hpx::lcos::local::mutex\l::lock" alt="" coords="220,5,375,47"/>
+<area shape="rect" id="node4" href="$d2/dd8/classhpx_1_1lcos_1_1local_1_1mutex.html#a3196a7db17418afbde6220ec532b2c36" title="hpx::lcos::local::mutex\l::try_lock" alt="" coords="220,71,375,112"/>
+<area shape="rect" id="node6" href="$dd/dd9/classhpx_1_1lcos_1_1local_1_1timed__mutex.html#ac694789a5ec73caa796ada83ed3fddd8" title="hpx::lcos::local::timed\l_mutex::try_lock_until" alt="" coords="222,136,373,177"/>
+<area shape="rect" id="node7" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html#ab3a2ec18a9cb7dcf0de95dd016dfe941" title="hpx::naming::gid_type\l::lock" alt="" coords="222,201,373,243"/>
+<area shape="rect" id="node8" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html#a3a4378dbc50d949ff0309261acaed90f" title="hpx::naming::gid_type\l::try_lock" alt="" coords="222,267,373,308"/>
+<area shape="rect" id="node9" href="$d0/d2e/structhpx_1_1lcos_1_1local_1_1detail_1_1recursive__mutex__impl.html#a0e1577b105eaf7def8cb168a480565b3" title="hpx::lcos::local::detail\l::recursive_mutex_impl::lock" alt="" coords="204,332,391,373"/>
+<area shape="rect" id="node10" href="$d0/d2e/structhpx_1_1lcos_1_1local_1_1detail_1_1recursive__mutex__impl.html#a5a33fa79e50e7ebf5f93eea45fe2091f" title="hpx::lcos::local::detail\l::recursive_mutex_impl\l::unlock" alt="" coords="220,398,375,454"/>
+<area shape="rect" id="node11" href="$da/dbc/structhpx_1_1lcos_1_1local_1_1spinlock.html#a30c5c82d2cbe32c811840134c39aa9e8" title="hpx::lcos::local::spinlock\l::lock" alt="" coords="214,479,381,520"/>
+<area shape="rect" id="node15" href="$da/dbc/structhpx_1_1lcos_1_1local_1_1spinlock.html#a42fef2983f01772a15fd984b1370a29c" title="hpx::lcos::local::spinlock\l::try_lock" alt="" coords="214,544,381,585"/>
+<area shape="rect" id="node16" href="$d4/dc9/structhpx_1_1util_1_1spinlock.html#ae55fa6281613f30a0fb37719aaf5a50b" title="hpx::util::spinlock\l::lock" alt="" coords="235,609,359,651"/>
+<area shape="rect" id="node17" href="$d4/dc9/structhpx_1_1util_1_1spinlock.html#a0f548a6d25db1462ab00a0e6f2fe1f54" title="hpx::util::spinlock\l::try_lock" alt="" coords="235,675,359,716"/>
+<area shape="rect" id="node18" href="$d0/daf/structhpx_1_1lcos_1_1local_1_1spinlock__no__backoff.html#a125d19f25d0b14b3d830eb32e2a43f75" title="hpx::lcos::local::spinlock\l_no_backoff::lock" alt="" coords="443,776,609,817"/>
+<area shape="rect" id="node19" href="$d0/daf/structhpx_1_1lcos_1_1local_1_1spinlock__no__backoff.html#a114cbd1ec8061cf9183340a36acee965" title="hpx::lcos::local::spinlock\l_no_backoff::try_lock" alt="" coords="214,792,381,833"/>
+<area shape="rect" id="node20" href="$de/d7e/structtest_1_1local__spinlock.html#ade746eb9da7f0ff626958eebda45d1bf" title="test::local_spinlock\l::lock" alt="" coords="459,867,593,908"/>
+<area shape="rect" id="node21" href="$de/d7e/structtest_1_1local__spinlock.html#a5e2e7e8ec8d3204225f452feac39b7f4" title="test::local_spinlock\l::try_lock" alt="" coords="230,909,365,951"/>
+<area shape="rect" id="node22" href="$d7/d0b/classhpx_1_1util_1_1spinlock__pool_1_1scoped__lock.html#a27da927e722dcb9b0f2c7161632441d2" title="hpx::util::spinlock\l_pool::scoped_lock::lock" alt="" coords="214,975,381,1016"/>
+<area shape="rect" id="node3" href="$d2/dd8/classhpx_1_1lcos_1_1local_1_1mutex.html#abd3ddfa3586c7bc6a2549c26ac4acdf2" title="hpx::lcos::local::mutex\l::lock" alt="" coords="449,5,603,47"/>
+<area shape="rect" id="node5" href="$d2/dd8/classhpx_1_1lcos_1_1local_1_1mutex.html#a5803440ac847bca2eec131d27457ca2f" title="hpx::lcos::local::mutex\l::try_lock" alt="" coords="449,71,603,112"/>
+<area shape="rect" id="node12" href="$d6/d82/classhpx_1_1lcos_1_1local_1_1spinlock__pool_1_1scoped__lock.html#ac3e2edafd3e53fc6561ed2c4c20c8cfc" title="hpx::lcos::local::spinlock\l_pool::scoped_lock::lock" alt="" coords="443,420,609,461"/>
+<area shape="rect" id="node13" href="$d9/db2/structzerocopy__server.html#a0214a338ae40a9c51426e97f6bdc6339" title="zerocopy_server::get_here" alt="" coords="439,486,613,513"/>
+<area shape="rect" id="node14" href="$d9/db2/structzerocopy__server.html#a12c3ffbe7fc660589e35dcf38429c9a1" title="zerocopy_server::get" alt="" coords="455,537,597,563"/>
+</map>

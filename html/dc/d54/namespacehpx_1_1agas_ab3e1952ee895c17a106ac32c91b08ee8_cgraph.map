@@ -1,0 +1,11 @@
+<map id="hpx::agas::is_local_address_cached" name="hpx::agas::is_local_address_cached">
+<area shape="rect" id="node2" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="608,75,763,117"/>
+<area shape="rect" id="node5" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a69ad3590759679d41955376a3a0832b0" title="Test whether the given address refers to a local object. " alt="" coords="184,172,359,228"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="840,5,959,32"/>
+<area shape="rect" id="node4" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="822,57,977,98"/>
+<area shape="rect" id="node6" href="$dc/d54/namespacehpx_1_1agas.html#a29eb09baf667f674e7760fb7584478e3" title="hpx::agas::is_local\l_lva_encoded_address" alt="" coords="407,183,560,225"/>
+<area shape="rect" id="node7" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#af9469c8740aeb898ce6937e2d0e57095" title="hpx::agas::addressing\l_service::is_local_lva\l_encoded_address" alt="" coords="610,177,761,233"/>
+<area shape="rect" id="node10" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html#a31d0fb49a563fb184fecaabdced4dcd9" title="hpx::naming::gid_type\l::get_msb" alt="" coords="824,269,975,310"/>
+<area shape="rect" id="node8" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a95cca4d4bc82a9da3e804b225b03dfaf" title="hpx::naming::detail\l::strip_internal_bits\l_from_gid" alt="" coords="833,123,965,179"/>
+<area shape="rect" id="node9" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ab52c19a37c2a7a006c6c15f90ad0539c" title="hpx::agas::addressing\l_service::get_local_locality" alt="" coords="811,203,988,245"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="hpx::compute::host::get_local_targets" name="hpx::compute::host::get_local_targets">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a7899ab2136e9b3ba674caf70aa659a59" title="Return the number of OS&#45;threads running in the runtime instance the current HPX&#45;thread is associated ..." alt="" coords="194,71,327,112"/>
+<area shape="rect" id="node9" href="$dd/da5/namespacehpx_1_1resource.html#af91354c369d9a22a00581d6b6da7d0ee" title="hpx::resource::get\l_partitioner" alt="" coords="197,136,324,177"/>
+<area shape="rect" id="node11" href="$d0/df4/get__host__targets_8cpp.html#a2cfcd97306955bcef46a23c078b825bd" title="HPX_PLAIN_ACTION" alt="" coords="188,202,333,229"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="391,143,533,170"/>
+<area shape="rect" id="node5" href="$d0/d7b/classhpx_1_1runtime.html#a0bfe0241e54b1fe1dd4ec181d944de43" title="access configuration information " alt="" coords="381,13,543,39"/>
+<area shape="rect" id="node6" href="$d8/d70/classhpx_1_1util_1_1runtime__configuration.html#adfdef6ebaabc69741dde50ac4d6fd6a9" title="hpx::util::runtime\l_configuration::get\l_os_thread_count" alt="" coords="398,63,526,119"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="591,136,753,177"/>
+<area shape="rect" id="node7" href="$dd/de4/classhpx_1_1util_1_1section.html#a2ef0091925e5c2e3fda235bff644cdb4" title="hpx::util::section\l::has_section" alt="" coords="613,71,731,112"/>
+<area shape="rect" id="node8" href="$dd/de4/classhpx_1_1util_1_1section.html#a3506cc01fb5453b2176f4747352c5517" title="hpx::util::section\l::get_section" alt="" coords="613,5,731,47"/>
+<area shape="rect" id="node10" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a2967c633948a3bf17a3b5405ef5a8318" title="hpx::util::static_::get" alt="" coords="391,194,533,221"/>
+</map>

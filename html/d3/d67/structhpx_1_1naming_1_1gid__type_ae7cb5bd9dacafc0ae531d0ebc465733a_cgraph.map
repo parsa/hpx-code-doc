@@ -1,0 +1,10 @@
+<map id="hpx::naming::gid_type::operator=" name="hpx::naming::gid_type::operator=">
+<area shape="rect" id="node2" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a721ab5a11bd11a37b0c905ea3fe0a6d7" title="hpx::naming::detail\l::is_locked" alt="" coords="213,53,345,94"/>
+<area shape="rect" id="node7" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#ad24a9f53ae8ff681f74c9336a6354884" title="hpx::naming::detail\l::strip_lock_from_gid" alt="" coords="208,118,351,159"/>
+<area shape="rect" id="node8" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html#a31d0fb49a563fb184fecaabdced4dcd9" title="hpx::naming::gid_type\l::get_msb" alt="" coords="204,183,355,225"/>
+<area shape="rect" id="node9" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html#ad7dfeee6436c3b055ee759590b09b4a5" title="hpx::naming::gid_type\l::get_lsb" alt="" coords="204,249,355,290"/>
+<area shape="rect" id="node3" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#ad3a849cb7ebd5dccf9aefadccc21dd89" title="hpx::naming::detail\l::get_stripped_gid" alt="" coords="403,53,535,94"/>
+<area shape="rect" id="node4" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a95cca4d4bc82a9da3e804b225b03dfaf" title="hpx::naming::detail\l::strip_internal_bits\l_from_gid" alt="" coords="602,5,734,61"/>
+<area shape="rect" id="node5" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a1ab848588112d0f7fac377a15692c9cc" title="hpx::naming::detail\l::get_stripped_gid_except\l_dont_cache" alt="" coords="583,85,753,141"/>
+<area shape="rect" id="node6" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#aabeb51a92376c6bfb9cf31bf9ff0c4cc" title="hpx::naming::detail\l::strip_internal_bits\l_except_dont_cache_from_gid" alt="" coords="801,85,1000,141"/>
+</map>

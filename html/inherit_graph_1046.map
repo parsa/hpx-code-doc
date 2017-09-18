@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d8/d87/structhpx_1_1traits_1_1detail_1_1shared__state__ptr.html" title="hpx::traits::detail\l::shared_state_ptr\&lt;\l traits::future_traits\l\&lt; Derived \&gt;::type \&gt;" alt="" coords="5,13,140,83"/>
+<area shape="rect" id="node2" href="$df/d24/structhpx_1_1traits_1_1detail_1_1shared__state__ptr__for_3_01_derived_00_01typename_01std_1_1ena8c78f4e28b5e59b3ca07ca498951b387.html" title="hpx::traits::detail\l::shared_state_ptr_for\l\&lt; Derived, typename std\l::enable_if\&lt; is_client\&lt;\l Derived \&gt;::value \&gt;::type \&gt;" alt="" coords="188,5,363,91"/>
+</map>

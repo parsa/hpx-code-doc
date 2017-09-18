@@ -1,0 +1,13 @@
+digraph "hpx::detail::unordered_base&lt; Hash, KeyEqual &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::detail::unordered\l_base\< Hash, KeyEqual \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::unordered_map\l\< Hash, KeyEqual \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d51/classhpx_1_1unordered__map.html"];
+  Node1 -> Node2 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::naming::gid\l_type, std::vector\<\l char \> \>" ,fontname="Helvetica"];
+  Node2 [label="hpx::unordered_map\l\< hpx::naming::gid_type,\l std::vector\< char \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d51/classhpx_1_1unordered__map.html"];
+  Node0 -> Node3 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="unordered_map\< hpx\l::naming::gid_type,\l std::vector\< char \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d51/classhpx_1_1unordered__map.html"];
+}

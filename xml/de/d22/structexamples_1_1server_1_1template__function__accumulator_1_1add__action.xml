@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="de/d22/structexamples_1_1server_1_1template__function__accumulator_1_1add__action" kind="struct" language="C++" prot="public">
+    <compoundname>examples::server::template_function_accumulator::add_action</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">hpx::actions::make_action&lt; void(template_function_accumulator::*)(T), &amp;template_function_accumulator::template add&lt; T &gt;, add_action&lt; T &gt; &gt;</basecompoundref>
+    <includes refid="d7/da6/server_2template__function__accumulator_8hpp" local="no">template_function_accumulator.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>typename <ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+      </param>
+    </templateparamlist>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="290">
+        <label>hpx::actions::make_action&lt; void(template_function_accumulator::*)(T), &amp;template_function_accumulator::template add&lt; T &gt;, add_action&lt; T &gt; &gt;</label>
+      </node>
+      <node id="289">
+        <label>examples::server::template_function_accumulator::add_action&lt; T &gt;</label>
+        <link refid="de/d22/structexamples_1_1server_1_1template__function__accumulator_1_1add__action"/>
+        <childnode refid="290" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="292">
+        <label>hpx::actions::make_action&lt; void(template_function_accumulator::*)(T), &amp;template_function_accumulator::template add&lt; T &gt;, add_action&lt; T &gt; &gt;</label>
+      </node>
+      <node id="291">
+        <label>examples::server::template_function_accumulator::add_action&lt; T &gt;</label>
+        <link refid="de/d22/structexamples_1_1server_1_1template__function__accumulator_1_1add__action"/>
+        <childnode refid="292" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/server/template_function_accumulator.hpp" line="92" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/examples/accumulators/server/template_function_accumulator.hpp" bodystart="89" bodyend="92"/>
+    <listofallmembers>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

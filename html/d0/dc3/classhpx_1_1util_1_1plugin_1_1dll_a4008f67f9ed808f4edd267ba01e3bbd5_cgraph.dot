@@ -1,0 +1,12 @@
+digraph "hpx::util::plugin::dll::get_directory"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node47 [label="hpx::util::plugin::\ldll::get_directory",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node47 -> Node48 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node48 [label="hpx::util::plugin::\ldll::LoadLibrary",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dc3/classhpx_1_1util_1_1plugin_1_1dll.html#a7f2cf014cade358a70fa428a998c3cd1"];
+  Node48 -> Node49 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node49 [label="hpx::make_success_code",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f",tooltip="Returns error_code(hpx::success, \"success\", mode). "];
+  Node47 -> Node49 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

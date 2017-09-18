@@ -1,0 +1,13 @@
+digraph "hpx::parallel::traits::is_projected_zip_iterator&lt; Projected, typename hpx::util::always_void&lt; typename Projected::iterator_type &gt;::type &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node0 [label="hpx::parallel::traits\l::is_projected_zip_iterator\l\< Projected, typename hpx\l::util::always_void\< typename\l Projected::iterator_type \>::type \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::traits::is_zip\l_iterator\< Projected\l::iterator_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/structhpx_1_1traits_1_1is__zip__iterator.html"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="false_type",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Projected::iterator\l_type \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::traits::is_zip\l_iterator\< Iter, Enable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/structhpx_1_1traits_1_1is__zip__iterator.html"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d9/dc4/structhpx_1_1components_1_1server_1_1copy__component__action.html" title="hpx::components::server\l::copy_component_action\l\&lt; Component \&gt;" alt="" coords="143,5,314,61"/>
+<area shape="rect" id="node3" href="$df/dc5/structhpx_1_1components_1_1server_1_1copy__component__action__here.html" title="hpx::components::server\l::copy_component_action\l_here\&lt; Component \&gt;" alt="" coords="143,85,314,141"/>
+<area shape="rect" id="node4" href="$d0/def/structhpx_1_1components_1_1server_1_1invoke__function__action.html" title="hpx::components::server\l::invoke_function_action\l\&lt; F, Ts \&gt;" alt="" coords="147,165,311,221"/>
+<area shape="rect" id="node5" href="$d5/d32/structhpx_1_1components_1_1server_1_1migrate__component__action.html" title="hpx::components::server\l::migrate_component_action\l\&lt; Component, DistPolicy \&gt;" alt="" coords="135,245,322,301"/>
+<area shape="rect" id="node6" href="$d2/dce/structhpx_1_1components_1_1server_1_1migrate__to__storage__here__action.html" title="hpx::components::server\l::migrate_to_storage_here\l_action\&lt; Component \&gt;" alt="" coords="142,325,315,381"/>
+<area shape="rect" id="node7" href="$db/dcb/structhpx_1_1components_1_1server_1_1perform__migrate__component__action.html" title="hpx::components::server\l::perform_migrate_component\l_action\&lt; Component, DistPolicy \&gt;" alt="" coords="118,405,339,461"/>
+<area shape="rect" id="node8" href="$d8/dce/structhpx_1_1components_1_1server_1_1trigger__migrate__component__action.html" title="hpx::components::server\l::trigger_migrate_component\l_action\&lt; Component, DistPolicy \&gt;" alt="" coords="118,485,339,541"/>
+<area shape="rect" id="node9" href="$d2/dbf/structhpx_1_1components_1_1server_1_1trigger__migrate__from__storage__here__action.html" title="hpx::components::server\l::trigger_migrate_from\l_storage_here_action\&lt; Component \&gt;" alt="" coords="111,565,347,621"/>
+<area shape="rect" id="node10" href="$da/d84/structhpx_1_1components_1_1server_1_1trigger__migrate__to__storage__here__action.html" title="hpx::components::server\l::trigger_migrate_to_storage\l_here_action\&lt; Component \&gt;" alt="" coords="135,645,322,701"/>
+</map>

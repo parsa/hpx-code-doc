@@ -1,0 +1,5 @@
+<map id="hpx::threads::scheduled_executor::scheduled_executor" name="hpx::threads::scheduled_executor::scheduled_executor">
+<area shape="rect" id="node2" href="$dd/d77/structhpx_1_1threads_1_1executors_1_1local__priority__queue__attached__executor.html#a80684049fc3f2b9e50902e62b20521bc" title="hpx::threads::executors\l::local_priority_queue\l_attached_executor::local\l_priority_queue_attached\l_executor" alt="" coords="261,5,432,91"/>
+<area shape="rect" id="node3" href="$d0/d4e/structhpx_1_1threads_1_1executors_1_1local__priority__queue__executor.html#a6efccc86ac694e267ff3512daf42bbdc" title="hpx::threads::executors\l::local_priority_queue\l_executor::local_priority\l_queue_executor" alt="" coords="267,115,427,186"/>
+<area shape="rect" id="node4" href="$de/d19/structhpx_1_1threads_1_1executors_1_1local__priority__queue__os__executor.html#a530171b6a3e965b0b70c79e4eeb55b8c" title="hpx::threads::executors\l::local_priority_queue\l_os_executor::local_priority\l_queue_os_executor" alt="" coords="256,210,437,281"/>
+</map>

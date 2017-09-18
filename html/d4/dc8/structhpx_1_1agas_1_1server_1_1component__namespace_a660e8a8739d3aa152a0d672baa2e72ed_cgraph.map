@@ -1,0 +1,9 @@
+<map id="hpx::agas::server::component_namespace::statistics_counter" name="hpx::agas::server::component_namespace::statistics_counter">
+<area shape="rect" id="node2" href="$d0/d36/namespacehpx_1_1performance__counters.html#a20efd215ad44c2a1d6bf36731b07094c" title="Fill the given counter_path_elements instance from the given full name of a counter. " alt="" coords="213,5,404,47"/>
+<area shape="rect" id="node3" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="259,71,359,98"/>
+<area shape="rect" id="node4" href="$d0/d36/namespacehpx_1_1performance__counters.html#a38f30b4730abcede679b55c7c1b1d8b5" title="Retrieve the counter type for the given counter name from the (local) registry. " alt="" coords="219,123,398,164"/>
+<area shape="rect" id="node5" href="$d0/d36/namespacehpx_1_1performance__counters.html#a0256857d76e12ec08c01ac2f020b1f48" title="Complement the counter info if parent instance name is missing. " alt="" coords="219,188,398,229"/>
+<area shape="rect" id="node6" href="$d0/df8/namespacehpx_1_1performance__counters_1_1detail.html#a5e451affac03963e4ae0cb8eddb34fbd" title="hpx::performance_counters\l::detail::create_raw_counter" alt="" coords="217,253,400,295"/>
+<area shape="rect" id="node7" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a422b12b60e5f7844b224dd68cf8cae8e" title="hpx::naming::detail\l::strip_credits_from_gid" alt="" coords="230,319,387,360"/>
+<area shape="rect" id="node8" href="$df/dad/namespacehpx_1_1util.html#ad5c4989e2aa44d2be2a0c236d87b9239" title="hpx::util::get_and\l_reset_value" alt="" coords="247,384,370,425"/>
+</map>

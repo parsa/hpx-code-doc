@@ -1,0 +1,8 @@
+<map id="hpx::util::detail::handle_num_localities" name="hpx::util::detail::handle_num_localities">
+<area shape="rect" id="node2" href="$d1/d33/structhpx_1_1util_1_1batch__environment.html#add78bdafa846f04cf89e86cd45085ff9" title="hpx::util::batch_environment\l::retrieve_number_of_localities" alt="" coords="204,5,400,47"/>
+<area shape="rect" id="node3" href="$d9/d7c/structhpx_1_1util_1_1manage__config.html#a58caeb1b129e2235475cfcebea9cb769" title="hpx::util::manage_config\l::get_value" alt="" coords="221,71,383,112"/>
+<area shape="rect" id="node4" href="$d1/d33/structhpx_1_1util_1_1batch__environment.html#abc8cfd78aa0c3f8ecb401489c742aeaf" title="hpx::util::batch_environment\l::found_batch_environment" alt="" coords="210,136,394,177"/>
+<area shape="rect" id="node5" href="$d2/d8e/namespacehpx_1_1util_1_1detail.html#a2772e85a66f8745c31533ce36956ffed" title="hpx::util::detail::\lreport_locality_warning_batch" alt="" coords="205,201,399,243"/>
+<area shape="rect" id="node6" href="$d1/d33/structhpx_1_1util_1_1batch__environment.html#a676d453fc38e01d5766ef7f814490073" title="hpx::util::batch_environment\l::get_batch_name" alt="" coords="210,267,394,308"/>
+<area shape="rect" id="node7" href="$d2/d8e/namespacehpx_1_1util_1_1detail.html#a24edb577df9c6795ee12c924fe754e58" title="hpx::util::detail::\lreport_locality_warning" alt="" coords="225,332,379,373"/>
+</map>

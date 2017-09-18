@@ -1,0 +1,5 @@
+<map id="hpx::agas::addressing_service::resolve_locality" name="hpx::agas::addressing_service::resolve_locality">
+<area shape="rect" id="node2" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html#a165bffa5b7b6befad832c2270b18a7d5" title="hpx::naming::gid_type\l::unlock" alt="" coords="225,5,376,47"/>
+<area shape="rect" id="node4" href="$df/dad/namespacehpx_1_1util.html#a7e8176e33cff23ca51892155d4b29baa" title="Helper function for writing predicates that test whether an std::map insertion succeeded. This inline template function negates the need to explicitly write the sometimes lengthy std::pair&lt;Iterator, bool&gt; type. " alt="" coords="219,71,383,98"/>
+<area shape="rect" id="node3" href="$df/dad/namespacehpx_1_1util.html#afa68a72c9850e7a46065e11d119871c6" title="hpx::util::unregister_lock" alt="" coords="431,13,595,39"/>
+</map>

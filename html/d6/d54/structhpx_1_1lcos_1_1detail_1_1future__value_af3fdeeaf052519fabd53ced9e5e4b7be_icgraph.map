@@ -1,0 +1,5 @@
+<map id="hpx::lcos::detail::future_value::get" name="hpx::lcos::detail::future_value::get">
+<area shape="rect" id="node2" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a6d59aae0bee4da523a27bea9719d97c0" title="hpx::components::client\l_base\&lt; object_semaphore\l\&lt; ValueType \&gt;, lcos::server\l::object_semaphore\&lt; ValueType\l \&gt; \&gt;::get" alt="" coords="176,5,385,91"/>
+<area shape="rect" id="node3" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future\&lt;\l std::uint64_t \&gt;::get" alt="" coords="213,115,349,157"/>
+<area shape="rect" id="node4" href="$d4/d31/classhpx_1_1lcos_1_1shared__future.html#a316b62d06e2bbab9e8d93fe64d13527e" title="hpx::lcos::shared_future\l\&lt; jacobi::row \&gt;::get" alt="" coords="200,181,361,222"/>
+</map>

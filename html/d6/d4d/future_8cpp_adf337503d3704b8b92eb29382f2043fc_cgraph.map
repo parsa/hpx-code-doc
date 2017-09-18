@@ -1,0 +1,8 @@
+<map id="test_destroying_a_packaged_task_stores_broken_task" name="test_destroying_a_packaged_task_stores_broken_task">
+<area shape="rect" id="node2" href="$d9/d80/struct_x.html#acca54984b94385e31ccd14f5dfdb063b" title="X::f" alt="" coords="309,5,349,32"/>
+<area shape="rect" id="node3" href="$d6/d4d/future_8cpp.html#a3a56f2ae9d0bf0a1781b994fcbe14e1b" title="make_int" alt="" coords="292,56,367,83"/>
+<area shape="rect" id="node4" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a628625094362627e776fe22b68404111" title="hpx::lcos::detail::\lfuture_base\&lt; future\l\&lt; R \&gt;, R \&gt;::is_ready" alt="" coords="259,107,400,163"/>
+<area shape="rect" id="node5" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#aa95b01f70ad95706ae420ff1db2e5b99" title="hpx::lcos::detail::\lfuture_base\&lt; future\l\&lt; R \&gt;, R \&gt;::has_exception" alt="" coords="241,187,417,243"/>
+<area shape="rect" id="node6" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="259,267,400,293"/>
+<area shape="rect" id="node7" href="$de/d25/classhpx_1_1exception.html#a427fc21f422d4a796cf7e8f7b74c1fe1" title="hpx::exception::get\l_error" alt="" coords="263,318,396,359"/>
+</map>

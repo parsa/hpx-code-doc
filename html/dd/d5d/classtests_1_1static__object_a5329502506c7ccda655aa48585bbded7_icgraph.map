@@ -1,0 +1,5 @@
+<map id="tests::static_object::get" name="tests::static_object::get">
+<area shape="rect" id="node2" href="$de/d02/structtests_1_1input__output__iterator__archetype_1_1reference.html#acb3263b4e61d099be58ca0620fee33ba" title="tests::input_output\l_iterator_archetype\l::reference::operator\l value_type" alt="" coords="220,5,359,76"/>
+<area shape="rect" id="node3" href="$db/dc8/classtests_1_1input__iterator__archetype__no__proxy.html#aea718cd80c6e378cce25066b949d55e1" title="tests::input_iterator\l_archetype_no_proxy::\loperator*" alt="" coords="212,101,367,157"/>
+<area shape="rect" id="node4" href="$d0/d6d/classtests_1_1forward__iterator__archetype.html#a3de5332ac9bf8d820674160b61386928" title="tests::forward_iterator\l_archetype::operator*" alt="" coords="216,181,363,223"/>
+</map>

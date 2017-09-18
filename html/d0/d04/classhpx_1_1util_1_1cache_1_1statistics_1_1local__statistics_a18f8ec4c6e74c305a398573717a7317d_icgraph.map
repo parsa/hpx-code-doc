@@ -1,0 +1,6 @@
+<map id="hpx::util::cache::statistics::local_statistics::get_and_reset" name="hpx::util::cache::statistics::local_statistics::get_and_reset">
+<area shape="rect" id="node2" href="$d0/d04/classhpx_1_1util_1_1cache_1_1statistics_1_1local__statistics.html#a18b82186931d5cdd89b8739c66ea2d0b" title="hpx::util::cache::statistics\l::local_statistics::hits" alt="" coords="265,5,437,47"/>
+<area shape="rect" id="node3" href="$d0/d04/classhpx_1_1util_1_1cache_1_1statistics_1_1local__statistics.html#aad1393ef5380612a14fbb0f404da199a" title="hpx::util::cache::statistics\l::local_statistics::misses" alt="" coords="265,71,437,112"/>
+<area shape="rect" id="node4" href="$d0/d04/classhpx_1_1util_1_1cache_1_1statistics_1_1local__statistics.html#a430343568f777d71d3f30cddd7880b4b" title="hpx::util::cache::statistics\l::local_statistics::insertions" alt="" coords="260,136,441,177"/>
+<area shape="rect" id="node5" href="$d0/d04/classhpx_1_1util_1_1cache_1_1statistics_1_1local__statistics.html#aa2ca5a6879e8bde9a131c070e3fb0a42" title="hpx::util::cache::statistics\l::local_statistics::evictions" alt="" coords="263,201,438,243"/>
+</map>

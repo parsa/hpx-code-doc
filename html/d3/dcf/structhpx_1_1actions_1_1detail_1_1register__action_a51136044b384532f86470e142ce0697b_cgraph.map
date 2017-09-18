@@ -1,0 +1,9 @@
+<map id="hpx::actions::detail::register_action::register_action" name="hpx::actions::detail::register_action::register_action">
+<area shape="rect" id="node2" href="$d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry.html#a4d8a8074f8a91fdc5a62e8067ef6472c" title="hpx::actions::detail\l::action_registry::instance" alt="" coords="436,78,608,119"/>
+<area shape="rect" id="node3" href="$d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry.html#a589ee44aeca676637b0b3a4de1b42fe0" title="hpx::actions::detail\l::action_registry::register\l_factory" alt="" coords="220,5,387,61"/>
+<area shape="rect" id="node5" href="$d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry.html#a8f4100629b85e1eea1d05fe066665fe7" title="hpx::actions::detail\l::action_registry::create" alt="" coords="224,137,383,178"/>
+<area shape="rect" id="node4" href="$d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry.html#a241539d91aa05a0cb41e6949b4f7ffb6" title="hpx::actions::detail\l::action_registry::cache_id" alt="" coords="435,13,609,54"/>
+<area shape="rect" id="node6" href="$d4/d2c/make__continuation__1615_8cpp.html#acbdae3e81403e1ffc527c18dc1cd51dd" title="to_string" alt="" coords="657,177,729,204"/>
+<area shape="rect" id="node8" href="$d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry.html#a57e4ab73981e3ccea844113dac3d97e1" title="hpx::actions::detail\l::action_registry::collect\l_registered_typenames" alt="" coords="441,195,603,251"/>
+<area shape="rect" id="node7" href="$d4/d2c/make__continuation__1615_8cpp.html#a8b2f8a7c58b490fcb1260f36bac46541" title="HPX_PLAIN_ACTION" alt="" coords="777,177,923,204"/>
+</map>

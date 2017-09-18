@@ -1,0 +1,11 @@
+digraph "hpx::util::detail::bind_eval_placeholder_impl&lt; I, Us, Enable &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::detail::\lbind_eval_placeholder\l_impl\< I, Us, Enable \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \<(std::size_t) traits\l::is_placeholder\< T \>\l::value - 1, Us \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::util::detail::\lbind_eval_placeholder\l_impl\<(std::size_t) traits\l::is_placeholder\< T \>::value\l - 1, Us \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d46/structhpx_1_1util_1_1detail_1_1bind__eval__placeholder__impl.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::util::detail::\lbind_eval_impl\< F, T,\l Us, typename std::enable\l_if\< traits::is_placeholder\l\< T \>::value !=0 \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d6b/structhpx_1_1util_1_1detail_1_1bind__eval__impl_3_01_f_00_01_t_00_01_us_00_01typename_01std_1_1e1f4c766f76b05742db7eb0784a5e3104.html"];
+}

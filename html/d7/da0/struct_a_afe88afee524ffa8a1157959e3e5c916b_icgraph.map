@@ -1,0 +1,9 @@
+<map id="A::test1" name="A::test1">
+<area shape="rect" id="node2" href="$d7/d85/bind__action_8cpp.html#a62d7ae02b216b42264f93d4ceb3968c2" title="member_bind_test1" alt="" coords="121,13,257,39"/>
+<area shape="rect" id="node6" href="$de/d7e/struct_b.html#ae467207e4ae9d456c4f5ff400ea606bc" title="B::test1" alt="" coords="155,63,223,90"/>
+<area shape="rect" id="node7" href="$de/d7e/struct_b.html#a1795182949fcf94a3adb4b27f7801689" title="B::test1_nonvirt" alt="" coords="133,114,245,141"/>
+<area shape="rect" id="node8" href="$de/d7e/struct_b.html#a89965b02bb3667033440c311d66e69bb" title="B::test0" alt="" coords="155,165,223,191"/>
+<area shape="rect" id="node3" href="$d7/d85/bind__action_8cpp.html#a3fcdb48931ba140d2d6403f2b1cc21bf" title="run_local_tests" alt="" coords="305,13,416,39"/>
+<area shape="rect" id="node4" href="$d7/d85/bind__action_8cpp.html#a344a9bb316c276641af2d061a2558c97" title="hpx_main" alt="" coords="464,13,543,39"/>
+<area shape="rect" id="node5" href="$d8/d1e/namespacehpx_1_1resource_1_1detail.html#a7cf4126748bdc4c7a71cb3c68e7d8a40" title="hpx::resource::detail\l::create_partitioner" alt="" coords="591,5,731,47"/>
+</map>

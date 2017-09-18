@@ -1,0 +1,4 @@
+<map id="hpx::util::logging::op_equal::same_type_op_equal&lt; type &gt;" name="hpx::util::logging::op_equal::same_type_op_equal&lt; type &gt;">
+<area shape="rect" id="node2" href="$d0/d91/structhpx_1_1util_1_1logging_1_1op__equal_1_1same__type__op__equal__base.html" title="Base class when you want to implement operator== that will compare based on type and member operator=..." alt="" coords="5,109,160,165"/>
+<area shape="rect" id="node3" href="$d4/d6e/structhpx_1_1util_1_1logging_1_1op__equal_1_1same__type__op__equal__top.html" title="hpx::util::logging\l::op_equal::same_type\l_op_equal_top" alt="" coords="5,5,160,61"/>
+</map>

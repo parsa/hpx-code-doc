@@ -1,0 +1,6 @@
+<map id="hpx::actions::continuation::trigger_error" name="hpx::actions::continuation::trigger_error">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#af0c26df1ee631f99d7bb04ec2507c900" title="Set the error state for the LCO referenced by the given id. " alt="" coords="246,13,373,39"/>
+<area shape="rect" id="node5" href="$d0/d4e/classhpx_1_1actions_1_1continuation.html#aeb1562dfb40b0baf7fd82237108d143d" title="hpx::actions::continuation\l::get_addr" alt="" coords="224,64,395,105"/>
+<area shape="rect" id="node3" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="443,13,593,39"/>
+<area shape="rect" id="node4" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="641,5,761,47"/>
+</map>

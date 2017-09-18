@@ -1,0 +1,4 @@
+<map id="hpx::lcos::promise&lt; void, hpx::util::unused_type &gt;::set_value" name="hpx::lcos::promise&lt; void, hpx::util::unused_type &gt;::set_value">
+<area shape="rect" id="node2" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html#a0bef579440b83e0b86f2b0f9bf9b31fe" title="hpx::lcos::local::detail\l::promise_base\&lt; Result,\l detail::promise_data\&lt; Result\l \&gt; \&gt;::set_value" alt="" coords="213,5,405,76"/>
+<area shape="rect" id="node3" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html#a703132f43cde656591eb41cf56a6356e" title="hpx::lcos::local::detail\l::promise_base\&lt; Result,\l detail::promise_data\&lt; Result\l \&gt; \&gt;::set_exception" alt="" coords="213,100,405,171"/>
+</map>

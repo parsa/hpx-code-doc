@@ -1,0 +1,6 @@
+<map id="hpx::performance_counters::install_counter_type" name="hpx::performance_counters::install_counter_type">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="265,5,384,32"/>
+<area shape="rect" id="node3" href="$d0/d7b/classhpx_1_1runtime.html#ae740fb89e06b12759723e52a8e7c4ebe" title="hpx::runtime::add_shutdown\l_function" alt="" coords="232,57,417,98"/>
+<area shape="rect" id="node4" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="275,123,375,149"/>
+<area shape="rect" id="node5" href="$d0/d36/namespacehpx_1_1performance__counters.html#ae40ec9f7fe1e0fa97b7f0d1d81727ffa" title="hpx::performance_counters\l::counter_type_shutdown" alt="" coords="235,174,414,215"/>
+</map>

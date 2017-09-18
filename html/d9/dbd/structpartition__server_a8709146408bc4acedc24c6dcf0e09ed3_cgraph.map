@@ -1,0 +1,6 @@
+<map id="partition_server::from_right" name="partition_server::from_right">
+<area shape="rect" id="node2" href="$dd/daf/structhpx_1_1lcos_1_1local_1_1receive__buffer.html#ad2febbd884f0d46d3715e0ca26617581" title="hpx::lcos::local::receive\l_buffer::store_received" alt="" coords="227,5,385,47"/>
+<area shape="rect" id="node3" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="231,71,381,98"/>
+<area shape="rect" id="node5" href="$d9/dbd/structpartition__server.html#a885bb330481a8e13e5aae560df696c26" title="partition_server::HPX\l_DEFINE_COMPONENT_ACTION" alt="" coords="196,123,416,164"/>
+<area shape="rect" id="node4" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="464,64,584,105"/>
+</map>

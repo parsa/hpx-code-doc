@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d5/d28/structhpx_1_1traits_1_1action__does__termination__detection" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::traits::action_does_termination_detection</compoundname>
+    <includes refid="dd/d51/action__does__termination__detection_8hpp" local="no">action_does_termination_detection.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>typename Action</type>
+      </param>
+      <param>
+        <type>typename Enable</type>
+        <defval>void</defval>
+      </param>
+    </templateparamlist>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="d5/d28/structhpx_1_1traits_1_1action__does__termination__detection_1a48de7e66f0de9ca362e02ceb4d109976" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool hpx::traits::action_does_termination_detection&lt; Action, Enable &gt;::call</definition>
+        <argsstring>()</argsstring>
+        <name>call</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/action_does_termination_detection.hpp" line="16" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/action_does_termination_detection.hpp" bodystart="16" bodyend="19"/>
+        <referencedby refid="d1/d63/structhpx_1_1actions_1_1transfer__base__action_1aafc7b547fc6d9d37b017a232b125ad4a" compoundref="d5/d53/transfer__base__action_8hpp" startline="218" endline="221">hpx::actions::transfer_base_action&lt; Action &gt;::get_static_component_type</referencedby>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/action_does_termination_detection.hpp" line="15" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/action_does_termination_detection.hpp" bodystart="14" bodyend="20"/>
+    <listofallmembers>
+      <member refid="d5/d28/structhpx_1_1traits_1_1action__does__termination__detection_1a48de7e66f0de9ca362e02ceb4d109976" prot="public" virt="non-virtual"><scope>hpx::traits::action_does_termination_detection</scope><name>call</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

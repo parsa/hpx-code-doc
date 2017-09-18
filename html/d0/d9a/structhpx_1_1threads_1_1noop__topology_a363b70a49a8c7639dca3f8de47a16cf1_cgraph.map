@@ -1,0 +1,5 @@
+<map id="hpx::threads::noop_topology::get_number_of_numa_node_pus" name="hpx::threads::noop_topology::get_number_of_numa_node_pus">
+<area shape="rect" id="node2" href="$d0/d9a/structhpx_1_1threads_1_1noop__topology.html#a3729a5d0239d6b9e1402073c437bc586" title="hpx::threads::noop\l_topology::hardware\l_concurrency" alt="" coords="208,5,347,61"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#aa8752a235478d2ad7b5ac467b63ab527" title="hpx::threads::hardware\l_concurrency" alt="" coords="395,13,549,54"/>
+<area shape="rect" id="node4" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a2967c633948a3bf17a3b5405ef5a8318" title="hpx::util::static_::get" alt="" coords="597,20,739,47"/>
+</map>

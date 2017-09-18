@@ -1,0 +1,11 @@
+<map id="generate_parcel" name="generate_parcel">
+<area shape="rect" id="node2" href="$db/dee/structhpx_1_1naming_1_1id__type.html#a0375af42ca6b0ff79e627d91bfae571b" title="hpx::naming::id_type\l::get_gid" alt="" coords="175,5,318,47"/>
+<area shape="rect" id="node3" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a422b12b60e5f7844b224dd68cf8cae8e" title="hpx::naming::detail\l::strip_credits_from_gid" alt="" coords="168,71,325,112"/>
+<area shape="rect" id="node4" href="$d1/d78/structhpx_1_1parcelset_1_1detail_1_1create__parcel.html#a62b65942f923f68ecf7217b8d48c1157" title="hpx::parcelset::detail\l::create_parcel::call" alt="" coords="175,136,318,177"/>
+<area shape="rect" id="node5" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="389,165,540,191"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="195,253,298,279"/>
+<area shape="rect" id="node6" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="625,157,745,199"/>
+<area shape="rect" id="node8" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="373,241,556,267"/>
+<area shape="rect" id="node10" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="385,291,545,318"/>
+<area shape="rect" id="node9" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="604,233,767,275"/>
+</map>

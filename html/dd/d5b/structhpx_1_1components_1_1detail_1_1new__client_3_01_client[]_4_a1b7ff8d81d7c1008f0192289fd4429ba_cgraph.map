@@ -1,0 +1,5 @@
+<map id="hpx::components::detail::new_client&lt; Client[]&gt;::call" name="hpx::components::detail::new_client&lt; Client[]&gt;::call">
+<area shape="rect" id="node2" href="$db/d03/structhpx_1_1components_1_1detail_1_1new__component.html#a8e24d02e505059cc872cc60ccc590fbd" title="hpx::components::detail\l::new_component::call" alt="" coords="215,5,376,47"/>
+<area shape="rect" id="node4" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a17045dee172c36e208b2cbd400fa8797" title="hpx::lcos::future::then" alt="" coords="221,71,369,98"/>
+<area shape="rect" id="node3" href="$de/dfa/structhpx_1_1components_1_1stub__base.html#a352a867161e19ad1e6f5ebd321e6b2d3" title="Asynchronously create a new instance of a component. " alt="" coords="424,5,579,47"/>
+</map>

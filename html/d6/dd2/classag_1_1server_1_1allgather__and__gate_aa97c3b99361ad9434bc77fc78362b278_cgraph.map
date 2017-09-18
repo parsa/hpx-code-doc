@@ -1,0 +1,12 @@
+<map id="ag::server::allgather_and_gate::allgather_and_gate" name="ag::server::allgather_and_gate::allgather_and_gate">
+<area shape="rect" id="node2" href="$d7/de6/print__to__console_8cpp.html#a02e3acd6b90f83126d840187ee8023d6" title="print" alt="" coords="255,48,302,75"/>
+<area shape="rect" id="node3" href="$d4/d6c/namespacehpx_1_1lcos_1_1detail.html#af210bb3fdadf780096e1ecceff0ce860" title="hpx::lcos::detail::\lset_data" alt="" coords="217,99,340,141"/>
+<area shape="rect" id="node11" href="$d9/dbb/allgather__and__gate_8hpp.html#add23852d6a78ac98412c48e9acf90ae4" title="HPX_REGISTER_ACTION\l_DECLARATION" alt="" coords="192,165,365,206"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="441,81,527,108"/>
+<area shape="rect" id="node10" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="413,132,555,159"/>
+<area shape="rect" id="node5" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="603,56,645,83"/>
+<area shape="rect" id="node6" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="729,5,803,32"/>
+<area shape="rect" id="node7" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="693,56,839,83"/>
+<area shape="rect" id="node8" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="730,107,802,133"/>
+<area shape="rect" id="node9" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="887,99,1081,141"/>
+</map>

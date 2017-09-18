@@ -1,0 +1,8 @@
+<map id="test_bulk_sync" name="test_bulk_sync">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#ad438935ca2f8603f9cab036b68b34f36" title="Return the number of the current OS&#45;thread running in the runtime instance the current HPX&#45;thread is ..." alt="" coords="312,10,501,37"/>
+<area shape="rect" id="node3" href="$df/d04/namespacetest.html#abdbbc37e6fb67287495e853a554c493a" title="test::iota" alt="" coords="177,137,251,164"/>
+<area shape="rect" id="node4" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#a31e165df2b865cdd961f35ce938db41a" title="hpx::util::detail::\lrange_impl::begin" alt="" coords="345,104,469,146"/>
+<area shape="rect" id="node5" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#afb2ea48b0902f52ee4d8b764807b4316" title="hpx::util::detail::\lrange_impl::end" alt="" coords="349,187,464,228"/>
+<area shape="rect" id="node6" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="164,188,264,214"/>
+<area shape="rect" id="node7" href="$d1/d20/this__thread__executors__v1_8cpp.html#ae33142fce6701384a5f2010564d3fa59" title="bulk_test" alt="" coords="177,36,251,62"/>
+</map>

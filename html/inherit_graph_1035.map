@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$dc/d8e/structhpx_1_1traits_1_1detail_1_1is__callable__impl_3_01_t_00_01_r_00_01typename_01util_1_1alwaye62122d212c67eaf79c4d227a96f6e2a.html" title="hpx::traits::detail\l::is_callable_impl\&lt;\l T, R, typename util\l::always_void\&lt; typename\l util::result_of\&lt; T \&gt;::type\l \&gt;::type \&gt;" alt="" coords="153,5,321,105"/>
+<area shape="rect" id="node3" href="$db/d1b/structhpx_1_1util_1_1detail_1_1is__non__proxy__reference.html" title="hpx::util::detail::\lis_non_proxy_reference\l\&lt; Reference, Value \&gt;" alt="" coords="158,130,317,186"/>
+</map>

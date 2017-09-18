@@ -1,0 +1,5 @@
+<map id="distribute_component" name="distribute_component">
+<area shape="rect" id="node2" href="$dc/de1/osu__coll_8hpp.html#a5fba99ed1ff27b2151a9ac0531d040ce" title="print_data" alt="" coords="200,5,279,32"/>
+<area shape="rect" id="node3" href="$d3/dca/osu__bcast_8cpp.html#a03a9259c1031dc6e2473041a34d95b4d" title="run_benchmark" alt="" coords="327,5,437,32"/>
+<area shape="rect" id="node4" href="$d3/dca/osu__bcast_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="485,5,564,32"/>
+</map>

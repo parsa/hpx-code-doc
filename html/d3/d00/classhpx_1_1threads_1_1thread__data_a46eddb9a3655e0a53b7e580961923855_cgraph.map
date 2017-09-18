@@ -1,0 +1,9 @@
+<map id="hpx::threads::thread_data::get_parent_thread_phase" name="hpx::threads::thread_data::get_parent_thread_phase">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#a19fe383da3491eceac32720c89ae8f7d" title="hpx::threads::get_parent\l_locality_id" alt="" coords="261,99,424,141"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#ab8ec50cd4b926e4f53969b0148324ead" title="hpx::threads::get_parent_id" alt="" coords="476,5,656,32"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="708,81,877,108"/>
+<area shape="rect" id="node6" href="$d7/d28/namespacehpx_1_1threads.html#afafe0f900b9fac3d4ed3c747625c1cfe" title="hpx::threads::get_self_id" alt="" coords="484,107,648,133"/>
+<area shape="rect" id="node7" href="$d7/d28/namespacehpx_1_1threads.html#a91fbafda8b0e7c377d349d8032078714" title="hpx::threads::get_parent\l_phase" alt="" coords="485,158,647,199"/>
+<area shape="rect" id="node8" href="$d3/d00/classhpx_1_1threads_1_1thread__data.html#aa2b14831eab409ff03b1b485c3fa299a" title="Return the locality of the parent thread. " alt="" coords="472,223,660,265"/>
+<area shape="rect" id="node5" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="925,81,1072,108"/>
+</map>

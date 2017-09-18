@@ -1,0 +1,5 @@
+<map id="hpx::traits::segmented_iterator_traits&lt; vector_iterator&lt; T, Data &gt; &gt;::end" name="hpx::traits::segmented_iterator_traits&lt; vector_iterator&lt; T, Data &gt; &gt;::end">
+<area shape="rect" id="node2" href="$dc/de7/classhpx_1_1segment__vector__iterator.html#a3137d18fa62b059ac835611db341b51f" title="hpx::segment_vector\l_iterator::is_at_end" alt="" coords="229,27,372,69"/>
+<area shape="rect" id="node4" href="$dd/d31/classhpx_1_1util_1_1iterator__adaptor.html#ab727800148fe718ca54ebd2668826c5e" title="hpx::util::iterator\l_adaptor::base" alt="" coords="243,93,359,134"/>
+<area shape="rect" id="node3" href="$dd/d31/classhpx_1_1util_1_1iterator__adaptor.html#afea4fe9be86341e00d81fa52ffbf6883" title="hpx::util::iterator\l_adaptor\&lt; local_raw\l_vector_iterator\&lt; T,\l Data, BaseIter \&gt;, BaseIter\l \&gt;::base_reference" alt="" coords="420,5,597,91"/>
+</map>

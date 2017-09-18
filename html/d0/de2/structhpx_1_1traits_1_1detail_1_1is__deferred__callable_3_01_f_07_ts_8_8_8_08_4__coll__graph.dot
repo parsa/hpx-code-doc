@@ -1,0 +1,11 @@
+digraph "hpx::traits::detail::is_deferred_callable&lt; F(Ts...)&gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node3 [label="hpx::traits::detail\l::is_deferred_callable\l\< F(Ts...)\>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::traits::is_callable\l\< util::decay_unwrap\< F\l \>::type(util::decay_unwrap\l\< Ts \>::type...) \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d3a/structhpx_1_1traits_1_1is__callable.html"];
+  Node5 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< util::decay_unwrap\l\< F \>::type(util::decay\l_unwrap\< Ts \>::type...) \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::traits::is_callable\l\< T, R \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d3a/structhpx_1_1traits_1_1is__callable.html"];
+}

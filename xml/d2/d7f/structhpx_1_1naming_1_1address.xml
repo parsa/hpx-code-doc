@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d2/d7f/structhpx_1_1naming_1_1address" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::naming::address</compoundname>
+    <includes refid="dc/d2e/address_8hpp" local="no">address.hpp</includes>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="d2/d7f/structhpx_1_1naming_1_1address_1a1abcb78018546a9b49df226a903fc50a" prot="public" static="no">
+        <type>std::int32_t</type>
+        <definition>typedef std::int32_t hpx::naming::address::component_type</definition>
+        <argsstring></argsstring>
+        <name>component_type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/naming/address.hpp" line="30" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/naming/address.hpp" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="d2/d7f/structhpx_1_1naming_1_1address_1a92a8e16b811329a8e29fdd9682c64acd" prot="public" static="no">
+        <type>std::uint64_t</type>
+        <definition>typedef std::uint64_t hpx::naming::address::address_type</definition>
+        <argsstring></argsstring>
+        <name>address_type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/naming/address.hpp" line="31" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/naming/address.hpp" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="d2/d7f/structhpx_1_1naming_1_1address_1aecfe787647d9b8e73cef950de7125c0c" prot="public" static="no" mutable="no">
+        <type><ref refid="d3/d67/structhpx_1_1naming_1_1gid__type" kindref="compound">gid_type</ref></type>
+        <definition>gid_type hpx::naming::address::locality_</definition>
+        <argsstring></argsstring>
+        <name>locality_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/naming/address.hpp" line="75" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/naming/address.hpp" bodystart="75" bodyend="-1"/>
+        <referencedby refid="d4/dc9/namespacehpx_1_1naming_1ac1c925c57a3a6080fc3384b91eb1299f" compoundref="d0/d0d/address_8cpp" startline="38" endline="45">hpx::naming::operator&lt;&lt;</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1ab1d0ff454f580a5082a9b5d25b4f06fd" compoundref="d7/d38/addressing__service_8cpp" startline="721" endline="759">hpx::agas::addressing_service::bind_range_local</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1ad125f48a33347da6ab20c84f57822af7" compoundref="d7/d38/addressing__service_8cpp" startline="782" endline="806">hpx::agas::addressing_service::bind_range_async</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1ac22315a71f47927a730953d44c01e119" compoundref="d7/d38/addressing__service_8cpp" startline="858" endline="892">hpx::agas::addressing_service::is_local_address_cached</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1afb44b2c86524b47d1431d9d66524075c" compoundref="d7/d38/addressing__service_8cpp" startline="928" endline="1019">hpx::agas::addressing_service::resolve_locally_known_addresses</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1af089b92023be321f1e101f8666f79d56" compoundref="d7/d38/addressing__service_8cpp" startline="1021" endline="1073">hpx::agas::addressing_service::resolve_full_local</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1a187ac62b4a4b7c1b98b75979357f07a9" compoundref="d7/d38/addressing__service_8cpp" startline="1075" endline="1160">hpx::agas::addressing_service::resolve_cached</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1a9adf9683a9e200a15224e7c04f8d6339" compoundref="d7/d38/addressing__service_8cpp" startline="1209" endline="1252">hpx::agas::addressing_service::resolve_full_postproc</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1a64b37e2590775a28e72c2c692f13489d" compoundref="d1/dd7/addressing__service_8hpp" startline="1349" endline="1359">hpx::agas::addressing_service::update_cache_entry</referencedby>
+        <referencedby refid="d2/da2/namespacehpx_1_1components_1_1server_1a21dc8857d55d9ec83e3e337b382fbc17" compoundref="da/dc0/destroy__component_8cpp" startline="15" endline="21">hpx::components::server::destroy_component</referencedby>
+        <referencedby refid="d2/da2/namespacehpx_1_1components_1_1server_1afbb6d12dceb0494bcb20f84065e1eb7f" compoundref="d9/d8c/destroy__component_8hpp" startline="29" endline="61">hpx::components::server::destroy</referencedby>
+        <referencedby refid="d8/d25/namespacehpx_1_1components_1_1server_1_1detail_1a33d10277b5ee14d95392aa1086868439" compoundref="d3/d9f/server_2migrate__from__storage_8hpp" startline="79" endline="86">hpx::components::server::detail::migrate_from_storage_here_address</referencedby>
+        <referencedby refid="d5/d18/namespacehpx_1_1naming_1_1detail_1a63ddb380473bdb8a186686ffe718b6e2" compoundref="d3/d43/name_8cpp" startline="119" endline="183">hpx::naming::detail::decrement_refcnt</referencedby>
+        <referencedby refid="d7/d11/classhpx_1_1parcelset_1_1parcel_1aaa10a98ee2caf5763b688786fee6d346" compoundref="d1/d05/parcel_8cpp" startline="259" endline="262">hpx::parcelset::parcel::destination_locality</referencedby>
+        <referencedby refid="d7/d11/classhpx_1_1parcelset_1_1parcel_1ac3f20dd7230f4f038fa3df0362a74659" compoundref="d1/d05/parcel_8cpp" startline="427" endline="463">hpx::parcelset::parcel::load_schedule</referencedby>
+        <referencedby refid="d7/d11/classhpx_1_1parcelset_1_1parcel_1a48b0c65d702bd4b1c4234de252246eb5" compoundref="d1/d05/parcel_8cpp" startline="465" endline="489">hpx::parcelset::parcel::schedule_action</referencedby>
+        <referencedby refid="d4/d2f/classhpx_1_1parcelset_1_1parcelhandler_1ac47bfb07dba5c3273d36fabe0868d43b" compoundref="da/d2d/parcelhandler_8cpp" startline="437" endline="528">hpx::parcelset::parcelhandler::put_parcel</referencedby>
+        <referencedby refid="d4/d2f/classhpx_1_1parcelset_1_1parcelhandler_1a32ef958ef057a82fe01c70df5da51c6a" compoundref="da/d2d/parcelhandler_8cpp" startline="530" endline="685">hpx::parcelset::parcelhandler::put_parcels</referencedby>
+        <referencedby refid="d7/d3a/structhpx_1_1agas_1_1server_1_1primary__namespace_1a9037a1baa55fb13097a541bc365f2d0b" compoundref="df/d54/route_8cpp" startline="26" endline="108">hpx::agas::server::primary_namespace::route</referencedby>
+        <referencedby refid="d7/df2/spin_8cpp_1aaf67a3863f19ff7033e239ebb1204fb7" compoundref="d7/df2/spin_8cpp" startline="26" endline="70">hpx_main</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="d2/d7f/structhpx_1_1naming_1_1address_1ae1d650bb608ea139a757ac252799ccbd" prot="public" static="no" mutable="no">
+        <type><ref refid="d2/d7f/structhpx_1_1naming_1_1address_1a1abcb78018546a9b49df226a903fc50a" kindref="member">component_type</ref></type>
+        <definition>component_type hpx::naming::address::type_</definition>
+        <argsstring></argsstring>
+        <name>type_</name>
+        <briefdescription>
+<para>locality: ip4 address/port number </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/naming/address.hpp" line="76" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/naming/address.hpp" bodystart="76" bodyend="-1"/>
+        <referencedby refid="d4/dc9/namespacehpx_1_1naming_1ac1c925c57a3a6080fc3384b91eb1299f" compoundref="d0/d0d/address_8cpp" startline="38" endline="45">hpx::naming::operator&lt;&lt;</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1ab1d0ff454f580a5082a9b5d25b4f06fd" compoundref="d7/d38/addressing__service_8cpp" startline="721" endline="759">hpx::agas::addressing_service::bind_range_local</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1ad125f48a33347da6ab20c84f57822af7" compoundref="d7/d38/addressing__service_8cpp" startline="782" endline="806">hpx::agas::addressing_service::bind_range_async</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1afb44b2c86524b47d1431d9d66524075c" compoundref="d7/d38/addressing__service_8cpp" startline="928" endline="1019">hpx::agas::addressing_service::resolve_locally_known_addresses</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1af089b92023be321f1e101f8666f79d56" compoundref="d7/d38/addressing__service_8cpp" startline="1021" endline="1073">hpx::agas::addressing_service::resolve_full_local</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1a187ac62b4a4b7c1b98b75979357f07a9" compoundref="d7/d38/addressing__service_8cpp" startline="1075" endline="1160">hpx::agas::addressing_service::resolve_cached</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1a9adf9683a9e200a15224e7c04f8d6339" compoundref="d7/d38/addressing__service_8cpp" startline="1209" endline="1252">hpx::agas::addressing_service::resolve_full_postproc</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1a64b37e2590775a28e72c2c692f13489d" compoundref="d1/dd7/addressing__service_8hpp" startline="1349" endline="1359">hpx::agas::addressing_service::update_cache_entry</referencedby>
+        <referencedby refid="d1/d2a/namespacehpx_1_1applier_1_1detail_1a51979562a231935b3d197d9be8985edc" compoundref="de/d93/runtime_2applier_2apply_8hpp" startline="43" endline="51">hpx::applier::detail::complement_addr</referencedby>
+        <referencedby refid="da/d4c/structhpx_1_1traits_1_1component__type__is__compatible_1a683e38c6e8a2b6d3f8e1b78d4d664601" compoundref="d7/d5f/component__type__is__compatible_8hpp" startline="19" endline="23">hpx::traits::component_type_is_compatible&lt; Component, Enable &gt;::call</referencedby>
+        <referencedby refid="d2/da2/namespacehpx_1_1components_1_1server_1a21dc8857d55d9ec83e3e337b382fbc17" compoundref="da/dc0/destroy__component_8cpp" startline="15" endline="21">hpx::components::server::destroy_component</referencedby>
+        <referencedby refid="d2/da2/namespacehpx_1_1components_1_1server_1afbb6d12dceb0494bcb20f84065e1eb7f" compoundref="d9/d8c/destroy__component_8hpp" startline="29" endline="61">hpx::components::server::destroy</referencedby>
+        <referencedby refid="d5/d18/namespacehpx_1_1naming_1_1detail_1a63ddb380473bdb8a186686ffe718b6e2" compoundref="d3/d43/name_8cpp" startline="119" endline="183">hpx::naming::detail::decrement_refcnt</referencedby>
+        <referencedby refid="db/d7f/classhpx_1_1lcos_1_1packaged__action_3_01_action_00_01_result_00_01true_01_4_1acd623b84ef5ed1ea5ad6b81132d57a27" compoundref="dd/d59/packaged__action_8hpp" startline="383" endline="423">hpx::lcos::packaged_action&lt; Action, Result, true &gt;::apply</referencedby>
+        <referencedby refid="db/d7f/classhpx_1_1lcos_1_1packaged__action_3_01_action_00_01_result_00_01true_01_4_1a6b023b13d50ecca5d46e34e537c38cd1" compoundref="dd/d59/packaged__action_8hpp" startline="470" endline="516">hpx::lcos::packaged_action&lt; Action, Result, true &gt;::apply_cb</referencedby>
+        <referencedby refid="d7/d11/classhpx_1_1parcelset_1_1parcel_1a7ca4116460b3a62269beecf8fb6b2f34" compoundref="d1/d05/parcel_8cpp" startline="354" endline="367">hpx::parcelset::parcel::generate_unique_id</referencedby>
+        <referencedby refid="d7/d3a/structhpx_1_1agas_1_1server_1_1primary__namespace_1a9037a1baa55fb13097a541bc365f2d0b" compoundref="df/d54/route_8cpp" startline="26" endline="108">hpx::agas::server::primary_namespace::route</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="d2/d7f/structhpx_1_1naming_1_1address_1a14f24f659c9b996adc98d92a8ab40540" prot="public" static="no" mutable="no">
+        <type><ref refid="d2/d7f/structhpx_1_1naming_1_1address_1a92a8e16b811329a8e29fdd9682c64acd" kindref="member">address_type</ref></type>
+        <definition>address_type hpx::naming::address::address_</definition>
+        <argsstring></argsstring>
+        <name>address_</name>
+        <briefdescription>
+<para>component type this address is referring to </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/naming/address.hpp" line="77" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/naming/address.hpp" bodystart="77" bodyend="-1"/>
+        <referencedby refid="d4/dc9/namespacehpx_1_1naming_1ac1c925c57a3a6080fc3384b91eb1299f" compoundref="d0/d0d/address_8cpp" startline="38" endline="45">hpx::naming::operator&lt;&lt;</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1ab1d0ff454f580a5082a9b5d25b4f06fd" compoundref="d7/d38/addressing__service_8cpp" startline="721" endline="759">hpx::agas::addressing_service::bind_range_local</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1ad125f48a33347da6ab20c84f57822af7" compoundref="d7/d38/addressing__service_8cpp" startline="782" endline="806">hpx::agas::addressing_service::bind_range_async</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1afb44b2c86524b47d1431d9d66524075c" compoundref="d7/d38/addressing__service_8cpp" startline="928" endline="1019">hpx::agas::addressing_service::resolve_locally_known_addresses</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1af089b92023be321f1e101f8666f79d56" compoundref="d7/d38/addressing__service_8cpp" startline="1021" endline="1073">hpx::agas::addressing_service::resolve_full_local</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1a187ac62b4a4b7c1b98b75979357f07a9" compoundref="d7/d38/addressing__service_8cpp" startline="1075" endline="1160">hpx::agas::addressing_service::resolve_cached</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1a9adf9683a9e200a15224e7c04f8d6339" compoundref="d7/d38/addressing__service_8cpp" startline="1209" endline="1252">hpx::agas::addressing_service::resolve_full_postproc</referencedby>
+        <referencedby refid="db/d58/structhpx_1_1agas_1_1addressing__service_1a64b37e2590775a28e72c2c692f13489d" compoundref="d1/dd7/addressing__service_8hpp" startline="1349" endline="1359">hpx::agas::addressing_service::update_cache_entry</referencedby>
+        <referencedby refid="d5/dbe/namespacehpx_1_1detail_1a2a7da8a6ff5bb50cfaa905a43cf32949" compoundref="d3/d8f/apply__implementations_8hpp" startline="33" endline="73">hpx::detail::apply_impl</referencedby>
+        <referencedby refid="d5/dbe/namespacehpx_1_1detail_1a017889aa022ccbd8fb62461e936b9177" compoundref="d3/d8f/apply__implementations_8hpp" startline="219" endline="268">hpx::detail::apply_cb_impl</referencedby>
+        <referencedby refid="dc/da1/classhpx_1_1components_1_1server_1_1component__storage_1aa8379808e4c616da37db68da3319ab5c" compoundref="d4/dcb/component__storage__server_8cpp" startline="20" endline="44">hpx::components::server::component_storage::migrate_to_here</referencedby>
+        <referencedby refid="d2/da2/namespaceh

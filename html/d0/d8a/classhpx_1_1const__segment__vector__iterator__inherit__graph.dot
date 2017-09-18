@@ -1,0 +1,18 @@
+digraph "hpx::const_segment_vector_iterator&lt; T, Data, BaseIter &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::const_segment\l_vector_iterator\< T,\l Data, BaseIter \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::util::iterator\l_adaptor\< const_segment\l_vector_iterator\< T, Data,\l BaseIter \>, BaseIter \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d31/classhpx_1_1util_1_1iterator__adaptor.html"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::util::detail::\literator_adaptor_base\l\< const_segment_vector\l_iterator\< T, Data, BaseIter\l \> , BaseIter , void , void\l , void , void , void  \>::type",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d7c/structhpx_1_1util_1_1iterator__facade.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hpx::util::detail::\literator_facade_base\l\< Derived, T, Category,\l Reference, Distance, Pointer \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d11/classhpx_1_1util_1_1detail_1_1iterator__facade__base.html"];
+  Node4 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< const_segment_vector\l_iterator\< T, Data, BaseIter\l \>, BaseIter \>" ,fontname="Helvetica"];
+  Node4 [label="hpx::util::iterator\l_adaptor\< Derived, Base,\l Value, Category, Reference,\l Difference, Pointer \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d31/classhpx_1_1util_1_1iterator__adaptor.html"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="hpx::util::detail::\literator_adaptor_base\l\< Derived, Base, Value,\l Category, Reference, Difference,\l Pointer \>::type",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d7c/structhpx_1_1util_1_1iterator__facade.html"];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

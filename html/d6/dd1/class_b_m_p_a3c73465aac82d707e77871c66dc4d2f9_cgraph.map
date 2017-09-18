@@ -1,0 +1,8 @@
+<map id="BMP::BMP" name="BMP::BMP">
+<area shape="rect" id="node2" href="$d6/dd1/class_b_m_p.html#a4ce7ba10524707a536bfd3f69e4a7934" title="BMP::TellBitDepth" alt="" coords="156,5,285,32"/>
+<area shape="rect" id="node3" href="$d6/dd1/class_b_m_p.html#addbaef07743df3bc6b15195709015d1a" title="BMP::TellWidth" alt="" coords="164,56,277,83"/>
+<area shape="rect" id="node4" href="$d6/dd1/class_b_m_p.html#a76cff2e39ca9e1c3d7f2d6bbec0a3091" title="BMP::TellHeight" alt="" coords="163,107,279,133"/>
+<area shape="rect" id="node5" href="$d6/dd1/class_b_m_p.html#a2000c6bed1e4a1776fa625e6a8c7c8a3" title="BMP::TellHorizontalDPI" alt="" coords="141,157,300,184"/>
+<area shape="rect" id="node6" href="$d6/dd1/class_b_m_p.html#ad0d9bf394d15684619ff7516457059b3" title="BMP::TellVerticalDPI" alt="" coords="149,208,293,235"/>
+<area shape="rect" id="node7" href="$d6/dd1/class_b_m_p.html#a3bad05db381bfcb97abb8d385f43097f" title="BMP::GetColor" alt="" coords="165,259,276,285"/>
+</map>

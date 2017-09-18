@@ -1,0 +1,11 @@
+digraph "hpx::util::logging::formatter::detail::find_spacer_generic&lt; original_formatter, int &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::logging\l::formatter::detail\l::find_spacer_generic\l\< original_formatter, int \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< original_formatter,\l std::is_base_of\< is\l_generic, original_formatter\l \>::value \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::util::logging\l::formatter::detail\l::find_spacer_generic\l\< original_formatter,\l std::is_base_of\< is_generic,\l original_formatter \>::value \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d4f/structhpx_1_1util_1_1logging_1_1formatter_1_1detail_1_1find__spacer__generic.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::util::logging\l::formatter::detail\l::find_spacer\< original\l_formatter \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d17/structhpx_1_1util_1_1logging_1_1formatter_1_1detail_1_1find__spacer.html"];
+}

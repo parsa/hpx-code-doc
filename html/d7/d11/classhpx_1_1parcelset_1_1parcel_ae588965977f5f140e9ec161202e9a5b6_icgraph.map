@@ -1,0 +1,21 @@
+<map id="hpx::parcelset::parcel::get_action" name="hpx::parcelset::parcel::get_action">
+<area shape="rect" id="node2" href="$d4/d41/namespacehpx_1_1parcelset.html#abb7d99e0c8aaa983f0851d9c5d4e78bf" title="hpx::parcelset::decode\l_message_with_chunks" alt="" coords="202,148,363,189"/>
+<area shape="rect" id="node11" href="$d7/d3a/structhpx_1_1agas_1_1server_1_1primary__namespace.html#aede20735bea03c60f4857f25c8bd7dde" title="hpx::agas::server::\lprimary_namespace::get\l_message_handler" alt="" coords="200,217,365,273"/>
+<area shape="rect" id="node13" href="$d7/d3a/structhpx_1_1agas_1_1server_1_1primary__namespace.html#a1cc4368453b1230f509bfef35a9b7a17" title="hpx::agas::server::\lprimary_namespace::get\l_serialization_filter" alt="" coords="200,297,365,353"/>
+<area shape="rect" id="node14" href="$df/d21/tests_2unit_2parcelset_2set__parcel__write__handler_8cpp.html#aece6fd9cb27018f91cc19a5964a1a6f3" title="is_test_action" alt="" coords="231,377,334,403"/>
+<area shape="rect" id="node17" href="$d4/dea/zero__copy__serialization_8cpp.html#a169330aa77c78eb70d3ed75a7a8e7576" title="test_parcel_serialization" alt="" coords="201,427,364,454"/>
+<area shape="rect" id="node3" href="$d4/d41/namespacehpx_1_1parcelset.html#ab5f27461c52dbbfeab29fe8a37986faa" title="hpx::parcelset::decode\l_message" alt="" coords="435,71,590,112"/>
+<area shape="rect" id="node6" href="$d4/d56/structhpx_1_1parcelset_1_1policies_1_1libfabric_1_1rma__receiver.html#a9ee3082ad51ee63cf85049b8126580f0" title="hpx::parcelset::policies\l::libfabric::rma_receiver\l::handle_message_no_rma" alt="" coords="423,137,602,193"/>
+<area shape="rect" id="node9" href="$d4/d56/structhpx_1_1parcelset_1_1policies_1_1libfabric_1_1rma__receiver.html#a77182bc65fb4dd0fc0737d87bec05a72" title="hpx::parcelset::policies\l::libfabric::rma_receiver\l::handle_rma_read_completion" alt="" coords="413,217,612,273"/>
+<area shape="rect" id="node4" href="$d4/d41/namespacehpx_1_1parcelset.html#a0199ca3fa04e8fa08c9e6b9eec41ebb5" title="hpx::parcelset::decode\l_parcel" alt="" coords="676,5,831,47"/>
+<area shape="rect" id="node5" href="$d4/d41/namespacehpx_1_1parcelset.html#aa7b4acdaa73e95824f4406d316551b51" title="hpx::parcelset::decode\l_parcels" alt="" coords="676,71,831,112"/>
+<area shape="rect" id="node7" href="$d4/d56/structhpx_1_1parcelset_1_1policies_1_1libfabric_1_1rma__receiver.html#a687e3e9569a57b6bd48220ecd7ef2394" title="hpx::parcelset::policies\l::libfabric::rma_receiver\l::read_message" alt="" coords="675,137,831,193"/>
+<area shape="rect" id="node8" href="$d9/df5/structhpx_1_1parcelset_1_1policies_1_1libfabric_1_1receiver.html#ae18eac5b1593bc79ba31cf828177d611" title="hpx::parcelset::policies\l::libfabric::receiver::\lhandle_recv" alt="" coords="895,137,1051,193"/>
+<area shape="rect" id="node10" href="$db/d9f/classhpx_1_1parcelset_1_1policies_1_1libfabric_1_1libfabric__controller.html#afaa02e122be1ea6800a245af7b3a9cf8" title="hpx::parcelset::policies\l::libfabric::libfabric\l_controller::poll_send_queue" alt="" coords="660,217,847,273"/>
+<area shape="rect" id="node12" href="$d7/d3a/structhpx_1_1agas_1_1server_1_1primary__namespace.html#a52d12a1efbe05190fd6592ba971192b6" title="hpx::agas::server::\lprimary_namespace::set\l_local_locality" alt="" coords="430,297,595,353"/>
+<area shape="rect" id="node15" href="$df/d21/tests_2unit_2parcelset_2set__parcel__write__handler_8cpp.html#a3391f9f84a2aeaa1420f6472c7c8b73b" title="write_handler" alt="" coords="463,377,562,403"/>
+<area shape="rect" id="node16" href="$df/d21/tests_2unit_2parcelset_2set__parcel__write__handler_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="728,377,779,403"/>
+<area shape="rect" id="node18" href="$d4/dea/zero__copy__serialization_8cpp.html#aba21b7c3d321648638f268e088f757fa" title="test_normal_serialization" alt="" coords="429,427,596,454"/>
+<area shape="rect" id="node20" href="$d4/dea/zero__copy__serialization_8cpp.html#abe7516b587abbdf4c789b5b351ee6330" title="test_zero_copy_serialization" alt="" coords="419,478,606,505"/>
+<area shape="rect" id="node19" href="$d4/dea/zero__copy__serialization_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="714,453,793,479"/>
+</map>

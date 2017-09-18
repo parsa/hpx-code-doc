@@ -1,0 +1,12 @@
+<map id="hpx::util::activate_counters::~activate_counters" name="hpx::util::activate_counters::~activate_counters">
+<area shape="rect" id="node2" href="$d9/d0b/classhpx_1_1util_1_1activate__counters.html#a61f1598c47b0625dd12c570170251f50" title="hpx::util::activate\l_counters::stop_counters" alt="" coords="192,99,361,141"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#a01a3c286e028da685dd9d616fb7c33c7" title="Stop the runtime system. " alt="" coords="447,31,523,57"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="441,81,528,108"/>
+<area shape="rect" id="node10" href="$d2/dc9/namespacehpx_1_1lcos.html#aa22f424df487aac588e30b71f15dd2fe" title="hpx::lcos::wait_all" alt="" coords="421,132,548,159"/>
+<area shape="rect" id="node11" href="$d8/d83/namespacehpx.html#a154bc03d8bffebc41d36767f98aea4b0" title="Returns a new error_code constructed from the given parameters. " alt="" coords="409,183,560,209"/>
+<area shape="rect" id="node5" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="608,56,651,83"/>
+<area shape="rect" id="node6" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="734,5,809,32"/>
+<area shape="rect" id="node7" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="699,56,844,83"/>
+<area shape="rect" id="node8" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="735,107,807,133"/>
+<area shape="rect" id="node9" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="892,99,1087,141"/>
+</map>

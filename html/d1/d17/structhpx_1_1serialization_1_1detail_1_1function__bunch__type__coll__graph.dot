@@ -1,0 +1,17 @@
+digraph "hpx::serialization::detail::function_bunch_type"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="hpx::serialization\l::detail::function_bunch_type",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" save_function" ,fontname="Helvetica"];
+  Node2 [label="hpx::serialization\l::output_archive",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d01/structhpx_1_1serialization_1_1output__archive.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hpx::serialization\l::basic_archive\< output\l_archive \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d15/structhpx_1_1serialization_1_1basic__archive.html"];
+  Node4 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< output_archive \>" ,fontname="Helvetica"];
+  Node4 [label="hpx::serialization\l::basic_archive\< Archive \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d15/structhpx_1_1serialization_1_1basic__archive.html"];
+  Node5 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" create_function\nload_function" ,fontname="Helvetica"];
+  Node5 [label="hpx::serialization\l::input_archive",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d5c/structhpx_1_1serialization_1_1input__archive.html"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hpx::serialization\l::basic_archive\< input\l_archive \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d15/structhpx_1_1serialization_1_1basic__archive.html"];
+}

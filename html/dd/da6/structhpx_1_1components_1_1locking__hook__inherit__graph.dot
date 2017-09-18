@@ -1,0 +1,25 @@
+digraph "hpx::components::locking_hook&lt; BaseComponent, Mutex &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::components::locking\l_hook\< BaseComponent, Mutex \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="BaseComponent",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node0 -> Node2 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< components::component\l_base\< partitioned_vector\l\< T, Data \> \> \>" ,fontname="Helvetica"];
+  Node2 [label="hpx::components::locking\l_hook\< components::component\l_base\< partitioned_vector\<\l T, Data \> \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/de1/structhpx_1_1components_1_1locking__hook.html"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hpx::server::partitioned\l_vector\< T, Data \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d09/classhpx_1_1server_1_1partitioned__vector.html",tooltip="This is the basic wrapper class for stl vector. "];
+  Node0 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::components::\lcomponent_base\< template\l_accumulator\< T \> \> \>" ,fontname="Helvetica"];
+  Node4 [label="hpx::components::locking\l_hook\< hpx::components\l::component_base\< template\l_accumulator\< T \> \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/de1/structhpx_1_1components_1_1locking__hook.html"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="examples::server::template\l_accumulator\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/dd3/classexamples_1_1server_1_1template__accumulator.html"];
+  Node0 -> Node6 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::components::\lsimple_component_base\l\< partition_unordered\l_map\< Key, T, Hash, KeyEqual \> \> \>" ,fontname="Helvetica"];
+  Node6 [label="hpx::components::locking\l_hook\< hpx::components\l::simple_component_base\l\< partition_unordered_map\l\< Key, T, Hash, KeyEqual \> \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/de1/structhpx_1_1components_1_1locking__hook.html"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hpx::server::partition\l_unordered_map\< Key, T,\l Hash, KeyEqual \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d49/classhpx_1_1server_1_1partition__unordered__map.html",tooltip="This is the basic wrapper class for stl unordered_map. "];
+  Node0 -> Node8 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::components::\lcomponent_base\< accumulator \> \>" ,fontname="Helvetica"];
+  Node8 [label="hpx::components::locking\l_hook\< hpx::components\l::component_base\< accumulator \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/de1/structhpx_1_1components_1_1locking__hook.html"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="examples::server::accumulator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d8d/classexamples_1_1server_1_1accumulator.html"];
+}

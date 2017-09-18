@@ -1,0 +1,6 @@
+<map id="hpx::lcos::detail::continuation::reset_id::reset_id" name="hpx::lcos::detail::continuation::reset_id::reset_id">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="395,33,564,60"/>
+<area shape="rect" id="node4" href="$d9/dc0/classhpx_1_1lcos_1_1detail_1_1continuation.html#a16f58a29eb5fc3f3298f598c7e69e994" title="hpx::lcos::detail::\lcontinuation::set_id" alt="" coords="197,26,332,67"/>
+<area shape="rect" id="node5" href="$d7/d28/namespacehpx_1_1threads.html#afafe0f900b9fac3d4ed3c747625c1cfe" title="hpx::threads::get_self_id" alt="" coords="183,92,347,118"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="612,33,759,60"/>
+</map>

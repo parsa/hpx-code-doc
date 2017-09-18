@@ -1,0 +1,5 @@
+<map id="hpx::threads::set_scheduler_mode" name="hpx::threads::set_scheduler_mode">
+<area shape="rect" id="node2" href="$dd/df3/classhpx_1_1threads_1_1executors_1_1detail_1_1default__executor.html#ab61d5604d5fe202c97022302fde8b15b" title="Set the new scheduler mode. " alt="" coords="276,5,440,61"/>
+<area shape="rect" id="node3" href="$dd/df3/classhpx_1_1threads_1_1executors_1_1detail_1_1default__executor.html#a97b2f742ef67f892ea44967a1b50a6b1" title="hpx::threads::executors\l::detail::default_executor\l::add_after" alt="" coords="276,85,440,141"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#ae3f683ad072d61249bf20c67134d604c" title="hpx::threads::interrupt\l_thread" alt="" coords="283,166,433,207"/>
+</map>

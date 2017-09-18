@@ -1,0 +1,6 @@
+<map id="hpx::agas::get_num_threads" name="hpx::agas::get_num_threads">
+<area shape="rect" id="node2" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="223,27,377,69"/>
+<area shape="rect" id="node5" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a7ef0835770a9de1d1225459ef6928949" title="hpx::agas::addressing\l_service::get_num_threads_async" alt="" coords="191,93,409,134"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="475,5,594,32"/>
+<area shape="rect" id="node4" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="457,57,612,98"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dc/d70/structhpx_1_1parallel_1_1util_1_1detail_1_1foreach__static__partitioner_3_01execution_1_1paralle8626d5c4384767c8555b9966fc809b75.html" title="hpx::parallel::util\l::detail::foreach_static\l_partitioner\&lt; execution\l::parallel_task_policy,\l Result \&gt;" alt="" coords="5,5,160,91"/>
+<area shape="rect" id="node2" href="$d9/d2c/structhpx_1_1parallel_1_1util_1_1detail_1_1foreach__static__partitioner_3_01execution_1_1paralle58f985bd868ce61c94161846571353e2.html" title="hpx::parallel::util\l::detail::foreach_static\l_partitioner\&lt; execution\l::parallel_task_policy_shim\l\&lt; Executor, Parameters \&gt;, Result \&gt;" alt="" coords="208,5,439,91"/>
+</map>

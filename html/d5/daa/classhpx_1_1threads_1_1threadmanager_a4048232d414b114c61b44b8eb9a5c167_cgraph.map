@@ -1,0 +1,9 @@
+<map id="hpx::threads::threadmanager::run" name="hpx::threads::threadmanager::run">
+<area shape="rect" id="node2" href="$dd/da5/namespacehpx_1_1resource.html#af91354c369d9a22a00581d6b6da7d0ee" title="hpx::resource::get\l_partitioner" alt="" coords="299,45,425,86"/>
+<area shape="rect" id="node6" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#a4ea6c4a589bbcbd2808a744b737b15ee" title="hpx::threads::threadmanager\l::init_tss" alt="" coords="268,110,456,151"/>
+<area shape="rect" id="node8" href="$dd/d7e/structhpx_1_1threads_1_1policies_1_1scheduler__base.html#a9396e80e3db993b313aa2e32d5976351" title="hpx::threads::policies\l::scheduler_base::set\l_all_states" alt="" coords="289,176,435,232"/>
+<area shape="rect" id="node3" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a2967c633948a3bf17a3b5405ef5a8318" title="hpx::util::static_::get" alt="" coords="520,5,661,32"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="520,56,661,83"/>
+<area shape="rect" id="node5" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="725,49,888,90"/>
+<area shape="rect" id="node7" href="$d7/d24/classhpx_1_1threads_1_1detail_1_1thread__num__tss.html#ab018494cfd08063a0e32a18ac9366669" title="hpx::threads::detail\l::thread_num_tss::init_tss" alt="" coords="504,110,677,151"/>
+</map>

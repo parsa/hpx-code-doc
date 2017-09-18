@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base" kind="class" language="C++" prot="public">
+    <compoundname>hpx::components::abstract_simple_component_base</compoundname>
+    <basecompoundref refid="d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag" prot="private" virt="non-virtual">hpx::traits::detail::component_tag</basecompoundref>
+    <derivedcompoundref refid="d4/df7/classhpx_1_1components_1_1abstract__component__base" prot="public" virt="non-virtual">hpx::components::abstract_component_base&lt; Component &gt;</derivedcompoundref>
+    <includes refid="d7/db5/abstract__component__base_8hpp" local="no">abstract_component_base.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>typename</type>
+        <declname>Component</declname>
+        <defname>Component</defname>
+      </param>
+    </templateparamlist>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base_1ae0356c961295e4373c15db5ba534ac04" prot="private" static="no">
+        <type><ref refid="d2/d0b/classhpx_1_1components_1_1component" kindref="compound">component</ref>&lt; Component &gt;</type>
+        <definition>typedef component&lt;Component&gt; hpx::components::abstract_simple_component_base&lt; Component &gt;::outer_wrapping_type</definition>
+        <argsstring></argsstring>
+        <name>outer_wrapping_type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" line="32" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" bodystart="32" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base_1a0f5eb15b197fca920c2a5d34f44ddf66" prot="public" static="no">
+        <type>Component</type>
+        <definition>typedef Component hpx::components::abstract_simple_component_base&lt; Component &gt;::base_type_holder</definition>
+        <argsstring></argsstring>
+        <name>base_type_holder</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" line="37" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" bodystart="37" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base_1aee54abfb655f87b6cc52084e0053be70" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type></type>
+        <definition>virtual hpx::components::abstract_simple_component_base&lt; Component &gt;::~abstract_simple_component_base</definition>
+        <argsstring>()</argsstring>
+        <name>~abstract_simple_component_base</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" line="35" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" bodystart="35" bodyend="35"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base_1afeb69dc8c4af108cc50b1b52f720cd24" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="d5/d76/namespacehpx_1_1components_1ad96e19b1e501dc557a7b67b68ee89f7e" kindref="member">component_type</ref></type>
+        <definition>static component_type hpx::components::abstract_simple_component_base&lt; Component &gt;::get_component_type</definition>
+        <argsstring>()</argsstring>
+        <name>get_component_type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" line="39" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" bodystart="39" bodyend="42"/>
+      </memberdef>
+      <memberdef kind="function" id="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base_1a7591944ebf8fa2eb9731c2036fdfee8f" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void hpx::components::abstract_simple_component_base&lt; Component &gt;::set_component_type</definition>
+        <argsstring>(component_type t)</argsstring>
+        <name>set_component_type</name>
+        <param>
+          <type><ref refid="d5/d76/namespacehpx_1_1components_1ad96e19b1e501dc557a7b67b68ee89f7e" kindref="member">component_type</ref></type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" line="44" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" bodystart="44" bodyend="47"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="120">
+        <label>D</label>
+        <link refid="de/d8b/struct_d"/>
+        <childnode refid="118" relation="public-inheritance">
+        </childnode>
+        <childnode refid="118" relation="public-inheritance">
+        </childnode>
+        <childnode refid="118" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="122">
+        <label>F</label>
+        <link refid="d8/dd8/class_f"/>
+        <childnode refid="121" relation="public-inheritance">
+        </childnode>
+        <childnode refid="121" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="125">
+        <label>X</label>
+        <link refid="d9/d80/struct_x"/>
+        <childnode refid="118" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="115">
+        <label>hpx::components::abstract_component_base&lt; Component &gt;</label>
+        <link refid="d4/df7/classhpx_1_1components_1_1abstract__component__base"/>
+        <childnode refid="113" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="121">
+        <label>E&lt; T &gt;</label>
+        <link refid="dd/dd3/struct_e"/>
+        <childnode refid="120" relation="public-inheritance">
+        </childnode>
+        <childnode refid="120" relation="public-inheritance">
+        </childnode>
+        <childnode refid="117" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="117">
+        <label>A&lt; T &gt;</label>
+        <link refid="d7/da0/struct_a"/>
+        <childnode refid="116" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="113">
+        <label>hpx::components::abstract_simple_component_base&lt; Component &gt;</label>
+        <link refid="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base"/>
+        <childnode refid="114" relation="private-inheritance">
+        </childnode>
+      </node>
+      <node id="126">
+        <label>hpx::components::abstract_simple_component_base&lt; A &gt;</label>
+        <link refid="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base"/>
+        <childnode refid="113" relation="template-instance">
+          <edgelabel>&lt; A &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="123">
+        <label>hpx::util::detail::protected_bind&lt; F &gt;</label>
+        <link refid="d1/d3e/classhpx_1_1util_1_1detail_1_1protected__bind"/>
+        <childnode refid="122" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="118">
+        <label>B&lt; T &gt;</label>
+        <link refid="de/d7e/struct_b"/>
+        <childnode refid="117" relation="public-inheritance">
+        </childnode>
+        <childnode refid="117" relation="public-inheritance">
+        </childnode>
+        <childnode refid="117" relation="public-inheritance">
+        </childnode>
+        <childnode refid="117" relation="public-inheritance">
+        </childnode>
+        <childnode refid="117" relation="public-inheritance">
+        </childnode>
+        <childnode refid="117" relation="public-inheritance">
+        </childnode>
+        <childnode refid="117" relation="public-inheritance">
+        </childnode>
+        <childnode refid="117" relation="public-inheritance">
+        </childnode>
+        <childnode refid="117" relation="public-inheritance">
+        </childnode>
+        <childnode refid="117" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="124">
+        <label>hpx::detail::exception_with_info&lt; E &gt;</label>
+        <link refid="d9/da3/structhpx_1_1detail_1_1exception__with__info"/>
+        <childnode refid="121" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="116">
+        <label>hpx::components::abstract_component_base&lt; A &gt;</label>
+        <link refid="d4/df7/classhpx_1_1components_1_1abstract__component__base"/>
+        <childnode refid="115" relation="template-instance">
+          <edgelabel>&lt; A &gt;</edgelabel>
+        </childnode>
+        <childnode refid="126" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="114">
+        <label>hpx::traits::detail::component_tag</label>
+        <link refid="d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag"/>
+      </node>
+      <node id="119">
+        <label>C&lt; T &gt;</label>
+        <link refid="df/d3b/struct_c"/>
+        <childnode refid="118" relation="public-inheritance">
+        </childnode>
+        <childnode refid="118" relation="public-inheritance">
+        </childnode>
+        <childnode refid="118" relation="public-inheritance">
+        </childnode>
+        <childnode refid="118" relation="public-inheritance">
+        </childnode>
+        <childnode refid="118" relation="public-inheritance">
+        </childnode>
+        <childnode refid="117" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="127">
+        <label>hpx::components::abstract_simple_component_base&lt; Component &gt;</label>
+        <link refid="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base"/>
+        <childnode refid="128" relation="private-inheritance">
+        </childnode>
+      </node>
+      <node id="128">
+        <label>hpx::traits::detail::component_tag</label>
+        <link refid="d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag"/>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" line="30" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/components/server/abstract_component_base.hpp" bodystart="28" bodyend="48"/>
+    <listofallmembers>
+      <member refid="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base_1a0f5eb15b197fca920c2a5d34f44ddf66" prot="public" virt="non-virtual"><scope>hpx::components::abstract_simple_component_base</scope><name>base_type_holder</name></member>
+      <member refid="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base_1afeb69dc8c4af108cc50b1b52f720cd24" prot="public" virt="non-virtual"><scope>hpx::components::abstract_simple_component_base</scope><name>get_component_type</name></member>
+      <member refid="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base_1ae0356c961295e4373c15db5ba534ac04" prot="private" virt="non-virtual"><scope>hpx::components::abstract_simple_component_base</scope><name>outer_wrapping_type</name></member>
+      <member refid="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base_1a7591944ebf8fa2eb9731c2036fdfee8f" prot="public" virt="non-virtual"><scope>hpx::components::abstract_simple_component_base</scope><name>set_component_type</name></member>
+      <member refid="d0/dd3/classhpx_1_1components_1_1abstract__simple__component__base_1aee54abfb655f87b6cc52084e0053be70" prot="public" virt="virtual"><scope>hpx::components::abstract_simple_component_base</scope><name>~abstract_simple_component_base</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,8 @@
+<map id="test_server::operator=" name="test_server::operator=">
+<area shape="rect" id="node2" href="$d5/d5d/structtest__server.html#ae4b57fb55833ef7e4ce21e54d2b706db" title="test_server::HPX_DEFINE\l_COMPONENT_ACTION" alt="" coords="363,5,535,47"/>
+<area shape="rect" id="node3" href="$d5/d5d/structtest__server.html#a7b57b8d8ccb5b5b8ecd4df4eefafe979" title="test_server::call" alt="" coords="201,63,315,90"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="397,71,500,98"/>
+<area shape="rect" id="node5" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="583,46,765,73"/>
+<area shape="rect" id="node7" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="594,97,754,123"/>
+<area shape="rect" id="node6" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="813,39,976,80"/>
+</map>

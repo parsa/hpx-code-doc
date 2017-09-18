@@ -1,0 +1,27 @@
+<map id="hpx::lcos::local::barrier::wait" name="hpx::lcos::local::barrier::wait">
+<area shape="rect" id="node2" href="$dc/dd7/structhpx_1_1lcos_1_1detail_1_1barrier__node.html#a7c4df1612298d6bca82818ad1ab263e7" title="hpx::lcos::detail::\lbarrier_node::set_event" alt="" coords="208,5,364,47"/>
+<area shape="rect" id="node4" href="$d3/d41/classhpx_1_1process_1_1process.html#acc7ec4687f3bf5ae121ef7b494d991d8" title="hpx.process.process.join" alt="" coords="643,42,809,69"/>
+<area shape="rect" id="node5" href="$d5/dca/hpx__thread__phase_8cpp.html#a33ae614742af7a5d14a763390f10b5ce" title="lock_and_wait" alt="" coords="234,122,338,149"/>
+<area shape="rect" id="node6" href="$d5/dca/hpx__thread__phase_8cpp.html#aaf67a3863f19ff7033e239ebb1204fb7" title="hpx_main" alt="" coords="464,147,543,174"/>
+<area shape="rect" id="node7" href="$df/d10/structhpx__driver.html#a18f4851aebac8f2b382fae393675108f" title="hpx_driver::run" alt="" coords="233,223,339,250"/>
+<area shape="rect" id="node8" href="$d2/db4/tests_2unit_2lcos_2local__barrier_8cpp.html#aa0780d94f0cd2b7fb0085691df108c5d" title="local_barrier_test" alt="" coords="225,274,347,301"/>
+<area shape="rect" id="node10" href="$d2/dfb/os__thread__num_8cpp.html#a4e93c08a1dab5895036ff150c5cbf0aa" title="get_os_thread_num" alt="" coords="218,325,354,351"/>
+<area shape="rect" id="node12" href="$d0/d4e/tests_2unit_2threads_2thread_8cpp.html#a4ed7731f04404da6ea18c2204329f7cb" title="interruption_point\l_thread" alt="" coords="225,376,347,417"/>
+<area shape="rect" id="node13" href="$d0/d4e/tests_2unit_2threads_2thread_8cpp.html#a1592be75203d2ef54f0a19832cacecf8" title="do_test_thread_interrupts\l_at_interruption_point" alt="" coords="419,435,588,476"/>
+<area shape="rect" id="node16" href="$d0/d4e/tests_2unit_2threads_2thread_8cpp.html#a36cf1f1e669661313a3a2657b174f7c2" title="disabled_interruption\l_point_thread" alt="" coords="215,493,357,535"/>
+<area shape="rect" id="node17" href="$d0/d4e/tests_2unit_2threads_2thread_8cpp.html#a83a3b29d9f2edb5952625e72f9651985" title="do_test_thread_no_interrupt\l_if_interrupts_disabled\l_at_interruption_point" alt="" coords="412,511,595,567"/>
+<area shape="rect" id="node19" href="$d0/d4e/tests_2unit_2threads_2thread_8cpp.html#aafe091deb4ce014ec0d8354ca4219cb3" title="simple_sync_thread" alt="" coords="217,610,355,637"/>
+<area shape="rect" id="node20" href="$d0/d4e/tests_2unit_2threads_2thread_8cpp.html#aa9645d2d1912efd27e83867429e862d0" title="test_swap" alt="" coords="463,610,544,637"/>
+<area shape="rect" id="node21" href="$df/d88/thread__id_8cpp.html#ad27c188384788837a2a71dde38635725" title="do_nothing" alt="" coords="243,711,329,738"/>
+<area shape="rect" id="node22" href="$df/d88/thread__id_8cpp.html#a95604be93f5422b5bc87778cff21bde1" title="test_thread_ids_have\l_a_total_order" alt="" coords="431,725,575,767"/>
+<area shape="rect" id="node24" href="$db/d59/thread__suspend__duration_8cpp.html#a51db1109c6dea5b277ccfc6e1a2e0a18" title="suspend_test" alt="" coords="236,813,336,839"/>
+<area shape="rect" id="node26" href="$df/de1/timed__task__spawn_8cpp.html#a9343f118f9876c51c2ce9a733a41320f" title="wait_for_tasks" alt="" coords="233,863,339,890"/>
+<area shape="rect" id="node3" href="$dc/dd7/structhpx_1_1lcos_1_1detail_1_1barrier__node.html#aa4e3bd2f6143714f869892b8e992c45e" title="hpx::lcos::detail::\lbarrier_node::wait" alt="" coords="441,5,565,47"/>
+<area shape="rect" id="node9" href="$d2/db4/tests_2unit_2lcos_2local__barrier_8cpp.html#aaf67a3863f19ff7033e239ebb1204fb7" title="hpx_main" alt="" coords="464,274,543,301"/>
+<area shape="rect" id="node11" href="$d2/dfb/os__thread__num_8cpp.html#aaf67a3863f19ff7033e239ebb1204fb7" title="hpx_main" alt="" coords="464,325,543,351"/>
+<area shape="rect" id="node14" href="$d0/d4e/tests_2unit_2threads_2thread_8cpp.html#a4a6a8c2918dcd825da0102f3a63bf24a" title="test_thread_interrupts\l_at_interruption_point" alt="" coords="652,441,800,483"/>
+<area shape="rect" id="node15" href="$d0/d4e/tests_2unit_2threads_2thread_8cpp.html#a255f773d830db5ca937cff11c2692fa2" title="hpx_main" alt="" coords="857,526,936,553"/>
+<area shape="rect" id="node18" href="$d0/d4e/tests_2unit_2threads_2thread_8cpp.html#ae8589f467c87f24293dd95710b4d8374" title="test_thread_no_interrupt\l_if_interrupts_disabled\l_at_interruption_point" alt="" coords="645,511,807,567"/>
+<area shape="rect" id="node23" href="$df/d88/thread__id_8cpp.html#a255f773d830db5ca937cff11c2692fa2" title="hpx_main" alt="" coords="687,733,765,759"/>
+<area shape="rect" id="node25" href="$db/d59/thread__suspend__duration_8cpp.html#aaf67a3863f19ff7033e239ebb1204fb7" title="hpx_main" alt="" coords="464,813,543,839"/>
+</map>

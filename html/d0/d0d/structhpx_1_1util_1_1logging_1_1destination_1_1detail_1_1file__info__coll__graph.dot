@@ -1,0 +1,28 @@
+digraph "hpx::util::logging::destination::detail::file_info"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="hpx::util::logging\l::destination::detail\l::file_info",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" settings" ,fontname="Helvetica"];
+  Node2 [label="hpx::util::logging\l::destination::file\l_settings",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d05/structhpx_1_1util_1_1logging_1_1destination_1_1file__settings.html",tooltip="settings for when constructing a file class. To see how it&#39;s used, see Dealing with flags..."];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" flush_each_time\ndo_append\ninitial_overwrite" ,fontname="Helvetica"];
+  Node3 [label="hpx::util::logging\l::detail::flag\< self\l_type \>::t\< bool \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/dfe/structhpx_1_1util_1_1logging_1_1detail_1_1flag_1_1t.html"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::util::logging\l::detail::flag_with\l_self_type\< self_type,\l bool \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d11/structhpx_1_1util_1_1logging_1_1detail_1_1flag__with__self__type.html"];
+  Node5 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< self_type, bool \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::util::logging\l::detail::flag_with\l_self_type\< self_type,\l type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d11/structhpx_1_1util_1_1logging_1_1detail_1_1flag__with__self__type.html"];
+  Node6 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< bool \>" ,fontname="Helvetica"];
+  Node6 [label="hpx::util::logging\l::detail::flag\< self\l_type \>::t\< val_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/dfe/structhpx_1_1util_1_1logging_1_1detail_1_1flag_1_1t.html"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hpx::util::logging\l::detail::flag_with\l_self_type\< self_type,\l val_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d11/structhpx_1_1util_1_1logging_1_1detail_1_1flag__with__self__type.html"];
+  Node5 -> Node7 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< self_type, val_type \>" ,fontname="Helvetica"];
+  Node8 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" extra_flags" ,fontname="Helvetica"];
+  Node8 [label="hpx::util::logging\l::detail::flag\< self\l_type \>::t\< std::ios\l_base::openmode \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/dfe/structhpx_1_1util_1_1logging_1_1detail_1_1flag_1_1t.html"];
+  Node9 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="hpx::util::logging\l::detail::flag_with\l_self_type\< self_type,\l std::ios_base::openmode \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d11/structhpx_1_1util_1_1logging_1_1detail_1_1flag__with__self__type.html"];
+  Node5 -> Node9 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< self_type, std::ios\l_base::openmode \>" ,fontname="Helvetica"];
+  Node6 -> Node8 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< std::ios_base::openmode \>" ,fontname="Helvetica"];
+  Node10 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" name" ,fontname="Helvetica"];
+  Node10 [label="string",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

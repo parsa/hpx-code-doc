@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d3/d3e/structhpx_1_1actions_1_1detail_1_1action__decorate__continuation" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::actions::detail::action_decorate_continuation</compoundname>
+    <includes refid="d6/ded/action__invoke__no__more__than_8hpp" local="no">action_invoke_no_more_than.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>typename Action</type>
+      </param>
+      <param>
+        <type>int</type>
+        <declname>N</declname>
+        <defname>N</defname>
+      </param>
+    </templateparamlist>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="d3/d3e/structhpx_1_1actions_1_1detail_1_1action__decorate__continuation_1a899437295e8df8bb2a0fa2cdb1208e50" prot="public" static="no">
+        <type><ref refid="d2/db2/structhpx_1_1actions_1_1detail_1_1action__decorate__function__semaphore" kindref="compound">action_decorate_function_semaphore</ref>&lt; Action, <ref refid="dd/de7/broadcast__wait__for__2822_8cpp_1a8f94acf293992af94fa2f2b95fab866e" kindref="member">N</ref> &gt;</type>
+        <definition>typedef action_decorate_function_semaphore&lt;Action, N&gt; hpx::actions::detail::action_decorate_continuation&lt; Action, N &gt;::construct_semaphore_type</definition>
+        <argsstring></argsstring>
+        <name>construct_semaphore_type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/action_invoke_no_more_than.hpp" line="184" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/action_invoke_no_more_than.hpp" bodystart="181" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="d3/d3e/structhpx_1_1actions_1_1detail_1_1action__decorate__continuation_1ad9cd3e7a32c405dcd5683706ff108eed" prot="public" static="no">
+        <type><ref refid="d5/d53/structhpx_1_1traits_1_1action__continuation" kindref="compound">traits::action_continuation</ref>&lt; Action &gt;::type</type>
+        <definition>typedef traits::action_continuation&lt;Action&gt;::type hpx::actions::detail::action_decorate_continuation&lt; Action, N &gt;::continuation_type</definition>
+        <argsstring></argsstring>
+        <name>continuation_type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/action_invoke_no_more_than.hpp" line="187" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/action_invoke_no_more_than.hpp" bodystart="187" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="d3/d3e/structhpx_1_1actions_1_1detail_1_1action__decorate__continuation_1a1601318906a375117137c2ae7d411141" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool hpx::actions::detail::action_decorate_continuation&lt; Action, N &gt;::call</definition>
+        <argsstring>(continuation_type &amp;cont, std::false_type)</argsstring>
+        <name>call</name>
+        <param>
+          <type><ref refid="d3/d3e/structhpx_1_1actions_1_1detail_1_1action__decorate__continuation_1ad9cd3e7a32c405dcd5683706ff108eed" kindref="member">continuation_type</ref> &amp;</type>
+          <declname>cont</declname>
+        </param>
+        <param>
+          <type>std::false_type</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/action_invoke_no_more_than.hpp" line="192" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/action_invoke_no_more_than.hpp" bodystart="192" bodyend="195"/>
+      </memberdef>
+      <memberdef kind="function" id="d3/d3e/structhpx_1_1actions_1_1detail_1_1action__decorate__continuation_1afc85862a63fb0f1219e4c6044e1a4c06" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool hpx::actions::detail::action_decorate_continuation&lt; Action, N &gt;::call</definition>
+        <argsstring>(continuation_type &amp;c, std::true_type)</argsstring>
+        <name>call</name>
+        <param>
+          <type><ref refid="d3/d3e/structhpx_1_1actions_1_1detail_1_1action__decorate__continuation_1ad9cd3e7a32c405dcd5683706ff108eed" kindref="member">continuation_type</ref> &amp;</type>
+          <declname>c</declname>
+        </param>
+        <param>
+          <type><ref refid="dd/db1/cxx14__variable__templates_8cpp_1a27349e58284b8b6ccf01fbac157c0284" kindref="member">std::true_type</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/action_invoke_no_more_than.hpp" line="200" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/action_invoke_no_more_than.hpp" bodystart="200" bodyend="205"/>
+      </memberdef>
+      <memberdef kind="function" id="d3/d3e/structhpx_1_1actions_1_1detail_1_1action__decorate__continuation_1a877c40f9c65d1309ef23b6902806b161" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool hpx::actions::detail::action_decorate_continuation&lt; Action, N &gt;::call</definition>
+        <argsstring>(continuation_type &amp;cont)</argsstring>
+        <name>call</name>
+        <param>
+          <type><ref refid="d3/d3e/structhpx_1_1actions_1_1detail_1_1action__decorate__continuation_1ad9cd3e7a32c405dcd5683706ff108eed" kindref="member">continuation_type</ref> &amp;</type>
+          <declname>cont</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/action_invoke_no_more_than.hpp" line="208" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/action_invoke_no_more_than.hpp" bodystart="208" bodyend="213"/>
+        <references refid="d2/d67/promise__1620_8cpp_1a58357f0b82bc761e1d0b9091ed563a70" compoundref="d2/d67/promise__1620_8cpp" startline="26" endline="26">call</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/action_invoke_no_more_than.hpp" line="178" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/action_invoke_no_more_than.hpp" bodystart="177" bodyend="214"/>
+    <listofallmembers>
+      <member refid="d3/d3e/structhpx_1_1actions_1_1detail_1_1action__decorate__continuation_1a1601318906a375117137c2ae7d411141" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_decorate_continuation</scope><name>call</name></member>
+      <member refid="d3/d3e/structhpx_1_1actions_1_1detail_1_1action__decorate__continuation_1afc85862a63fb0f1219e4c6044e1a4c06" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_decorate_continuation</scope><name>call</name></member>
+      <member refid="d3/d3e/structhpx_1_1actions_1_1detail_1_1action__decorate__continuation_1a877c40f9c65d1309ef23b6902806b161" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_decorate_continuation</scope><name>call</name></member>
+      <member refid="d3/d3e/structhpx_1_1actions_1_1detail_1_1action__decorate__continuation_1a899437295e8df8bb2a0fa2cdb1208e50" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_decorate_continuation</scope><name>construct_semaphore_type</name></member>
+      <member refid="d3/d3e/structhpx_1_1actions_1_1detail_1_1action__decorate__continuation_1ad9cd3e7a32c405dcd5683706ff108eed" prot="public" virt="non-virtual"><scope>hpx::actions::detail::action_decorate_continuation</scope><name>continuation_type</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

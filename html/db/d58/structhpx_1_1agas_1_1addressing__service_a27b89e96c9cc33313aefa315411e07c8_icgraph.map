@@ -1,0 +1,51 @@
+<map id="hpx::agas::addressing_service::get_id_range" name="hpx::agas::addressing_service::get_id_range">
+<area shape="rect" id="node2" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a664380be3597d3ca31677b2ae5800e76" title="hpx::agas::addressing\l_service::launch_bootstrap" alt="" coords="204,451,380,493"/>
+<area shape="rect" id="node31" href="$dc/d54/namespacehpx_1_1agas.html#a9bf88ab8d54a369fb9ed0fd3157ef1e8" title="hpx::agas::notify_worker" alt="" coords="211,360,373,387"/>
+<area shape="rect" id="node33" href="$dc/d54/namespacehpx_1_1agas.html#a60ba57eced2a11f9dfa8e011cfed1ddb" title="hpx::agas::get_next_id" alt="" coords="215,617,369,644"/>
+<area shape="rect" id="node3" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a4cd885b12c530009f44f7372c197d54f" title="hpx::agas::addressing\l_service::addressing\l_service" alt="" coords="441,399,591,455"/>
+<area shape="rect" id="node4" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#adae9df2634cf648f129f203c3678c1c1" title="Increment the global reference count for the given id. " alt="" coords="671,389,822,430"/>
+<area shape="rect" id="node5" href="$dc/d54/namespacehpx_1_1agas.html#aad81d2ea721c1a5692e243ef07bf164f" title="hpx::agas::incref" alt="" coords="925,363,1043,389"/>
+<area shape="rect" id="node6" href="$dc/d54/namespacehpx_1_1agas.html#abb5e5584ed3b536ace8e3f58415e24c2" title="hpx::agas::is_local\l_lva_encoded_address" alt="" coords="1138,530,1291,571"/>
+<area shape="rect" id="node7" href="$da/d76/structgc_1_1server_1_1collectable.html#a8e123e39f5a85da593dc15b5f872748d" title="gc::server::collectable\l::set_ref" alt="" coords="1141,413,1289,454"/>
+<area shape="rect" id="node8" href="$da/d23/structgc_1_1collectable.html#a9ac791be34891330ff8192ac2ef68c7c" title="gc::collectable::collectable" alt="" coords="1127,5,1303,32"/>
+<area shape="rect" id="node9" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a8a41d874bb719f702a76d483293d9d56" title="hpx::naming::detail\l::split_gid_if_needed\l_locked" alt="" coords="2023,209,2163,265"/>
+<area shape="rect" id="node19" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a011ed4fa9a2f4d4319adc54943fa03d6" title="hpx::naming::detail\l::replenish_credits\l_locked" alt="" coords="1149,332,1281,388"/>
+<area shape="rect" id="node10" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a106949fcb9087fb6bdca67d048d6568f" title="hpx::naming::detail\l::split_gid_if_needed" alt="" coords="2220,217,2360,258"/>
+<area shape="rect" id="node11" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#adfd0ce835927a3c0396b6fc9e9fbb3cf" title="hpx::agas::addressing\l_service::register_name_async" alt="" coords="2408,86,2609,127"/>
+<area shape="rect" id="node13" href="$dc/d4e/namespacehpx_1_1parcelset_1_1detail.html#a0dfe29365976960c7f5db6388e8ce603" title="hpx::parcelset::detail\l::put_parcel_impl" alt="" coords="2437,151,2580,193"/>
+<area shape="rect" id="node16" href="$dc/da6/structhpx_1_1agas_1_1server_1_1symbol__namespace.html#a229ead0876ac8c5754793a2ca68de559" title="hpx::agas::server::\lsymbol_namespace::bind" alt="" coords="2423,347,2594,389"/>
+<area shape="rect" id="node17" href="$dc/da6/structhpx_1_1agas_1_1server_1_1symbol__namespace.html#aec3fc24e40dc96142eb77537945e92d5" title="hpx::agas::server::\lsymbol_namespace::resolve" alt="" coords="2415,217,2602,258"/>
+<area shape="rect" id="node18" href="$dc/da6/structhpx_1_1agas_1_1server_1_1symbol__namespace.html#abbfcf18e8d40612e4fa618a39a2fc492" title="hpx::agas::server::\lsymbol_namespace::on_event" alt="" coords="2410,282,2607,323"/>
+<area shape="rect" id="node12" href="$dc/d54/namespacehpx_1_1agas.html#adc43905ef74ad9948375f3948b64fc2f" title="hpx::agas::register_name" alt="" coords="2657,93,2827,120"/>
+<area shape="rect" id="node14" href="$d4/d41/namespacehpx_1_1parcelset.html#a53a9f5c6cf260dc8d06d194c96182b65" title="hpx::parcelset::put\l_parcel" alt="" coords="2677,147,2807,189"/>
+<area shape="rect" id="node15" href="$d4/d41/namespacehpx_1_1parcelset.html#a44a60f48094a44cbb7f52b7807dc56ff" title="hpx::parcelset::put\l_parcel_cb" alt="" coords="2677,213,2807,254"/>
+<area shape="rect" id="node20" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#aab806d937bd01894af129d3d3cbb22f4" title="hpx::naming::detail\l::replenish_credits" alt="" coords="1351,282,1483,323"/>
+<area shape="rect" id="node24" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a87703193ff814a4e1c912e98e655ec51" title="hpx::naming::detail\l::set_credit_for_gid" alt="" coords="1562,347,1694,389"/>
+<area shape="rect" id="node21" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base\&lt; row \&gt;::get_id" alt="" coords="1531,282,1725,323"/>
+<area shape="rect" id="node22" href="$df/dfd/classhpx_1_1components_1_1fixed__component__base.html#a3066d2c2779a65cd20ce98b87e4dd4c2" title="hpx::components::fixed\l_component_base\&lt; symbol\l_namespace \&gt;::get_id" alt="" coords="1537,107,1719,163"/>
+<area shape="rect" id="node23" href="$d1/d7b/classhpx_1_1components_1_1managed__component__base.html#ac026850ad861e1da5393943cf5751708" title="hpx::components::managed\l_component_base\&lt; object\l_semaphore\&lt; ValueType \&gt;\l \&gt;::get_id" alt="" coords="1537,187,1719,258"/>
+<area shape="rect" id="node25" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a9d2708b2b1a4087d64195137b077ef1d" title="hpx::naming::detail\l::postprocess_incref" alt="" coords="1800,282,1939,323"/>
+<area shape="rect" id="node26" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#ab13848a91587535a393be4def980e832" title="hpx::naming::detail\l::add_credit_to_gid" alt="" coords="1803,347,1935,389"/>
+<area shape="rect" id="node28" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a3ccb4b028c2c757c0fabdfe58ac07e47" title="hpx::naming::detail\l::remove_credit_from_gid" alt="" coords="1786,151,1953,193"/>
+<area shape="rect" id="node29" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a3ec890e6a5b5c8fbd21b11dfe7e50352" title="hpx::naming::detail\l::fill_credit_for_gid" alt="" coords="1803,413,1935,454"/>
+<area shape="rect" id="node30" href="$d7/d3a/structhpx_1_1agas_1_1server_1_1primary__namespace.html#a87560fb730ac846b91fc7287dc4e247b" title="hpx::agas::server::\lprimary_namespace::allocate" alt="" coords="1773,217,1965,258"/>
+<area shape="rect" id="node27" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a5929d7fd681a5ed692bfbeaa503fc32d" title="Register a global name with a global address (id) " alt="" coords="2013,438,2172,479"/>
+<area shape="rect" id="node32" href="$de/dae/structhpx_1_1agas_1_1notification__header.html#aa028cf0e80baf9259523c340c4568634" title="hpx::agas::notification\l_header::serialize" alt="" coords="441,333,591,374"/>
+<area shape="rect" id="node34" href="$d7/d25/classhpx_1_1util_1_1unique__id__ranges.html#add5537614da4a5b89e74bd63a272b726" title="Generate next unique component id. " alt="" coords="451,806,581,847"/>
+<area shape="rect" id="node37" href="$d0/d7b/classhpx_1_1runtime.html#aa55a57060c6d0c1ea5ce4e6ef818526e" title="hpx::runtime::get_topology" alt="" coords="428,683,604,709"/>
+<area shape="rect" id="node50" href="$dc/d80/classhpx_1_1runtime__impl.html#a5d49e5b2c0bc6695f71e4d5ee1b49a19" title="hpx::runtime_impl::\lget_memory_lva" alt="" coords="449,610,583,651"/>
+<area shape="rect" id="node35" href="$dc/d80/classhpx_1_1runtime__impl.html#ac0009affe323cd040ae3d8ae2ddab4e1" title="hpx::runtime_impl::\lget_next_id" alt="" coords="680,894,813,935"/>
+<area shape="rect" id="node36" href="$d1/d6d/classhpx_1_1components_1_1detail_1_1wrapper__heap.html#a55f0fde1b8fee902494b2bffc422d5ef" title="Get the global id of the managed_component instance given by the parameter p. " alt="" coords="666,784,827,869"/>
+<area shape="rect" id="node38" href="$d0/d07/system__characteristics_8hpp.html#ab89dcd3f8f12bd35634d3849f0e93d90" title="print_system_characteristics" alt="" coords="652,733,841,760"/>
+<area shape="rect" id="node39" href="$d7/d28/namespacehpx_1_1threads.html#a2d22148118979eb7cad63c6ae4cab1c7" title="hpx::threads::get_topology" alt="" coords="659,683,835,709"/>
+<area shape="rect" id="node40" href="$d2/de8/structhpx_1_1compute_1_1host_1_1block__allocator.html#a4e7e43af2aebdd6b603730bc1e5bdd7c" title="hpx::compute::host\l::block_allocator::allocate" alt="" coords="899,675,1069,717"/>
+<area shape="rect" id="node43" href="$d2/de8/structhpx_1_1compute_1_1host_1_1block__allocator.html#a58162ea233b9f35cbb076a0b449e2767" title="hpx::compute::host\l::block_allocator::deallocate" alt="" coords="892,741,1076,782"/>
+<area shape="rect" id="node45" href="$d4/da7/namespacehpx_1_1compute_1_1host.html#a148bd526927f3b5f85a108c890973588" title="hpx::compute::host\l::numa_domains" alt="" coords="917,610,1051,651"/>
+<area shape="rect" id="node48" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a932efced0bbfee361094b8552334d931" title="hpx::resource::detail\l::partitioner::get_affinity_data" alt="" coords="889,806,1079,847"/>
+<area shape="rect" id="node49" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a67c5a4444b8889b1de56aa7a17459734" title="hpx::threads::topology\l::~topology" alt="" coords="909,871,1059,913"/>
+<area shape="rect" id="node41" href="$dc/d4a/block__allocator_8cpp.html#a7724967e3eafa4b9cfd8f80dad98af00" title="test_block_allocation" alt="" coords="1143,712,1287,739"/>
+<area shape="rect" id="node42" href="$dc/d4a/block__allocator_8cpp.html#aad021fb470ac159eac4609ba96066d4d" title="test_bulk_allocator" alt="" coords="1351,737,1482,764"/>
+<area shape="rect" id="node44" href="$dc/d4a/block__allocator_8cpp.html#aa27a8ee0dd50d1f98b2b0d39a3d93618" title="test_block_deallocation" alt="" coords="1135,763,1294,789"/>
+<area shape="rect" id="node46" href="$dc/d38/classhpx_1_1resource_1_1partitioner.html#ae994b2afde4fe9414c8e0b158615387b" title="hpx::resource::partitioner\l::add_resource" alt="" coords="1131,595,1298,637"/>
+<area shape="rect" id="node47" href="$da/d5f/stream_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="1175,661,1254,688"/>
+</map>

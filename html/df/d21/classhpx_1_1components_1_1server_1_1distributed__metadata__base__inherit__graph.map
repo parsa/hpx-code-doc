@@ -1,0 +1,4 @@
+<map id="hpx::components::server::distributed_metadata_base&lt; ConfigData, Derived &gt;" name="hpx::components::server::distributed_metadata_base&lt; ConfigData, Derived &gt;">
+<area shape="rect" id="node2" href="$d2/de6/classhpx_1_1components_1_1component__base.html" title="hpx::components::simple\l_component_base\&lt; std::\lconditional\&lt; std::is_same\l\&lt; Derived, detail::this_type\l \&gt;::value, distributed_metadata\l_base\&lt; ConfigData, Derived \&gt;, Derived\l \&gt;::type \&gt;" alt="" coords="172,5,416,120"/>
+<area shape="rect" id="node3" href="$d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag.html" title="hpx::traits::detail\l::component_tag" alt="" coords="5,42,124,83"/>
+</map>

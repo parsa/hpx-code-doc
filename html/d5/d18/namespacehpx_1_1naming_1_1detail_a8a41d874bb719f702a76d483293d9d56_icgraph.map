@@ -1,0 +1,23 @@
+<map id="hpx::naming::detail::split_gid_if_needed_locked" name="hpx::naming::detail::split_gid_if_needed_locked">
+<area shape="rect" id="node2" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a106949fcb9087fb6bdca67d048d6568f" title="hpx::naming::detail\l::split_gid_if_needed" alt="" coords="193,269,333,311"/>
+<area shape="rect" id="node3" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#adfd0ce835927a3c0396b6fc9e9fbb3cf" title="hpx::agas::addressing\l_service::register_name_async" alt="" coords="381,139,583,180"/>
+<area shape="rect" id="node5" href="$dc/d4e/namespacehpx_1_1parcelset_1_1detail.html#a0dfe29365976960c7f5db6388e8ce603" title="hpx::parcelset::detail\l::put_parcel_impl" alt="" coords="411,204,553,245"/>
+<area shape="rect" id="node20" href="$dc/da6/structhpx_1_1agas_1_1server_1_1symbol__namespace.html#a229ead0876ac8c5754793a2ca68de559" title="hpx::agas::server::\lsymbol_namespace::bind" alt="" coords="397,269,567,311"/>
+<area shape="rect" id="node21" href="$dc/da6/structhpx_1_1agas_1_1server_1_1symbol__namespace.html#aec3fc24e40dc96142eb77537945e92d5" title="hpx::agas::server::\lsymbol_namespace::resolve" alt="" coords="389,335,575,376"/>
+<area shape="rect" id="node22" href="$dc/da6/structhpx_1_1agas_1_1server_1_1symbol__namespace.html#abbfcf18e8d40612e4fa618a39a2fc492" title="hpx::agas::server::\lsymbol_namespace::on_event" alt="" coords="383,400,581,441"/>
+<area shape="rect" id="node4" href="$dc/d54/namespacehpx_1_1agas.html#adc43905ef74ad9948375f3948b64fc2f" title="hpx::agas::register_name" alt="" coords="631,146,800,173"/>
+<area shape="rect" id="node6" href="$d4/d41/namespacehpx_1_1parcelset.html#a53a9f5c6cf260dc8d06d194c96182b65" title="hpx::parcelset::put\l_parcel" alt="" coords="650,201,781,243"/>
+<area shape="rect" id="node17" href="$d4/d41/namespacehpx_1_1parcelset.html#a44a60f48094a44cbb7f52b7807dc56ff" title="hpx::parcelset::put\l_parcel_cb" alt="" coords="650,364,781,405"/>
+<area shape="rect" id="node7" href="$d1/d2a/namespacehpx_1_1applier_1_1detail.html#a4d568b8071bb894a09fabfba232c2663" title="hpx::applier::detail\l::put_parcel" alt="" coords="879,37,1007,79"/>
+<area shape="rect" id="node11" href="$d1/d2a/namespacehpx_1_1applier_1_1detail.html#aa5119ce6a8f642d2bacf23dc42ade0f9" title="hpx::applier::detail\l::put_parcel_cont" alt="" coords="879,103,1007,144"/>
+<area shape="rect" id="node12" href="$d8/db6/structhpx_1_1agas_1_1big__boot__barrier.html#a9148a04a25bea5a37d77b3ff20e1ebfb" title="hpx::agas::big_boot\l_barrier::apply_late" alt="" coords="875,168,1011,209"/>
+<area shape="rect" id="node15" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a938c1c4259b1be845dc0197465969a17" title="hpx::parcelset::parcelhandler\l::~parcelhandler" alt="" coords="848,233,1037,275"/>
+<area shape="rect" id="node16" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#aad45344f98c3f15456325c7270ae5ade" title="hpx::parcelset::parcelhandler\l::put_parcel" alt="" coords="848,299,1037,340"/>
+<area shape="rect" id="node8" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#ad478f8b244ec822fcbcb84aa67b17497" title="hpx::parcelset::parcelhandler\l::sync_put_parcel" alt="" coords="1085,5,1275,47"/>
+<area shape="rect" id="node10" href="$d9/d67/classhpx_1_1parcelset_1_1parcelport.html#a68bd6750625124e4de6309e74283a767" title="hpx::parcelset::parcelport\l::can_connect" alt="" coords="1095,71,1265,112"/>
+<area shape="rect" id="node9" href="$d1/d2a/namespacehpx_1_1applier_1_1detail.html#ab69485311adeb590afa621a4b4be595d" title="hpx::applier::detail\l::apply_r_sync_p" alt="" coords="1333,5,1461,47"/>
+<area shape="rect" id="node13" href="$dc/d54/namespacehpx_1_1agas.html#a3c98dc053a97fca0f3f3b5719d9f8336" title="hpx::agas::register\l_worker" alt="" coords="1115,168,1245,209"/>
+<area shape="rect" id="node14" href="$de/dae/structhpx_1_1agas_1_1notification__header.html#aa028cf0e80baf9259523c340c4568634" title="hpx::agas::notification\l_header::serialize" alt="" coords="1323,168,1472,209"/>
+<area shape="rect" id="node18" href="$d1/d2a/namespacehpx_1_1applier_1_1detail.html#a96b7471f7a59fa4d3d298e562507c339" title="hpx::applier::detail\l::put_parcel_cb" alt="" coords="879,364,1007,405"/>
+<area shape="rect" id="node19" href="$d1/d2a/namespacehpx_1_1applier_1_1detail.html#acb5d7569cd53998c51e4b48f09d62e83" title="hpx::applier::detail\l::put_parcel_cont_cb" alt="" coords="871,429,1014,471"/>
+</map>

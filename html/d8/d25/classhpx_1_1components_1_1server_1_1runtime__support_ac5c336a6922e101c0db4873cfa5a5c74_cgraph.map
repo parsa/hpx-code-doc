@@ -1,0 +1,38 @@
+<map id="hpx::components::server::runtime_support::migrate_component_to_here" name="hpx::components::server::runtime_support::migrate_component_to_here">
+<area shape="rect" id="node2" href="$d5/d76/namespacehpx_1_1components.html#a3f82b7ecdff89eca35438b7abf53312c" title="hpx::components::get\l_component_type" alt="" coords="255,39,403,80"/>
+<area shape="rect" id="node4" href="$d5/d76/namespacehpx_1_1components.html#a1dbb50ea3341d7f4221bccc8602c789d" title="Return the string representation for a given component type id. " alt="" coords="247,139,411,180"/>
+<area shape="rect" id="node9" href="$db/dee/structhpx_1_1naming_1_1id__type.html#a0375af42ca6b0ff79e627d91bfae571b" title="hpx::naming::id_type\l::get_gid" alt="" coords="258,208,401,249"/>
+<area shape="rect" id="node10" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="254,274,405,301"/>
+<area shape="rect" id="node12" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="278,325,381,351"/>
+<area shape="rect" id="node16" href="$dc/d54/namespacehpx_1_1agas.html#ae352815331af0548e1101f361185eeff" title="hpx::agas::unmark_as\l_migrated" alt="" coords="254,376,405,417"/>
+<area shape="rect" id="node29" href="$db/dee/structhpx_1_1naming_1_1id__type.html#a885b06b6b4bf178c58f54c459878f6b3" title="hpx::naming::id_type\l::make_unmanaged" alt="" coords="258,441,401,483"/>
+<area shape="rect" id="node30" href="$dd/dbf/server_2partition3d_8hpp.html#a4bc6f175098759481bb77a4a286d51dd" title="HPX_ACTION_USES_LARGE\l_STACK" alt="" coords="232,507,427,548"/>
+<area shape="rect" id="node31" href="$d4/d6e/sheneos__test_8cpp.html#aad49633ac71dd11e763978786c45057f" title="HPX_ACTION_USES_MEDIUM\l_STACK" alt="" coords="228,572,431,613"/>
+<area shape="rect" id="node32" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="308,645,351,671"/>
+<area shape="rect" id="node3" href="$de/d3d/structhpx_1_1traits_1_1component__type__database.html#a5a9174705a0c489fa8a13bf324295345" title="hpx::traits::component\l_type_database::get" alt="" coords="502,5,654,47"/>
+<area shape="rect" id="node5" href="$d5/d76/namespacehpx_1_1components.html#aebf4eda33c38b1b704b6b86ac20da0b6" title="The upper short word of the component is the actual component type. " alt="" coords="504,71,652,112"/>
+<area shape="rect" id="node6" href="$d5/d76/namespacehpx_1_1components.html#a90dbb7eb7bda85676950ac7198986f77" title="hpx::components::get\l_base_type" alt="" coords="504,136,652,177"/>
+<area shape="rect" id="node7" href="$d4/d2c/make__continuation__1615_8cpp.html#acbdae3e81403e1ffc527c18dc1cd51dd" title="to_string" alt="" coords="542,202,614,229"/>
+<area shape="rect" id="node8" href="$d4/d2c/make__continuation__1615_8cpp.html#a8b2f8a7c58b490fcb1260f36bac46541" title="HPX_PLAIN_ACTION" alt="" coords="751,202,896,229"/>
+<area shape="rect" id="node11" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="518,253,638,295"/>
+<area shape="rect" id="node13" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="487,370,669,397"/>
+<area shape="rect" id="node15" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="498,319,658,346"/>
+<area shape="rect" id="node14" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="742,295,905,336"/>
+<area shape="rect" id="node17" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="501,528,655,569"/>
+<area shape="rect" id="node20" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a35130827862a75398bbc18e545f12039" title="Remove the given object from the table of migrated objects. " alt="" coords="479,421,677,463"/>
+<area shape="rect" id="node18" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="764,594,883,621"/>
+<area shape="rect" id="node19" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="746,528,901,569"/>
+<area shape="rect" id="node21" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#ad3a849cb7ebd5dccf9aefadccc21dd89" title="hpx::naming::detail\l::get_stripped_gid" alt="" coords="991,411,1123,452"/>
+<area shape="rect" id="node25" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a58e1ddcbd72ed4042377e11f32abf3fa" title="hpx::naming::detail\l::store_in_cache" alt="" coords="991,476,1123,517"/>
+<area shape="rect" id="node26" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a513ab9557be7ea50244572ef3bcc3939" title="hpx::agas::addressing\l_service::remove_cache_entry" alt="" coords="725,360,921,401"/>
+<area shape="rect" id="node22" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a95cca4d4bc82a9da3e804b225b03dfaf" title="hpx::naming::detail\l::strip_internal_bits\l_from_gid" alt="" coords="1211,363,1343,419"/>
+<area shape="rect" id="node23" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a1ab848588112d0f7fac377a15692c9cc" title="hpx::naming::detail\l::get_stripped_gid_except\l_dont_cache" alt="" coords="1192,443,1363,499"/>
+<area shape="rect" id="node24" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#aabeb51a92376c6bfb9cf31bf9ff0c4cc" title="hpx::naming::detail\l::strip_internal_bits\l_except_dont_cache_from_gid" alt="" coords="1411,443,1609,499"/>
+<area shape="rect" id="node27" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="969,294,1144,321"/>
+<area shape="rect" id="node28" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="973,345,1140,387"/>
+<area shape="rect" id="node33" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="541,746,615,773"/>
+<area shape="rect" id="node34" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="505,594,651,621"/>
+<area shape="rect" id="node35" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="542,695,614,722"/>
+<area shape="rect" id="node36" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="780,645,867,671"/>
+<area shape="rect" id="node37" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="726,696,921,737"/>
+</map>

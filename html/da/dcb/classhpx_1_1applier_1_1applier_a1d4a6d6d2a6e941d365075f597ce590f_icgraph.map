@@ -1,0 +1,4 @@
+<map id="hpx::applier::applier::get_localities" name="hpx::applier::applier::get_localities">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a265cd11a586a37b9c3f3c9dfd44eb958" title="Return the list of global ids representing all localities available to this application which support..." alt="" coords="188,5,337,32"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#adde1eeefca5bbb4863e54ca81dfb1b6f" title="Return the global id representing an arbitrary locality which supports the given component type..." alt="" coords="203,56,322,83"/>
+</map>

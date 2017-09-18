@@ -1,0 +1,4 @@
+<map id="test::decorated_iterator::decorated_iterator" name="test::decorated_iterator::decorated_iterator">
+<area shape="rect" id="node2" href="$d4/da2/classhpx_1_1util_1_1iterator__core__access.html#a27c07b8cbf747d698e4f2a827d4b8f0a" title="hpx::util::iterator\l_core_access::dereference" alt="" coords="249,5,428,47"/>
+<area shape="rect" id="node3" href="$dd/d31/classhpx_1_1util_1_1iterator__adaptor.html#ab727800148fe718ca54ebd2668826c5e" title="hpx::util::iterator\l_adaptor\&lt; test_iterator\l\&lt; BaseIterator, IteratorTag\l \&gt;, BaseIterator, void, IteratorTag \&gt;::base" alt="" coords="209,71,468,141"/>
+</map>

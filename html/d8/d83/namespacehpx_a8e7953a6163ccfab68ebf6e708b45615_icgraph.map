@@ -1,0 +1,13 @@
+<map id="hpx::get_num_localities" name="hpx::get_num_localities">
+<area shape="rect" id="node2" href="$d5/dd3/apply__colocated_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="259,5,338,32"/>
+<area shape="rect" id="node3" href="$dd/d8b/barrier__hang_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="273,56,324,83"/>
+<area shape="rect" id="node4" href="$d2/dc9/namespacehpx_1_1lcos.html#aaa3e2a825ca566eee4e3c0cfc19b5dc3" title="hpx::lcos::create_gatherer" alt="" coords="212,107,385,133"/>
+<area shape="rect" id="node5" href="$d2/dc9/namespacehpx_1_1lcos.html#aebc9313a9b521471ff489f783f568483" title="hpx::lcos::gather_here" alt="" coords="223,157,374,184"/>
+<area shape="rect" id="node6" href="$da/d4f/global__spmd__block_8cpp.html#a294919a02f9a61f76cfdd17b2f1c6109" title="bulk_test_function" alt="" coords="235,208,362,235"/>
+<area shape="rect" id="node7" href="$d9/d0f/main_8cc.html#a22d5612b13072491f3de2340527ce19f" title="output_hpx_info" alt="" coords="433,309,547,336"/>
+<area shape="rect" id="node9" href="$d1/d0e/receive__buffer__1733_8cpp.html#a5b148d5807ff3161271696129a47eda6" title="idx" alt="" coords="279,309,318,336"/>
+<area shape="rect" id="node10" href="$d2/dc9/namespacehpx_1_1lcos.html#a8e99255a6b641ba9b62c2c33f1778c98" title="hpx::lcos::define_spmd\l_block" alt="" coords="221,411,377,453"/>
+<area shape="rect" id="node12" href="$d5/d98/tests_8hh.html#a0dc326736d80613005e0cd8046735b9e" title="test_blocked" alt="" coords="251,259,347,285"/>
+<area shape="rect" id="node8" href="$d9/d0f/main_8cc.html#a344a9bb316c276641af2d061a2558c97" title="hpx_main" alt="" coords="595,284,673,311"/>
+<area shape="rect" id="node11" href="$d8/d2c/coarray_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="465,419,515,445"/>
+</map>

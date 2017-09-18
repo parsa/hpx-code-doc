@@ -1,0 +1,4 @@
+<map id="hpx::compute::host::target::native_handle_type::get_device" name="hpx::compute::host::target::native_handle_type::get_device">
+<area shape="rect" id="node2" href="$d9/d46/structhpx_1_1compute_1_1host_1_1target.html#acec60cfb619c1a63ca22f723e521d89f" title="hpx::compute::host\l::target::num_pus" alt="" coords="203,13,337,54"/>
+<area shape="rect" id="node3" href="$d9/d46/structhpx_1_1compute_1_1host_1_1target.html#aeed846f8c9c70a97451bd9a8bd0b1d70" title="hpx::compute::host\l::target::get_locality" alt="" coords="385,13,523,54"/>
+</map>

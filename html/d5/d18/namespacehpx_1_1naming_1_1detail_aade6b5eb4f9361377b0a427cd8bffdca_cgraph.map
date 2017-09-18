@@ -1,0 +1,9 @@
+<map id="hpx::naming::detail::move_gid" name="hpx::naming::detail::move_gid">
+<area shape="rect" id="node2" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html#a25f1f7d247b4ec6e77e577400bbbc18f" title="hpx::naming::gid_type\l::get_mutex" alt="" coords="185,13,336,54"/>
+<area shape="rect" id="node4" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#ade50f3a7ea7970594a107017d9781f45" title="hpx::naming::detail\l::move_gid_locked" alt="" coords="195,107,327,149"/>
+<area shape="rect" id="node7" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="185,176,336,203"/>
+<area shape="rect" id="node3" href="$d4/dc9/namespacehpx_1_1naming.html#ad9103d927583be9fcc218e045ad2a6e6" title="hpx::naming::operator\&lt;\&lt;" alt="" coords="384,5,548,32"/>
+<area shape="rect" id="node5" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#afb823cf706d95f298c25af22fe39653b" title="hpx::naming::detail\l::has_credits" alt="" coords="400,57,532,98"/>
+<area shape="rect" id="node6" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a422b12b60e5f7844b224dd68cf8cae8e" title="hpx::naming::detail\l::strip_credits_from_gid" alt="" coords="387,122,545,163"/>
+<area shape="rect" id="node8" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="406,187,526,229"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="on_recv" name="on_recv">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="327,82,430,109"/>
+<area shape="rect" id="node6" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="120,13,271,39"/>
+<area shape="rect" id="node8" href="$dd/d4d/pingpong_8cpp.html#acc798febf64702c8788acdc72cff1897" title="on_recv_ind" alt="" coords="150,114,241,141"/>
+<area shape="rect" id="node9" href="$d5/dd8/any__serialization_8cpp.html#a050ffb438bad49c53a9fffc8fff5bff9" title="in" alt="" coords="359,154,398,181"/>
+<area shape="rect" id="node10" href="$dd/d4d/pingpong_8cpp.html#a132d667c02e3f5736834e72b6c688a79" title="HPX_PLAIN_ACTION" alt="" coords="123,215,268,242"/>
+<area shape="rect" id="node3" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="487,57,669,83"/>
+<area shape="rect" id="node5" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="498,107,658,134"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="717,49,880,91"/>
+<area shape="rect" id="node7" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="319,5,439,47"/>
+</map>

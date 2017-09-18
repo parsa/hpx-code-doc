@@ -1,0 +1,8 @@
+<map id="hpx::util::cache::lru_cache::insert_nonexist" name="hpx::util::cache::lru_cache::insert_nonexist">
+<area shape="rect" id="node2" href="$d8/d31/classhpx_1_1util_1_1cache_1_1lru__cache.html#aa9913e64dd98be28c5b12431cd8c9548" title="Insert a new entry into this cache. " alt="" coords="395,5,528,47"/>
+<area shape="rect" id="node3" href="$d8/d31/classhpx_1_1util_1_1cache_1_1lru__cache.html#a5d8befc48e6bc5603351b81322fc87eb" title="Update an existing element in this cache. " alt="" coords="213,119,347,160"/>
+<area shape="rect" id="node6" href="$d8/d31/classhpx_1_1util_1_1cache_1_1lru__cache.html#a53ee6e48bb742b326ff7706fea918646" title="Update an existing element in this cache. " alt="" coords="395,201,528,243"/>
+<area shape="rect" id="node4" href="$d8/d31/classhpx_1_1util_1_1cache_1_1lru__cache.html#ac882d63832191c07d6b499e2ba17b834" title="Get a specific entry identified by the given key. " alt="" coords="395,71,528,112"/>
+<area shape="rect" id="node7" href="$d8/d31/classhpx_1_1util_1_1cache_1_1lru__cache.html#a37e20a34d082e97c3237dedb6e592293" title="Remove stored entries from the cache for which the supplied function object returns true..." alt="" coords="395,136,528,177"/>
+<area shape="rect" id="node5" href="$d8/d31/classhpx_1_1util_1_1cache_1_1lru__cache.html#a11a647a8c81c6b62c21ed14d49a79528" title="Get a specific entry identified by the given key. " alt="" coords="576,71,709,112"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="test_client::create_new" name="test_client::create_new">
+<area shape="rect" id="node2" href="$d5/d76/namespacehpx_1_1components.html#a6ef7eba789c21591e578e62638685af0" title="hpx::components::new_" alt="" coords="209,59,369,86"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="246,151,333,178"/>
+<area shape="rect" id="node10" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="829,191,1024,232"/>
+<area shape="rect" id="node3" href="$db/d03/structhpx_1_1components_1_1detail_1_1new__component.html#a8e24d02e505059cc872cc60ccc590fbd" title="hpx::components::detail\l::new_component::call" alt="" coords="417,31,579,72"/>
+<area shape="rect" id="node4" href="$de/dfa/structhpx_1_1components_1_1stub__base.html#a352a867161e19ad1e6f5ebd321e6b2d3" title="Asynchronously create a new instance of a component. " alt="" coords="627,5,781,47"/>
+<area shape="rect" id="node6" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="477,122,519,149"/>
+<area shape="rect" id="node7" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="667,71,741,98"/>
+<area shape="rect" id="node8" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="631,122,777,149"/>
+<area shape="rect" id="node9" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="668,173,740,199"/>
+</map>

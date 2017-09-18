@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d9/dfd/structhpx_1_1lcos_1_1detail_1_1future__data.html" title="hpx::lcos::detail::\lfuture_data\&lt; Result \&gt;" alt="" coords="5,86,152,127"/>
+<area shape="rect" id="node2" href="$d7/df4/structhpx_1_1lcos_1_1detail_1_1future__data__allocator.html" title="hpx::lcos::detail::\lfuture_data_allocator\l\&lt; Result, Allocator \&gt;" alt="" coords="222,5,365,61"/>
+<area shape="rect" id="node3" href="$d6/d98/structhpx_1_1lcos_1_1detail_1_1task__base.html" title="hpx::lcos::detail::\ltask_base\&lt; Result \&gt;" alt="" coords="222,86,365,127"/>
+<area shape="rect" id="node9" href="$d2/d3d/structhpx_1_1lcos_1_1detail_1_1timed__future__data.html" title="hpx::lcos::detail::\ltimed_future_data\&lt; Result \&gt;" alt="" coords="200,151,387,193"/>
+<area shape="rect" id="node4" href="$d0/d9c/structhpx_1_1lcos_1_1detail_1_1cancelable__task__base.html" title="hpx::lcos::detail::\lcancelable_task_base\l\&lt; Result \&gt;" alt="" coords="440,40,591,96"/>
+<area shape="rect" id="node7" href="$de/d77/structhpx_1_1lcos_1_1detail_1_1promise__data.html" title="hpx::lcos::detail::\lpromise_data\&lt; Result \&gt;" alt="" coords="435,125,596,166"/>
+<area shape="rect" id="node5" href="$dc/d6b/structhpx_1_1lcos_1_1local_1_1detail_1_1task__object.html" title="hpx::lcos::local::detail\l::task_object\&lt; Result,\l F, lcos::detail::cancelable\l_task_base\&lt; Result \&gt; \&gt;" alt="" coords="644,29,819,99"/>
+<area shape="rect" id="node6" href="$d5/d43/structhpx_1_1lcos_1_1local_1_1detail_1_1cancelable__task__object.html" title="hpx::lcos::local::detail\l::cancelable_task_object\l\&lt; Result, F \&gt;" alt="" coords="867,36,1033,92"/>
+<area shape="rect" id="node8" href="$d1/d59/structhpx_1_1lcos_1_1detail_1_1promise__data__allocator.html" title="hpx::lcos::detail::\lpromise_data_allocator\l\&lt; Result, Allocator \&gt;" alt="" coords="653,124,809,180"/>
+</map>

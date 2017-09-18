@@ -1,0 +1,6 @@
+<map id="test_server::~test_server" name="test_server::~test_server">
+<area shape="rect" id="node2" href="$d5/d5d/structtest__server.html#aacbe6c371a93ba1ddbc343da1de8acd3" title="test_server::create_new" alt="" coords="183,57,341,84"/>
+<area shape="rect" id="node5" href="$d5/d5d/structtest__server.html#ae4b57fb55833ef7e4ce21e54d2b706db" title="test_server::HPX_DEFINE\l_COMPONENT_ACTION" alt="" coords="176,109,348,150"/>
+<area shape="rect" id="node3" href="$d9/dad/classhpx_1_1components_1_1client__base.html#ab57228eb99827ba33f2e47febd266608" title="hpx::components::client\l_base\&lt; test_client, test\l_server \&gt;::create" alt="" coords="396,5,557,61"/>
+<area shape="rect" id="node4" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a0cdfe4b8fed578eb1ce34222c0f07b03" title="hpx::components::client\l_base::get_id" alt="" coords="396,86,557,127"/>
+</map>

@@ -1,0 +1,18 @@
+digraph "test_server::test1"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node561 [label="test_server::test1",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node561 -> Node562 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node562 [label="hpx::find_here",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4",tooltip="Return the global id representing this locality. "];
+  Node562 -> Node563 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node563 [label="hpx::applier::get_applier_ptr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299"];
+  Node563 -> Node564 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node564 [label="hpx::util::thread_specific\l_ptr::get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9"];
+  Node562 -> Node565 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node565 [label="hpx::applier::get_applier",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239"];
+  Node561 -> Node566 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node566 [label="test_server::HPX_DEFINE\l_COMPONENT_ACTION",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d5d/structtest__server.html#ae4b57fb55833ef7e4ce21e54d2b706db"];
+  Node561 -> Node561 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

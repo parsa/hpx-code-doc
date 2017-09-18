@@ -1,0 +1,8 @@
+<map id="hpx::threads::intrusive_ptr_release" name="hpx::threads::intrusive_ptr_release">
+<area shape="rect" id="node2" href="$d3/d00/classhpx_1_1threads_1_1thread__data.html#a444a35343a3233b22f13058c33b5e848" title="hpx::threads::thread\l_data::get_pool" alt="" coords="213,5,352,47"/>
+<area shape="rect" id="node3" href="$d3/d00/classhpx_1_1threads_1_1thread__data.html#a77c5594c1b80cbc4d5dc4305698e53d6" title="hpx::threads::thread\l_data::~thread_data" alt="" coords="213,71,352,112"/>
+<area shape="rect" id="node7" href="$da/db1/classboost_1_1lockfree_1_1caching__freelist.html#a202a36f5d49b9c0dff5caab4f4d8dae8" title="boost::lockfree::caching\l_freelist::deallocate" alt="" coords="203,136,363,177"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#a88bd6338b161faa1513422a6e9e456e9" title="hpx::threads::free\l_thread_exit_callbacks" alt="" coords="415,39,569,80"/>
+<area shape="rect" id="node6" href="$d7/d28/namespacehpx_1_1threads.html#a3ce97cba2f2807d8ffe0eda6ade58b93" title="hpx::threads::get_thread\l_phase" alt="" coords="411,104,573,145"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="621,46,796,73"/>
+</map>

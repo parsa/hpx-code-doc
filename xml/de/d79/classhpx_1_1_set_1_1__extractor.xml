@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="de/d79/classhpx_1_1_set_1_1__extractor" kind="class" language="Python" prot="public">
+    <compoundname>hpx::Set::_extractor</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">object</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="de/d79/classhpx_1_1_set_1_1__extractor_1a7a12581e3c021db3f19ef792a0932e39" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def hpx.Set._extractor.key</definition>
+        <argsstring>(self, node)</argsstring>
+        <name>key</name>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <param>
+          <type>node</type>
+          <defname>node</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" line="119" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" bodystart="119" bodyend="121"/>
+      </memberdef>
+      <memberdef kind="function" id="de/d79/classhpx_1_1_set_1_1__extractor_1a05edc7e61de88782aa63971c296dcf9c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def hpx.Set._extractor.value</definition>
+        <argsstring>(self, node)</argsstring>
+        <name>value</name>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <param>
+          <type>node</type>
+          <defname>node</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" line="122" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" bodystart="122" bodyend="124"/>
+      </memberdef>
+      <memberdef kind="function" id="de/d79/classhpx_1_1_set_1_1__extractor_1a21c59015a17184ffc595e0c192f91ec1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def hpx.Set._extractor.make_type</definition>
+        <argsstring>(self, key, value)</argsstring>
+        <name>make_type</name>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <param>
+          <type><ref refid="de/d79/classhpx_1_1_set_1_1__extractor_1a7a12581e3c021db3f19ef792a0932e39" kindref="member">key</ref></type>
+          <defname>key</defname>
+        </param>
+        <param>
+          <type><ref refid="db/d16/structvalue" kindref="compound">value</ref></type>
+          <defname>value</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" line="125" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" bodystart="125" bodyend="127"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="5">
+        <label>object</label>
+      </node>
+      <node id="4">
+        <label>hpx.Set._extractor</label>
+        <link refid="de/d79/classhpx_1_1_set_1_1__extractor"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="7">
+        <label>object</label>
+      </node>
+      <node id="6">
+        <label>hpx.Set._extractor</label>
+        <link refid="de/d79/classhpx_1_1_set_1_1__extractor"/>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" line="117" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" bodystart="117" bodyend="127"/>
+    <listofallmembers>
+      <member refid="de/d79/classhpx_1_1_set_1_1__extractor_1a7a12581e3c021db3f19ef792a0932e39" prot="public" virt="non-virtual"><scope>hpx::Set::_extractor</scope><name>key</name></member>
+      <member refid="de/d79/classhpx_1_1_set_1_1__extractor_1a21c59015a17184ffc595e0c192f91ec1" prot="public" virt="non-virtual"><scope>hpx::Set::_extractor</scope><name>make_type</name></member>
+      <member refid="de/d79/classhpx_1_1_set_1_1__extractor_1a05edc7e61de88782aa63971c296dcf9c" prot="public" virt="non-virtual"><scope>hpx::Set::_extractor</scope><name>value</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

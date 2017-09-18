@@ -1,0 +1,35 @@
+<map id="hpx::parallel::execution::sequenced_task_policy::parameters" name="hpx::parallel::execution::sequenced_task_policy::parameters">
+<area shape="rect" id="node2" href="$d1/da8/structhpx_1_1parallel_1_1execution_1_1sequenced__task__policy.html#a78110383396d55281a65ce9a1059ebb4" title="hpx::parallel::execution\l::sequenced_task_policy::on" alt="" coords="220,99,408,141"/>
+<area shape="rect" id="node3" href="$d2/d37/structhpx_1_1parallel_1_1execution_1_1sequenced__policy.html#a03a6b90870b964ae3209f26b5e57e00c" title="hpx::parallel::execution\l::sequenced_policy::on" alt="" coords="236,165,392,206"/>
+<area shape="rect" id="node6" href="$da/d55/structhpx_1_1parallel_1_1execution_1_1parallel__task__policy.html#a0cb10e7de3382338815d253e4fec1171" title="hpx::parallel::execution\l::parallel_task_policy::on" alt="" coords="231,477,397,518"/>
+<area shape="rect" id="node21" href="$d9/df4/structhpx_1_1parallel_1_1execution_1_1parallel__policy.html#a60d4707ab6d8c849399c4c461a822ce0" title="hpx::parallel::execution\l::parallel_policy::on" alt="" coords="236,230,392,271"/>
+<area shape="rect" id="node4" href="$dd/dda/foreach__executors__v1_8cpp.html#a4b41af5e421380182d16c0b24f5eb7b0" title="for_each_executors_test" alt="" coords="472,5,636,32"/>
+<area shape="rect" id="node5" href="$dd/dda/foreach__executors__v1_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="750,5,829,32"/>
+<area shape="rect" id="node7" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a1186b3f6aa7198ada6c81f987e08f85b" title="hpx::parallel::v1::\lrotate" alt="" coords="494,630,614,671"/>
+<area shape="rect" id="node8" href="$d9/dbd/structpartition__server.html#a6642286bc38b9bed88cc6423d181b87f" title="partition_server::do_work" alt="" coords="707,456,872,483"/>
+<area shape="rect" id="node10" href="$d7/d5d/rotate_8cpp.html#ab8a8520d8bdef3f9022bc5377426d949" title="test_rotate" alt="" coords="747,507,831,533"/>
+<area shape="rect" id="node12" href="$d7/d5d/rotate_8cpp.html#ae3e37eb13d1c555e7ec861e99599cecb" title="test_rotate_async" alt="" coords="726,557,853,584"/>
+<area shape="rect" id="node13" href="$d7/d5d/rotate_8cpp.html#a84f60bd76e1e8fe9ecce9b0b1ae38bea" title="test_rotate_exception" alt="" coords="716,608,863,635"/>
+<area shape="rect" id="node15" href="$d7/d5d/rotate_8cpp.html#a472f3593addc133bd849ff486e2a4e9a" title="test_rotate_exception\l_async" alt="" coords="716,659,863,701"/>
+<area shape="rect" id="node16" href="$d7/d5d/rotate_8cpp.html#ae74a2766c7d66fa2c13743d2d7b75fa9" title="test_rotate_bad_alloc" alt="" coords="716,725,863,752"/>
+<area shape="rect" id="node18" href="$d7/d5d/rotate_8cpp.html#a02745132ec799d5c6af870c3350a7454" title="test_rotate_bad_alloc\l_async" alt="" coords="716,777,863,818"/>
+<area shape="rect" id="node19" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#acc6f55c3bfc3aecae26cb8a73e3e2563" title="hpx::parallel::v1::\lrotate" alt="" coords="729,842,849,883"/>
+<area shape="rect" id="node20" href="$d8/d52/classhpx_1_1threads_1_1policies_1_1shared__priority__scheduler.html#a6b50d46539ac974cbe2706f56c2fbc3f" title="hpx::threads::policies\l::shared_priority_scheduler\l::on_start_thread" alt="" coords="700,908,879,964"/>
+<area shape="rect" id="node9" href="$d9/dbd/structpartition__server.html#a80906893b5b6771003acbf3fcfec37cf" title="partition_server::partition\l_server" alt="" coords="927,449,1089,490"/>
+<area shape="rect" id="node11" href="$d7/d5d/rotate_8cpp.html#ae9e7ca0d224acd1e52ac006b1b1249e6" title="test_rotate" alt="" coords="966,536,1050,563"/>
+<area shape="rect" id="node14" href="$d7/d5d/rotate_8cpp.html#aa448ed0e1a24642b5baaa5bb029abfc1" title="test_rotate_exception" alt="" coords="935,637,1081,664"/>
+<area shape="rect" id="node17" href="$d7/d5d/rotate_8cpp.html#a6945fe3952a002c1c4536cb98882a9bf" title="test_rotate_bad_alloc" alt="" coords="935,755,1081,781"/>
+<area shape="rect" id="node22" href="$d2/de8/structhpx_1_1compute_1_1host_1_1block__allocator.html#af22eecbbc8ea06ffff3855dbf12fb612" title="hpx::compute::host\l::block_allocator::bulk\l_construct" alt="" coords="479,56,629,112"/>
+<area shape="rect" id="node25" href="$d2/d1e/is__executor__1691_8cpp.html#ab1825231fb9efbfb464404767c072654" title="hpx_main" alt="" coords="515,136,593,163"/>
+<area shape="rect" id="node26" href="$da/d5f/stream_8cpp.html#a1b36d8d297a41c8340c7d7ae798ce7b3" title="run_benchmark" alt="" coords="499,187,609,213"/>
+<area shape="rect" id="node27" href="$d7/df6/task__block__executor_8cpp.html#ad6203d8dade804262c36ca5f24e30b87" title="define_task_block_test1" alt="" coords="473,237,635,264"/>
+<area shape="rect" id="node30" href="$d7/df6/task__block__executor_8cpp.html#a7a2bc2977cef681540ac6747ce3fc2bc" title="define_task_block_test3" alt="" coords="473,355,635,381"/>
+<area shape="rect" id="node32" href="$d7/df6/task__block__executor_8cpp.html#a44b7827b499978ab90d38274c502d8db" title="define_task_block_exceptions\l_test1" alt="" coords="456,289,652,330"/>
+<area shape="rect" id="node33" href="$d7/df6/task__block__executor_8cpp.html#a19e7f9eaf4e1907df9435982f0b5ffb9" title="define_task_block_exceptions\l_test3" alt="" coords="456,406,652,447"/>
+<area shape="rect" id="node34" href="$dd/d3b/transpose__block__numa_8cpp.html#ad28ef2ee497cf4e13fd2685493346976" title="test_results" alt="" coords="509,472,599,499"/>
+<area shape="rect" id="node23" href="$dc/d4a/block__allocator_8cpp.html#a2925f1fe6a1a36584c3568c90a34f9fb" title="test_block_construction" alt="" coords="709,71,869,97"/>
+<area shape="rect" id="node24" href="$dc/d4a/block__allocator_8cpp.html#aad021fb470ac159eac4609ba96066d4d" title="test_bulk_allocator" alt="" coords="943,71,1073,97"/>
+<area shape="rect" id="node28" href="$d7/df6/task__block__executor_8cpp.html#ac644c88536b397c0aca8a8a996516c87" title="test_executor_task\l_block" alt="" coords="723,289,856,330"/>
+<area shape="rect" id="node29" href="$d7/df6/task__block__executor_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="969,347,1047,373"/>
+<area shape="rect" id="node31" href="$d8/d7d/task__block_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="750,355,829,381"/>
+</map>

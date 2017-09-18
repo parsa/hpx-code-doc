@@ -1,0 +1,11 @@
+<map id="test_migrate_component_from_storage" name="test_migrate_component_from_storage">
+<area shape="rect" id="node2" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a0cdfe4b8fed578eb1ce34222c0f07b03" title="hpx::components::client\l_base::get_id" alt="" coords="478,5,639,47"/>
+<area shape="rect" id="node3" href="$d8/df6/structtest__client.html#a415572be44e40d3a3a518c559cadcade" title="test_client::call" alt="" coords="261,105,371,131"/>
+<area shape="rect" id="node5" href="$d5/d76/namespacehpx_1_1components.html#a4e88298fbcd62358773ff73291e079dd" title="hpx::components::migrate\l_to_storage" alt="" coords="229,156,403,197"/>
+<area shape="rect" id="node9" href="$df/d1e/classhpx_1_1components_1_1component__storage.html#a37d670d4d95821120fe3b4fe0003148a" title="hpx::components::component\l_storage::size" alt="" coords="219,39,413,80"/>
+<area shape="rect" id="node10" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a92804c0497b7fd54232dc4349768a52c" title="hpx::components::client\l_base::reset" alt="" coords="235,221,397,263"/>
+<area shape="rect" id="node4" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="461,93,656,135"/>
+<area shape="rect" id="node6" href="$d4/dc9/namespacehpx_1_1naming.html#a974088e9850b201443d067f94afd5020" title="hpx::naming::get_locality\l_from_id" alt="" coords="475,159,642,200"/>
+<area shape="rect" id="node7" href="$d4/dc9/namespacehpx_1_1naming.html#a70eba20e5dbbfcb7b61f3302a27fd2ea" title="hpx::naming::get_id\l_from_locality_id" alt="" coords="704,129,840,171"/>
+<area shape="rect" id="node8" href="$d4/dc9/namespacehpx_1_1naming.html#af568527a84c2ea192f494afa8a236e8c" title="hpx::naming::get_locality\l_id_from_id" alt="" coords="888,159,1055,200"/>
+</map>

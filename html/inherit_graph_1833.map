@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d4/d60/structhpx_1_1util_1_1tuple__size_3_01boost_1_1array_3_01_type_00_01_size_01_4_01_4.html" title="hpx::util::tuple_size\l\&lt; boost::array\&lt; Type,\l Size \&gt; \&gt;" alt="" coords="195,5,341,61"/>
+<area shape="rect" id="node3" href="$db/dc4/structhpx_1_1util_1_1tuple__size_3_01std_1_1array_3_01_type_00_01_size_01_4_01_4.html" title="hpx::util::tuple_size\l\&lt; std::array\&lt; Type, Size \&gt; \&gt;" alt="" coords="175,86,361,127"/>
+<area shape="rect" id="node4" href="$d6/d2a/structhpx_1_1util_1_1tuple__size_3_01std_1_1pair_3_01_t0_00_01_t1_01_4_01_4.html" title="hpx::util::tuple_size\l\&lt; std::pair\&lt; T0, T1 \&gt; \&gt;" alt="" coords="191,151,345,193"/>
+<area shape="rect" id="node5" href="$d3/d53/structhpx_1_1util_1_1tuple__size_3_01tuple_3_01_ts_8_8_8_01_4_01_4.html" title="hpx::util::tuple_size\l\&lt; tuple\&lt; Ts... \&gt; \&gt;" alt="" coords="201,217,335,258"/>
+</map>

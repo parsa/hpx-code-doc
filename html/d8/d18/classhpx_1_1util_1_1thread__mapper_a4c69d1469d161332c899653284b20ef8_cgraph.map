@@ -1,0 +1,6 @@
+<map id="hpx::util::thread_mapper::register_thread" name="hpx::util::thread_mapper::register_thread">
+<area shape="rect" id="node2" href="$d8/d3c/simple__future__continuation_8cpp.html#a64b28a4bbb16e7f78fc14c60466ddd8d" title="get_id" alt="" coords="275,5,332,32"/>
+<area shape="rect" id="node3" href="$d8/d18/classhpx_1_1util_1_1thread__mapper.html#a620e44332e4f3f4f3f049338b8668baf" title="hpx::util::thread_mapper\l::unmap_thread" alt="" coords="222,57,385,98"/>
+<area shape="rect" id="node4" href="$d8/d18/classhpx_1_1util_1_1thread__mapper.html#a6eb001f8cece8583eaf824b33ce82da9" title="hpx::util::thread_mapper\l::get_system_thread_id" alt="" coords="222,122,385,163"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="216,188,391,215"/>
+</map>

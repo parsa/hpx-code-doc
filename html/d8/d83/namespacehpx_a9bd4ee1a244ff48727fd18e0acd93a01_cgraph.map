@@ -1,0 +1,5 @@
+<map id="hpx::get_hpx_category" name="hpx::get_hpx_category">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a85f3b20610fd5574944755b42b6e0db4" title="Returns generic HPX error category used for errors re&#45;thrown after the exception has been de&#45;serializ..." alt="" coords="212,5,359,47"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#a08214b6b9426c6efd99199014d6b5900" title="hpx::get_lightweight\l_hpx_category" alt="" coords="217,71,354,112"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#aa10e5fae14d428e033653e0c521197d5" title="Returns generic HPX error category used for new errors. " alt="" coords="208,137,363,163"/>
+</map>

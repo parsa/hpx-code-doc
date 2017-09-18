@@ -1,0 +1,7 @@
+<map id="hpx::performance_counters::registry::get_counter_discovery_function" name="hpx::performance_counters::registry::get_counter_discovery_function">
+<area shape="rect" id="node2" href="$d0/d36/namespacehpx_1_1performance__counters.html#afaa6f73101dfefe157a14aace0fed711" title="Return the readable name of a given counter type. " alt="" coords="242,5,421,47"/>
+<area shape="rect" id="node3" href="$d0/d36/namespacehpx_1_1performance__counters.html#a02f879175b5bb99013a8c79f66e57213" title="hpx::performance_counters\l::status_is_valid" alt="" coords="242,71,421,112"/>
+<area shape="rect" id="node4" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#a295ca66d734c3f5b8e499f780f4223b7" title="hpx::performance_counters\l::registry::locate_counter_type" alt="" coords="232,136,431,177"/>
+<area shape="rect" id="node6" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="244,202,419,229"/>
+<area shape="rect" id="node5" href="$d0/d36/namespacehpx_1_1performance__counters.html#a02484881ca812cb4266f73acd18e0897" title="Fill the given counter_type_path_elements instance from the given full name of a counter type..." alt="" coords="479,129,657,185"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="test_component_call_future_void" name="test_component_call_future_void">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="223,38,326,65"/>
+<area shape="rect" id="node6" href="$d2/dc9/namespacehpx_1_1lcos.html#aa22f424df487aac588e30b71f15dd2fe" title="hpx::lcos::wait_all" alt="" coords="211,89,338,115"/>
+<area shape="rect" id="node7" href="$db/d8a/action__invoke__no__more__than_8cpp.html#acb8e67d9184dfd10c8fe2df50b380b67" title="count_plain_void" alt="" coords="216,139,333,166"/>
+<area shape="rect" id="node8" href="$db/d8a/action__invoke__no__more__than_8cpp.html#a30dbfcc62c1587f1db353993a9be431e" title="count_plain_future_void" alt="" coords="197,190,353,217"/>
+<area shape="rect" id="node9" href="$db/d8a/action__invoke__no__more__than_8cpp.html#a5aa9dea7d98aac9bac5a3fad7d09f681" title="count_active_plain_void" alt="" coords="196,241,353,267"/>
+<area shape="rect" id="node10" href="$db/d8a/action__invoke__no__more__than_8cpp.html#a3e183f91b4aa539c02a74cd702919c71" title="count_active_plain\l_future_void" alt="" coords="211,292,339,333"/>
+<area shape="rect" id="node3" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="401,13,584,39"/>
+<area shape="rect" id="node5" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="413,63,573,90"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="632,5,795,47"/>
+</map>

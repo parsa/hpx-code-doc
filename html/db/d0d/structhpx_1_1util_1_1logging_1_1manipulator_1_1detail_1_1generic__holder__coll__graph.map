@@ -1,0 +1,7 @@
+<map id="hpx::util::logging::manipulator::detail::generic_holder&lt; generic_type, manipulator_base &gt;" name="hpx::util::logging::manipulator::detail::generic_holder&lt; generic_type, manipulator_base &gt;">
+<area shape="rect" id="node2" href="$d8/d06/structhpx_1_1util_1_1logging_1_1manipulator_1_1class__.html" title="hpx::util::logging\l::manipulator::class\l_\&lt; generic_holder\&lt; generic\l_type, manipulator_base \&gt;\l, implement_op_equal::has\l_context, manipulator_base \&gt;" alt="" coords="641,34,836,134"/>
+<area shape="rect" id="node4" href="$d3/df9/structhpx_1_1util_1_1logging_1_1manipulator_1_1detail_1_1op__equal__base.html" title="hpx::util::logging\l::manipulator::detail\l::op_equal_base\&lt; op_e \&gt;" alt="" coords="417,56,587,112"/>
+<area shape="rect" id="node5" href="$d5/d01/structhpx_1_1util_1_1logging_1_1op__equal_1_1same__type__op__equal.html" title="hpx::util::logging\l::op_equal::same_type\l_op_equal\&lt; generic_holder\l\&lt; generic_type, manipulator\l_base \&gt; \&gt;" alt="" coords="411,136,593,221"/>
+<area shape="rect" id="node6" href="$d0/d91/structhpx_1_1util_1_1logging_1_1op__equal_1_1same__type__op__equal__base.html" title="Base class when you want to implement operator== that will compare based on type and member operator=..." alt="" coords="208,151,363,207"/>
+<area shape="rect" id="node7" href="$d4/d6e/structhpx_1_1util_1_1logging_1_1op__equal_1_1same__type__op__equal__top.html" title="hpx::util::logging\l::op_equal::same_type\l_op_equal_top" alt="" coords="5,151,160,207"/>
+</map>

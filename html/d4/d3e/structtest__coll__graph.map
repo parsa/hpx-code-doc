@@ -1,0 +1,10 @@
+<map id="test" name="test">
+<area shape="rect" id="node2" href="$d9/dad/classhpx_1_1components_1_1client__base.html" title="hpx::components::client\l_base\&lt; test, test_server \&gt;" alt="" coords="816,73,991,115"/>
+<area shape="rect" id="node3" href="$de/dfa/structhpx_1_1components_1_1stub__base.html" title="detail::make_stub\&lt;\l test_server &#160;\&gt;::type" alt="" coords="570,5,705,47"/>
+<area shape="rect" id="node9" href="$d2/d78/structtest_1_1data__good.html" title="test::data_good" alt="" coords="847,149,959,175"/>
+<area shape="rect" id="node10" href="$d8/d13/structhpx_1_1performance__counters_1_1counter__path__elements.html" title="hpx::performance_counters\l::counter_path_elements" alt="" coords="548,183,727,224"/>
+<area shape="rect" id="node11" href="$dd/db6/structhpx_1_1performance__counters_1_1counter__type__path__elements.html" title="hpx::performance_counters\l::counter_type_path_elements" alt="" coords="195,275,392,316"/>
+<area shape="rect" id="node5" href="$d1/d7b/classhpx_1_1components_1_1managed__component__base.html" title="hpx::components::managed\l_component_base\&lt; test \&gt;" alt="" coords="812,213,995,255"/>
+<area shape="rect" id="node6" href="$df/d31/structhpx_1_1traits_1_1detail_1_1managed__component__tag.html" title="hpx::traits::detail\l::managed_component_tag" alt="" coords="548,248,727,289"/>
+<area shape="rect" id="node7" href="$d0/d33/structtest_1_1dummy__parameters.html" title="test::dummy_parameters" alt="" coords="820,306,987,333"/>
+</map>

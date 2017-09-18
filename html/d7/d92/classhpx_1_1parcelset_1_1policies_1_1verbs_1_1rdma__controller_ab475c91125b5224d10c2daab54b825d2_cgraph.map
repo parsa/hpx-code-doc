@@ -1,0 +1,7 @@
+<map id="hpx::parcelset::policies::verbs::rdma_controller::setCompletionFunction" name="hpx::parcelset::policies::verbs::rdma_controller::setCompletionFunction">
+<area shape="rect" id="node2" href="$d7/d92/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1rdma__controller.html#adb94af7e66eb8f874cbe549448f4c6c5" title="hpx::parcelset::policies\l::verbs::rdma_controller\l::refill_client_receives" alt="" coords="221,5,378,61"/>
+<area shape="rect" id="node3" href="$d7/d92/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1rdma__controller.html#acec42e28a2339d64c818ea5e899a4da1" title="hpx::parcelset::policies\l::verbs::rdma_controller\l::connect_to_server" alt="" coords="221,85,378,141"/>
+<area shape="rect" id="node4" href="$d7/d92/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1rdma__controller.html#a07ec31497775b4c2a85556a880f12995" title="hpx::parcelset::policies\l::verbs::rdma_controller\l::disconnect_from_server" alt="" coords="216,165,383,221"/>
+<area shape="rect" id="node5" href="$d7/d92/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1rdma__controller.html#af7dbd42d479fab69df87adb9535fb58e" title="hpx::parcelset::policies\l::verbs::rdma_controller\l::disconnect_all" alt="" coords="221,245,378,301"/>
+<area shape="rect" id="node6" href="$d7/d92/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1rdma__controller.html#aa42a5dcefc41b31ae31107f785de93ba" title="hpx::parcelset::policies\l::verbs::rdma_controller\l::active" alt="" coords="221,325,378,381"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="counter::reset" name="counter::reset">
+<area shape="rect" id="node2" href="$dd/d64/function__args_8cpp.html#a6ea18bad76f2ee03f239bc0cbebdc1c8" title="test_by_value" alt="" coords="187,5,289,32"/>
+<area shape="rect" id="node4" href="$dd/d64/function__args_8cpp.html#ab299efc6cd5ae0a97d6d589880339246" title="test_by_lvalue_ref" alt="" coords="175,56,301,83"/>
+<area shape="rect" id="node5" href="$dd/d64/function__args_8cpp.html#ab895f67b3ec23b87a0c7a103ec7ede5c" title="test_by_const_lvalue_ref" alt="" coords="156,107,320,133"/>
+<area shape="rect" id="node6" href="$dd/d64/function__args_8cpp.html#aa22cdfca056e2c37252b7f9537fbb1d3" title="test_by_rvalue_ref" alt="" coords="175,157,301,184"/>
+<area shape="rect" id="node3" href="$dd/d64/function__args_8cpp.html#a81ce304348a420752ee080480d2b3095" title="main" alt="" coords="368,81,419,108"/>
+</map>

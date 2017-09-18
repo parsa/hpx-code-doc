@@ -1,0 +1,29 @@
+<map id="affinity_data.cpp" name="affinity_data.cpp">
+<area shape="rect" id="node2" href="$d3/d5f/error__code_8hpp.html" title="hpx/error_code.hpp" alt="" coords="194,266,328,293"/>
+<area shape="rect" id="node17" href="$d5/d5b/config__entry_8hpp.html" title="hpx/runtime/config\l_entry.hpp" alt="" coords="1001,437,1129,479"/>
+<area shape="rect" id="node21" href="$dc/d0d/cpu__mask_8hpp.html" title="hpx/runtime/threads\l/cpu_mask.hpp" alt="" coords="1788,348,1926,389"/>
+<area shape="rect" id="node22" href="$d2/d54/assert_8hpp.html" title="hpx/util/assert.hpp" alt="" coords="1154,445,1283,471"/>
+<area shape="rect" id="node27" href="$df/df1/affinity__data_8hpp.html" title="hpx/runtime/threads\l/policies/affinity_data.hpp" alt="" coords="1441,169,1609,211"/>
+<area shape="rect" id="node33" href="$d4/d13/runtime_2resource_2detail_2partitioner_8hpp.html" title="hpx/runtime/resource\l/detail/partitioner.hpp" alt="" coords="2425,80,2569,121"/>
+<area shape="rect" id="node40" href="$dc/dbc/command__line__handling_8hpp.html" title="hpx/util/command_line\l_handling.hpp" alt="" coords="3322,259,3474,300"/>
+<area shape="rect" id="node45" href="$d2/d60/safe__lexical__cast_8hpp.html" title="hpx/util/safe_lexical\l_cast.hpp" alt="" coords="4218,437,4354,479"/>
+<area shape="rect" id="node3" href="$d8/dfd/config_8hpp.html" title="hpx/config.hpp" alt="" coords="1638,623,1745,650"/>
+<area shape="rect" id="node7" href="$d9/d99/error_8hpp.html" title="hpx/error.hpp" alt="" coords="356,534,454,561"/>
+<area shape="rect" id="node10" href="$de/dd9/exception__fwd_8hpp.html" title="hpx/exception_fwd.hpp" alt="" coords="457,355,612,382"/>
+<area shape="rect" id="node11" href="$d7/d3a/throw__exception_8hpp.html" title="hpx/throw_exception.hpp" alt="" coords="451,445,618,471"/>
+<area shape="rect" id="node4" href="$df/d6a/attributes_8hpp.html" title="hpx/config/attributes.hpp" alt="" coords="1490,705,1654,732"/>
+<area shape="rect" id="node5" href="$d2/d97/compiler__specific_8hpp.html" title="hpx/config/compiler\l_specific.hpp" alt="" coords="1564,780,1699,821"/>
+<area shape="rect" id="node6" href="$de/d38/branch__hints_8hpp.html" title="hpx/config/branch_hints.hpp" alt="" coords="1729,705,1913,732"/>
+<area shape="rect" id="node14" href="$dd/d54/warnings__prefix_8hpp.html" title="hpx/config/warnings\l_prefix.hpp" alt="" coords="780,527,916,568"/>
+<area shape="rect" id="node15" href="$dc/dd1/warnings__suffix_8hpp.html" title="hpx/config/warnings\l_suffix.hpp" alt="" coords="1417,527,1553,568"/>
+<area shape="rect" id="node18" href="$d4/d46/util__fwd_8hpp.html" title="hpx/util_fwd.hpp" alt="" coords="1729,534,1844,561"/>
+<area shape="rect" id="node28" href="$df/d4b/topology_8hpp.html" title="hpx/runtime/threads\l/topology.hpp" alt="" coords="1902,259,2039,300"/>
+<area shape="rect" id="node34" href="$d9/d89/lcos_2local_2spinlock_8hpp.html" title="hpx/lcos/local/spinlock.hpp" alt="" coords="2185,355,2364,382"/>
+<area shape="rect" id="node35" href="$d9/dec/runtime_2resource_2partitioner_8hpp.html" title="hpx/runtime/resource\l/partitioner.hpp" alt="" coords="2560,348,2704,389"/>
+<area shape="rect" id="node36" href="$dc/d89/runtime__mode_8hpp.html" title="hpx/runtime/runtime\l_mode.hpp" alt="" coords="3104,437,3242,479"/>
+<area shape="rect" id="node49" href="$d3/d6f/tuple_8hpp.html" title="hpx/util/tuple.hpp" alt="" coords="2959,445,3080,471"/>
+<area shape="rect" id="node37" href="$d7/d7c/function_8hpp.html" title="hpx/util/function.hpp" alt="" coords="2745,445,2884,471"/>
+<area shape="rect" id="node41" href="$d5/df5/hpx__init_8hpp.html" title="hpx/hpx_init.hpp" alt="" coords="3549,355,3666,382"/>
+<area shape="rect" id="node44" href="$d4/d01/manage__config_8hpp.html" title="hpx/util/manage_config.hpp" alt="" coords="3836,355,4016,382"/>
+<area shape="rect" id="node47" href="$d6/dbd/runtime__configuration_8hpp.html" title="hpx/util/runtime_configuration.hpp" alt="" coords="3056,355,3272,382"/>
+</map>

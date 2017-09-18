@@ -1,0 +1,9 @@
+<map id="hpx::util::logging::destination::detail::rolling_file_info&lt; convert_dest &gt;" name="hpx::util::logging::destination::detail::rolling_file_info&lt; convert_dest &gt;">
+<area shape="rect" id="node2" href="$d8/dc5/structhpx_1_1util_1_1logging_1_1destination_1_1rolling__file__settings.html" title="Settings you can pass to the rolling file. To see how it&#39;s used, see Dealing with flags..." alt="" coords="565,107,700,163"/>
+<area shape="rect" id="node3" href="$dd/dfe/structhpx_1_1util_1_1logging_1_1detail_1_1flag_1_1t.html" title="hpx::util::logging\l::detail::flag\&lt; self\l_type \&gt;::t\&lt; unsigned \&gt;" alt="" coords="239,14,393,70"/>
+<area shape="rect" id="node4" href="$d2/d11/structhpx_1_1util_1_1logging_1_1detail_1_1flag__with__self__type.html" title="hpx::util::logging\l::detail::flag_with\l_self_type\&lt; self_type,\l unsigned \&gt;" alt="" coords="23,5,172,76"/>
+<area shape="rect" id="node5" href="$dd/dfe/structhpx_1_1util_1_1logging_1_1detail_1_1flag_1_1t.html" title="hpx::util::logging\l::detail::flag\&lt; self\l_type \&gt;::t\&lt; bool \&gt;" alt="" coords="253,107,379,163"/>
+<area shape="rect" id="node6" href="$d2/d11/structhpx_1_1util_1_1logging_1_1detail_1_1flag__with__self__type.html" title="hpx::util::logging\l::detail::flag_with\l_self_type\&lt; self_type,\l bool \&gt;" alt="" coords="23,100,172,171"/>
+<area shape="rect" id="node7" href="$dd/dfe/structhpx_1_1util_1_1logging_1_1detail_1_1flag_1_1t.html" title="hpx::util::logging\l::detail::flag\&lt; self\l_type \&gt;::t\&lt; std::ios\l_base::openmode \&gt;" alt="" coords="247,191,385,261"/>
+<area shape="rect" id="node8" href="$d2/d11/structhpx_1_1util_1_1logging_1_1detail_1_1flag__with__self__type.html" title="hpx::util::logging\l::detail::flag_with\l_self_type\&lt; self_type,\l std::ios_base::openmode \&gt;" alt="" coords="5,195,189,265"/>
+</map>

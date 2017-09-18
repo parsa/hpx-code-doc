@@ -1,0 +1,6 @@
+<map id="hpx::parcelset::policies::verbs::details::PODptr::begin" name="hpx::parcelset::policies::verbs::details::PODptr::begin">
+<area shape="rect" id="node2" href="$d1/d19/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1details_1_1_p_o_dptr.html#a8b28e88d107aab737211eb67aac884fd" title="hpx::parcelset::policies\l::verbs::details::PODptr\l\&lt; size_type \&gt;::next" alt="" coords="277,5,435,61"/>
+<area shape="rect" id="node3" href="$db/d78/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1rdma__chunk__pool.html#a1fbadb612a060137d21cd771cc6423cd" title="hpx::parcelset::policies\l::verbs::rdma_chunk_pool\l\&lt; hpx::parcelset::policies\l::verbs::memory_region_allocator\l \&gt;::release_memory" alt="" coords="249,85,463,171"/>
+<area shape="rect" id="node4" href="$db/d78/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1rdma__chunk__pool.html#a86d49f4bafc74638ee3ad6035ef8d8b6" title="hpx::parcelset::policies\l::verbs::rdma_chunk_pool\l\&lt; hpx::parcelset::policies\l::verbs::memory_region_allocator\l \&gt;::purge_memory" alt="" coords="249,195,463,280"/>
+<area shape="rect" id="node5" href="$db/d78/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1rdma__chunk__pool.html#aa6cb07c10d882ff9a5e34633ab2b47c0" title="finds which POD in the list &#39;chunk&#39; was allocated from. " alt="" coords="249,304,463,389"/>
+</map>

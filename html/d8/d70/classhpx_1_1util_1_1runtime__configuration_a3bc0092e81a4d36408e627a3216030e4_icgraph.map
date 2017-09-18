@@ -1,0 +1,10 @@
+<map id="hpx::util::runtime_configuration::get_num_localities" name="hpx::util::runtime_configuration::get_num_localities">
+<area shape="rect" id="node2" href="$d9/dab/classhpx_1_1lcos_1_1barrier.html#a1fcac5ce49dd1b9800affc8c8b84e4c9" title="hpx::lcos::barrier\l::wait" alt="" coords="217,5,335,47"/>
+<area shape="rect" id="node4" href="$dc/d54/namespacehpx_1_1agas.html#a3c98dc053a97fca0f3f3b5719d9f8336" title="hpx::agas::register\l_worker" alt="" coords="211,71,341,112"/>
+<area shape="rect" id="node6" href="$dc/d54/namespacehpx_1_1agas.html#ac6fc2c0c43b89634249428c189ddf26c" title="hpx::agas::get_number\l_of_bootstrap_connections" alt="" coords="187,136,365,177"/>
+<area shape="rect" id="node7" href="$db/d9f/classhpx_1_1parcelset_1_1policies_1_1libfabric_1_1libfabric__controller.html#a96eeb6553564bb53a45fd8e516afe9b1" title="hpx::parcelset::policies\l::libfabric::libfabric\l_controller::initialize\l_localities" alt="" coords="198,201,354,272"/>
+<area shape="rect" id="node8" href="$d8/d83/namespacehpx.html#a68d4aa44bb8e58c6b0a6aff2920fdd8d" title="Return the number of localities which were registered at startup for the running application. " alt="" coords="207,296,345,337"/>
+<area shape="rect" id="node9" href="$d0/d07/system__characteristics_8hpp.html#ab89dcd3f8f12bd35634d3849f0e93d90" title="print_system_characteristics" alt="" coords="181,362,371,389"/>
+<area shape="rect" id="node3" href="$d3/d41/classhpx_1_1process_1_1process.html#acc7ec4687f3bf5ae121ef7b494d991d8" title="hpx.process.process.join" alt="" coords="419,13,585,39"/>
+<area shape="rect" id="node5" href="$de/dae/structhpx_1_1agas_1_1notification__header.html#aa028cf0e80baf9259523c340c4568634" title="hpx::agas::notification\l_header::serialize" alt="" coords="427,71,577,112"/>
+</map>

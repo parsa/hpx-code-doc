@@ -1,0 +1,30 @@
+digraph "hpx::parcelset::rma_memory_pool&lt; RegionProvider &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node2 [label="hpx::parcelset::rma\l_memory_pool\< RegionProvider \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" tiny_" ,fontname="Helvetica"];
+  Node3 [label="hpx::parcelset::pool\l_container\< RegionProvider,\l hpx::parcelset::memory_region\l_allocator, hpx::parcelset::pool\l_tiny, RDMA_POOL_1K_CHUNK_SIZE,\l RDMA_POOL_MAX_1K_CHUNKS \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d3e/structhpx_1_1parcelset_1_1pool__container.html"];
+  Node4 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" accesses_\nin_use_" ,fontname="Helvetica"];
+  Node4 [label="hpx::parcelset::performance\l_counter\< unsigned int \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d19/structhpx_1_1parcelset_1_1performance__counter.html"];
+  Node5 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< unsigned int \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::parcelset::performance\l_counter\< T, enabled, Enable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d19/structhpx_1_1parcelset_1_1performance__counter.html"];
+  Node6 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< RegionProvider, hpx\l::parcelset::memory_region\l_allocator, hpx::parcelset\l::pool_tiny, RDMA_POOL_1K_CHUNK\l_SIZE, RDMA_POOL_MAX_1K_CHUNKS \>" ,fontname="Helvetica"];
+  Node6 [label="hpx::parcelset::pool\l_container\< RegionProvider,\l Allocator, PoolType, ChunkSize,\l MaxChunks \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d3e/structhpx_1_1parcelset_1_1pool__container.html"];
+  Node4 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" accesses_\nin_use_" ,fontname="Helvetica"];
+  Node7 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" user_regions\ntemp_regions" ,fontname="Helvetica"];
+  Node7 [label="hpx::util::atomic_count",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d59/classhpx_1_1util_1_1atomic__count.html"];
+  Node8 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" small_" ,fontname="Helvetica"];
+  Node8 [label="hpx::parcelset::pool\l_container\< RegionProvider,\l hpx::parcelset::memory_region\l_allocator, hpx::parcelset::pool\l_small, RDMA_POOL_SMALL_CHUNK_SIZE,\l RDMA_POOL_MAX_SMALL_CHUNKS \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d3e/structhpx_1_1parcelset_1_1pool__container.html"];
+  Node4 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" accesses_\nin_use_" ,fontname="Helvetica"];
+  Node6 -> Node8 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< RegionProvider, hpx\l::parcelset::memory_region\l_allocator, hpx::parcelset\l::pool_small, RDMA_POOL_SMALL\l_CHUNK_SIZE, RDMA_POOL_MAX_SMALL_CHUNKS \>" ,fontname="Helvetica"];
+  Node9 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" large_" ,fontname="Helvetica"];
+  Node9 [label="hpx::parcelset::pool\l_container\< RegionProvider,\l hpx::parcelset::memory_region\l_allocator, hpx::parcelset::pool\l_large, RDMA_POOL_LARGE_CHUNK_SIZE,\l RDMA_POOL_MAX_LARGE_CHUNKS \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d3e/structhpx_1_1parcelset_1_1pool__container.html"];
+  Node4 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" accesses_\nin_use_" ,fontname="Helvetica"];
+  Node6 -> Node9 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< RegionProvider, hpx\l::parcelset::memory_region\l_allocator, hpx::parcelset\l::pool_large, RDMA_POOL_LARGE\l_CHUNK_SIZE, RDMA_POOL_MAX_LARGE_CHUNKS \>" ,fontname="Helvetica"];
+  Node10 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" medium_" ,fontname="Helvetica"];
+  Node10 [label="hpx::parcelset::pool\l_container\< RegionProvider,\l hpx::parcelset::memory_region\l_allocator, hpx::parcelset::pool\l_medium, RDMA_POOL_MEDIUM_CHUNK\l_SIZE, RDMA_POOL_MAX_MEDIUM_CHUNKS \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d3e/structhpx_1_1parcelset_1_1pool__container.html"];
+  Node4 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" accesses_\nin_use_" ,fontname="Helvetica"];
+  Node6 -> Node10 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< RegionProvider, hpx\l::parcelset::memory_region\l_allocator, hpx::parcelset\l::pool_medium, RDMA_POOL_MEDIUM\l_CHUNK_SIZE, RDMA_POOL_MAX_MEDIUM_CHUNKS \>" ,fontname="Helvetica"];
+}

@@ -1,0 +1,8 @@
+<map id="hpx::lcos::detail::dataflow_dispatch&lt; Policy, typename std::enable_if&lt; traits::is_launch_policy&lt; typename std::decay&lt; Policy &gt;::type &gt;::value &gt;::type &gt;::call" name="hpx::lcos::detail::dataflow_dispatch&lt; Policy, typename std::enable_if&lt; traits::is_launch_policy&lt; typename std::decay&lt; Policy &gt;::type &gt;::value &gt;::type &gt;::call">
+<area shape="rect" id="node2" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="257,81,300,108"/>
+<area shape="rect" id="node3" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="383,5,458,32"/>
+<area shape="rect" id="node4" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="348,56,493,83"/>
+<area shape="rect" id="node5" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="385,157,457,184"/>
+<area shape="rect" id="node6" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="595,107,682,133"/>
+<area shape="rect" id="node7" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="541,158,736,199"/>
+</map>

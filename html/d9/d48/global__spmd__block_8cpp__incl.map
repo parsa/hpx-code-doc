@@ -1,0 +1,34 @@
+<map id="global_spmd_block.cpp" name="global_spmd_block.cpp">
+<area shape="rect" id="node2" href="$d0/daa/hpx_8hpp.html" title="hpx/hpx.hpp" alt="" coords="1356,80,1449,107"/>
+<area shape="rect" id="node28" href="$df/d16/hpx__main_8hpp.html" title="hpx/hpx_main.hpp" alt="" coords="197,162,325,189"/>
+<area shape="rect" id="node31" href="$d3/d34/lcos_2spmd__block_8hpp.html" title="hpx/lcos/spmd_block.hpp" alt="" coords="2925,162,3096,189"/>
+<area shape="rect" id="node45" href="$d3/dab/lightweight__test_8hpp.html" title="hpx/util/lightweight\l_test.hpp" alt="" coords="722,408,851,449"/>
+<area shape="rect" id="node3" href="$d7/d1e/exception_8hpp.html" title="hpx/exception.hpp" alt="" coords="1033,244,1161,271"/>
+<area shape="rect" id="node17" href="$d5/deb/lcos_8hpp.html" title="hpx/include/lcos.hpp" alt="" coords="1600,162,1741,189"/>
+<area shape="rect" id="node25" href="$d6/dac/performance__counters_8hpp.html" title="hpx/include/performance\l_counters.hpp" alt="" coords="1413,155,1576,196"/>
+<area shape="rect" id="node26" href="$d5/d15/include_2runtime_8hpp.html" title="hpx/include/runtime.hpp" alt="" coords="1229,162,1389,189"/>
+<area shape="rect" id="node27" href="$df/d72/include_2util_8hpp.html" title="hpx/include/util.hpp" alt="" coords="1135,415,1270,442"/>
+<area shape="rect" id="node4" href="$d8/dfd/config_8hpp.html" title="hpx/config.hpp" alt="" coords="1808,676,1915,703"/>
+<area shape="rect" id="node6" href="$d9/d99/error_8hpp.html" title="hpx/error.hpp" alt="" coords="788,594,887,621"/>
+<area shape="rect" id="node8" href="$d3/d5f/error__code_8hpp.html" title="hpx/error_code.hpp" alt="" coords="927,415,1060,442"/>
+<area shape="rect" id="node9" href="$de/dd9/exception__fwd_8hpp.html" title="hpx/exception_fwd.hpp" alt="" coords="1135,505,1289,531"/>
+<area shape="rect" id="node10" href="$d3/d4f/exception__info_8hpp.html" title="hpx/exception_info.hpp" alt="" coords="2255,326,2409,353"/>
+<area shape="rect" id="node16" href="$d5/d24/naming__fwd_8hpp.html" title="hpx/runtime/naming\l_fwd.hpp" alt="" coords="1359,587,1495,628"/>
+<area shape="rect" id="node5" href="$de/ded/stringize_8hpp.html" title="hpx/util/detail/pp\l/stringize.hpp" alt="" coords="1524,751,1641,792"/>
+<area shape="rect" id="node11" href="$d3/d83/pack_8hpp.html" title="hpx/util/detail/pack.hpp" alt="" coords="2485,415,2641,442"/>
+<area shape="rect" id="node18" href="$dc/de2/lcos_2barrier_8hpp.html" title="hpx/lcos/barrier.hpp" alt="" coords="2048,244,2184,271"/>
+<area shape="rect" id="node19" href="$d3/d11/lcos_2future_8hpp.html" title="hpx/lcos/future.hpp" alt="" coords="2893,326,3025,353"/>
+<area shape="rect" id="node20" href="$d4/d21/launch__policy_8hpp.html" title="hpx/runtime/launch\l_policy.hpp" alt="" coords="3005,408,3137,449"/>
+<area shape="rect" id="node21" href="$d7/dd8/concepts_8hpp.html" title="hpx/traits/concepts.hpp" alt="" coords="3610,415,3769,442"/>
+<area shape="rect" id="node22" href="$d2/d54/assert_8hpp.html" title="hpx/util/assert.hpp" alt="" coords="1415,505,1545,531"/>
+<area shape="rect" id="node29" href="$d5/df5/hpx__init_8hpp.html" title="hpx/hpx_init.hpp" alt="" coords="5,244,123,271"/>
+<area shape="rect" id="node32" href="$d2/d7c/plain__actions_8hpp.html" title="hpx/include/plain_actions.hpp" alt="" coords="2114,594,2307,621"/>
+<area shape="rect" id="node33" href="$d8/d93/hpx_2lcos_2broadcast_8hpp.html" title="hpx/lcos/broadcast.hpp" alt="" coords="2651,244,2808,271"/>
+<area shape="rect" id="node34" href="$d4/d36/execution__policy_8hpp.html" title="hpx/parallel/execution\l_policy.hpp" alt="" coords="3458,319,3606,360"/>
+<area shape="rect" id="node35" href="$d1/d31/serialize_8hpp.html" title="hpx/runtime/serialization\l/serialize.hpp" alt="" coords="2767,408,2929,449"/>
+<area shape="rect" id="node36" href="$dd/d87/get__locality__id_8hpp.html" title="hpx/runtime/get_locality\l_id.hpp" alt="" coords="1396,408,1556,449"/>
+<area shape="rect" id="node37" href="$db/df7/is__action_8hpp.html" title="hpx/traits/is_action.hpp" alt="" coords="4183,415,4340,442"/>
+<area shape="rect" id="node38" href="$d3/d3f/is__iterator_8hpp.html" title="hpx/traits/is_iterator.hpp" alt="" coords="3895,415,4057,442"/>
+<area shape="rect" id="node39" href="$da/da6/first__argument_8hpp.html" title="hpx/util/first_argument.hpp" alt="" coords="3933,326,4107,353"/>
+<area shape="rect" id="node40" href="$dc/d6d/jenkins__hash_8hpp.html" title="hpx/util/jenkins_hash.hpp" alt="" coords="2037,415,2206,442"/>
+</map>

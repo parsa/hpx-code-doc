@@ -1,0 +1,7 @@
+<map id="performance_counters::sine::server::sine_counter::evaluate" name="performance_counters::sine::server::sine_counter::evaluate">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a805a6863e2633550de10e42233f6ee0b" title="Return the system uptime measure on the thread executing this call. " alt="" coords="204,46,369,73"/>
+<area shape="rect" id="node3" href="$d0/d7b/classhpx_1_1runtime.html#a85a04b7c2a3746fa0bd05f3e45068969" title="Return the system uptime measure on the thread executing this call. " alt="" coords="417,39,588,80"/>
+<area shape="rect" id="node4" href="$dd/d16/structhpx_1_1util_1_1high__resolution__clock.html#aaf1ff59c3ef8d3b70696fadb0a55842c" title="hpx::util::high_resolution\l_clock::now" alt="" coords="636,5,799,47"/>
+<area shape="rect" id="node6" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="636,71,799,112"/>
+<area shape="rect" id="node5" href="$de/db3/1d__stencil__1__omp_8cpp.html#a89e9667753dccfac455bd37a7a3a7b16" title="now" alt="" coords="847,13,892,39"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="hpx::threads::free_thread_exit_callbacks" name="hpx::threads::free_thread_exit_callbacks">
+<area shape="rect" id="node2" href="$d3/d00/classhpx_1_1threads_1_1thread__data.html#a77c5594c1b80cbc4d5dc4305698e53d6" title="hpx::threads::thread\l_data::~thread_data" alt="" coords="213,50,352,91"/>
+<area shape="rect" id="node6" href="$d3/d00/classhpx_1_1threads_1_1thread__data.html#adb6d1591ddc50cc429a1a71d3583b7e2" title="hpx::threads::thread\l_data::interrupt" alt="" coords="213,115,352,157"/>
+<area shape="rect" id="node7" href="$d3/d00/classhpx_1_1threads_1_1thread__data.html#a9cdd18ee23296647dfd3f2e47fb00d49" title="Construct a new thread. " alt="" coords="213,181,352,222"/>
+<area shape="rect" id="node8" href="$d7/d28/namespacehpx_1_1threads.html#ae3f683ad072d61249bf20c67134d604c" title="hpx::threads::interrupt\l_thread" alt="" coords="208,246,357,287"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#a05b4c9659b34ad13f3c0e2fb866bff9f" title="hpx::threads::intrusive\l_ptr_release" alt="" coords="405,50,555,91"/>
+<area shape="rect" id="node4" href="$d6/d50/structhpx_1_1threads_1_1detail_1_1manage__executor.html#ad6071a250caf4951bda3a3b611dadff2" title="hpx::threads::detail\l::manage_executor::~manage\l_executor" alt="" coords="603,5,797,61"/>
+<area shape="rect" id="node5" href="$d6/da2/classhpx_1_1threads_1_1detail_1_1executor__base.html#a2cf15a7e6fcf1613b5ba140ca67361f8" title="hpx::threads::detail\l::executor_base::create_id" alt="" coords="612,86,788,127"/>
+</map>

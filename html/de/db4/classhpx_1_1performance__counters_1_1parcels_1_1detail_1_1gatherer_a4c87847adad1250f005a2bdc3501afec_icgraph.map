@@ -1,0 +1,9 @@
+<map id="hpx::performance_counters::parcels::detail::gatherer::num_parcels" name="hpx::performance_counters::parcels::detail::gatherer::num_parcels">
+<area shape="rect" id="node2" href="$de/db4/classhpx_1_1performance__counters_1_1parcels_1_1detail_1_1gatherer.html#aa523fba63e4f5caa01ee2626cf7c2c5b" title="hpx::performance_counters\l::parcels::detail::gatherer\l::gatherer" alt="" coords="237,5,415,61"/>
+<area shape="rect" id="node3" href="$d9/d67/classhpx_1_1parcelset_1_1parcelport.html#aa8b95898d91e8d90c258c1714a26ec3a" title="Performance counter data. " alt="" coords="241,86,411,127"/>
+<area shape="rect" id="node6" href="$d9/d67/classhpx_1_1parcelset_1_1parcelport.html#ae000dfb0f2ce957e7fa057b94c1de7b9" title="number of parcels received " alt="" coords="238,151,414,193"/>
+<area shape="rect" id="node8" href="$d9/d67/classhpx_1_1parcelset_1_1parcelport.html#a1a4cb7293429f7d05bfab4baf5efae0a" title="hpx::parcelset::parcelport\l::get_pending_parcels_count" alt="" coords="232,217,420,258"/>
+<area shape="rect" id="node4" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a0c6f44051a1d2222a96554e6c9146f9c" title="hpx::parcelset::parcelhandler\l::get_parcel_send_count" alt="" coords="468,86,657,127"/>
+<area shape="rect" id="node5" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#ab9fc195c028e030164d446ca6cc08da2" title="hpx::parcelset::parcelhandler\l::register_counter_types" alt="" coords="705,119,895,161"/>
+<area shape="rect" id="node7" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#afc5a78a5ee14c93a40249b6e63109972" title="hpx::parcelset::parcelhandler\l::get_parcel_receive_count" alt="" coords="468,151,657,193"/>
+</map>

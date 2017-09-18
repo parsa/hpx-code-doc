@@ -1,0 +1,8 @@
+<map id="vector_t_server::HPX_DEFINE_COMPONENT_ACTION" name="vector_t_server::HPX_DEFINE_COMPONENT_ACTION">
+<area shape="rect" id="node2" href="$d2/d54/structvector__t__server.html#a3fc4a64763e03e82bd7382fb5dd48f48" title="vector_t_server::get_data" alt="" coords="273,5,440,32"/>
+<area shape="rect" id="node3" href="$dc/d20/structmatrix__t__server.html#ac87f5f512710ebbf649c352ad1344234" title="matrix_t_server::get_data" alt="" coords="488,31,656,57"/>
+<area shape="rect" id="node4" href="$d2/d54/structvector__t__server.html#a826d1478b1f6c419d621fe9e238f96dd" title="vector_t_server::get_elt" alt="" coords="279,107,434,133"/>
+<area shape="rect" id="node5" href="$dc/d20/structmatrix__t__server.html#ae44034e612ef57b35636d35d5d0b052c" title="matrix_t_server::get_elt" alt="" coords="493,145,651,172"/>
+<area shape="rect" id="node6" href="$d2/d54/structvector__t__server.html#a39eae9980ee78eec04d35eaaa9cd576f" title="vector_t_server::set_elt" alt="" coords="279,208,434,235"/>
+<area shape="rect" id="node7" href="$dc/d20/structmatrix__t__server.html#a5f2915b47eba26f408ebcdb47a5df751" title="matrix_t_server::set_elt" alt="" coords="493,221,651,248"/>
+</map>

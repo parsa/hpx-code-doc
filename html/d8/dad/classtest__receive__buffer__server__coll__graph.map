@@ -1,0 +1,5 @@
+<map id="test_receive_buffer_server" name="test_receive_buffer_server">
+<area shape="rect" id="node2" href="$d2/de6/classhpx_1_1components_1_1component__base.html" title="hpx::components::simple\l_component_base\&lt; test\l_receive_buffer_server \&gt;" alt="" coords="59,109,227,165"/>
+<area shape="rect" id="node3" href="$d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag.html" title="hpx::traits::detail\l::component_tag" alt="" coords="5,5,124,47"/>
+<area shape="rect" id="node4" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html" title="Global identifier for components across the HPX system. " alt="" coords="148,13,299,39"/>
+</map>

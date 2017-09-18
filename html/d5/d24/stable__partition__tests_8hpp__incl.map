@@ -1,0 +1,36 @@
+<map id="stable_partition_tests.hpp" name="stable_partition_tests.hpp">
+<area shape="rect" id="node2" href="$d5/d82/parallel__partition_8hpp.html" title="hpx/include/parallel\l_partition.hpp" alt="" coords="2595,80,2728,121"/>
+<area shape="rect" id="node43" href="$d3/dab/lightweight__test_8hpp.html" title="hpx/util/lightweight\l_test.hpp" alt="" coords="4433,616,4562,657"/>
+<area shape="rect" id="node47" href="$d5/d53/unit_2parallel_2algorithms_2test__utils_8hpp.html" title="test_utils.hpp" alt="" coords="3094,355,3194,382"/>
+<area shape="rect" id="node3" href="$db/d01/hpx_2parallel_2algorithms_2partition_8hpp.html" title="hpx/parallel/algorithms\l/partition.hpp" alt="" coords="1851,259,2003,300"/>
+<area shape="rect" id="node42" href="$d2/d20/hpx_2parallel_2container__algorithms_2partition_8hpp.html" title="hpx/parallel/container\l_algorithms/partition.hpp" alt="" coords="3269,169,3433,211"/>
+<area shape="rect" id="node4" href="$d8/dfd/config_8hpp.html" title="hpx/config.hpp" alt="" coords="2050,869,2156,896"/>
+<area shape="rect" id="node6" href="$d5/d2c/async_8hpp.html" title="hpx/async.hpp" alt="" coords="1782,534,1888,561"/>
+<area shape="rect" id="node7" href="$dd/da9/executors_2execution_8hpp.html" title="hpx/parallel/executors\l/execution.hpp" alt="" coords="1860,616,2010,657"/>
+<area shape="rect" id="node8" href="$d3/d11/lcos_2future_8hpp.html" title="hpx/lcos/future.hpp" alt="" coords="1397,713,1529,739"/>
+<area shape="rect" id="node9" href="$d7/dd8/concepts_8hpp.html" title="hpx/traits/concepts.hpp" alt="" coords="1474,795,1633,821"/>
+<area shape="rect" id="node10" href="$da/d69/is__callable_8hpp.html" title="hpx/traits/is_callable.hpp" alt="" coords="1284,795,1450,821"/>
+<area shape="rect" id="node11" href="$d2/d54/assert_8hpp.html" title="hpx/util/assert.hpp" alt="" coords="4056,795,4185,821"/>
+<area shape="rect" id="node14" href="$dd/d31/invoke_8hpp.html" title="hpx/util/invoke.hpp" alt="" coords="834,795,964,821"/>
+<area shape="rect" id="node19" href="$db/d03/lcos_2dataflow_8hpp.html" title="hpx/lcos/dataflow.hpp" alt="" coords="2167,534,2314,561"/>
+<area shape="rect" id="node21" href="$d9/d89/lcos_2local_2spinlock_8hpp.html" title="hpx/lcos/local/spinlock.hpp" alt="" coords="3218,623,3396,650"/>
+<area shape="rect" id="node24" href="$d3/d3f/is__iterator_8hpp.html" title="hpx/traits/is_iterator.hpp" alt="" coords="3431,713,3594,739"/>
+<area shape="rect" id="node25" href="$d3/df2/tagged__tuple_8hpp.html" title="hpx/util/tagged_tuple.hpp" alt="" coords="1413,623,1580,650"/>
+<area shape="rect" id="node26" href="$dd/d26/unused_8hpp.html" title="hpx/util/unused.hpp" alt="" coords="218,623,353,650"/>
+<area shape="rect" id="node27" href="$dd/dd9/algorithms_2detail_2dispatch_8hpp.html" title="hpx/parallel/algorithms\l/detail/dispatch.hpp" alt="" coords="976,437,1128,479"/>
+<area shape="rect" id="node28" href="$d8/da4/parallel_2exception__list_8hpp.html" title="hpx/parallel/exception\l_list.hpp" alt="" coords="885,616,1033,657"/>
+<area shape="rect" id="node29" href="$d4/d36/execution__policy_8hpp.html" title="hpx/parallel/execution\l_policy.hpp" alt="" coords="1166,527,1314,568"/>
+<area shape="rect" id="node30" href="$d2/d36/algorithm__result_8hpp.html" title="hpx/parallel/util/detail\l/algorithm_result.hpp" alt="" coords="496,527,640,568"/>
+<area shape="rect" id="node32" href="$db/dbf/execution__information_8hpp.html" title="hpx/parallel/executors\l/execution_information.hpp" alt="" coords="2693,527,2870,568"/>
+<area shape="rect" id="node33" href="$d0/d2f/tagspec_8hpp.html" title="hpx/parallel/tagspec.hpp" alt="" coords="3871,355,4034,382"/>
+<area shape="rect" id="node34" href="$d2/dce/projected_8hpp.html" title="hpx/parallel/traits\l/projected.hpp" alt="" coords="3472,616,3593,657"/>
+<area shape="rect" id="node35" href="$dc/df9/handle__local__exceptions_8hpp.html" title="hpx/parallel/util/detail\l/handle_local_exceptions.hpp" alt="" coords="1310,437,1504,479"/>
+<area shape="rect" id="node36" href="$d9/d12/invoke__projected_8hpp.html" title="hpx/parallel/util/invoke\l_projected.hpp" alt="" coords="28,705,178,747"/>
+<area shape="rect" id="node37" href="$d3/d67/util_2loop_8hpp.html" title="hpx/parallel/util/loop.hpp" alt="" coords="2540,623,2703,650"/>
+<area shape="rect" id="node38" href="$d2/d3f/projection__identity_8hpp.html" title="hpx/parallel/util/projection\l_identity.hpp" alt="" coords="3085,705,3254,747"/>
+<area shape="rect" id="node40" href="$dd/d59/scan__partitioner_8hpp.html" title="hpx/parallel/util/scan\l_partitioner.hpp" alt="" coords="1298,348,1439,389"/>
+<area shape="rect" id="node41" href="$d9/d08/parallel_2util_2zip__iterator_8hpp.html" title="hpx/parallel/util/zip\l_iterator.hpp" alt="" coords="1655,616,1786,657"/>
+<area shape="rect" id="node5" href="$de/ded/stringize_8hpp.html" title="hpx/util/detail/pp\l/stringize.hpp" alt="" coords="3880,944,3998,985"/>
+<area shape="rect" id="node48" href="$d5/ddf/parallel__execution__policy_8hpp.html" title="hpx/include/parallel\l_execution_policy.hpp" alt="" coords="2905,437,3056,479"/>
+<area shape="rect" id="node49" href="$df/d72/include_2util_8hpp.html" title="hpx/include/util.hpp" alt="" coords="3872,713,4006,739"/>
+</map>

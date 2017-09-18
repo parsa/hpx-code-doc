@@ -1,0 +1,10 @@
+<map id="hpx::threads::policies::local_priority_queue_scheduler::get_next_thread" name="hpx::threads::policies::local_priority_queue_scheduler::get_next_thread">
+<area shape="rect" id="node2" href="$d0/d44/classhpx_1_1threads_1_1policies_1_1thread__queue.html#ac356371f095b8424bb2da10a63f86e3e" title="hpx::threads::policies\l::thread_queue::get_next\l_thread" alt="" coords="247,5,413,61"/>
+<area shape="rect" id="node4" href="$d0/d44/classhpx_1_1threads_1_1policies_1_1thread__queue.html#a1807c18cdd1d41ffd8c015bcaf12d924" title="hpx::threads::policies\l::thread_queue::increment\l_num_pending_accesses" alt="" coords="243,85,417,141"/>
+<area shape="rect" id="node5" href="$d0/d44/classhpx_1_1threads_1_1policies_1_1thread__queue.html#aa7a1203d934018d5267aca8aec606d8d" title="hpx::threads::policies\l::thread_queue::increment\l_num_pending_misses" alt="" coords="243,165,417,221"/>
+<area shape="rect" id="node6" href="$d0/d44/classhpx_1_1threads_1_1policies_1_1thread__queue.html#a5e47adcbb0b903b540b17fb1960c0f6a" title="hpx::threads::policies\l::thread_queue::increment\l_num_stolen_from_pending" alt="" coords="240,245,420,301"/>
+<area shape="rect" id="node7" href="$d0/d99/lockfree__fifo_8cpp.html#acb158e673086fdabf3e1a826a48fcf40" title="get_next_thread" alt="" coords="273,325,387,352"/>
+<area shape="rect" id="node9" href="$d0/d44/classhpx_1_1threads_1_1policies_1_1thread__queue.html#ae82bb26527e06b376b4697cf09496dd8" title="hpx::threads::policies\l::thread_queue::increment\l_num_stolen_to_pending" alt="" coords="243,376,417,432"/>
+<area shape="rect" id="node3" href="$de/db3/1d__stencil__1__omp_8cpp.html#a89e9667753dccfac455bd37a7a3a7b16" title="now" alt="" coords="468,20,513,47"/>
+<area shape="rect" id="node8" href="$d6/d7e/nonconcurrent__fifo__overhead_8cpp.html#a39ff20c8e3b4694b87f02fecb03e4f6b" title="pop" alt="" coords="469,325,512,352"/>
+</map>

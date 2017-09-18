@@ -1,0 +1,20 @@
+<map id="hpx::lcos::local::promise&lt; void &gt;::get_future" name="hpx::lcos::local::promise&lt; void &gt;::get_future">
+<area shape="rect" id="node2" href="$df/d91/structhpx_1_1lcos_1_1local_1_1base__and__gate.html#a9cbcd9fe46997ee4fa44fe0fdf3fa395" title="get a future allowing to wait for the gate to fire " alt="" coords="238,5,401,61"/>
+<area shape="rect" id="node3" href="$dc/dd7/structhpx_1_1lcos_1_1detail_1_1barrier__node.html#aa4e3bd2f6143714f869892b8e992c45e" title="hpx::lcos::detail::\lbarrier_node::wait" alt="" coords="257,86,381,127"/>
+<area shape="rect" id="node5" href="$dc/dd7/structhpx_1_1lcos_1_1detail_1_1barrier__node.html#a6573676b4111eb5820df6dadb5cb12bb" title="hpx::lcos::detail::\lbarrier_node::gather" alt="" coords="251,151,388,193"/>
+<area shape="rect" id="node6" href="$da/d03/structhpx_1_1lcos_1_1local_1_1conditional__trigger.html#a696c83c578542704cdc4f27dab3c9ff3" title="get a future allowing to wait for the trigger to fire " alt="" coords="229,217,409,258"/>
+<area shape="rect" id="node7" href="$d0/d1f/dataflow__recursion__1613_8cpp.html#a8399a40f998e5bbdb789bbc54a1527c9" title="force_recursion_test1" alt="" coords="246,283,393,309"/>
+<area shape="rect" id="node9" href="$db/d28/exception__from__continuation__1613_8cpp.html#a22363670a48079a92099d1f0f7def774" title="test_exception_from\l_continuation1" alt="" coords="250,334,389,375"/>
+<area shape="rect" id="node11" href="$db/d28/exception__from__continuation__1613_8cpp.html#a098ea6a603da58450d5dde680762f0a7" title="test_exception_from\l_continuation2" alt="" coords="250,399,389,441"/>
+<area shape="rect" id="node12" href="$d6/d4d/future_8cpp.html#a498458f061af87d4d618d8a05e796f08" title="test_void_promise" alt="" coords="256,465,383,492"/>
+<area shape="rect" id="node14" href="$db/df1/local__promise__allocator_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="294,516,345,543"/>
+<area shape="rect" id="node15" href="$db/d0d/structhpx_1_1components_1_1migration__support.html#a2da47308438f2c4f33c3c31d061946c7" title="hpx::components::migration\l_support\&lt; hpx::components\l::component_base\&lt; test_server\l \&gt; \&gt;::mark_as_migrated" alt="" coords="217,567,421,638"/>
+<area shape="rect" id="node16" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#ad478f8b244ec822fcbcb84aa67b17497" title="hpx::parcelset::parcelhandler\l::sync_put_parcel" alt="" coords="225,662,414,703"/>
+<area shape="rect" id="node18" href="$df/db6/classhpx_1_1serialization_1_1detail_1_1preprocess.html#a56e9d0b2b323ae9b3256eed455b1bd5d" title="hpx::serialization\l::detail::preprocess\l::operator()" alt="" coords="253,728,386,784"/>
+<area shape="rect" id="node19" href="$df/d87/structhpx_1_1lcos_1_1local_1_1base__trigger.html#acd855e5088be45a4f37e95ae3b534461" title="get a future allowing to wait for the trigger to fire " alt="" coords="242,808,397,864"/>
+<area shape="rect" id="node4" href="$d3/d41/classhpx_1_1process_1_1process.html#acc7ec4687f3bf5ae121ef7b494d991d8" title="hpx.process.process.join" alt="" coords="469,93,636,120"/>
+<area shape="rect" id="node8" href="$d0/d1f/dataflow__recursion__1613_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="527,283,578,309"/>
+<area shape="rect" id="node10" href="$db/d28/exception__from__continuation__1613_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="527,375,578,401"/>
+<area shape="rect" id="node13" href="$d6/d4d/future_8cpp.html#a255f773d830db5ca937cff11c2692fa2" title="hpx_main" alt="" coords="513,465,592,492"/>
+<area shape="rect" id="node17" href="$d1/d2a/namespacehpx_1_1applier_1_1detail.html#ab69485311adeb590afa621a4b4be595d" title="hpx::applier::detail\l::apply_r_sync_p" alt="" coords="489,662,617,703"/>
+</map>

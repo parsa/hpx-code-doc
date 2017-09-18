@@ -1,0 +1,7 @@
+<map id="test_multiple_readers" name="test_multiple_readers">
+<area shape="rect" id="node2" href="$d3/d4a/classtest_1_1thread__group.html#a30f65d824e7de7d100db64060a0afa08" title="test::thread_group\l::create_thread" alt="" coords="222,5,349,47"/>
+<area shape="rect" id="node3" href="$df/db3/classhpx_1_1lcos_1_1local_1_1condition__variable.html#aedaf61bec02b674b30104c54ebf3738c" title="hpx::lcos::local::condition\l_variable::wait" alt="" coords="200,71,371,112"/>
+<area shape="rect" id="node5" href="$d3/d4a/classtest_1_1thread__group.html#a5d7d4f79d1317dac6c331b8d1c10e2ae" title="test::thread_group\l::join_all" alt="" coords="222,136,349,177"/>
+<area shape="rect" id="node6" href="$d3/d4a/classtest_1_1thread__group.html#aef941f29b3d332fa3704df13ae5e137b" title="test::thread_group\l::interrupt_all" alt="" coords="222,201,349,243"/>
+<area shape="rect" id="node4" href="$df/dad/namespacehpx_1_1util.html#a4f5b17e2809bff886e3e10868af110b8" title="hpx::util::ignore_lock" alt="" coords="419,78,561,105"/>
+</map>

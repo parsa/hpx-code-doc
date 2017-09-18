@@ -1,0 +1,5 @@
+<map id="thread_registration_wrapper::thread_registration_wrapper" name="thread_registration_wrapper::thread_registration_wrapper">
+<area shape="rect" id="node2" href="$d8/dc7/structmanage__global__runtime.html#a7d518f544691188c9bc4b29c14dc6bb4" title="manage_global_runtime\l::register_thread" alt="" coords="243,13,401,54"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#a0bdf7871dfff58e68ae5eab9af23f2aa" title="hpx::register_thread" alt="" coords="449,20,587,47"/>
+<area shape="rect" id="node4" href="$d0/d7b/classhpx_1_1runtime.html#a7d70f896b57248c228b504e9062f043c" title="Register an external OS&#45;thread with HPX. " alt="" coords="635,13,780,54"/>
+</map>

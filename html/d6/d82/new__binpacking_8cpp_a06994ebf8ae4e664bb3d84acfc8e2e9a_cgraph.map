@@ -1,0 +1,17 @@
+<map id="test_binpacking_single" name="test_binpacking_single">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a820f6ca4310861d4f6390cbd066c659b" title="Return the list of global ids representing all localities available to this application. " alt="" coords="223,93,372,119"/>
+<area shape="rect" id="node11" href="$d5/d76/namespacehpx_1_1components.html#a6ef7eba789c21591e578e62638685af0" title="hpx::components::new_" alt="" coords="217,185,377,211"/>
+<area shape="rect" id="node14" href="$db/d1c/structhpx_1_1performance__counters_1_1performance__counter.html#a246dc30a4790b7236ce3a5717ea886fa" title="hpx::performance_counters\l::performance_counter::\lget_value" alt="" coords="208,235,387,291"/>
+<area shape="rect" id="node3" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="435,13,617,39"/>
+<area shape="rect" id="node5" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="446,63,606,90"/>
+<area shape="rect" id="node6" href="$da/dcb/classhpx_1_1applier_1_1applier.html#a1d4a6d6d2a6e941d365075f597ce590f" title="hpx::applier::applier\l::get_localities" alt="" coords="459,115,593,156"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="679,5,841,47"/>
+<area shape="rect" id="node7" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#ac4cb84a74380ddbab1039ad7ab672007" title="hpx::parcelset::parcelhandler\l::get_raw_localities" alt="" coords="665,115,855,156"/>
+<area shape="rect" id="node8" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a3d263988f86b2a4c26dbb8d734540a5a" title="Query for the locality_ids of all known localities. " alt="" coords="903,115,1056,156"/>
+<area shape="rect" id="node9" href="$d4/dc9/namespacehpx_1_1naming.html#ae50a3ecdb5854b6a25a556ebc9830541" title="hpx::naming::get_gid\l_from_locality_id" alt="" coords="1104,115,1247,156"/>
+<area shape="rect" id="node10" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="1295,115,1461,156"/>
+<area shape="rect" id="node12" href="$db/d03/structhpx_1_1components_1_1detail_1_1new__component.html#a8e24d02e505059cc872cc60ccc590fbd" title="hpx::components::detail\l::new_component::call" alt="" coords="445,180,607,221"/>
+<area shape="rect" id="node13" href="$de/dfa/structhpx_1_1components_1_1stub__base.html#a352a867161e19ad1e6f5ebd321e6b2d3" title="Asynchronously create a new instance of a component. " alt="" coords="683,180,837,221"/>
+<area shape="rect" id="node15" href="$d0/d6b/1d__stencil__4__repart_8cpp.html#a8e0f0439eca934090d2b0c1f9e20baa9" title="get_counter_value" alt="" coords="463,247,589,274"/>
+<area shape="rect" id="node16" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="476,298,576,325"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="hpx::threads::thread_specific_ptr::get" name="hpx::threads::thread_specific_ptr::get">
+<area shape="rect" id="node2" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="254,13,293,39"/>
+<area shape="rect" id="node5" href="$d2/dfe/namespacehpx_1_1threads_1_1coroutines_1_1detail.html#a4ec8980db973eb7587560ad72673c968" title="hpx::threads::coroutines\l::detail::get_tss_data" alt="" coords="192,64,355,105"/>
+<area shape="rect" id="node3" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="441,13,527,39"/>
+<area shape="rect" id="node4" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="615,5,781,47"/>
+<area shape="rect" id="node6" href="$d2/dfe/namespacehpx_1_1threads_1_1coroutines_1_1detail.html#a14055ceaf3d92ffac50d6bccb0146b8f" title="hpx::threads::coroutines\l::detail::find_tss_data" alt="" coords="403,64,565,105"/>
+<area shape="rect" id="node7" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="613,71,783,98"/>
+<area shape="rect" id="node9" href="$d3/dbe/classhpx_1_1threads_1_1coroutines_1_1detail_1_1tss__storage.html#a007cc7a95b6bd8b8b88bc2ac4371e718" title="hpx::threads::coroutines\l::detail::tss_storage::find" alt="" coords="615,123,781,164"/>
+<area shape="rect" id="node8" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="831,71,977,98"/>
+</map>

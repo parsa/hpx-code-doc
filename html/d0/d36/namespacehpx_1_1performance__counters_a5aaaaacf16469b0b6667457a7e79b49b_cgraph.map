@@ -1,0 +1,5 @@
+<map id="hpx::performance_counters::get_counter" name="hpx::performance_counters::get_counter">
+<area shape="rect" id="node2" href="$d0/d36/namespacehpx_1_1performance__counters.html#aa69496dbba46619d8d3179c86801f1c7" title="Get the global id of an existing performance counter, if the counter does not exist yet..." alt="" coords="232,5,411,47"/>
+<area shape="rect" id="node3" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="251,71,392,98"/>
+<area shape="rect" id="node4" href="$d0/d36/namespacehpx_1_1performance__counters.html#a951d5705daa7ed9e5b9851a4f07be360" title="Retrieve the meta data specific for the given counter instance. " alt="" coords="232,123,411,164"/>
+</map>

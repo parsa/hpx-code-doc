@@ -1,0 +1,6 @@
+<map id="hpx::agas::server::locality_namespace::get_num_threads" name="hpx::agas::server::locality_namespace::get_num_threads">
+<area shape="rect" id="node2" href="$d2/d28/structhpx_1_1agas_1_1detail_1_1bootstrap__locality__namespace.html#a2d07998e8b45664c00005cd1ee0838a2" title="hpx::agas::detail::\lbootstrap_locality_namespace\l::get_num_threads" alt="" coords="199,5,397,61"/>
+<area shape="rect" id="node5" href="$d2/d28/structhpx_1_1agas_1_1detail_1_1bootstrap__locality__namespace.html#adb2eb481d5b0ad4f2826ed98c00c2d2f" title="hpx::agas::detail::\lbootstrap_locality_namespace\l::get_num_threads_async" alt="" coords="199,85,397,141"/>
+<area shape="rect" id="node3" href="$d2/d28/structhpx_1_1agas_1_1detail_1_1bootstrap__locality__namespace.html#a5d4dcef228d9a8e6040f2e404546a7b8" title="hpx::agas::detail::\lbootstrap_locality_namespace::ptr" alt="" coords="445,53,667,94"/>
+<area shape="rect" id="node4" href="$d2/d28/structhpx_1_1agas_1_1detail_1_1bootstrap__locality__namespace.html#a6a5b1a39f25283d49aae9a42b5c4388a" title="hpx::agas::detail::\lbootstrap_locality_namespace::addr" alt="" coords="715,53,945,94"/>
+</map>

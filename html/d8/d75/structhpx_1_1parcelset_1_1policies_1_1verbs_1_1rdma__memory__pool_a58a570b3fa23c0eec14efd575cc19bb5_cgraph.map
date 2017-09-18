@@ -1,0 +1,8 @@
+<map id="hpx::parcelset::policies::verbs::rdma_memory_pool::allocate_temporary_region" name="hpx::parcelset::policies::verbs::rdma_memory_pool::allocate_temporary_region">
+<area shape="rect" id="node2" href="$d5/d23/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1verbs__memory__region.html#a09336af14dc842c25d0651759dc8e0cc" title="hpx::parcelset::policies\l::verbs::verbs_memory_region\l::set_temp_region" alt="" coords="236,71,431,127"/>
+<area shape="rect" id="node3" href="$d5/d23/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1verbs__memory__region.html#ad8bee2a3028f754fb77cfb2b7481a06c" title="hpx::parcelset::policies\l::verbs::verbs_memory_region\l::allocate" alt="" coords="236,151,431,207"/>
+<area shape="rect" id="node6" href="$d5/d23/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1verbs__memory__region.html#a85b57ed27a363da3fc48ff7c3cd37f88" title="hpx::parcelset::policies\l::verbs::verbs_memory_region\l::get_address" alt="" coords="483,231,677,287"/>
+<area shape="rect" id="node4" href="$d0/d09/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1rdma__error.html#aae1c50977407cc7d37c43477bf85345c" title="hpx::parcelset::policies\l::verbs::rdma_error::error_string" alt="" coords="479,5,681,47"/>
+<area shape="rect" id="node5" href="$d5/d23/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1verbs__memory__region.html#a09d9007ed16ec9061a7171dcba5ecceb" title="hpx::parcelset::policies\l::verbs::verbs_memory_region\l::get_local_key" alt="" coords="483,71,677,127"/>
+<area shape="rect" id="node7" href="$d5/d23/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1verbs__memory__region.html#ae5fce20037fc5a62d759a378f67f2f43" title="hpx::parcelset::policies\l::verbs::verbs_memory_region\l::get_length" alt="" coords="483,151,677,207"/>
+</map>

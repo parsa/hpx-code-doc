@@ -1,0 +1,8 @@
+<map id="hpx::util::logging::thread_specific_ptr::reset" name="hpx::util::logging::thread_specific_ptr::reset">
+<area shape="rect" id="node2" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="231,15,270,42"/>
+<area shape="rect" id="node5" href="$dc/db8/classhpx_1_1util_1_1logging_1_1detail_1_1tss.html#abbb2eabd5a34b5801ad03ad195952426" title="hpx::util::logging\l::detail::tss::set" alt="" coords="192,68,309,109"/>
+<area shape="rect" id="node3" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="375,14,462,41"/>
+<area shape="rect" id="node4" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="539,5,704,47"/>
+<area shape="rect" id="node6" href="$d0/d2f/namespacehpx_1_1util_1_1logging_1_1detail.html#a7a97ee22a8fc2c700ee7f0003da598e2" title="hpx::util::logging\l::detail::get_slots" alt="" coords="357,68,480,109"/>
+<area shape="rect" id="node7" href="$d0/d2f/namespacehpx_1_1util_1_1logging_1_1detail.html#a90f73652281abd84864086709b598b05" title="hpx::util::logging\l::detail::tss_data_native_key" alt="" coords="528,71,715,112"/>
+</map>

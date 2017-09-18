@@ -1,0 +1,16 @@
+<map id="hpx::threads::coroutines::detail::find_tss_data" name="hpx::threads::coroutines::detail::find_tss_data">
+<area shape="rect" id="node2" href="$d2/dfe/namespacehpx_1_1threads_1_1coroutines_1_1detail.html#a4ec8980db973eb7587560ad72673c968" title="hpx::threads::coroutines\l::detail::get_tss_data" alt="" coords="216,41,379,83"/>
+<area shape="rect" id="node4" href="$d3/dbe/classhpx_1_1threads_1_1coroutines_1_1detail_1_1tss__storage.html#a451f63a99f268755c501200b504e8058" title="hpx::threads::coroutines\l::detail::tss_storage::erase" alt="" coords="427,71,604,112"/>
+<area shape="rect" id="node7" href="$d2/dfe/namespacehpx_1_1threads_1_1coroutines_1_1detail.html#a85126f59ca3809c64cfcfcae99429a67" title="hpx::threads::coroutines\l::detail::set_tss_data" alt="" coords="863,112,1025,153"/>
+<area shape="rect" id="node3" href="$d1/dd4/classhpx_1_1threads_1_1thread__specific__ptr.html#a09056b4141d66c4a52ac85d592c0988c" title="hpx::threads::thread\l_specific_ptr::get" alt="" coords="446,5,585,47"/>
+<area shape="rect" id="node5" href="$d2/dfe/namespacehpx_1_1threads_1_1coroutines_1_1detail.html#a0015b3872ea3c32ecfdc3da42ce132e8" title="hpx::threads::coroutines\l::detail::erase_tss_node" alt="" coords="652,45,815,87"/>
+<area shape="rect" id="node6" href="$d1/dd4/classhpx_1_1threads_1_1thread__specific__ptr.html#ad3e46c15fe05e660ad592e0c9797f018" title="hpx::threads::thread\l_specific_ptr::~thread\l_specific_ptr" alt="" coords="871,31,1017,87"/>
+<area shape="rect" id="node8" href="$d1/dd4/classhpx_1_1threads_1_1thread__specific__ptr.html#a8e31cd7392d00aabdc93aa9e358be1b7" title="hpx::threads::thread\l_specific_ptr::release" alt="" coords="1073,79,1219,120"/>
+<area shape="rect" id="node9" href="$d1/dd4/classhpx_1_1threads_1_1thread__specific__ptr.html#af0654936c456eaf9700979a6b43a0c85" title="hpx::threads::thread\l_specific_ptr::reset" alt="" coords="1077,144,1215,185"/>
+<area shape="rect" id="node10" href="$dc/d69/tests_2unit_2threads_2tss_8cpp.html#a34a05b59682be89efcb6f071094b0580" title="test_tss_thread" alt="" coords="1295,63,1407,90"/>
+<area shape="rect" id="node13" href="$dc/d69/tests_2unit_2threads_2tss_8cpp.html#adff6b518b18df76950dbeede8633289a" title="tss_thread_with_null\l_cleanup" alt="" coords="1281,115,1421,156"/>
+<area shape="rect" id="node14" href="$dc/d69/tests_2unit_2threads_2tss_8cpp.html#ae5a8982f0cfef7dc0e34d5c518b44e58" title="thread_with_local_tss_ptr" alt="" coords="1267,181,1436,207"/>
+<area shape="rect" id="node15" href="$dc/d69/tests_2unit_2threads_2tss_8cpp.html#a3c76bb8ad4d9b03d2b075212b535e212" title="test_tss_cleanup_not\l_called_for_null_pointer" alt="" coords="1484,169,1641,211"/>
+<area shape="rect" id="node11" href="$dc/d69/tests_2unit_2threads_2tss_8cpp.html#a0d9e811cdb56a2a84ce48358e890563b" title="test_tss" alt="" coords="1528,91,1597,118"/>
+<area shape="rect" id="node12" href="$dc/d69/tests_2unit_2threads_2tss_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1689,134,1740,161"/>
+</map>

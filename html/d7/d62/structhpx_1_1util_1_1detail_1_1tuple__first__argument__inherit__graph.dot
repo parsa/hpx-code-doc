@@ -1,0 +1,11 @@
+digraph "hpx::util::detail::tuple_first_argument&lt; Tuple &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::detail::\ltuple_first_argument\l\< Tuple \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< F::arguments_type \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::util::detail::\ltuple_first_argument\l\< F::arguments_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d55/structhpx_1_1util_1_1detail_1_1tuple__first__argument.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::util::first_argument\l\< F, typename std::enable\l_if\< hpx::traits::is_action\l\< F \>::value \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/da9/structhpx_1_1util_1_1first__argument_3_01_f_00_01typename_01std_1_1enable__if_3_01hpx_1_1traits_323232a5dd1e6ecb057f70fe55c02aa4.html"];
+}

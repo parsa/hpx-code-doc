@@ -1,0 +1,11 @@
+<map id="test_bulk_sync" name="test_bulk_sync">
+<area shape="rect" id="node2" href="$d9/d52/namespacehpx_1_1this__thread.html#a7af20818d0b5e9201ab9337d7023d47d" title="hpx::this_thread::get_id" alt="" coords="312,10,471,37"/>
+<area shape="rect" id="node6" href="$df/d04/namespacetest.html#abdbbc37e6fb67287495e853a554c493a" title="test::iota" alt="" coords="177,137,251,163"/>
+<area shape="rect" id="node7" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#a31e165df2b865cdd961f35ce938db41a" title="hpx::util::detail::\lrange_impl::begin" alt="" coords="329,104,453,145"/>
+<area shape="rect" id="node8" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#afb2ea48b0902f52ee4d8b764807b4316" title="hpx::util::detail::\lrange_impl::end" alt="" coords="334,187,449,228"/>
+<area shape="rect" id="node9" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="164,187,264,214"/>
+<area shape="rect" id="node10" href="$d7/d15/thread__pool__os__executors__v1_8cpp.html#a2b54fbca101fd1fe69aa019547748d62" title="bulk_test" alt="" coords="177,35,251,62"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#afafe0f900b9fac3d4ed3c747625c1cfe" title="hpx::threads::get_self_id" alt="" coords="519,10,683,37"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="731,10,900,37"/>
+<area shape="rect" id="node5" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="948,10,1095,37"/>
+</map>

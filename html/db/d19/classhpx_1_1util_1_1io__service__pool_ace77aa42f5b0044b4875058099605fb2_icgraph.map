@@ -1,0 +1,5 @@
+<map id="hpx::util::io_service_pool::clear_locked" name="hpx::util::io_service_pool::clear_locked">
+<area shape="rect" id="node2" href="$db/d19/classhpx_1_1util_1_1io__service__pool.html#a0c011c79b04130d910ba8e9455e710b3" title="hpx::util::io_service\l_pool::~io_service_pool" alt="" coords="188,5,345,47"/>
+<area shape="rect" id="node3" href="$db/d19/classhpx_1_1util_1_1io__service__pool.html#a1b9440191301ff4d69ee322a241e5083" title="hpx::util::io_service\l_pool::run" alt="" coords="200,71,333,112"/>
+<area shape="rect" id="node4" href="$db/d19/classhpx_1_1util_1_1io__service__pool.html#ab07ca0b9342d3e3a822e9dcc15d61ddb" title="Clear all internal data structures. " alt="" coords="200,136,333,177"/>
+</map>

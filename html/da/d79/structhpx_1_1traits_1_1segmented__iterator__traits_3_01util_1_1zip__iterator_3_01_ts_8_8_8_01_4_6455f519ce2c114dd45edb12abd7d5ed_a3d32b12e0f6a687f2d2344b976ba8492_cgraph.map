@@ -1,0 +1,4 @@
+<map id="hpx::traits::segmented_iterator_traits&lt; util::zip_iterator&lt; Ts... &gt;, typename std::enable_if&lt; util::detail::all_of&lt; typename segmented_iterator_traits&lt; Ts &gt;::is_segmented_iterator... &gt;::value &gt;::type &gt;::get_id" name="hpx::traits::segmented_iterator_traits&lt; util::zip_iterator&lt; Ts... &gt;, typename std::enable_if&lt; util::detail::all_of&lt; typename segmented_iterator_traits&lt; Ts &gt;::is_segmented_iterator... &gt;::value &gt;::type &gt;::get_id">
+<area shape="rect" id="node2" href="$d8/d3c/simple__future__continuation_8cpp.html#a64b28a4bbb16e7f78fc14c60466ddd8d" title="get_id" alt="" coords="297,23,354,50"/>
+<area shape="rect" id="node3" href="$d8/d23/classhpx_1_1util_1_1detail_1_1zip__iterator__base.html#a732cc63a546559183c8ecb21d63aec21" title="hpx::util::detail::\lzip_iterator_base::get\l_iterator_tuple" alt="" coords="252,74,399,130"/>
+</map>

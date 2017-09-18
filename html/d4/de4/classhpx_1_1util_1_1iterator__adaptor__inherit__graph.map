@@ -1,0 +1,8 @@
+<map id="hpx::util::iterator_adaptor&lt; Derived, Base, Value, Category, Reference, Difference, Pointer &gt;" name="hpx::util::iterator_adaptor&lt; Derived, Base, Value, Category, Reference, Difference, Pointer &gt;">
+<area shape="rect" id="node4" href="$d0/d62/classhpx_1_1util_1_1transform__iterator.html" title="hpx::util::transform\l_iterator\&lt; transform\l_iterator\&lt; Iterator, Transformer,\l Reference, Value \&gt;, Iterator,\l value_type, iterator_category,\l reference_type \&gt;" alt="" coords="756,5,957,105"/>
+<area shape="rect" id="node5" href="$d0/d62/classhpx_1_1util_1_1transform__iterator.html" title="transform_iterator\l\&lt; Iterator, Transformer \&gt;" alt="" coords="775,129,938,171"/>
+<area shape="rect" id="node2" href="$db/d7c/structhpx_1_1util_1_1iterator__facade.html" title="hpx::util::detail::\literator_adaptor_base\l\&lt; Derived, Base, Value,\l Category, Reference, Difference,\l Pointer \&gt;::type" alt="" coords="257,61,471,146"/>
+<area shape="rect" id="node3" href="$d5/d11/classhpx_1_1util_1_1detail_1_1iterator__facade__base.html" title="hpx::util::detail::\literator_facade_base\l\&lt; Derived, T, Category,\l Reference, Distance, Pointer \&gt;" alt="" coords="5,68,209,139"/>
+<area shape="rect" id="node6" href="$d1/d6e/classhpx_1_1experimental_1_1stencil3__iterator__v2.html" title="hpx::experimental::\lstencil3_iterator_v2\l\&lt; Iterator, Transformer \&gt;" alt="" coords="1005,85,1168,141"/>
+<area shape="rect" id="node7" href="$db/d27/classtest_1_1stencil3__iterator.html" title="test::stencil3_iterator\l\&lt; Iterator, Transformer \&gt;" alt="" coords="1005,165,1168,207"/>
+</map>

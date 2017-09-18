@@ -1,0 +1,6 @@
+<map id="hpx::util::unwrap_ref" name="hpx::util::unwrap_ref">
+<area shape="rect" id="node2" href="$db/df7/structhpx_1_1lcos_1_1detail_1_1dataflow__frame.html#ad3c65c1660adbc87e90ad14d291fcd55" title="hpx::lcos::detail::\ldataflow_frame::await_next" alt="" coords="201,5,379,47"/>
+<area shape="rect" id="node3" href="$d0/d65/structhpx_1_1lcos_1_1detail_1_1wait__all__frame.html#ac8dc168190b65cc0ed231693f8ce63bb" title="hpx::lcos::detail::\lwait_all_frame::await_next" alt="" coords="203,71,377,112"/>
+<area shape="rect" id="node4" href="$dc/d03/structhpx_1_1lcos_1_1detail_1_1when__all__frame.html#a549665b4f48ca5adafea6f192949e847" title="hpx::lcos::detail::\lwhen_all_frame::await_next" alt="" coords="199,136,381,177"/>
+<area shape="rect" id="node5" href="$da/d82/structhpx_1_1lcos_1_1detail_1_1when__each__frame.html#a174bab4422d4570df0e0185ed517a226" title="hpx::lcos::detail::\lwhen_each_frame::await_next" alt="" coords="192,201,388,243"/>
+</map>

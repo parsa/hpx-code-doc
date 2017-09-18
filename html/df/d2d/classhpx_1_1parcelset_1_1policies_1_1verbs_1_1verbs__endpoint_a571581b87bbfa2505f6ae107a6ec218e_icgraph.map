@@ -1,0 +1,6 @@
+<map id="hpx::parcelset::policies::verbs::verbs_endpoint::getsrq" name="hpx::parcelset::policies::verbs::verbs_endpoint::getsrq">
+<area shape="rect" id="node2" href="$df/d2d/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1verbs__endpoint.html#a2670191a07881f12d58255f31bcec5ef" title="hpx::parcelset::policies\l::verbs::verbs_endpoint\l::refill_preposts" alt="" coords="209,5,365,61"/>
+<area shape="rect" id="node3" href="$df/d2d/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1verbs__endpoint.html#a380400b12343ae18e1ba2447049b0439" title="hpx::parcelset::policies\l::verbs::verbs_endpoint\l::create_queue_pair" alt="" coords="209,85,365,141"/>
+<area shape="rect" id="node4" href="$df/d2d/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1verbs__endpoint.html#ae3de84f08ace706104e2b63513b9a965" title="hpx::parcelset::policies\l::verbs::verbs_endpoint\l::verbs_endpoint" alt="" coords="415,45,571,101"/>
+<area shape="rect" id="node5" href="$df/d2d/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1verbs__endpoint.html#a878505b82b8d2e0b49482a7c79e5d8dc" title="hpx::parcelset::policies\l::verbs::verbs_endpoint\l::handle_route_resolved" alt="" coords="413,125,572,181"/>
+</map>

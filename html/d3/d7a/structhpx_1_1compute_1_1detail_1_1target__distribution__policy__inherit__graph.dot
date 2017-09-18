@@ -1,0 +1,10 @@
+digraph "hpx::compute::detail::target_distribution_policy&lt; Target &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node0 [label="hpx::compute::detail\l::target_distribution\l_policy\< Target \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< host::target \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::compute::detail\l::target_distribution\l_policy\< host::target \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d72/structhpx_1_1compute_1_1detail_1_1target__distribution__policy.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::compute::host\l::target_distribution\l_policy",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dc7/structhpx_1_1compute_1_1host_1_1target__distribution__policy.html",tooltip="A target_distribution_policy used for CPU bound localities. "];
+}

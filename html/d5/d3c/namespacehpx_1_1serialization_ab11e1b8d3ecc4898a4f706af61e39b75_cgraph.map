@@ -1,0 +1,6 @@
+<map id="hpx::serialization::serialize" name="hpx::serialization::serialize">
+<area shape="rect" id="node2" href="$d3/d81/classhpx_1_1compute_1_1vector.html#ae72f56acbf98a829fcb3d1a83fdfcb2d" title="hpx::compute::vector\l::size" alt="" coords="173,5,316,47"/>
+<area shape="rect" id="node3" href="$d3/d81/classhpx_1_1compute_1_1vector.html#a5d371ca5598586d4d9822b1ef4ee1733" title="Returns: size() == 0. " alt="" coords="173,71,316,112"/>
+<area shape="rect" id="node4" href="$d2/d8c/namespacehpx_1_1serialization_1_1detail.html#a4df8623d5d16c7bd89e66adffe893d53" title="hpx::serialization\l::detail::save_impl" alt="" coords="181,136,308,177"/>
+<area shape="rect" id="node5" href="$d5/d3c/namespacehpx_1_1serialization.html#a5558bd8a923a1df82ce17bad40b0a060" title="hpx::serialization\l::serialize" alt="" coords="185,201,305,243"/>
+</map>

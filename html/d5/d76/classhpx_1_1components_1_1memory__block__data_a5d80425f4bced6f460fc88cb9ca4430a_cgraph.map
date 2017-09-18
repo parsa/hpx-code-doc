@@ -1,0 +1,7 @@
+<map id="hpx::components::memory_block_data::get_ptr" name="hpx::components::memory_block_data::get_ptr">
+<area shape="rect" id="node2" href="$d5/d76/namespacehpx_1_1components.html#a1dbb50ea3341d7f4221bccc8602c789d" title="Return the string representation for a given component type id. " alt="" coords="231,71,395,112"/>
+<area shape="rect" id="node3" href="$d5/d76/namespacehpx_1_1components.html#aebf4eda33c38b1b704b6b86ac20da0b6" title="The upper short word of the component is the actual component type. " alt="" coords="443,5,591,47"/>
+<area shape="rect" id="node4" href="$d5/d76/namespacehpx_1_1components.html#a90dbb7eb7bda85676950ac7198986f77" title="hpx::components::get\l_base_type" alt="" coords="443,71,591,112"/>
+<area shape="rect" id="node5" href="$d4/d2c/make__continuation__1615_8cpp.html#acbdae3e81403e1ffc527c18dc1cd51dd" title="to_string" alt="" coords="481,137,553,163"/>
+<area shape="rect" id="node6" href="$d4/d2c/make__continuation__1615_8cpp.html#a8b2f8a7c58b490fcb1260f36bac46541" title="HPX_PLAIN_ACTION" alt="" coords="639,137,784,163"/>
+</map>

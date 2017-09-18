@@ -1,0 +1,9 @@
+<map id="hpx::runtime::create_message_handler" name="hpx::runtime::create_message_handler">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#ad63f161016caf12ec8d76ec5ccdf2b9c" title="Create an instance of a message handler plugin. " alt="" coords="192,108,339,149"/>
+<area shape="rect" id="node3" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a1511dbd283d8433ef80a15fe93c925ca" title="hpx::parcelset::parcelhandler\l::get_message_handler" alt="" coords="387,108,576,149"/>
+<area shape="rect" id="node4" href="$d4/d41/namespacehpx_1_1parcelset.html#aa7ee670e917dedfcd4c9eb74463e7fd6" title="hpx::parcelset::get\l_message_handler" alt="" coords="624,108,755,149"/>
+<area shape="rect" id="node5" href="$d9/de8/structhpx_1_1actions_1_1base__action.html#a50205c3da0fa49594bb136757d9eb159" title="Destructor. " alt="" coords="831,5,981,47"/>
+<area shape="rect" id="node6" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a1f805c24cfc4ebe39dbc36a2c955aaf8" title="hpx::parcelset::parcelhandler\l::disable_alternative_parcelports" alt="" coords="803,71,1009,112"/>
+<area shape="rect" id="node7" href="$d7/d3a/structhpx_1_1agas_1_1server_1_1primary__namespace.html#a52d12a1efbe05190fd6592ba971192b6" title="hpx::agas::server::\lprimary_namespace::set\l_local_locality" alt="" coords="823,137,989,193"/>
+<area shape="rect" id="node8" href="$d1/d63/structhpx_1_1actions_1_1transfer__base__action.html#aafc7b547fc6d9d37b017a232b125ad4a" title="retrieve component type " alt="" coords="824,217,988,273"/>
+</map>

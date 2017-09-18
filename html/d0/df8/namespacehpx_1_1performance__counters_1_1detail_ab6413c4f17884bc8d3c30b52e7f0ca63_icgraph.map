@@ -1,0 +1,10 @@
+<map id="hpx::performance_counters::detail::regex_from_pattern" name="hpx::performance_counters::detail::regex_from_pattern">
+<area shape="rect" id="node2" href="$dc/d69/classhpx_1_1actions_1_1detail_1_1invocation__count__registry.html#a838ee8cb433ee3130a3ea25e3c310410" title="hpx::actions::detail\l::invocation_count_registry\l::counter_discoverer" alt="" coords="251,45,427,101"/>
+<area shape="rect" id="node7" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#ac5d5529492185cf592a5ba9ca68c8a3f" title="Call the supplied function for the given registered counter type. " alt="" coords="233,126,444,167"/>
+<area shape="rect" id="node3" href="$d0/d36/namespacehpx_1_1performance__counters.html#a9e812951395bffe91f57e564388cbc3d" title="hpx::performance_counters\l::action_invocation_counter\l_discoverer" alt="" coords="508,45,687,101"/>
+<area shape="rect" id="node4" href="$d0/d36/namespacehpx_1_1performance__counters.html#adf96f2c1aff5c91cb5291103b2bb2324" title="hpx::performance_counters\l::local_action_invocation\l_counter_discoverer" alt="" coords="751,5,929,61"/>
+<area shape="rect" id="node6" href="$d0/d36/namespacehpx_1_1performance__counters.html#acec53c2a94f14082c5832a836b1e91d7" title="hpx::performance_counters\l::remote_action_invocation\l_counter_discoverer" alt="" coords="751,85,929,141"/>
+<area shape="rect" id="node5" href="$d0/d7b/classhpx_1_1runtime.html#ad04cc0d74dd608aedf3824c8b067eea9" title="Install all performance counters related to this runtime instance. " alt="" coords="977,53,1123,94"/>
+<area shape="rect" id="node8" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#a39e66fcf0626e1a403c69c4758b750a6" title="hpx::performance_counters\l::registry::registry" alt="" coords="508,126,687,167"/>
+<area shape="rect" id="node9" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#af060ad9ba59fefe302c89bd8e80227d9" title="hpx::performance_counters\l::registry::discover_counter_type" alt="" coords="492,191,703,233"/>
+</map>

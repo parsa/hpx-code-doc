@@ -1,0 +1,7 @@
+<map id="hpx::threads::set_thread_interruption_enabled" name="hpx::threads::set_thread_interruption_enabled">
+<area shape="rect" id="node2" href="$d5/d69/classhpx_1_1this__thread_1_1disable__interruption.html#ab5f14638419e1c8dc2480cfbd07c83ab" title="hpx::this_thread::disable\l_interruption::disable\l_interruption" alt="" coords="216,5,380,61"/>
+<area shape="rect" id="node3" href="$d5/d69/classhpx_1_1this__thread_1_1disable__interruption.html#abcbeef0223888b0ad863641d7ed8d131" title="hpx::this_thread::disable\l_interruption::~disable\l_interruption" alt="" coords="216,85,380,141"/>
+<area shape="rect" id="node4" href="$d0/d35/classhpx_1_1this__thread_1_1restore__interruption.html#abd976c6556118171f5ee5b6d2a35c5bd" title="hpx::this_thread::restore\l_interruption::restore\l_interruption" alt="" coords="217,165,379,221"/>
+<area shape="rect" id="node5" href="$d0/d35/classhpx_1_1this__thread_1_1restore__interruption.html#a9b78344b79c0ad0524a2d59361841eea" title="hpx::this_thread::restore\l_interruption::~restore\l_interruption" alt="" coords="217,245,379,301"/>
+<area shape="rect" id="node6" href="$d7/d28/namespacehpx_1_1threads.html#a6cbf4d996ae9166d232f8d06dd80a916" title="Set the thread state of the thread referenced by the thread_id id. " alt="" coords="217,326,379,367"/>
+</map>

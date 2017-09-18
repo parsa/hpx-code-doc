@@ -1,0 +1,10 @@
+<map id="test_server" name="test_server">
+<area shape="rect" id="node2" href="$d2/de6/classhpx_1_1components_1_1component__base.html" title="hpx::components::component\l_base\&lt; test_server \&gt;" alt="" coords="233,668,428,709"/>
+<area shape="rect" id="node7" href="$db/d0d/structhpx_1_1components_1_1migration__support.html" title="hpx::components::migration\l_support\&lt; hpx::components\l::component_base\&lt; test_server \&gt; \&gt;" alt="" coords="477,559,705,615"/>
+<area shape="rect" id="node3" href="$d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag.html" title="hpx::traits::detail\l::component_tag" alt="" coords="21,355,140,396"/>
+<area shape="rect" id="node5" href="$d2/de6/classhpx_1_1components_1_1component__base.html" title="hpx::components::simple\l_component_base\&lt; test\l_server \&gt;" alt="" coords="247,290,415,346"/>
+<area shape="rect" id="node4" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html" title="Global identifier for components across the HPX system. " alt="" coords="5,469,156,495"/>
+<area shape="rect" id="node6" href="$db/d0d/structhpx_1_1components_1_1migration__support.html" title="hpx::components::migration\l_support\&lt; hpx::components\l::simple_component_base\&lt; test\l_server \&gt; \&gt;" alt="" coords="487,5,695,76"/>
+<area shape="rect" id="node8" href="$d1/d7b/classhpx_1_1components_1_1managed__component__base.html" title="hpx::components::managed\l_component_base\&lt; test_server \&gt;" alt="" coords="484,763,699,804"/>
+<area shape="rect" id="node9" href="$df/d31/structhpx_1_1traits_1_1detail_1_1managed__component__tag.html" title="hpx::traits::detail\l::managed_component_tag" alt="" coords="241,763,420,804"/>
+</map>

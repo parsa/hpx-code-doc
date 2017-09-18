@@ -1,0 +1,6 @@
+<map id="hpx::threads::detail::switch_status::~switch_status" name="hpx::threads::detail::switch_status::~switch_status">
+<area shape="rect" id="node2" href="$de/d24/classhpx_1_1threads_1_1detail_1_1switch__status.html#a2f5727039ca8202e0ca1f087b6138509" title="hpx::threads::detail\l::switch_status::store_state" alt="" coords="216,50,399,91"/>
+<area shape="rect" id="node3" href="$de/d24/classhpx_1_1threads_1_1detail_1_1switch__status.html#abc9335201f560da0fef9cbd961e4d0f0" title="hpx::threads::detail\l::switch_status::disable\l_restore" alt="" coords="447,5,605,61"/>
+<area shape="rect" id="node4" href="$d3/d00/classhpx_1_1threads_1_1thread__data.html#afe645f5d61900dc761ae681c9f667959" title="hpx::threads::thread\l_data::restore_state" alt="" coords="457,86,595,127"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#ab8a2c6d15512607b77dc35c2cbffbd24" title="hpx::tag" alt="" coords="653,93,723,120"/>
+</map>

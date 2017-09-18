@@ -1,0 +1,11 @@
+digraph "hpx::parallel::traits::detail::projected_result_of_indirect&lt; Projected &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node3 [label="hpx::parallel::traits\l::detail::projected_result\l_of_indirect\< Projected \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::parallel::traits\l::detail::projected_result\l_of\< Projected::projector\l_type, Projected::iterator_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d39/structhpx_1_1parallel_1_1traits_1_1detail_1_1projected__result__of.html"];
+  Node5 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Projected::projector\l_type, Projected::iterator\l_type \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::parallel::traits\l::detail::projected_result\l_of\< F, Iter, Enable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d39/structhpx_1_1parallel_1_1traits_1_1detail_1_1projected__result__of.html"];
+}

@@ -1,0 +1,9 @@
+<map id="make_int" name="make_int">
+<area shape="rect" id="node2" href="$d6/d4d/future_8cpp.html#afb81f57c796e16b37fe5ec763d08220a" title="test_future_from_packaged\l_task_is_waiting" alt="" coords="133,5,311,47"/>
+<area shape="rect" id="node4" href="$d6/d4d/future_8cpp.html#ab2737927542b589be6f411f9a76831a8" title="test_invoking_a_packaged\l_task_populates_future" alt="" coords="135,71,309,112"/>
+<area shape="rect" id="node5" href="$d6/d4d/future_8cpp.html#a4d9045261f8e7d8f45da95f409558521" title="test_invoking_a_packaged\l_task_twice_throws" alt="" coords="135,136,309,177"/>
+<area shape="rect" id="node6" href="$d6/d4d/future_8cpp.html#ae038a2a35b26696c1a06c9a87621d361" title="test_cannot_get_future\l_twice_from_task" alt="" coords="145,201,299,243"/>
+<area shape="rect" id="node7" href="$d6/d4d/future_8cpp.html#af49878e212d8c373d4a80a4a598a621e" title="test_packaged_task\l_can_be_moved" alt="" coords="153,267,291,308"/>
+<area shape="rect" id="node8" href="$d6/d4d/future_8cpp.html#adf337503d3704b8b92eb29382f2043fc" title="test_destroying_a_packaged\l_task_stores_broken_task" alt="" coords="128,332,316,373"/>
+<area shape="rect" id="node3" href="$d6/d4d/future_8cpp.html#a255f773d830db5ca937cff11c2692fa2" title="hpx_main" alt="" coords="364,177,443,203"/>
+</map>

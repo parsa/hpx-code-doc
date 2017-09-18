@@ -1,0 +1,12 @@
+digraph "hpx::util::tagged&lt; Base, Tags &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node7 [label="hpx::util::tagged\<\l Base, Tags \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node8 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="Base\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d05/struct_base.html"];
+  Node9 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" prefix_" ,fontname="Helvetica"];
+  Node9 [label="string",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node10 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="detail::getters::collect\l\< tagged\< Base, Tags...\l \>, Tags... \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

@@ -1,0 +1,4 @@
+<map id="hpx::test::simple_refcnt_monitor::simple_refcnt_monitor" name="hpx::test::simple_refcnt_monitor::simple_refcnt_monitor">
+<area shape="rect" id="node2" href="$de/dfa/structhpx_1_1components_1_1stub__base.html#a352a867161e19ad1e6f5ebd321e6b2d3" title="Asynchronously create a new instance of a component. " alt="" coords="212,5,367,47"/>
+<area shape="rect" id="node3" href="$d4/def/classhpx_1_1lcos_1_1detail_1_1promise__base.html#a2517464a9b53f71a7531c5cf75323ef5" title="hpx::lcos::detail::\lpromise_base::get_id" alt="" coords="216,71,363,112"/>
+</map>

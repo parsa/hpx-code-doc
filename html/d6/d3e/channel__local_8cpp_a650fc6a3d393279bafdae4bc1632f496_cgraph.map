@@ -1,0 +1,6 @@
+<map id="pingpong_void1" name="pingpong_void1">
+<area shape="rect" id="node2" href="$d6/d3e/channel__local_8cpp.html#aeb9f66b0276417a066e486835249db59" title="ping_void" alt="" coords="166,5,241,32"/>
+<area shape="rect" id="node4" href="$d6/d3e/channel__local_8cpp.html#a612256fd4e18405e69456cfff57601ff" title="pong_void" alt="" coords="164,56,243,83"/>
+<area shape="rect" id="node5" href="$de/d49/classhpx_1_1lcos_1_1local_1_1detail_1_1channel__base.html#a87d9c5288c4d4cf1a7942c624b111921" title="hpx::lcos::local::detail\l::channel_base::get" alt="" coords="291,82,440,123"/>
+<area shape="rect" id="node3" href="$de/d49/classhpx_1_1lcos_1_1local_1_1detail_1_1channel__base.html#a66e3590dcd9d8095083e6ef60147e95d" title="hpx::lcos::local::detail\l::channel_base::set" alt="" coords="291,7,440,49"/>
+</map>

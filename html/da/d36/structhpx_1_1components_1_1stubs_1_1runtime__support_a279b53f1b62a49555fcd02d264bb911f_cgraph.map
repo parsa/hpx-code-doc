@@ -1,0 +1,6 @@
+<map id="hpx::components::stubs::runtime_support::terminate" name="hpx::components::stubs::runtime_support::terminate">
+<area shape="rect" id="node2" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#a29f660c7e67afbad26e7b043f44f5be9" title="Retrieve configuration information. " alt="" coords="239,39,465,80"/>
+<area shape="rect" id="node5" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="281,105,423,131"/>
+<area shape="rect" id="node3" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html#a941a7057c3296a4c06ecbbb5032146a2" title="hpx::lcos::local::detail\l::promise_base::get_future" alt="" coords="513,5,689,47"/>
+<area shape="rect" id="node4" href="$d4/def/classhpx_1_1lcos_1_1detail_1_1promise__base.html#a2517464a9b53f71a7531c5cf75323ef5" title="hpx::lcos::detail::\lpromise_base::get_id" alt="" coords="528,71,675,112"/>
+</map>

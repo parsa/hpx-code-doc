@@ -1,0 +1,9 @@
+<map id="hpx::lcos::object_semaphore::wait" name="hpx::lcos::object_semaphore::wait">
+<area shape="rect" id="node2" href="$d9/dad/classhpx_1_1components_1_1client__base.html#ae26e4c559c4567d1e3b8f65e141f4ff0" title="hpx::components::client\l_base\&lt; object_semaphore\l\&lt; ValueType \&gt;, lcos::server\l::object_semaphore\&lt; ValueType\l \&gt; \&gt;::wait" alt="" coords="243,5,452,91"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="304,115,391,141"/>
+<area shape="rect" id="node4" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="500,89,543,116"/>
+<area shape="rect" id="node5" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="626,39,701,65"/>
+<area shape="rect" id="node6" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="591,89,736,116"/>
+<area shape="rect" id="node7" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="627,140,699,167"/>
+<area shape="rect" id="node8" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="784,133,979,174"/>
+</map>

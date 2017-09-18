@@ -1,0 +1,6 @@
+<map id="hpx::lcos::detail::set_wait_some_callback_impl::apply" name="hpx::lcos::detail::set_wait_some_callback_impl::apply">
+<area shape="rect" id="node2" href="$d9/ddf/structhpx_1_1lcos_1_1detail_1_1set__wait__some__callback__impl.html#aa74eb1a00de4b2f4a5779f5355533251" title="hpx::lcos::detail::\lset_wait_some_callback\l_impl::operator()" alt="" coords="227,5,391,61"/>
+<area shape="rect" id="node3" href="$d9/ddf/structhpx_1_1lcos_1_1detail_1_1set__wait__some__callback__impl.html#a964c29de394c54dde25866dde6bde3e5" title="hpx::lcos::detail::\lset_wait_some_callback\l_impl::apply" alt="" coords="227,85,391,141"/>
+<area shape="rect" id="node4" href="$d4/d6c/namespacehpx_1_1lcos_1_1detail.html#aeabba7228a803afd075453fb30e494ca" title="hpx::lcos::detail::\lset_on_completed_callback" alt="" coords="217,166,400,207"/>
+<area shape="rect" id="node5" href="$d3/d89/structhpx_1_1lcos_1_1detail_1_1wait__some.html#a1c09ab6c8f5cb6674cef7d1762130930" title="hpx::lcos::detail::\lwait_some::operator()" alt="" coords="448,166,595,207"/>
+</map>

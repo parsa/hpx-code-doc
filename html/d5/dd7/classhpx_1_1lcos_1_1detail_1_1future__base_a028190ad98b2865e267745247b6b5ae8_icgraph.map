@@ -1,0 +1,11 @@
+<map id="hpx::lcos::detail::future_base::wait" name="hpx::lcos::detail::future_base::wait">
+<area shape="rect" id="node2" href="$d3/d41/classhpx_1_1process_1_1process.html#acc7ec4687f3bf5ae121ef7b494d991d8" title="hpx.process.process.join" alt="" coords="176,81,343,108"/>
+<area shape="rect" id="node3" href="$d2/dc9/namespacehpx_1_1lcos.html#a1b6d427557d1b77f0a0e36bd91cf2786" title="hpx::lcos::wait_each" alt="" coords="189,132,330,159"/>
+<area shape="rect" id="node4" href="$d3/d79/future__overhead_8cpp.html#a9a3eff89e718d4dcaf811a3262299d7b" title="measure_action_futures" alt="" coords="396,5,556,32"/>
+<area shape="rect" id="node6" href="$d3/d79/future__overhead_8cpp.html#abb9c0468f399cf830ce0334538c8b7bc" title="measure_function_futures" alt="" coords="391,56,561,83"/>
+<area shape="rect" id="node7" href="$d6/d2f/future__wait_8cpp.html#aaf67a3863f19ff7033e239ebb1204fb7" title="hpx_main" alt="" coords="437,107,515,133"/>
+<area shape="rect" id="node8" href="$d0/d67/hello__world_8cpp.html#a96e0322b90fa489adbfee369aa532c83" title="hello_world_foreman" alt="" coords="407,157,545,184"/>
+<area shape="rect" id="node9" href="$da/dce/thread__affinity_8cpp.html#aea225f0b6eebea5a6dfd914c11993315" title="thread_affinity_foreman" alt="" coords="399,208,553,235"/>
+<area shape="rect" id="node10" href="$d2/dc9/namespacehpx_1_1lcos.html#aa03a998a90fd726cad940368c38d6690" title="hpx::lcos::wait_each" alt="" coords="405,259,547,285"/>
+<area shape="rect" id="node5" href="$d3/d79/future__overhead_8cpp.html#aaf67a3863f19ff7033e239ebb1204fb7" title="hpx_main" alt="" coords="609,31,688,57"/>
+</map>

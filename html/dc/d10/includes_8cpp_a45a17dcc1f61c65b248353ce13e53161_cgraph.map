@@ -1,0 +1,12 @@
+<map id="test_includes_bad_alloc" name="test_includes_bad_alloc">
+<area shape="rect" id="node2" href="$dc/d10/includes_8cpp.html#ae4b6d81a09a97be55d18fd28c6e61935" title="test_includes_bad_alloc" alt="" coords="215,138,376,165"/>
+<area shape="rect" id="node10" href="$dc/d10/includes_8cpp.html#aa91b6de09626bd0f6309ddb397b9a3a5" title="test_includes_bad_alloc\l_async" alt="" coords="215,215,376,256"/>
+<area shape="rect" id="node3" href="$df/d04/namespacetest.html#abdbbc37e6fb67287495e853a554c493a" title="test::iota" alt="" coords="458,197,531,223"/>
+<area shape="rect" id="node4" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#a31e165df2b865cdd961f35ce938db41a" title="hpx::util::detail::\lrange_impl::begin" alt="" coords="650,147,774,188"/>
+<area shape="rect" id="node5" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#afb2ea48b0902f52ee4d8b764807b4316" title="hpx::util::detail::\lrange_impl::end" alt="" coords="655,212,769,253"/>
+<area shape="rect" id="node6" href="$d8/d83/namespacehpx.html#a7e832bd3c4af93a4619dbe97a5b1c3d2" title="Main non&#45;blocking entry point for launching the HPX runtime system. " alt="" coords="456,79,533,106"/>
+<area shape="rect" id="node7" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#a0a6696d8c17a32b8ebfaa496b9ab3332" title="hpx::parallel::v1::\ldetail::next" alt="" coords="435,299,555,340"/>
+<area shape="rect" id="node9" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a3ab31b809075cedeedb2fa9ef05a55e5" title="hpx::parallel::v1::\lincludes" alt="" coords="435,131,555,172"/>
+<area shape="rect" id="node8" href="$db/dfa/structhpx_1_1parallel_1_1v1_1_1detail_1_1calculate__distance.html#a950a6627830a7d019ac0e734b0a447bf" title="hpx::parallel::v1::\ldetail::calculate_distance::call" alt="" coords="613,299,811,340"/>
+<area shape="rect" id="node11" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="424,415,565,442"/>
+</map>

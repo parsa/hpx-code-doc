@@ -1,0 +1,14 @@
+digraph "hpx::agas::server::primary_namespace"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node4 [label="hpx::agas::server::\lprimary_namespace",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="hpx::components::fixed\l_component_base\< primary\l_namespace \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dfd/classhpx_1_1components_1_1fixed__component__base.html"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hpx::traits::detail\l::fixed_component_tag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d72/structhpx_1_1traits_1_1detail_1_1fixed__component__tag.html"];
+  Node7 -> Node5 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< primary_namespace \>" ,fontname="Helvetica"];
+  Node7 [label="hpx::components::fixed\l_component_base\< Component \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dfd/classhpx_1_1components_1_1fixed__component__base.html",tooltip="\ endcond "];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

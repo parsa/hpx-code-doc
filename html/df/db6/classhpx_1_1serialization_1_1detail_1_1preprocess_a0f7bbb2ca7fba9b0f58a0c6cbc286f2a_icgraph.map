@@ -1,0 +1,7 @@
+<map id="hpx::serialization::detail::preprocess::size" name="hpx::serialization::detail::preprocess::size">
+<area shape="rect" id="node2" href="$d8/d99/structhpx_1_1parcelset_1_1detail_1_1parcel__await__base.html#aa35fb491d241381fcb15a0f5f8191d75" title="hpx::parcelset::detail\l::parcel_await_base\&lt; std\l::vector\&lt; parcel \&gt;, std\l::vector\&lt; write_handler_type\l \&gt;, parcels_await \&gt;::apply_single" alt="" coords="219,5,432,91"/>
+<area shape="rect" id="node3" href="$df/db6/classhpx_1_1serialization_1_1detail_1_1preprocess.html#a3f877eedff4285c5663a66a97736aad7" title="hpx::serialization\l::detail::preprocess\l::resize" alt="" coords="259,115,392,171"/>
+<area shape="rect" id="node4" href="$d5/de0/structhpx_1_1traits_1_1serialization__access__data_3_01serialization_1_1detail_1_1preprocess_01_4.html#a91f9006cafff1ae47a91b307d2668de2" title="hpx::traits::serialization\l_access_data\&lt; serialization\l::detail::preprocess \&gt;::resize" alt="" coords="480,148,668,204"/>
+<area shape="rect" id="node5" href="$d5/de0/structhpx_1_1traits_1_1serialization__access__data_3_01serialization_1_1detail_1_1preprocess_01_4.html#ac0b968e4789b08f3eaf330e4883c7844" title="hpx::traits::serialization\l_access_data\&lt; serialization\l::detail::preprocess \&gt;::size" alt="" coords="233,245,417,301"/>
+<area shape="rect" id="node6" href="$d3/df8/serialization__overhead_8cpp.html#a2ce6fdb1e93bd2913668490cc25b690b" title="get_archive_size" alt="" coords="266,325,385,352"/>
+</map>

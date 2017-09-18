@@ -1,0 +1,10 @@
+<map id="hpx::traits::action_was_object_migrated::call" name="hpx::traits::action_was_object_migrated::call">
+<area shape="rect" id="node2" href="$d5/dbe/namespacehpx_1_1detail.html#a2a7da8a6ff5bb50cfaa905a43cf32949" title="hpx::detail::apply_impl" alt="" coords="238,5,390,32"/>
+<area shape="rect" id="node3" href="$d5/dbe/namespacehpx_1_1detail.html#a017889aa022ccbd8fb62461e936b9177" title="hpx::detail::apply\l_cb_impl" alt="" coords="253,57,375,98"/>
+<area shape="rect" id="node4" href="$db/d7f/classhpx_1_1lcos_1_1packaged__action_3_01_action_00_01_result_00_01true_01_4.html#acd623b84ef5ed1ea5ad6b81132d57a27" title="hpx::lcos::packaged\l_action\&lt; Action, Result,\l true \&gt;::apply" alt="" coords="233,123,395,179"/>
+<area shape="rect" id="node5" href="$db/d7f/classhpx_1_1lcos_1_1packaged__action_3_01_action_00_01_result_00_01true_01_4.html#a6b023b13d50ecca5d46e34e537c38cd1" title="hpx::lcos::packaged\l_action\&lt; Action, Result,\l true \&gt;::apply_cb" alt="" coords="233,203,395,259"/>
+<area shape="rect" id="node6" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#a00eb79f89db48417b54a011078a9c7ae" title="hpx::components::stubs\l::runtime_support::free\l_component_sync" alt="" coords="233,283,395,339"/>
+<area shape="rect" id="node9" href="$d1/d63/structhpx_1_1actions_1_1transfer__base__action.html#aafc7b547fc6d9d37b017a232b125ad4a" title="retrieve component type " alt="" coords="232,363,396,419"/>
+<area shape="rect" id="node7" href="$d2/da2/namespacehpx_1_1components_1_1server.html#a21dc8857d55d9ec83e3e337b382fbc17" title="hpx::components::server\l::destroy_component" alt="" coords="444,290,608,331"/>
+<area shape="rect" id="node8" href="$d2/da2/namespacehpx_1_1components_1_1server.html#afbb6d12dceb0494bcb20f84065e1eb7f" title="hpx::components::server\l::destroy" alt="" coords="656,290,820,331"/>
+</map>

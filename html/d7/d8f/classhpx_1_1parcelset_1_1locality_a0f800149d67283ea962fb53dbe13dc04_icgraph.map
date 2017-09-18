@@ -1,0 +1,4 @@
+<map id="hpx::parcelset::locality::get" name="hpx::parcelset::locality::get">
+<area shape="rect" id="node2" href="$db/d9f/classhpx_1_1parcelset_1_1policies_1_1libfabric_1_1libfabric__controller.html#a96eeb6553564bb53a45fd8e516afe9b1" title="hpx::parcelset::policies\l::libfabric::libfabric\l_controller::initialize\l_localities" alt="" coords="232,5,388,76"/>
+<area shape="rect" id="node3" href="$dc/d91/structhpx_1_1parcelset_1_1policies_1_1libfabric_1_1parcelport.html#aa41f9644916e04061e0a01afa4d3be81" title="hpx::parcelset::policies\l::libfabric::parcelport\l::get_connection" alt="" coords="232,101,388,157"/>
+</map>

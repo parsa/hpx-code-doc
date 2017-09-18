@@ -1,0 +1,23 @@
+digraph "hpx::util::decay&lt; T &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::decay\< T \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="std::decay\< T \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node0 -> Node2 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Callback \>" ,fontname="Helvetica"];
+  Node2 [label="hpx::util::decay\< Callback \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d8f/structhpx_1_1util_1_1decay.html"];
+  Node0 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Cont \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::util::decay\< Cont \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d8f/structhpx_1_1util_1_1decay.html"];
+  Node0 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Proj \>" ,fontname="Helvetica"];
+  Node4 [label="hpx::util::decay\< Proj \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d8f/structhpx_1_1util_1_1decay.html"];
+  Node0 -> Node5 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Pred \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::util::decay\< Pred \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d8f/structhpx_1_1util_1_1decay.html"];
+  Node0 -> Node6 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Bound \>" ,fontname="Helvetica"];
+  Node6 [label="hpx::util::decay\< Bound \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d8f/structhpx_1_1util_1_1decay.html"];
+  Node0 -> Node7 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< F \>" ,fontname="Helvetica"];
+  Node7 [label="hpx::util::decay\< F \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d8f/structhpx_1_1util_1_1decay.html"];
+  Node0 -> Node8 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Continuation \>" ,fontname="Helvetica"];
+  Node8 [label="hpx::util::decay\< Continuation \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d8f/structhpx_1_1util_1_1decay.html"];
+}

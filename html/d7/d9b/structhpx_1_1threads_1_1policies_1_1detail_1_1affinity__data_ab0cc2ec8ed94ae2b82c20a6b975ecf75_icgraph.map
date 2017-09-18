@@ -1,0 +1,5 @@
+<map id="hpx::threads::policies::detail::affinity_data::get_pu_mask" name="hpx::threads::policies::detail::affinity_data::get_pu_mask">
+<area shape="rect" id="node2" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a9cee933ef199fef31e6b8d48f42bb77b" title="hpx::resource::detail\l::partitioner::get_pu_mask" alt="" coords="200,53,373,94"/>
+<area shape="rect" id="node3" href="$d0/d20/classhpx_1_1threads_1_1executors_1_1detail_1_1thread__pool__executor.html#a6a0c0ade274c2f5f2f6651699873942c" title="hpx::threads::executors\l::detail::thread_pool\l_executor::get_pu_mask" alt="" coords="432,5,597,61"/>
+<area shape="rect" id="node4" href="$da/dda/classhpx_1_1threads_1_1executors_1_1detail_1_1thread__pool__os__executor.html#ac43430f91516a48e9ddbefd7ee58ef3c" title="hpx::threads::executors\l::detail::thread_pool\l_os_executor::get_pu_mask" alt="" coords="421,85,608,141"/>
+</map>

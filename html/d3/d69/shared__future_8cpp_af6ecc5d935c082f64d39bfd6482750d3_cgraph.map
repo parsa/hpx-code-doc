@@ -1,0 +1,8 @@
+<map id="test_wait_callback_with_timed_wait" name="test_wait_callback_with_timed_wait">
+<area shape="rect" id="node2" href="$d6/de4/classhpx_1_1lcos_1_1local_1_1promise.html#aee94596c23f090f136cf9a4d4838f44b" title="hpx::lcos::local::promise\l::get_future" alt="" coords="188,5,352,47"/>
+<area shape="rect" id="node3" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a04d77a61f72ce77d4e20fc32c956d7fa" title="hpx::lcos::detail::\lfuture_base\&lt; shared\l_future\&lt; R \&gt;, R \&gt;::then" alt="" coords="192,71,348,127"/>
+<area shape="rect" id="node4" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="220,151,320,178"/>
+<area shape="rect" id="node5" href="$d3/d69/shared__future_8cpp.html#a1e13a80b5dc3494137ed89cf1f4c7c42" title="do_nothing_callback" alt="" coords="200,202,340,229"/>
+<area shape="rect" id="node6" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a1ec582634d95f0761f8dd5a66ea94869" title="hpx::lcos::detail::\lfuture_base\&lt; shared\l_future\&lt; R \&gt;, R \&gt;::wait_for" alt="" coords="183,253,357,309"/>
+<area shape="rect" id="node7" href="$d6/de4/classhpx_1_1lcos_1_1local_1_1promise.html#a9d4be37d3883e18b9556aa9f63daf3d1" title="hpx::lcos::local::promise\l::set_value" alt="" coords="188,333,352,375"/>
+</map>

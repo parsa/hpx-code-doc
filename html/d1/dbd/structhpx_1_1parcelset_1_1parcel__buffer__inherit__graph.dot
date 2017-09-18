@@ -1,0 +1,13 @@
+digraph "hpx::parcelset::parcel_buffer&lt; BufferType, ChunkType &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::parcelset::parcel\l_buffer\< BufferType, ChunkType \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< snd_data_type, serialization\l::serialization_chunk \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::parcelset::parcel\l_buffer\< snd_data_type,\l serialization::serialization\l_chunk \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/db5/structhpx_1_1parcelset_1_1parcel__buffer.html"];
+  Node0 -> Node2 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< snd_data_type \>" ,fontname="Helvetica"];
+  Node2 [label="hpx::parcelset::parcel\l_buffer\< snd_data_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/db5/structhpx_1_1parcelset_1_1parcel__buffer.html"];
+  Node0 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< buffer_type, ChunkType \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::parcelset::parcel\l_buffer\< buffer_type,\l ChunkType \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/db5/structhpx_1_1parcelset_1_1parcel__buffer.html"];
+}

@@ -1,0 +1,4 @@
+<map id="hpx::threads::policies::thread_queue::increment_num_stolen_to_staged" name="hpx::threads::policies::thread_queue::increment_num_stolen_to_staged">
+<area shape="rect" id="node2" href="$d7/d87/classhpx_1_1threads_1_1policies_1_1local__priority__queue__scheduler.html#a13b2d72a8e4702741e4807b7a57a4036" title="hpx::threads::policies\l::local_priority_queue\l_scheduler::wait_or_add_new" alt="" coords="227,5,419,61"/>
+<area shape="rect" id="node3" href="$d8/d52/classhpx_1_1threads_1_1policies_1_1shared__priority__scheduler.html#ac1ec3f39723bc799016a5a9550d4e64e" title="hpx::threads::policies\l::shared_priority_scheduler\l::wait_or_add_new" alt="" coords="233,85,412,141"/>
+</map>

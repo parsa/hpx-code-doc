@@ -1,0 +1,6 @@
+<map id="hpx::lcos::server::latch" name="hpx::lcos::server::latch">
+<area shape="rect" id="node2" href="$df/da5/classhpx_1_1lcos_1_1base__lco__with__value.html" title="hpx::lcos::base_lco\l_with_value\&lt; bool, std\l::ptrdiff_t \&gt;" alt="" coords="248,33,399,89"/>
+<area shape="rect" id="node3" href="$d4/d89/classhpx_1_1lcos_1_1base__lco.html" title="hpx::lcos::base_lco" alt="" coords="27,5,162,32"/>
+<area shape="rect" id="node5" href="$d1/d7b/classhpx_1_1components_1_1managed__component__base.html" title="hpx::components::managed\l_component_base\&lt; latch \&gt;" alt="" coords="232,114,415,155"/>
+<area shape="rect" id="node6" href="$df/d31/structhpx_1_1traits_1_1detail_1_1managed__component__tag.html" title="hpx::traits::detail\l::managed_component_tag" alt="" coords="5,114,184,155"/>
+</map>

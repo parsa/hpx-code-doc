@@ -1,0 +1,6 @@
+<map id="hpx::threads::policies::scheduler_base" name="hpx::threads::policies::scheduler_base">
+<area shape="rect" id="node2" href="$de/dae/classhpx_1_1threads_1_1detail_1_1thread__pool__base.html" title="hpx::threads::detail\l::thread_pool_base" alt="" coords="249,71,383,112"/>
+<area shape="rect" id="node3" href="$d6/d50/structhpx_1_1threads_1_1detail_1_1manage__executor.html" title="hpx::threads::detail\l::manage_executor" alt="" coords="12,5,145,47"/>
+<area shape="rect" id="node4" href="$d3/d5d/classhpx_1_1threads_1_1policies_1_1callback__notifier.html" title="hpx::threads::policies\l::callback_notifier" alt="" coords="5,71,152,112"/>
+<area shape="rect" id="node5" href="$db/d62/structhpx_1_1threads_1_1detail_1_1pool__id__type.html" title="hpx::threads::detail\l::pool_id_type" alt="" coords="12,136,145,177"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="test_task_returning_void" name="test_task_returning_void">
+<area shape="rect" id="node2" href="$d3/d69/shared__future_8cpp.html#a15196b401013e8f2274566f6432b4ba4" title="do_nothing" alt="" coords="267,5,353,32"/>
+<area shape="rect" id="node3" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a628625094362627e776fe22b68404111" title="hpx::lcos::detail::\lfuture_base\&lt; shared\l_future\&lt; R \&gt;, R \&gt;::is_ready" alt="" coords="220,56,400,112"/>
+<area shape="rect" id="node4" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a21423c49daa024230c4e4e85d7e0aa0a" title="hpx::lcos::detail::\lfuture_base\&lt; shared\l_future\&lt; R \&gt;, R \&gt;::has_value" alt="" coords="216,136,404,192"/>
+<area shape="rect" id="node5" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#aa95b01f70ad95706ae420ff1db2e5b99" title="hpx::lcos::detail::\lfuture_base\&lt; shared\l_future\&lt; R \&gt;, R \&gt;::has\l_exception" alt="" coords="234,217,386,287"/>
+</map>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d2/d97/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::util::plugin::detail::abstract_factory_item</compoundname>
+    <includes refid="d5/da5/abstract__factory_8hpp" local="no">abstract_factory.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>typename BasePlugin</type>
+      </param>
+      <param>
+        <type>typename <ref refid="d0/d05/struct_base" kindref="compound">Base</ref></type>
+      </param>
+      <param>
+        <type>typename Parameter</type>
+      </param>
+    </templateparamlist>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="85">
+        <label>hpx::util::plugin::abstract_factory&lt; BasePlugin &gt;</label>
+        <link refid="dc/db1/structhpx_1_1util_1_1plugin_1_1abstract__factory"/>
+        <childnode refid="84" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="84">
+        <label>hpx::util::plugin::detail::abstract_factory_item&lt; BasePlugin, detail::abstract_factory_item_base, virtual_constructor&lt; BasePlugin &gt;::type &gt;</label>
+        <link refid="d2/d97/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item"/>
+        <childnode refid="83" relation="template-instance">
+          <edgelabel>&lt; BasePlugin, detail::abstract_factory_item_base, virtual_constructor&lt; BasePlugin &gt;::type &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="83">
+        <label>hpx::util::plugin::detail::abstract_factory_item&lt; BasePlugin, Base, Parameter &gt;</label>
+        <link refid="d2/d97/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item"/>
+      </node>
+    </inheritancegraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/util/plugin/abstract_factory.hpp" line="24" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/util/plugin/abstract_factory.hpp" bodystart="24" bodyend="-1"/>
+    <listofallmembers>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

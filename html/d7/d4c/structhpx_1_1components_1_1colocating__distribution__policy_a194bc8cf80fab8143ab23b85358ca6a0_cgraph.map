@@ -1,0 +1,10 @@
+<map id="hpx::components::colocating_distribution_policy::bulk_create" name="hpx::components::colocating_distribution_policy::bulk_create">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="329,38,431,65"/>
+<area shape="rect" id="node6" href="$de/dfa/structhpx_1_1components_1_1stub__base.html#a6a68ca7a26f10ac3d61e8f2167bee5ac" title="hpx::components::stub\l_base::bulk_create_async" alt="" coords="293,89,467,131"/>
+<area shape="rect" id="node7" href="$de/dfa/structhpx_1_1components_1_1stub__base.html#af4dca498f0cb050e876cd5b6c22f4ca0" title="hpx::components::stub\l_base::bulk_create_colocated_async" alt="" coords="261,155,499,196"/>
+<area shape="rect" id="node8" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a17045dee172c36e208b2cbd400fa8797" title="hpx::lcos::future::then" alt="" coords="306,221,454,247"/>
+<area shape="rect" id="node9" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="309,271,451,298"/>
+<area shape="rect" id="node3" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="547,13,729,39"/>
+<area shape="rect" id="node5" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="558,63,718,90"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="777,5,940,47"/>
+</map>

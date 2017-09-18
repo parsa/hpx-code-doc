@@ -1,0 +1,9 @@
+<map id="hpx::get_initial_num_localities" name="hpx::get_initial_num_localities">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="202,13,343,39"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="213,63,332,90"/>
+<area shape="rect" id="node5" href="$d0/d7b/classhpx_1_1runtime.html#a0bfe0241e54b1fe1dd4ec181d944de43" title="access configuration information " alt="" coords="192,114,353,141"/>
+<area shape="rect" id="node6" href="$d8/d70/classhpx_1_1util_1_1runtime__configuration.html#a3bc0092e81a4d36408e627a3216030e4" title="hpx::util::runtime\l_configuration::get\l_num_localities" alt="" coords="209,165,337,221"/>
+<area shape="rect" id="node3" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="401,5,564,47"/>
+<area shape="rect" id="node7" href="$dd/de4/classhpx_1_1util_1_1section.html#a2ef0091925e5c2e3fda235bff644cdb4" title="hpx::util::section\l::has_section" alt="" coords="423,139,542,180"/>
+<area shape="rect" id="node8" href="$dd/de4/classhpx_1_1util_1_1section.html#a3506cc01fb5453b2176f4747352c5517" title="hpx::util::section\l::get_section" alt="" coords="423,204,542,245"/>
+</map>

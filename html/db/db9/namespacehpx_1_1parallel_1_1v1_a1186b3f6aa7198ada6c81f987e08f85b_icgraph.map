@@ -1,0 +1,15 @@
+<map id="hpx::parallel::v1::rotate" name="hpx::parallel::v1::rotate">
+<area shape="rect" id="node2" href="$d9/dbd/structpartition__server.html#a6642286bc38b9bed88cc6423d181b87f" title="partition_server::do_work" alt="" coords="180,13,345,39"/>
+<area shape="rect" id="node4" href="$d7/d5d/rotate_8cpp.html#ab8a8520d8bdef3f9022bc5377426d949" title="test_rotate" alt="" coords="221,63,305,90"/>
+<area shape="rect" id="node6" href="$d7/d5d/rotate_8cpp.html#ae3e37eb13d1c555e7ec861e99599cecb" title="test_rotate_async" alt="" coords="199,114,326,141"/>
+<area shape="rect" id="node7" href="$d7/d5d/rotate_8cpp.html#a84f60bd76e1e8fe9ecce9b0b1ae38bea" title="test_rotate_exception" alt="" coords="189,165,336,191"/>
+<area shape="rect" id="node9" href="$d7/d5d/rotate_8cpp.html#a472f3593addc133bd849ff486e2a4e9a" title="test_rotate_exception\l_async" alt="" coords="189,216,336,257"/>
+<area shape="rect" id="node10" href="$d7/d5d/rotate_8cpp.html#ae74a2766c7d66fa2c13743d2d7b75fa9" title="test_rotate_bad_alloc" alt="" coords="189,282,336,309"/>
+<area shape="rect" id="node12" href="$d7/d5d/rotate_8cpp.html#a02745132ec799d5c6af870c3350a7454" title="test_rotate_bad_alloc\l_async" alt="" coords="189,333,336,375"/>
+<area shape="rect" id="node13" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#acc6f55c3bfc3aecae26cb8a73e3e2563" title="hpx::parallel::v1::\lrotate" alt="" coords="203,399,323,440"/>
+<area shape="rect" id="node14" href="$d8/d52/classhpx_1_1threads_1_1policies_1_1shared__priority__scheduler.html#a6b50d46539ac974cbe2706f56c2fbc3f" title="hpx::threads::policies\l::shared_priority_scheduler\l::on_start_thread" alt="" coords="173,465,352,521"/>
+<area shape="rect" id="node3" href="$d9/dbd/structpartition__server.html#a80906893b5b6771003acbf3fcfec37cf" title="partition_server::partition\l_server" alt="" coords="400,5,563,47"/>
+<area shape="rect" id="node5" href="$d7/d5d/rotate_8cpp.html#ae9e7ca0d224acd1e52ac006b1b1249e6" title="test_rotate" alt="" coords="439,93,523,119"/>
+<area shape="rect" id="node8" href="$d7/d5d/rotate_8cpp.html#aa448ed0e1a24642b5baaa5bb029abfc1" title="test_rotate_exception" alt="" coords="408,194,555,221"/>
+<area shape="rect" id="node11" href="$d7/d5d/rotate_8cpp.html#a6945fe3952a002c1c4536cb98882a9bf" title="test_rotate_bad_alloc" alt="" coords="408,311,555,338"/>
+</map>

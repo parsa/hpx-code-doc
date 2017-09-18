@@ -1,0 +1,3 @@
+<map id="hpx::lcos::detail::dataflow_dispatch::call" name="hpx::lcos::detail::dataflow_dispatch::call">
+<area shape="rect" id="node2" href="$d8/d25/structhpx_1_1lcos_1_1detail_1_1dataflow__action__dispatch_3_01_action_00_01_policy_00_01typenameb0c4594a5aa3847d83b909a7e4af25b8.html#a32966739c769a75a527e72ecfafe395c" title="hpx::lcos::detail::\ldataflow_action_dispatch\l\&lt; Action, Policy, typename\l std::enable_if\&lt; traits::is\l_launch_policy\&lt; typename std\l::decay\&lt; Policy \&gt;::type \&gt;::value\l \&gt;::type \&gt;::call" alt="" coords="207,5,413,120"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="hpx::parcelset::put_parcel" name="hpx::parcelset::put_parcel">
+<area shape="rect" id="node2" href="$d1/d2a/namespacehpx_1_1applier_1_1detail.html#a4d568b8071bb894a09fabfba232c2663" title="hpx::applier::detail\l::put_parcel" alt="" coords="215,37,343,79"/>
+<area shape="rect" id="node6" href="$d1/d2a/namespacehpx_1_1applier_1_1detail.html#aa5119ce6a8f642d2bacf23dc42ade0f9" title="hpx::applier::detail\l::put_parcel_cont" alt="" coords="215,103,343,144"/>
+<area shape="rect" id="node7" href="$d8/db6/structhpx_1_1agas_1_1big__boot__barrier.html#a9148a04a25bea5a37d77b3ff20e1ebfb" title="hpx::agas::big_boot\l_barrier::apply_late" alt="" coords="211,168,347,209"/>
+<area shape="rect" id="node10" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a938c1c4259b1be845dc0197465969a17" title="hpx::parcelset::parcelhandler\l::~parcelhandler" alt="" coords="184,233,373,275"/>
+<area shape="rect" id="node11" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#aad45344f98c3f15456325c7270ae5ade" title="hpx::parcelset::parcelhandler\l::put_parcel" alt="" coords="184,299,373,340"/>
+<area shape="rect" id="node3" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#ad478f8b244ec822fcbcb84aa67b17497" title="hpx::parcelset::parcelhandler\l::sync_put_parcel" alt="" coords="421,5,611,47"/>
+<area shape="rect" id="node5" href="$d9/d67/classhpx_1_1parcelset_1_1parcelport.html#a68bd6750625124e4de6309e74283a767" title="hpx::parcelset::parcelport\l::can_connect" alt="" coords="431,71,601,112"/>
+<area shape="rect" id="node4" href="$d1/d2a/namespacehpx_1_1applier_1_1detail.html#ab69485311adeb590afa621a4b4be595d" title="hpx::applier::detail\l::apply_r_sync_p" alt="" coords="669,5,797,47"/>
+<area shape="rect" id="node8" href="$dc/d54/namespacehpx_1_1agas.html#a3c98dc053a97fca0f3f3b5719d9f8336" title="hpx::agas::register\l_worker" alt="" coords="451,168,581,209"/>
+<area shape="rect" id="node9" href="$de/dae/structhpx_1_1agas_1_1notification__header.html#aa028cf0e80baf9259523c340c4568634" title="hpx::agas::notification\l_header::serialize" alt="" coords="659,168,808,209"/>
+</map>

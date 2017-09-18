@@ -1,0 +1,4 @@
+<map id="hpx::lcos::local::base_and_gate::trigger_conditions" name="hpx::lcos::local::base_and_gate::trigger_conditions">
+<area shape="rect" id="node2" href="$df/d91/structhpx_1_1lcos_1_1local_1_1base__and__gate.html#a9cbcd9fe46997ee4fa44fe0fdf3fa395" title="get a future allowing to wait for the gate to fire " alt="" coords="245,5,408,61"/>
+<area shape="rect" id="node3" href="$df/d91/structhpx_1_1lcos_1_1local_1_1base__and__gate.html#a6a835a67ee4d7663438f62a1e3957c7e" title="hpx::lcos::local::base\l_and_gate\&lt; no_mutex \&gt;\l::next_generation" alt="" coords="245,85,408,141"/>
+</map>

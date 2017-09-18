@@ -1,0 +1,10 @@
+<map id="hpx::performance_counters::stubs::performance_counter::reset" name="hpx::performance_counters::stubs::performance_counter::reset">
+<area shape="rect" id="node2" href="$db/d1c/structhpx_1_1performance__counters_1_1performance__counter.html#ae9e09b0bfec1d8ebcf224d2f7e9a9149" title="hpx::performance_counters\l::performance_counter::reset" alt="" coords="301,86,489,127"/>
+<area shape="rect" id="node7" href="$dc/d43/structhpx_1_1performance__counters_1_1stubs_1_1performance__counter.html#a0dd3ee8527b0676f71a2f864e407b9cf" title="hpx::performance_counters\l::stubs::performance_counter\l::get_value" alt="" coords="300,152,491,208"/>
+<area shape="rect" id="node8" href="$dc/d43/structhpx_1_1performance__counters_1_1stubs_1_1performance__counter.html#a03e95aba0d877f48457902d10ced71b1" title="hpx::performance_counters\l::stubs::performance_counter\l::get_values_array" alt="" coords="300,232,491,288"/>
+<area shape="rect" id="node9" href="$dc/d43/structhpx_1_1performance__counters_1_1stubs_1_1performance__counter.html#a701d47a68b0334419b1d9c450434355b" title="hpx::performance_counters\l::stubs::performance_counter::reset" alt="" coords="281,313,509,354"/>
+<area shape="rect" id="node3" href="$df/d08/classhpx_1_1performance__counters_1_1performance__counter__set.html#a967e0633f648ef25cbf981c916965fc3" title="Reset all counters in this set. " alt="" coords="557,86,771,127"/>
+<area shape="rect" id="node4" href="$d4/d45/classhpx_1_1performance__counters_1_1server_1_1arithmetics__counter.html#ab9c547e99e253e801badd08fd315affa" title="hpx::performance_counters\l::server::arithmetics_counter\l::reset_counter_value" alt="" coords="832,5,1019,61"/>
+<area shape="rect" id="node5" href="$df/d08/classhpx_1_1performance__counters_1_1performance__counter__set.html#a900a5bc63af22a4598fb7cc5b0263160" title="hpx::performance_counters\l::performance_counter_set::reset" alt="" coords="819,86,1032,127"/>
+<area shape="rect" id="node6" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#a0aaa2a60fed9881c4cee33dc84b25f94" title="hpx::util::query_counters\l::reset_counters" alt="" coords="843,151,1008,193"/>
+</map>

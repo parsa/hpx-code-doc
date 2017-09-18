@@ -1,0 +1,51 @@
+<map id="hpx::runtime_impl::get_notification_policy" name="hpx::runtime_impl::get_notification_policy">
+<area shape="rect" id="node2" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="243,348,343,375"/>
+<area shape="rect" id="node3" href="$d0/d7b/classhpx_1_1runtime.html#a8aa04153394a34e9f75cf0a07a05ad27" title="hpx::runtime::init_tss" alt="" coords="221,864,365,891"/>
+<area shape="rect" id="node10" href="$dc/d80/classhpx_1_1runtime__impl.html#aabdaeb29966bd884e97f5fbca0ecae3d" title="Report a non&#45;recoverable error to the runtime system. " alt="" coords="227,465,360,506"/>
+<area shape="rect" id="node18" href="$d0/d7b/classhpx_1_1runtime.html#a0bfe0241e54b1fe1dd4ec181d944de43" title="access configuration information " alt="" coords="951,977,1112,1004"/>
+<area shape="rect" id="node34" href="$d8/d83/namespacehpx.html#ab4fd45e3ad18628b8eb4c41cab914ae3" title="hpx::locality_prefix" alt="" coords="228,1071,359,1097"/>
+<area shape="rect" id="node36" href="$df/dad/namespacehpx_1_1util.html#ae0c76dfbb0996d93545fff1bccedd8ba" title="hpx::util::set_thread_name" alt="" coords="445,1184,621,1211"/>
+<area shape="rect" id="node38" href="$da/dcb/classhpx_1_1applier_1_1applier.html#a8adb1442037f9539fe1805d7a17ad7a7" title="hpx::applier::applier\l::init_tss" alt="" coords="226,1238,361,1279"/>
+<area shape="rect" id="node39" href="$d4/d2c/make__continuation__1615_8cpp.html#acbdae3e81403e1ffc527c18dc1cd51dd" title="to_string" alt="" coords="257,1355,329,1381"/>
+<area shape="rect" id="node41" href="$d5/d27/namespacehpx_1_1threads_1_1coroutines.html#adfbd93a926045a47ea344257d8cc3a5e" title="hpx::threads::coroutines\l::thread_startup" alt="" coords="212,1406,375,1447"/>
+<area shape="rect" id="node42" href="$d8/d83/namespacehpx.html#a0bdf7871dfff58e68ae5eab9af23f2aa" title="hpx::register_thread" alt="" coords="225,1472,362,1499"/>
+<area shape="rect" id="node44" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a42b784e52c610fa3c7998f2b41396f04" title="Use the given bit mask to set the affinity of the given thread. Each set bit corresponds to a process..." alt="" coords="206,1523,381,1565"/>
+<area shape="rect" id="node45" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a9f0786c5c16ca3dac8d5555451ebf793" title="Return a bit mask where each set bit corresponds to a processing unit available to the service thread..." alt="" coords="204,399,383,441"/>
+<area shape="rect" id="node46" href="$d5/d27/namespacehpx_1_1threads_1_1coroutines.html#a51c465808e5fead4ec6d493882aff56d" title="hpx::threads::coroutines\l::thread_shutdown" alt="" coords="212,1589,375,1630"/>
+<area shape="rect" id="node47" href="$da/dcb/classhpx_1_1applier_1_1applier.html#ac54553691d7970b86621797d7df07409" title="hpx::applier::applier\l::deinit_tss" alt="" coords="226,1173,361,1214"/>
+<area shape="rect" id="node48" href="$d0/d7b/classhpx_1_1runtime.html#a4781e21025b0f41443fbe43bc4a8b8ab" title="hpx::runtime::deinit_tss" alt="" coords="214,1304,373,1331"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="460,611,607,637"/>
+<area shape="rect" id="node6" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a39c7045b96ffecd7220745a72a89ea6e" title="hpx::util::thread_specific\l_ptr::reset" alt="" coords="452,1235,615,1277"/>
+<area shape="rect" id="node7" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="1173,806,1336,847"/>
+<area shape="rect" id="node8" href="$dd/d16/structhpx_1_1util_1_1high__resolution__clock.html#aaf1ff59c3ef8d3b70696fadb0a55842c" title="hpx::util::high_resolution\l_clock::now" alt="" coords="452,798,615,839"/>
+<area shape="rect" id="node5" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="702,560,871,587"/>
+<area shape="rect" id="node9" href="$de/db3/1d__stencil__1__omp_8cpp.html#a89e9667753dccfac455bd37a7a3a7b16" title="now" alt="" coords="764,813,809,840"/>
+<area shape="rect" id="node11" href="$d7/d28/namespacehpx_1_1threads.html#a79ebd37a6bd090d20a14cc85df4b6f73" title="hpx::threads::threadmanager_is" alt="" coords="684,459,889,485"/>
+<area shape="rect" id="node15" href="$d5/dbe/namespacehpx_1_1detail.html#a4583e4f931e3f1cbdfaf65d36a6bbde3" title="hpx::detail::report\l_exception_and_continue" alt="" coords="449,713,618,754"/>
+<area shape="rect" id="node22" href="$dc/d80/classhpx_1_1runtime__impl.html#ade07d0e41b902f6db94049b46f97091f" title="Initiate termination of the runtime system. " alt="" coords="454,661,613,688"/>
+<area shape="rect" id="node24" href="$d2/da2/namespacehpx_1_1components_1_1server.html#a690e445bd980a7ec4040fbba96dbfa61" title="hpx::components::server\l::console_error_sink" alt="" coords="451,246,615,287"/>
+<area shape="rect" id="node26" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#aae7aeb51157efaed2271de8e0b49e917" title="Get locality locality_id of the console locality. " alt="" coords="458,115,609,171"/>
+<area shape="rect" id="node30" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ab52c19a37c2a7a006c6c15f90ad0539c" title="hpx::agas::addressing\l_service::get_local_locality" alt="" coords="698,187,875,229"/>
+<area shape="rect" id="node31" href="$d5/d76/namespacehpx_1_1components.html#a8e8b3cd26fda321c86bca13be5b40383" title="hpx::components::console\l_error_sink" alt="" coords="446,494,621,535"/>
+<area shape="rect" id="node32" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#a9d8a134841d7939fcccb160b377abb42" title="hpx::components::stubs\l::runtime_support::terminate_all" alt="" coords="431,311,636,353"/>
+<area shape="rect" id="node33" href="$d4/dc9/namespacehpx_1_1naming.html#a70eba20e5dbbfcb7b61f3302a27fd2ea" title="hpx::naming::get_id\l_from_locality_id" alt="" coords="465,377,601,418"/>
+<area shape="rect" id="node12" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="961,763,1102,789"/>
+<area shape="rect" id="node13" href="$d0/d7b/classhpx_1_1runtime.html#a865b12d57fcd44a8d3dda3e35414f563" title="hpx::runtime::get_thread\l_manager" alt="" coords="950,419,1113,461"/>
+<area shape="rect" id="node14" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#ad356526186c9d3ebfd1677bea135141c" title="Return whether the thread manager is still running This returns the &quot;minimal state&quot;, i.e. the state of the least advanced thread pool. " alt="" coords="937,485,1125,526"/>
+<area shape="rect" id="node16" href="$d8/d83/namespacehpx.html#ab67c753a0a830fd90332e88a18377f90" title="hpx::expect_exception_flag" alt="" coords="697,661,877,688"/>
+<area shape="rect" id="node17" href="$d8/d83/namespacehpx.html#a097240e6744bc8905f708932da401835" title="Retrieve the string value of a configuration entry given by key. " alt="" coords="713,763,860,789"/>
+<area shape="rect" id="node20" href="$df/dad/namespacehpx_1_1util.html#a4d53a5f5c04d022a87d71b19af5d14f3" title="hpx::util::attach_debugger" alt="" coords="701,712,873,739"/>
+<area shape="rect" id="node21" href="$d8/d83/namespacehpx.html#af59d165ab289edc23121bae716d73b81" title="Extract the diagnostic information embedded in the given exception and return a string holding a form..." alt="" coords="697,509,877,536"/>
+<area shape="rect" id="node19" href="$dd/de4/classhpx_1_1util_1_1section.html#a02ac2ca2a4490347405dec03df46af88" title="hpx::util::section\l::get_entry" alt="" coords="972,911,1091,953"/>
+<area shape="rect" id="node23" href="$d0/d7b/classhpx_1_1runtime.html#a4ec6e63556e4543fc1a2a8b6f0de49d0" title="Call all registered on_exit functions. " alt="" coords="711,611,862,637"/>
+<area shape="rect" id="node25" href="$d2/da2/namespacehpx_1_1components_1_1server.html#a99dc95479cd2a39ff7adb6ec6ff6fbfb" title="hpx::components::server\l::get_error_dispatcher" alt="" coords="705,253,869,294"/>
+<area shape="rect" id="node27" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a4d0305db2b63435b0418e4603b70533d" title="hpx::agas::addressing\l_service::get_status" alt="" coords="711,122,862,163"/>
+<area shape="rect" id="node28" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="699,5,874,32"/>
+<area shape="rect" id="node29" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#aab78f53372b45edb3de49e2030af215b" title="Returns whether this addressing_service represents the console locality. " alt="" coords="711,57,862,98"/>
+<area shape="rect" id="node35" href="$df/dad/namespacehpx_1_1util.html#aca0372e368b829ebac21ebfb2f50a82b" title="hpx::util::safe_lexical_cast" alt="" coords="445,1016,621,1043"/>
+<area shape="rect" id="node37" href="$db/d19/classhpx_1_1util_1_1io__service__pool.html#ad01d51199d15e6ccdcac40eca4881c63" title="Stop all io_service objects in the pool. " alt="" coords="467,1067,600,1109"/>
+<area shape="rect" id="node40" href="$d4/d2c/make__continuation__1615_8cpp.html#a8b2f8a7c58b490fcb1260f36bac46541" title="HPX_PLAIN_ACTION" alt="" coords="461,1432,606,1459"/>
+<area shape="rect" id="node43" href="$d0/d7b/classhpx_1_1runtime.html#a7d70f896b57248c228b504e9062f043c" title="Register an external OS&#45;thread with HPX. " alt="" coords="461,1483,606,1525"/>
+<area shape="rect" id="node49" href="$df/dad/namespacehpx_1_1util.html#aadddd90ef44b874f4376e293977d5596" title="hpx::util::reset_held\l_lock_data" alt="" coords="465,1366,601,1407"/>
+<area shape="rect" id="node50" href="$d7/d28/namespacehpx_1_1threads.html#a1cd179f367807881ac9b7d690cbcc7bd" title="hpx::threads::reset\l_continuation_recursion_count" alt="" coords="434,1301,633,1342"/>
+</map>

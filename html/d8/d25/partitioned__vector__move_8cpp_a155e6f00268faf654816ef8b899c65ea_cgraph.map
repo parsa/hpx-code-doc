@@ -1,0 +1,23 @@
+<map id="move_tests" name="move_tests">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a820f6ca4310861d4f6390cbd066c659b" title="Return the list of global ids representing all localities available to this application. " alt="" coords="141,93,291,119"/>
+<area shape="rect" id="node11" href="$d8/d25/partitioned__vector__move_8cpp.html#a13f2364e574744d13221bf7285d05feb" title="move_tests" alt="" coords="172,321,260,347"/>
+<area shape="rect" id="node20" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="411,397,449,423"/>
+<area shape="rect" id="node3" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="339,13,521,39"/>
+<area shape="rect" id="node5" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="350,63,510,90"/>
+<area shape="rect" id="node6" href="$da/dcb/classhpx_1_1applier_1_1applier.html#a1d4a6d6d2a6e941d365075f597ce590f" title="hpx::applier::applier\l::get_localities" alt="" coords="363,115,497,156"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="583,5,745,47"/>
+<area shape="rect" id="node7" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#ac4cb84a74380ddbab1039ad7ab672007" title="hpx::parcelset::parcelhandler\l::get_raw_localities" alt="" coords="569,92,759,133"/>
+<area shape="rect" id="node8" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a3d263988f86b2a4c26dbb8d734540a5a" title="Query for the locality_ids of all known localities. " alt="" coords="813,92,966,133"/>
+<area shape="rect" id="node9" href="$d4/dc9/namespacehpx_1_1naming.html#ae50a3ecdb5854b6a25a556ebc9830541" title="hpx::naming::get_gid\l_from_locality_id" alt="" coords="1020,92,1163,133"/>
+<area shape="rect" id="node10" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="1211,92,1377,133"/>
+<area shape="rect" id="node12" href="$d8/d25/partitioned__vector__move_8cpp.html#a17297a3d399aa60fa51b936c52cf66aa" title="compare_vectors" alt="" coords="370,346,490,373"/>
+<area shape="rect" id="node16" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="355,202,505,229"/>
+<area shape="rect" id="node18" href="$d8/d25/partitioned__vector__move_8cpp.html#a980222667c4a3c12a00f24cd11bea863" title="fill_vector" alt="" coords="393,295,467,322"/>
+<area shape="rect" id="node13" href="$d1/d60/classhpx_1_1partitioned__vector.html#aedb52ea3e931891d08e83b0eac6cdc16" title="Compute the size as the number of elements it contains. " alt="" coords="588,405,740,447"/>
+<area shape="rect" id="node14" href="$d1/d60/classhpx_1_1partitioned__vector.html#ae49064cd21aee5d77e2484c194a55f2b" title="hpx::partitioned_vector\l::begin" alt="" coords="588,288,740,329"/>
+<area shape="rect" id="node15" href="$d1/d60/classhpx_1_1partitioned__vector.html#a66108302ad511b83709063b9874158e7" title="Return the iterator at the end of the vector. " alt="" coords="573,354,755,381"/>
+<area shape="rect" id="node17" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="604,157,724,199"/>
+<area shape="rect" id="node19" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#afb2ea48b0902f52ee4d8b764807b4316" title="hpx::util::detail::\lrange_impl::end" alt="" coords="607,223,721,264"/>
+<area shape="rect" id="node21" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="621,471,707,498"/>
+<area shape="rect" id="node22" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="807,464,972,505"/>
+</map>

@@ -1,0 +1,10 @@
+digraph "hpx::components::stubs::memory_block"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node0 [label="hpx::components::stubs\l::memory_block",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::components::stub\l_base\< server::memory\l_block \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dfa/structhpx_1_1components_1_1stub__base.html"];
+  Node2 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< server::memory_block \>" ,fontname="Helvetica"];
+  Node2 [label="hpx::components::stub\l_base\< ServerComponent \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dfa/structhpx_1_1components_1_1stub__base.html"];
+}

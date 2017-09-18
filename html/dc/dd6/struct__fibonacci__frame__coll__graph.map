@@ -1,0 +1,6 @@
+<map id="_fibonacci_frame" name="_fibonacci_frame">
+<area shape="rect" id="node2" href="$d0/d33/classhpx_1_1lcos_1_1future.html" title="hpx::lcos::future\&lt;\l std::uint64_t \&gt;" alt="" coords="282,24,405,65"/>
+<area shape="rect" id="node3" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html" title="hpx::lcos::detail::\lfuture_base\&lt; future\l\&lt; std::uint64_t \&gt;, std\l::uint64_t \&gt;" alt="" coords="37,5,181,76"/>
+<area shape="rect" id="node4" href="$d6/de4/classhpx_1_1lcos_1_1local_1_1promise.html" title="hpx::lcos::local::promise\l\&lt; std::uint64_t \&gt;" alt="" coords="261,93,425,135"/>
+<area shape="rect" id="node5" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html" title="hpx::lcos::local::detail\l::promise_base\&lt; std::uint64_t \&gt;" alt="" coords="5,100,212,141"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="server::viewer::register_region" name="server::viewer::register_region">
+<area shape="rect" id="node2" href="$d1/d7b/classhpx_1_1components_1_1managed__component__base.html#abbea1fabc9a5fba8c5d7cbbdf76e42c8" title="hpx::components::managed\l_component_base\&lt; view_registry\l \&gt;::get_unmanaged_id" alt="" coords="204,5,419,61"/>
+<area shape="rect" id="node3" href="$db/d7a/structclient_1_1view__registry.html#a5a3a3919ce140a004a626975d2a2c1c9" title="client::view_registry\l::register_view" alt="" coords="244,86,379,127"/>
+<area shape="rect" id="node4" href="$d1/d7b/classhpx_1_1components_1_1managed__component__base.html#ac026850ad861e1da5393943cf5751708" title="hpx::components::managed\l_component_base\&lt; view_registry\l \&gt;::get_id" alt="" coords="204,152,419,208"/>
+</map>

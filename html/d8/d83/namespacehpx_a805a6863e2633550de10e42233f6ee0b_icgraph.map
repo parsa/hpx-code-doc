@@ -1,0 +1,10 @@
+<map id="hpx::get_system_uptime" name="hpx::get_system_uptime">
+<area shape="rect" id="node2" href="$d4/d45/classhpx_1_1performance__counters_1_1server_1_1arithmetics__counter.html#a202d63f4d2380639ab50bdc8958d13f2" title="Overloads from the base_counter base class. " alt="" coords="223,5,409,61"/>
+<area shape="rect" id="node3" href="$df/d89/classhpx_1_1performance__counters_1_1server_1_1arithmetics__counter__extended.html#a37679be547d209e1542577346a3602f0" title="Overloads from the base_counter base class. " alt="" coords="219,85,413,141"/>
+<area shape="rect" id="node4" href="$d0/d7b/classhpx_1_1runtime.html#ae5be42db3f1780df79b6c3ca7f6fdc0b" title="hpx::runtime::get_instance\l_number" alt="" coords="228,166,404,207"/>
+<area shape="rect" id="node7" href="$d1/d35/classperformance__counters_1_1sine_1_1server_1_1sine__counter.html#a88a7db03ac08f8503b8fa8f178d9e1f9" title="performance_counters\l::sine::server::sine\l_counter::evaluate" alt="" coords="241,232,391,288"/>
+<area shape="rect" id="node9" href="$d6/d3f/classhpx_1_1performance__counters_1_1server_1_1statistics__counter.html#ae8c17cb11f82d7e0ca07203053b579b2" title="Overloads from the base_counter base class. " alt="" coords="227,312,405,368"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#a9cd8c96309c6ea084c51856ae6cde7a5" title="hpx::get_runtime_instance\l_number" alt="" coords="469,111,643,153"/>
+<area shape="rect" id="node6" href="$d0/d07/system__characteristics_8hpp.html#ab89dcd3f8f12bd35634d3849f0e93d90" title="print_system_characteristics" alt="" coords="461,177,651,204"/>
+<area shape="rect" id="node8" href="$d1/d35/classperformance__counters_1_1sine_1_1server_1_1sine__counter.html#a42411afc8afd81ed472f21639e4cb135" title="performance_counters\l::sine::server::sine\l_counter::sine_counter" alt="" coords="479,232,633,288"/>
+</map>

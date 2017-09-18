@@ -1,0 +1,17 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a91f701414a6c667c3b58a2e50b93ad0a" title="Return the global id representing the root locality. " alt="" coords="104,101,252,127"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="307,13,448,39"/>
+<area shape="rect" id="node5" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="300,64,455,105"/>
+<area shape="rect" id="node6" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#aae7aeb51157efaed2271de8e0b49e917" title="Get locality locality_id of the console locality. " alt="" coords="302,275,453,331"/>
+<area shape="rect" id="node8" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="504,101,679,127"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="510,5,673,47"/>
+<area shape="rect" id="node7" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a4d0305db2b63435b0418e4603b70533d" title="hpx::agas::addressing\l_service::get_status" alt="" coords="516,152,667,193"/>
+<area shape="rect" id="node9" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#aab78f53372b45edb3de49e2030af215b" title="Returns whether this addressing_service represents the console locality. " alt="" coords="516,217,667,259"/>
+<area shape="rect" id="node10" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ab52c19a37c2a7a006c6c15f90ad0539c" title="hpx::agas::addressing\l_service::get_local_locality" alt="" coords="503,283,680,324"/>
+<area shape="rect" id="node11" href="$d4/dc9/namespacehpx_1_1naming.html#ae50a3ecdb5854b6a25a556ebc9830541" title="hpx::naming::get_gid\l_from_locality_id" alt="" coords="520,348,663,389"/>
+<area shape="rect" id="node13" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a958dcde257f99d445f7d9cafa6d55fbe" title="hpx::agas::addressing\l_service::resolve_name" alt="" coords="513,413,669,455"/>
+<area shape="rect" id="node15" href="$d4/dc9/namespacehpx_1_1naming.html#af568527a84c2ea192f494afa8a236e8c" title="hpx::naming::get_locality\l_id_from_id" alt="" coords="508,479,675,520"/>
+<area shape="rect" id="node16" href="$db/dee/structhpx_1_1naming_1_1id__type.html#a0375af42ca6b0ff79e627d91bfae571b" title="hpx::naming::id_type\l::get_gid" alt="" coords="520,544,663,585"/>
+<area shape="rect" id="node12" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="746,348,913,389"/>
+<area shape="rect" id="node14" href="$dd/d5e/structhpx_1_1agas_1_1symbol__namespace.html#a6e3738ab07d37cf31822ab6044e856e8" title="hpx::agas::symbol_namespace\l::resolve" alt="" coords="728,413,931,455"/>
+</map>

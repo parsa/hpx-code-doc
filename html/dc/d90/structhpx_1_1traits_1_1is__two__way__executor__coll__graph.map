@@ -1,0 +1,4 @@
+<map id="hpx::traits::is_two_way_executor&lt; T, Enable &gt;" name="hpx::traits::is_two_way_executor&lt; T, Enable &gt;">
+<area shape="rect" id="node2" href="$df/d3c/structhpx_1_1parallel_1_1execution_1_1is__two__way__executor.html" title="hpx::parallel::execution\l::is_two_way_executor\&lt; T \&gt;" alt="" coords="9,184,195,225"/>
+<area shape="rect" id="node3" href="$d2/daa/structhpx_1_1parallel_1_1execution_1_1detail_1_1is__two__way__executor.html" title="hpx::parallel::execution\l::detail::is_two_way_executor\l\&lt; std::decay\&lt; T \&gt;::type \&gt;" alt="" coords="5,80,199,136"/>
+</map>

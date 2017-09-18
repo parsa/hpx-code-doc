@@ -1,0 +1,10 @@
+<map id="BMP::ReadFromFile" name="BMP::ReadFromFile">
+<area shape="rect" id="node2" href="$dd/d53/_easy_b_m_p_8cpp.html#a06ce9e359783f4a482de8e3055957dce" title="EasyBMPcheckDataSize" alt="" coords="193,5,363,32"/>
+<area shape="rect" id="node3" href="$dd/d53/_easy_b_m_p_8cpp.html#a7151a3d14fa85dc0d9f4909b188c6b91" title="SafeFread" alt="" coords="237,56,319,83"/>
+<area shape="rect" id="node4" href="$d2/df6/_easy_b_m_p___data_structures_8h.html#ac6ab566aa4b7764fb0cbcaab5afab089" title="IsBigEndian" alt="" coords="233,107,323,133"/>
+<area shape="rect" id="node5" href="$d7/d2a/class_b_m_f_h.html#a749e4bb6cfa10ed9fa77c3578c471110" title="BMFH::SwitchEndianess" alt="" coords="195,259,361,285"/>
+<area shape="rect" id="node6" href="$d2/df6/_easy_b_m_p___data_structures_8h.html#af747c0c8ddceeffab9b86640d59cb14a" title="FlipWORD" alt="" coords="415,208,499,235"/>
+<area shape="rect" id="node8" href="$dc/d50/class_b_m_i_h.html#aece3c1b46fe1712b5926d0b47eb1739f" title="BMIH::SwitchEndianess" alt="" coords="197,208,359,235"/>
+<area shape="rect" id="node9" href="$dd/d53/_easy_b_m_p_8cpp.html#af52dc2e4faaa0a793efd117aac7473c9" title="IntPow" alt="" coords="247,309,309,336"/>
+<area shape="rect" id="node7" href="$d2/df6/_easy_b_m_p___data_structures_8h.html#a109ee493d87625eee6f8a528ee85eec4" title="FlipDWORD" alt="" coords="411,259,504,285"/>
+</map>

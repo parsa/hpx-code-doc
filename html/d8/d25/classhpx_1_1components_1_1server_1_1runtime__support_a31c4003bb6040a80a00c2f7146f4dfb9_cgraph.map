@@ -1,0 +1,12 @@
+<map id="hpx::components::server::runtime_support::create_component" name="hpx::components::server::runtime_support::create_component">
+<area shape="rect" id="node2" href="$d5/d76/namespacehpx_1_1components.html#a3f82b7ecdff89eca35438b7abf53312c" title="hpx::components::get\l_component_type" alt="" coords="228,39,376,80"/>
+<area shape="rect" id="node4" href="$d5/d76/namespacehpx_1_1components.html#a1dbb50ea3341d7f4221bccc8602c789d" title="Return the string representation for a given component type id. " alt="" coords="220,136,384,177"/>
+<area shape="rect" id="node9" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="283,227,321,254"/>
+<area shape="rect" id="node3" href="$de/d3d/structhpx_1_1traits_1_1component__type__database.html#a5a9174705a0c489fa8a13bf324295345" title="hpx::traits::component\l_type_database::get" alt="" coords="432,5,584,47"/>
+<area shape="rect" id="node5" href="$d5/d76/namespacehpx_1_1components.html#aebf4eda33c38b1b704b6b86ac20da0b6" title="The upper short word of the component is the actual component type. " alt="" coords="434,71,582,112"/>
+<area shape="rect" id="node6" href="$d5/d76/namespacehpx_1_1components.html#a90dbb7eb7bda85676950ac7198986f77" title="hpx::components::get\l_base_type" alt="" coords="434,136,582,177"/>
+<area shape="rect" id="node7" href="$d4/d2c/make__continuation__1615_8cpp.html#acbdae3e81403e1ffc527c18dc1cd51dd" title="to_string" alt="" coords="472,202,544,229"/>
+<area shape="rect" id="node8" href="$d4/d2c/make__continuation__1615_8cpp.html#a8b2f8a7c58b490fcb1260f36bac46541" title="HPX_PLAIN_ACTION" alt="" coords="642,199,787,226"/>
+<area shape="rect" id="node10" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="465,254,551,281"/>
+<area shape="rect" id="node11" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="632,251,797,292"/>
+</map>

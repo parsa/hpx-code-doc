@@ -1,0 +1,6 @@
+<map id="test_client" name="test_client">
+<area shape="rect" id="node2" href="$d9/dad/classhpx_1_1components_1_1client__base.html" title="hpx::components::client\l_base\&lt; test_client, test\l_server \&gt;" alt="" coords="332,95,493,151"/>
+<area shape="rect" id="node3" href="$de/dfa/structhpx_1_1components_1_1stub__base.html" title="detail::make_stub\&lt;\l test_server &#160;\&gt;::type" alt="" coords="17,102,152,144"/>
+<area shape="rect" id="node6" href="$d9/dad/classhpx_1_1components_1_1client__base.html" title="hpx::components::client\l_base\&lt; test_client, hpx\l::components::stub_base\l\&lt; test_server \&gt; \&gt;" alt="" coords="328,228,497,298"/>
+<area shape="rect" id="node7" href="$de/dfa/structhpx_1_1components_1_1stub__base.html" title="detail::make_stub\&lt;\l hpx::components::stub\l_base\&lt; test_server \&gt; \l \&gt;::type" alt="" coords="5,228,164,298"/>
+</map>

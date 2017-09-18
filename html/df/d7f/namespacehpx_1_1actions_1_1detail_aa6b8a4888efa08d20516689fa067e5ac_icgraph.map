@@ -1,0 +1,7 @@
+<map id="hpx::actions::detail::get_action_name" name="hpx::actions::detail::get_action_name">
+<area shape="rect" id="node2" href="$d9/de8/structhpx_1_1actions_1_1base__action.html#a50205c3da0fa49594bb136757d9eb159" title="Destructor. " alt="" coords="192,5,343,47"/>
+<area shape="rect" id="node3" href="$d4/d41/namespacehpx_1_1parcelset.html#a85e1e1a4ee7e78d596f2cd32fa609cac" title="hpx::parcelset::encode\l_parcels" alt="" coords="190,71,345,112"/>
+<area shape="rect" id="node6" href="$d1/d63/structhpx_1_1actions_1_1transfer__base__action.html#aafc7b547fc6d9d37b017a232b125ad4a" title="retrieve component type " alt="" coords="185,137,349,193"/>
+<area shape="rect" id="node4" href="$db/d0a/classhpx_1_1parcelset_1_1parcelport__impl.html#aa8e1c465a67665c83591d61d2d14a0b0" title="hpx::parcelset::parcelport\l_impl\&lt; parcelport \&gt;::send\l_immediate_impl" alt="" coords="401,23,572,79"/>
+<area shape="rect" id="node5" href="$db/d0a/classhpx_1_1parcelset_1_1parcelport__impl.html#a590024331c0c701e3585be0cea1e6fd0" title="hpx::parcelset::parcelport\l_impl\&lt; parcelport \&gt;::trigger\l_pending_work" alt="" coords="397,103,576,159"/>
+</map>

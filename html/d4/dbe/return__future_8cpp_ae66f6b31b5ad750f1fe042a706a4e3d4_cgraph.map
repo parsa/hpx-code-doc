@@ -1,0 +1,13 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d4/dbe/return__future_8cpp.html#a8e47983491fa2849a974d34ac5706778" title="test_component_call\l_future_void" alt="" coords="119,57,262,98"/>
+<area shape="rect" id="node8" href="$d4/dbe/return__future_8cpp.html#ab2046c45090f5005366e213217922624" title="test_component_call\l_future_int" alt="" coords="119,122,262,163"/>
+<area shape="rect" id="node9" href="$d4/dbe/return__future_8cpp.html#aecdeffea0581957a3f9f6b5fa99fc8f9" title="test_plain_call_future_void" alt="" coords="104,188,277,215"/>
+<area shape="rect" id="node10" href="$d4/dbe/return__future_8cpp.html#aecfea2714f64e8e70a58aaab6c9d40e5" title="test_plain_call_future_int" alt="" coords="108,5,273,32"/>
+<area shape="rect" id="node11" href="$df/dad/namespacehpx_1_1util.html#afbf0ff58a7808ecc4cdb8a9225cd4164" title="hpx::util::report_errors" alt="" coords="116,239,265,265"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="337,125,440,152"/>
+<area shape="rect" id="node7" href="$d2/dc9/namespacehpx_1_1lcos.html#aa22f424df487aac588e30b71f15dd2fe" title="hpx::lcos::wait_all" alt="" coords="325,68,452,95"/>
+<area shape="rect" id="node4" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="500,100,683,127"/>
+<area shape="rect" id="node6" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="511,151,671,177"/>
+<area shape="rect" id="node5" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="731,93,893,134"/>
+<area shape="rect" id="node12" href="$d4/dd9/structhpx_1_1util_1_1detail_1_1fixture.html#a556e0694a5dd410f2a6cbd58917c585c" title="hpx::util::detail::\lfixture::get" alt="" coords="331,231,446,273"/>
+</map>

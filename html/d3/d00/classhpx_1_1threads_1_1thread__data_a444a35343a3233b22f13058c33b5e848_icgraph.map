@@ -1,0 +1,6 @@
+<map id="hpx::threads::thread_data::get_pool" name="hpx::threads::thread_data::get_pool">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#a05b4c9659b34ad13f3c0e2fb866bff9f" title="hpx::threads::intrusive\l_ptr_release" alt="" coords="197,50,346,91"/>
+<area shape="rect" id="node5" href="$d0/d44/classhpx_1_1threads_1_1policies_1_1thread__queue.html#a159fcf0f5d7b3bd4cf377b99da566d48" title="Destroy the passed thread as it has been terminated. " alt="" coords="192,116,351,172"/>
+<area shape="rect" id="node3" href="$d6/d50/structhpx_1_1threads_1_1detail_1_1manage__executor.html#ad6071a250caf4951bda3a3b611dadff2" title="hpx::threads::detail\l::manage_executor::~manage\l_executor" alt="" coords="399,5,593,61"/>
+<area shape="rect" id="node4" href="$d6/da2/classhpx_1_1threads_1_1detail_1_1executor__base.html#a2cf15a7e6fcf1613b5ba140ca67361f8" title="hpx::threads::detail\l::executor_base::create_id" alt="" coords="408,86,584,127"/>
+</map>

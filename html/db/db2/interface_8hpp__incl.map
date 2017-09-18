@@ -1,0 +1,41 @@
+<map id="interface.hpp" name="interface.hpp">
+<area shape="rect" id="node2" href="$d8/dfd/config_8hpp.html" title="hpx/config.hpp" alt="" coords="1049,445,1156,471"/>
+<area shape="rect" id="node16" href="$de/dd9/exception__fwd_8hpp.html" title="hpx/exception_fwd.hpp" alt="" coords="151,87,305,114"/>
+<area shape="rect" id="node20" href="$da/d46/lcos__fwd_8hpp.html" title="hpx/lcos_fwd.hpp" alt="" coords="749,87,872,114"/>
+<area shape="rect" id="node27" href="$d3/d08/component__type_8hpp.html" title="hpx/runtime/components\l/component_type.hpp" alt="" coords="1129,259,1295,300"/>
+<area shape="rect" id="node32" href="$d5/d6a/runtime_2components__fwd_8hpp.html" title="hpx/runtime/components\l_fwd.hpp" alt="" coords="437,259,603,300"/>
+<area shape="rect" id="node34" href="$d4/d21/launch__policy_8hpp.html" title="hpx/runtime/launch\l_policy.hpp" alt="" coords="3122,259,3254,300"/>
+<area shape="rect" id="node38" href="$d0/ddd/name_8hpp.html" title="hpx/runtime/naming\l/name.hpp" alt="" coords="1507,80,1643,121"/>
+<area shape="rect" id="node49" href="$da/d32/unique__function_8hpp.html" title="hpx/util/unique_function.hpp" alt="" coords="3293,266,3475,293"/>
+<area shape="rect" id="node3" href="$df/d6a/attributes_8hpp.html" title="hpx/config/attributes.hpp" alt="" coords="347,534,511,561"/>
+<area shape="rect" id="node5" href="$d2/d97/compiler__specific_8hpp.html" title="hpx/config/compiler\l_specific.hpp" alt="" coords="511,616,646,657"/>
+<area shape="rect" id="node6" href="$de/d38/branch__hints_8hpp.html" title="hpx/config/branch_hints.hpp" alt="" coords="829,534,1013,561"/>
+<area shape="rect" id="node7" href="$d4/dce/constexpr_8hpp.html" title="hpx/config/constexpr.hpp" alt="" coords="1666,623,1833,650"/>
+<area shape="rect" id="node8" href="$d6/de2/emulate__deleted_8hpp.html" title="hpx/config/emulate\l_deleted.hpp" alt="" coords="1037,527,1168,568"/>
+<area shape="rect" id="node9" href="$d8/df6/config_2export__definitions_8hpp.html" title="hpx/config/export_definitions.hpp" alt="" coords="835,623,1045,650"/>
+<area shape="rect" id="node10" href="$d7/d7f/forceinline_8hpp.html" title="hpx/config/forceinline.hpp" alt="" coords="536,534,704,561"/>
+<area shape="rect" id="node11" href="$de/d75/manual__profiling_8hpp.html" title="hpx/config/manual_profiling.hpp" alt="" coords="1469,534,1672,561"/>
+<area shape="rect" id="node12" href="$d5/ddd/config_2version_8hpp.html" title="hpx/config/version.hpp" alt="" coords="1193,534,1343,561"/>
+<area shape="rect" id="node13" href="$d0/d47/cat_8hpp.html" title="hpx/util/detail/pp\l/cat.hpp" alt="" coords="1373,616,1491,657"/>
+<area shape="rect" id="node15" href="$de/ded/stringize_8hpp.html" title="hpx/util/detail/pp\l/stringize.hpp" alt="" coords="1696,527,1813,568"/>
+<area shape="rect" id="node17" href="$d9/d99/error_8hpp.html" title="hpx/error.hpp" alt="" coords="112,266,211,293"/>
+<area shape="rect" id="node19" href="$d7/d3a/throw__exception_8hpp.html" title="hpx/throw_exception.hpp" alt="" coords="145,177,311,203"/>
+<area shape="rect" id="node21" href="$d9/d27/is__component_8hpp.html" title="hpx/traits/is_component.hpp" alt="" coords="2808,355,2995,382"/>
+<area shape="rect" id="node24" href="$de/da6/promise__local__result_8hpp.html" title="hpx/traits/promise\l_local_result.hpp" alt="" coords="777,169,903,211"/>
+<area shape="rect" id="node25" href="$d3/dcf/promise__remote__result_8hpp.html" title="hpx/traits/promise\l_remote_result.hpp" alt="" coords="437,169,571,211"/>
+<area shape="rect" id="node28" href="$d7/d48/component__type__database_8hpp.html" title="hpx/traits/component\l_type_database.hpp" alt="" coords="1085,348,1229,389"/>
+<area shape="rect" id="node30" href="$d2/d54/assert_8hpp.html" title="hpx/util/assert.hpp" alt="" coords="830,355,959,382"/>
+<area shape="rect" id="node31" href="$d1/dcf/strip__parens_8hpp.html" title="Defines the HPX_PP_STRIP_PARENS macro. " alt="" coords="1789,437,1912,479"/>
+<area shape="rect" id="node33" href="$d5/d93/managed__component__policies_8hpp.html" title="hpx/traits/managed\l_component_policies.hpp" alt="" coords="433,348,602,389"/>
+<area shape="rect" id="node35" href="$db/d7d/thread__enums_8hpp.html" title="hpx/runtime/threads\l/thread_enums.hpp" alt="" coords="3121,348,3258,389"/>
+<area shape="rect" id="node36" href="$d4/d93/serialization__fwd_8hpp.html" title="hpx/runtime/serialization\l/serialization_fwd.hpp" alt="" coords="1880,348,2043,389"/>
+<area shape="rect" id="node39" href="$d9/d89/lcos_2local_2spinlock_8hpp.html" title="hpx/lcos/local/spinlock.hpp" alt="" coords="2083,266,2261,293"/>
+<area shape="rect" id="node40" href="$de/df9/itt__notify_8hpp.html" title="hpx/util/itt_notify.hpp" alt="" coords="2339,355,2482,382"/>
+<area shape="rect" id="node41" href="$d6/d38/register__locks_8hpp.html" title="hpx/util/register_locks.hpp" alt="" coords="2558,355,2733,382"/>
+<area shape="rect" id="node42" href="$d9/d65/lcos_2local_2spinlock__pool_8hpp.html" title="hpx/lcos/local/spinlock\l_pool.hpp" alt="" coords="2100,169,2255,211"/>
+<area shape="rect" id="node43" href="$d8/dce/id__type_8hpp.html" title="hpx/runtime/naming\l/id_type.hpp" alt="" coords="1668,259,1804,300"/>
+<area shape="rect" id="node44" href="$d5/d24/naming__fwd_8hpp.html" title="hpx/runtime/naming\l_fwd.hpp" alt="" coords="1355,348,1491,389"/>
+<area shape="rect" id="node45" href="$d4/d62/get__remote__result_8hpp.html" title="hpx/traits/get_remote\l_result.hpp" alt="" coords="2067,348,2213,389"/>
+<area shape="rect" id="node46" href="$db/d2a/is__bitwise__serializable_8hpp.html" title="hpx/traits/is_bitwise\l_serializable.hpp" alt="" coords="1566,348,1703,389"/>
+<area shape="rect" id="node47" href="$d1/d58/atomic__count_8hpp.html" title="hpx/util/atomic_count.hpp" alt="" coords="979,177,1149,203"/>
+</map>

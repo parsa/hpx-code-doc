@@ -1,0 +1,4 @@
+<map id="hpx::parcelset::parcelport::get_buffer_allocate_time_sent" name="hpx::parcelset::parcelport::get_buffer_allocate_time_sent">
+<area shape="rect" id="node2" href="$de/db4/classhpx_1_1performance__counters_1_1parcels_1_1detail_1_1gatherer.html#a3989d764f386a3a18031021afb41684e" title="hpx::performance_counters\l::parcels::detail::gatherer\l::total_buffer_allocate_time" alt="" coords="256,5,435,61"/>
+<area shape="rect" id="node3" href="$df/dad/namespacehpx_1_1util.html#ad5c4989e2aa44d2be2a0c236d87b9239" title="hpx::util::get_and\l_reset_value" alt="" coords="483,13,605,54"/>
+</map>

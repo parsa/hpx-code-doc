@@ -1,0 +1,15 @@
+digraph "hpx::traits::is_ref_wrapped_future&lt; boost::reference_wrapper&lt; Future &gt; &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node0 [label="hpx::traits::is_ref\l_wrapped_future\< boost\l::reference_wrapper\< Future \> \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::traits::is_future\l\< Future \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dab/structhpx_1_1traits_1_1is__future.html"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::traits::detail\l::is_future_customization\l_point\< Future \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d0b/structhpx_1_1traits_1_1detail_1_1is__future__customization__point.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="false_type",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node4 -> Node2 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Future \>" ,fontname="Helvetica"];
+  Node4 [label="hpx::traits::detail\l::is_future_customization\l_point\< Future, Enable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d0b/structhpx_1_1traits_1_1detail_1_1is__future__customization__point.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

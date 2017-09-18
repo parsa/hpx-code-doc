@@ -1,0 +1,23 @@
+<map id="hpx::agas::addressing_service::register_name" name="hpx::agas::addressing_service::register_name">
+<area shape="rect" id="node2" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="992,17,1133,43"/>
+<area shape="rect" id="node3" href="$dc/d54/namespacehpx_1_1agas.html#a4bb445d0aa556ce729cddab9dc49152a" title="hpx::agas::unregister_name" alt="" coords="212,593,395,619"/>
+<area shape="rect" id="node9" href="$dc/d54/namespacehpx_1_1agas.html#a739f4cc96792199719e626873d9f362a" title="hpx::agas::resolve_name" alt="" coords="220,650,387,677"/>
+<area shape="rect" id="node12" href="$dc/d54/namespacehpx_1_1agas.html#a3d33611dd6e2ec4d76c44953b466b7dc" title="hpx::agas::on_symbol\l_namespace_event" alt="" coords="228,527,379,568"/>
+<area shape="rect" id="node4" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="491,643,645,684"/>
+<area shape="rect" id="node7" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a510af72cebe74e33944d43773f3ec64a" title="hpx::agas::addressing\l_service::unregister_name" alt="" coords="481,577,655,619"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="783,709,902,735"/>
+<area shape="rect" id="node6" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="765,643,920,684"/>
+<area shape="rect" id="node8" href="$dd/d5e/structhpx_1_1agas_1_1symbol__namespace.html#aeedb5bc47d003b876f9887cdd29f331b" title="hpx::agas::symbol_namespace\l::unbind" alt="" coords="741,577,944,619"/>
+<area shape="rect" id="node10" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a958dcde257f99d445f7d9cafa6d55fbe" title="hpx::agas::addressing\l_service::resolve_name" alt="" coords="490,733,646,775"/>
+<area shape="rect" id="node11" href="$dd/d5e/structhpx_1_1agas_1_1symbol__namespace.html#a6e3738ab07d37cf31822ab6044e856e8" title="hpx::agas::symbol_namespace\l::resolve" alt="" coords="741,760,944,801"/>
+<area shape="rect" id="node13" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a88606ead360b593985197f6c07329692" title="Install a listener for a given symbol namespace event. " alt="" coords="443,367,693,408"/>
+<area shape="rect" id="node14" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html#a941a7057c3296a4c06ecbbb5032146a2" title="hpx::lcos::local::detail\l::promise_base\&lt; Result,\l detail::promise_data\&lt; Result\l \&gt; \&gt;::get_future" alt="" coords="747,104,939,175"/>
+<area shape="rect" id="node15" href="$dd/d5e/structhpx_1_1agas_1_1symbol__namespace.html#a6b674b8ace2bc447c36435a9e83db6fd" title="hpx::agas::symbol_namespace\l::on_event" alt="" coords="741,199,944,240"/>
+<area shape="rect" id="node16" href="$d4/def/classhpx_1_1lcos_1_1detail_1_1promise__base.html#a2517464a9b53f71a7531c5cf75323ef5" title="hpx::lcos::detail::\lpromise_base\&lt; Result,\l RemoteResult, detail\l::promise_data\&lt; Result\l \&gt; \&gt;::get_id" alt="" coords="764,265,921,350"/>
+<area shape="rect" id="node17" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a17045dee172c36e208b2cbd400fa8797" title="hpx::lcos::future::then" alt="" coords="769,374,917,401"/>
+<area shape="rect" id="node18" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="793,475,893,502"/>
+<area shape="rect" id="node19" href="$df/dad/namespacehpx_1_1util.html#a273e61be42a72415291e0ec0a4f28c7a" title="hpx::util::one_shot" alt="" coords="778,526,907,553"/>
+<area shape="rect" id="node20" href="$dd/dd0/namespacehpx_1_1agas_1_1detail.html#a1739a936c5bfb2f0917f5151ddd2e5b5" title="hpx::agas::detail::\lon_register_event" alt="" coords="779,39,906,80"/>
+<area shape="rect" id="node21" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="767,425,918,451"/>
+<area shape="rect" id="node22" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="1003,417,1123,459"/>
+</map>

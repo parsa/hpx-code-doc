@@ -1,0 +1,20 @@
+<map id="hpx::naming::get_id_from_locality_id" name="hpx::naming::get_id_from_locality_id">
+<area shape="rect" id="node2" href="$d1/ddc/future__hang__on__then__629_8cpp.html#adc3c2fa4c3f1fc0a1239cdbcff0bddfc" title="null_tree" alt="" coords="257,135,328,162"/>
+<area shape="rect" id="node3" href="$db/d3a/structhpx_1_1naming_1_1detail_1_1id__type__impl.html#a9a8d688a3e392cff3bfc2dc23e5e8487" title="hpx::naming::detail\l::id_type_impl::set\l_management_type" alt="" coords="225,186,361,242"/>
+<area shape="rect" id="node4" href="$d4/dc9/namespacehpx_1_1naming.html#a974088e9850b201443d067f94afd5020" title="hpx::naming::get_locality\l_from_id" alt="" coords="209,267,376,308"/>
+<area shape="rect" id="node12" href="$db/daa/network__storage_8cpp.html#ad940e27486bbdb223140ebe25e357823" title="test_write" alt="" coords="253,347,332,374"/>
+<area shape="rect" id="node14" href="$db/daa/network__storage_8cpp.html#ac40bb11cad5e1d25954468e43c1bb0e2" title="test_read" alt="" coords="255,398,331,425"/>
+<area shape="rect" id="node15" href="$dc/d80/classhpx_1_1runtime__impl.html#aabdaeb29966bd884e97f5fbca0ecae3d" title="Report a non&#45;recoverable error to the runtime system. " alt="" coords="226,449,359,491"/>
+<area shape="rect" id="node19" href="$de/d5c/runtime__support__server_8cpp.html#a2c7fd60adfab122ae67b173ad73fc706" title="HPX_REGISTER_BROADCAST\l_ACTION_ID" alt="" coords="189,515,396,556"/>
+<area shape="rect" id="node5" href="$d0/d0d/structhpx_1_1lcos_1_1broadcast.html#a41563e4cae2cf4333311462bd0e4cfe3" title="hpx::lcos::broadcast\l::operator()" alt="" coords="471,5,611,47"/>
+<area shape="rect" id="node6" href="$d4/d6c/namespacehpx_1_1lcos_1_1detail.html#a6575c2189b82a495a00b099f7c150172" title="hpx::lcos::detail::\lbroadcast_impl" alt="" coords="480,71,603,112"/>
+<area shape="rect" id="node7" href="$d2/da2/namespacehpx_1_1components_1_1server.html#a8c820dd0dff2a99985fe537486602dfe" title="hpx::components::server\l::perform_migrate_component" alt="" coords="444,136,639,177"/>
+<area shape="rect" id="node8" href="$d5/d76/namespacehpx_1_1components.html#a82bfeeb38c6172869ba4e793a926f5ac" title="hpx::components::migrate\l_from_storage" alt="" coords="455,201,628,243"/>
+<area shape="rect" id="node9" href="$d5/d76/namespacehpx_1_1components.html#a4e88298fbcd62358773ff73291e079dd" title="hpx::components::migrate\l_to_storage" alt="" coords="455,267,628,308"/>
+<area shape="rect" id="node11" href="$d1/d43/structjacobi_1_1server_1_1stencil__iterator.html#afd01e01cf68930df65482b613e4698d9" title="jacobi::server::stencil\l_iterator::init" alt="" coords="469,332,613,373"/>
+<area shape="rect" id="node10" href="$dd/d02/migrate__component__to__storage_8cpp.html#ab2024c00e8a86e61696b5f8434ea736a" title="test_migrate_component\l_from_storage" alt="" coords="687,267,852,308"/>
+<area shape="rect" id="node13" href="$db/daa/network__storage_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="502,398,581,425"/>
+<area shape="rect" id="node16" href="$dc/d80/classhpx_1_1runtime__impl.html#a5183bfa1e494d6a1455d6c10300d202d" title="Report a non&#45;recoverable error to the runtime system. " alt="" coords="475,449,608,491"/>
+<area shape="rect" id="node17" href="$dc/d80/classhpx_1_1runtime__impl.html#aa9de8265198ceaf0e1e3f2ac1d78462e" title="hpx::runtime_impl::\lget_notification_policy" alt="" coords="466,515,617,556"/>
+<area shape="rect" id="node18" href="$dc/d80/classhpx_1_1runtime__impl.html#af8458421582bcb47802b012932a68757" title="Run the HPX runtime system, initially use the given number of (OS) threads in the thread&#45;manager and ..." alt="" coords="694,522,845,549"/>
+</map>

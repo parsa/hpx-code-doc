@@ -1,0 +1,8 @@
+<map id="hpx::threads::executors::detail::thread_pool_attached_executor::num_pending_closures" name="hpx::threads::executors::detail::thread_pool_attached_executor::num_pending_closures">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="223,9,397,36"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#ae2b675b9517381442c7201c041033680" title="hpx::threads::get_thread\l_count" alt="" coords="229,61,391,102"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#a076973c3a53beadde7d967e22c4f6cce" title="hpx::threads::get_thread\l_manager" alt="" coords="458,27,621,69"/>
+<area shape="rect" id="node7" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#a99c0004e6ed0e91a033720b7f52ab5b8" title="return the number of HPX&#45;threads with the given state " alt="" coords="445,93,633,134"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="703,5,822,32"/>
+<area shape="rect" id="node6" href="$d0/d7b/classhpx_1_1runtime.html#a865b12d57fcd44a8d3dda3e35414f563" title="hpx::runtime::get_thread\l_manager" alt="" coords="681,57,844,98"/>
+</map>

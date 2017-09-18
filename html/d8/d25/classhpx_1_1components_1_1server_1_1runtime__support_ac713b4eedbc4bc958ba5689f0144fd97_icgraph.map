@@ -1,0 +1,8 @@
+<map id="hpx::components::server::runtime_support::free_component" name="hpx::components::server::runtime_support::free_component">
+<area shape="rect" id="node2" href="$d7/d3a/structhpx_1_1agas_1_1server_1_1primary__namespace.html#a87560fb730ac846b91fc7287dc4e247b" title="hpx::agas::server::\lprimary_namespace::allocate" alt="" coords="217,5,409,47"/>
+<area shape="rect" id="node3" href="$d8/d25/classhpx_1_1components_1_1server_1_1runtime__support.html#a17d89675ad9c0e530b4194b5fc4da440" title="hpx::components::server\l::runtime_support::is\l_target_valid" alt="" coords="231,71,395,127"/>
+<area shape="rect" id="node4" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#a00eb79f89db48417b54a011078a9c7ae" title="hpx::components::stubs\l::runtime_support::free\l_component_sync" alt="" coords="232,151,395,207"/>
+<area shape="rect" id="node7" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#a354b75a9cec5e7321f63ab0637a4decc" title="hpx::components::stubs\l::runtime_support::free\l_component_locally" alt="" coords="232,231,395,287"/>
+<area shape="rect" id="node5" href="$d2/da2/namespacehpx_1_1components_1_1server.html#a21dc8857d55d9ec83e3e337b382fbc17" title="hpx::components::server\l::destroy_component" alt="" coords="457,159,621,200"/>
+<area shape="rect" id="node6" href="$d2/da2/namespacehpx_1_1components_1_1server.html#afbb6d12dceb0494bcb20f84065e1eb7f" title="hpx::components::server\l::destroy" alt="" coords="669,159,833,200"/>
+</map>

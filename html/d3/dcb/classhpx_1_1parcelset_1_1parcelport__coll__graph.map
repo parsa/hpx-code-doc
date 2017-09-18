@@ -1,0 +1,6 @@
+<map id="hpx::parcelset::parcelport" name="hpx::parcelset::parcelport">
+<area shape="rect" id="node4" href="$da/dbc/structhpx_1_1lcos_1_1local_1_1spinlock.html" title="boost::mutex&#45;compatible spinlock class " alt="" coords="272,122,439,149"/>
+<area shape="rect" id="node5" href="$d7/d8f/classhpx_1_1parcelset_1_1locality.html" title="hpx::parcelset::locality" alt="" coords="279,173,432,199"/>
+<area shape="rect" id="node6" href="$da/dcb/classhpx_1_1applier_1_1applier.html" title="hpx::applier::applier" alt="" coords="288,223,423,250"/>
+<area shape="rect" id="node7" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html" title="hpx::util::thread_specific\l_ptr\&lt; hpx::applier::applier\l *, hpx::applier::applier::\ltls_tag \&gt;" alt="" coords="5,201,175,272"/>
+</map>

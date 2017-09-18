@@ -1,0 +1,38 @@
+digraph "hpx::parcelset::policies::verbs::rdma_memory_pool"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="hpx::parcelset::policies\l::verbs::rdma_memory_pool",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" medium_" ,fontname="Helvetica"];
+  Node2 [label="hpx::parcelset::policies\l::verbs::pool_container\l\< hpx::parcelset::policies\l::verbs::rdma_chunk_pool\<\l hpx::parcelset::policies::\lverbs::memory_region_allocator\l \>, hpx::parcelset::policies::\lverbs::pool_medium \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d1c/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1pool__container.html"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" chunk_allocator" ,fontname="Helvetica"];
+  Node3 [label="hpx::parcelset::policies\l::verbs::rdma_chunk_pool\l\< hpx::parcelset::policies\l::verbs::memory_region_allocator \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d78/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1rdma__chunk__pool.html"];
+  Node4 -> Node3 [dir="back",color="darkgreen",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="boost::simple_segregated\l_storage\< hpx::parcelset\l::policies::verbs::memory\l_region_allocator ::size_type \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node5 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" list" ,fontname="Helvetica"];
+  Node5 [label="hpx::parcelset::policies\l::verbs::details::PODptr\l\< size_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d19/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1details_1_1_p_o_dptr.html"];
+  Node6 -> Node5 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< size_type \>" ,fontname="Helvetica"];
+  Node6 [label="hpx::parcelset::policies\l::verbs::details::PODptr\l\< SizeType \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d19/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1details_1_1_p_o_dptr.html",tooltip="Implemention only. "];
+  Node7 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" max_size\nstart_size\nnext_size" ,fontname="Helvetica"];
+  Node7 [label="hpx::parcelset::policies\l::verbs::memory_region\l_allocator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/dc3/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1memory__region__allocator.html"];
+  Node8 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::parcelset::policies\l::verbs::memory_region_allocator \>" ,fontname="Helvetica"];
+  Node8 [label="hpx::parcelset::policies\l::verbs::rdma_chunk_pool\l\< UserAllocator \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d78/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1rdma__chunk__pool.html",tooltip="A fast memory allocator that guarantees proper alignment of all allocated chunks. ..."];
+  Node9 -> Node8 [dir="back",color="darkgreen",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="boost::simple_segregated\l_storage\< UserAllocator\l::size_type \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node5 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" list" ,fontname="Helvetica"];
+  Node10 -> Node2 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::parcelset::policies\l::verbs::rdma_chunk_pool\l\< hpx::parcelset::policies\l::verbs::memory_region_allocator\l \>, hpx::parcelset::policies::verbs\l::pool_medium \>" ,fontname="Helvetica"];
+  Node10 [label="hpx::parcelset::policies\l::verbs::pool_container\l\< pool_chunk_allocator,\l PoolType \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d1c/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1pool__container.html"];
+  Node11 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" large_" ,fontname="Helvetica"];
+  Node11 [label="hpx::parcelset::policies\l::verbs::pool_container\l\< hpx::parcelset::policies\l::verbs::rdma_chunk_pool\<\l hpx::parcelset::policies::\lverbs::memory_region_allocator\l \>, hpx::parcelset::policies::\lverbs::pool_large \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d1c/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1pool__container.html"];
+  Node3 -> Node11 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" chunk_allocator" ,fontname="Helvetica"];
+  Node10 -> Node11 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::parcelset::policies\l::verbs::rdma_chunk_pool\l\< hpx::parcelset::policies\l::verbs::memory_region_allocator\l \>, hpx::parcelset::policies::verbs\l::pool_large \>" ,fontname="Helvetica"];
+  Node12 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" tiny_" ,fontname="Helvetica"];
+  Node12 [label="hpx::parcelset::policies\l::verbs::pool_container\l\< hpx::parcelset::policies\l::verbs::rdma_chunk_pool\<\l hpx::parcelset::policies::\lverbs::memory_region_allocator\l \>, hpx::parcelset::policies::\lverbs::pool_tiny \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d1c/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1pool__container.html"];
+  Node3 -> Node12 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" chunk_allocator" ,fontname="Helvetica"];
+  Node10 -> Node12 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::parcelset::policies\l::verbs::rdma_chunk_pool\l\< hpx::parcelset::policies\l::verbs::memory_region_allocator\l \>, hpx::parcelset::policies::verbs\l::pool_tiny \>" ,fontname="Helvetica"];
+  Node13 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" small_" ,fontname="Helvetica"];
+  Node13 [label="hpx::parcelset::policies\l::verbs::pool_container\l\< hpx::parcelset::policies\l::verbs::rdma_chunk_pool\<\l hpx::parcelset::policies::\lverbs::memory_region_allocator\l \>, hpx::parcelset::policies::\lverbs::pool_small \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d1c/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1pool__container.html"];
+  Node3 -> Node13 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" chunk_allocator" ,fontname="Helvetica"];
+  Node10 -> Node13 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::parcelset::policies\l::verbs::rdma_chunk_pool\l\< hpx::parcelset::policies\l::verbs::memory_region_allocator\l \>, hpx::parcelset::policies::verbs\l::pool_small \>" ,fontname="Helvetica"];
+}

@@ -1,0 +1,7 @@
+<map id="hpx::util::logging::detail::get_slots" name="hpx::util::logging::detail::get_slots">
+<area shape="rect" id="node2" href="$dc/db8/classhpx_1_1util_1_1logging_1_1detail_1_1tss.html#aacba55cf6a43bba5dc4ac3364f251ded" title="hpx::util::logging\l::detail::tss::get" alt="" coords="176,9,293,51"/>
+<area shape="rect" id="node4" href="$dc/db8/classhpx_1_1util_1_1logging_1_1detail_1_1tss.html#abbb2eabd5a34b5801ad03ad195952426" title="hpx::util::logging\l::detail::tss::set" alt="" coords="176,79,293,120"/>
+<area shape="rect" id="node3" href="$da/dbf/classhpx_1_1util_1_1logging_1_1thread__specific__ptr.html#a4db9488eeb66c1aecab7d865b72013e9" title="hpx::util::logging\l::thread_specific_ptr::get" alt="" coords="341,5,507,47"/>
+<area shape="rect" id="node5" href="$da/dbf/classhpx_1_1util_1_1logging_1_1thread__specific__ptr.html#a444a8d763d5f857f8de43a2a706c3266" title="hpx::util::logging\l::thread_specific_ptr\l::release" alt="" coords="355,71,493,127"/>
+<area shape="rect" id="node6" href="$da/dbf/classhpx_1_1util_1_1logging_1_1thread__specific__ptr.html#a969500667ce92e34d8b79f7a2d74f2e6" title="hpx::util::logging\l::thread_specific_ptr\l::reset" alt="" coords="355,151,493,207"/>
+</map>

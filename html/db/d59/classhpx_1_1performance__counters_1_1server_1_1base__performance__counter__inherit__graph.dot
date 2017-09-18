@@ -1,0 +1,30 @@
+digraph "hpx::performance_counters::server::base_performance_counter"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::performance_counters\l::server::base_performance\l_counter",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::performance_counters\l::performance_counter_base",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/dab/structhpx_1_1performance__counters_1_1performance__counter__base.html"];
+  Node2 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::traits::detail\l::component_tag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag.html"];
+  Node0 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hpx::performance_counters\l::base_performance_counter\l\< sine_counter \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/dbc/classhpx_1_1performance__counters_1_1base__performance__counter.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="performance_counters\l::sine::server::sine\l_counter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d35/classperformance__counters_1_1sine_1_1server_1_1sine__counter.html"];
+  Node0 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="hpx::performance_counters\l::base_performance_counter\l\< Derived \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/dbc/classhpx_1_1performance__counters_1_1base__performance__counter.html"];
+  Node5 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< sine_counter \>" ,fontname="Helvetica"];
+  Node0 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hpx::performance_counters\l::server::arithmetics_counter\l\< Operation \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d45/classhpx_1_1performance__counters_1_1server_1_1arithmetics__counter.html"];
+  Node0 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hpx::performance_counters\l::server::arithmetics_counter\l_extended\< Statistic \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d89/classhpx_1_1performance__counters_1_1server_1_1arithmetics__counter__extended.html"];
+  Node0 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="hpx::performance_counters\l::server::elapsed_time\l_counter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dbd/classhpx_1_1performance__counters_1_1server_1_1elapsed__time__counter.html"];
+  Node0 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="hpx::performance_counters\l::server::raw_counter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/df1/classhpx_1_1performance__counters_1_1server_1_1raw__counter.html"];
+  Node0 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="hpx::performance_counters\l::server::raw_values_counter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d6d/classhpx_1_1performance__counters_1_1server_1_1raw__values__counter.html"];
+  Node0 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="hpx::performance_counters\l::server::statistics_counter\l\< Statistic \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d3f/classhpx_1_1performance__counters_1_1server_1_1statistics__counter.html"];
+}

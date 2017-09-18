@@ -1,0 +1,13 @@
+<map id="hpx::runtime::add_shutdown_function" name="hpx::runtime::add_shutdown_function">
+<area shape="rect" id="node2" href="$d0/d36/namespacehpx_1_1performance__counters.html#ac63ec0b42b85c3aa1c63d54418aa3a45" title="hpx::performance_counters\l::install_counter" alt="" coords="239,13,417,54"/>
+<area shape="rect" id="node4" href="$d0/d36/namespacehpx_1_1performance__counters.html#a0c073f0969350d0d1b69c78a2389b46c" title="Install a new performance counter type in a way, which will uninstall it automatically during shutdow..." alt="" coords="239,78,417,119"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#af2378fac549f2d83f691f5990fcd3453" title="Add a function to be executed by a HPX thread during hpx::finalize() but guaranteed after any pre&#45;shu..." alt="" coords="250,143,406,185"/>
+<area shape="rect" id="node3" href="$d8/d3b/structhpx_1_1performance__counters_1_1manage__counter.html#ad97fd69d7e631e0501f94e4b469d15e1" title="hpx::performance_counters\l::manage_counter::~manage\l_counter" alt="" coords="465,5,653,61"/>
+<area shape="rect" id="node6" href="$d8/d98/heartbeat_8cpp.html#ad6fb83b159107518a0eae38fedf4bbd9" title="monitor" alt="" coords="527,88,592,115"/>
+<area shape="rect" id="node9" href="$d9/dc4/classhpx_1_1util_1_1detail_1_1interval__timer.html#a4e828ee56e41d8f50dc946452b15e3a6" title="hpx::util::detail::\linterval_timer::start" alt="" coords="493,139,625,181"/>
+<area shape="rect" id="node11" href="$de/d67/no__output__1173_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="520,205,599,232"/>
+<area shape="rect" id="node12" href="$d7/da8/classhpx_1_1util_1_1detail_1_1pool__timer.html#a949c1f52f39cbf444a042383a16513ba" title="hpx::util::detail::\lpool_timer::start" alt="" coords="501,257,617,298"/>
+<area shape="rect" id="node7" href="$d6/d80/credit__exhaustion_8cpp.html#a9a1c75cfa4bc8637fb9e22dfdca0891a" title="hpx_test_main" alt="" coords="719,37,826,64"/>
+<area shape="rect" id="node8" href="$d8/d98/heartbeat_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="733,88,812,115"/>
+<area shape="rect" id="node10" href="$d9/dc4/classhpx_1_1util_1_1detail_1_1interval__timer.html#aef44e704e69523484a42421ffcf114b2" title="hpx::util::detail::\linterval_timer::restart" alt="" coords="701,139,844,181"/>
+</map>

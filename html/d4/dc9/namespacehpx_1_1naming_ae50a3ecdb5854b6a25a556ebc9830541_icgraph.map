@@ -1,0 +1,51 @@
+<map id="hpx::naming::get_gid_from_locality_id" name="hpx::naming::get_gid_from_locality_id">
+<area shape="rect" id="node2" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a664380be3597d3ca31677b2ae5800e76" title="hpx::agas::addressing\l_service::launch_bootstrap" alt="" coords="208,21,384,62"/>
+<area shape="rect" id="node5" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a52a8b1c0d4ba49720d00fbec8c81b8fa" title="Add a locality to the runtime. " alt="" coords="212,93,380,134"/>
+<area shape="rect" id="node8" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a8455683e8a8e2072cdfcf03a77e08638" title="hpx::agas::addressing\l_service::register_console" alt="" coords="210,385,382,426"/>
+<area shape="rect" id="node10" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a9384e7f70c49705ea11e55718c144ee4" title="hpx::agas::addressing\l_service::pre_cache_endpoints" alt="" coords="196,261,396,302"/>
+<area shape="rect" id="node13" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#aae7aeb51157efaed2271de8e0b49e917" title="Get locality locality_id of the console locality. " alt="" coords="221,489,371,545"/>
+<area shape="rect" id="node20" href="$d7/d11/classhpx_1_1parcelset_1_1parcel.html#a7ca4116460b3a62269beecf8fb6b2f34" title="hpx::parcelset::parcel\l::generate_unique_id" alt="" coords="943,801,1090,842"/>
+<area shape="rect" id="node21" href="$d8/db6/structhpx_1_1agas_1_1big__boot__barrier.html#a1a3c5320dbd8eeea60427d535e189d3c" title="hpx::agas::big_boot\l_barrier::apply" alt="" coords="1195,877,1331,918"/>
+<area shape="rect" id="node22" href="$d8/db6/structhpx_1_1agas_1_1big__boot__barrier.html#af83d97cabe46bfd67841283fece1cb24" title="hpx::agas::big_boot\l_barrier::wait_hosted" alt="" coords="1405,906,1548,947"/>
+<area shape="rect" id="node34" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a3d263988f86b2a4c26dbb8d734540a5a" title="Query for the locality_ids of all known localities. " alt="" coords="219,759,373,801"/>
+<area shape="rect" id="node37" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a0e706be27e3a44b581b8ee1a04d8fd7d" title="hpx::agas::addressing\l_service::bind_async" alt="" coords="221,642,371,683"/>
+<area shape="rect" id="node39" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a7338da64e1e7dcee3fd9d57e960e7b5e" title="hpx::agas::addressing\l_service::bind_range_async" alt="" coords="205,877,387,918"/>
+<area shape="rect" id="node40" href="$d8/db6/structhpx_1_1agas_1_1big__boot__barrier.html#a9148a04a25bea5a37d77b3ff20e1ebfb" title="hpx::agas::big_boot\l_barrier::apply_late" alt="" coords="228,170,364,211"/>
+<area shape="rect" id="node41" href="$db/d9f/classhpx_1_1parcelset_1_1policies_1_1libfabric_1_1libfabric__controller.html#a96eeb6553564bb53a45fd8e516afe9b1" title="hpx::parcelset::policies\l::libfabric::libfabric\l_controller::initialize\l_localities" alt="" coords="218,994,374,1065"/>
+<area shape="rect" id="node42" href="$dc/d72/structhpx_1_1agas_1_1server_1_1locality__namespace.html#a584777211619893840252d5c72b726ac" title="hpx::agas::server::\llocality_namespace::\lallocate" alt="" coords="223,1089,369,1145"/>
+<area shape="rect" id="node44" href="$d4/dc9/namespacehpx_1_1naming.html#a0b1c0ab6510a7a869fa4e3c7717748e5" title="hpx::naming::get_locality\l_from_gid" alt="" coords="213,1170,379,1211"/>
+<area shape="rect" id="node48" href="$d4/dc9/namespacehpx_1_1naming.html#a27ed9275dccbd5fb677b350f040c21b4" title="hpx::naming::replace\l_locality_id" alt="" coords="225,1261,367,1302"/>
+<area shape="rect" id="node3" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a4cd885b12c530009f44f7372c197d54f" title="hpx::agas::addressing\l_service::addressing\l_service" alt="" coords="468,5,619,61"/>
+<area shape="rect" id="node4" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#adae9df2634cf648f129f203c3678c1c1" title="Increment the global reference count for the given id. " alt="" coords="703,13,853,54"/>
+<area shape="rect" id="node6" href="$dc/d54/namespacehpx_1_1agas.html#a3c98dc053a97fca0f3f3b5719d9f8336" title="hpx::agas::register\l_worker" alt="" coords="713,78,843,119"/>
+<area shape="rect" id="node7" href="$de/dae/structhpx_1_1agas_1_1notification__header.html#aa028cf0e80baf9259523c340c4568634" title="hpx::agas::notification\l_header::serialize" alt="" coords="942,141,1091,182"/>
+<area shape="rect" id="node9" href="$dc/d54/namespacehpx_1_1agas.html#a9bf88ab8d54a369fb9ed0fd3157ef1e8" title="hpx::agas::notify_worker" alt="" coords="462,268,625,295"/>
+<area shape="rect" id="node11" href="$d8/db6/structhpx_1_1agas_1_1big__boot__barrier.html#aedb4d5066f5ee188b4b2e7476bde8f35" title="hpx::agas::big_boot\l_barrier::add_locality\l_endpoints" alt="" coords="472,187,615,243"/>
+<area shape="rect" id="node12" href="$d8/db6/structhpx_1_1agas_1_1big__boot__barrier.html#ab00f39b77e1ae054dddeab796ac49a07" title="hpx::agas::big_boot\l_barrier::big_boot_barrier" alt="" coords="695,143,861,185"/>
+<area shape="rect" id="node14" href="$d5/d76/namespacehpx_1_1components.html#a9fd8bab214eff101d2069bfac0c110cc" title="hpx::components::console\l_error_sink" alt="" coords="456,395,631,437"/>
+<area shape="rect" id="node15" href="$d2/d34/structhpx_1_1components_1_1pending__logs.html#aa4aa5238eb3f0ed85351897da5d42453" title="hpx::components::pending\l_logs::cleanup" alt="" coords="456,323,631,365"/>
+<area shape="rect" id="node18" href="$dc/d54/namespacehpx_1_1agas.html#a58c57dd758d805babb200d1dd5693f9b" title="Return an id_type referring to the console locality. " alt="" coords="465,591,622,633"/>
+<area shape="rect" id="node27" href="$d8/d83/namespacehpx.html#a91f701414a6c667c3b58a2e50b93ad0a" title="Return the global id representing the root locality. " alt="" coords="469,461,617,488"/>
+<area shape="rect" id="node31" href="$dc/d80/classhpx_1_1runtime__impl.html#aabdaeb29966bd884e97f5fbca0ecae3d" title="Report a non&#45;recoverable error to the runtime system. " alt="" coords="477,526,610,567"/>
+<area shape="rect" id="node16" href="$d5/d76/namespacehpx_1_1components.html#ac5d6aa2c2676512c45973181465756e4" title="hpx::components::cleanup\l_logging" alt="" coords="691,261,865,302"/>
+<area shape="rect" id="node17" href="$de/d5c/runtime__support__server_8cpp.html#a2c7fd60adfab122ae67b173ad73fc706" title="HPX_REGISTER_BROADCAST\l_ACTION_ID" alt="" coords="913,366,1120,407"/>
+<area shape="rect" id="node19" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ad904f19162fc67d188ca8f8b24a77a58" title="hpx::agas::addressing\l_service::get_symbol\l_ns_lva" alt="" coords="703,661,853,717"/>
+<area shape="rect" id="node26" href="$dc/d54/namespacehpx_1_1agas.html#abb5e5584ed3b536ace8e3f58415e24c2" title="hpx::agas::is_local\l_lva_encoded_address" alt="" coords="701,742,855,783"/>
+<area shape="rect" id="node24" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#ac47bfb07dba5c3273d36fabe0868d43b" title="hpx::parcelset::parcelhandler\l::put_parcel" alt="" coords="1168,742,1357,783"/>
+<area shape="rect" id="node25" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a32ef958ef057a82fe01c70df5da51c6a" title="hpx::parcelset::parcelhandler\l::put_parcels" alt="" coords="1168,807,1357,849"/>
+<area shape="rect" id="node23" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#afb80dcf683086f9ec1237c81129017d8" title="hpx::agas::addressing\l_service::initialize" alt="" coords="1596,906,1747,947"/>
+<area shape="rect" id="node28" href="$d9/d0f/main_8cc.html#a22d5612b13072491f3de2340527ce19f" title="output_hpx_info" alt="" coords="721,377,835,404"/>
+<area shape="rect" id="node29" href="$d7/de6/print__to__console_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="753,428,803,455"/>
+<area shape="rect" id="node30" href="$de/d68/transpose__await_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="739,327,817,353"/>
+<area shape="rect" id="node32" href="$dc/d80/classhpx_1_1runtime__impl.html#a5183bfa1e494d6a1455d6c10300d202d" title="Report a non&#45;recoverable error to the runtime system. " alt="" coords="711,595,845,637"/>
+<area shape="rect" id="node33" href="$dc/d80/classhpx_1_1runtime__impl.html#aa9de8265198ceaf0e1e3f2ac1d78462e" title="hpx::runtime_impl::\lget_notification_policy" alt="" coords="703,530,853,571"/>
+<area shape="rect" id="node35" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a762854405164e7c9633875ca149bbb62" title="hpx::parcelset::parcelhandler\l::get_raw_remote_localities" alt="" coords="449,759,638,801"/>
+<area shape="rect" id="node36" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#ac4cb84a74380ddbab1039ad7ab672007" title="hpx::parcelset::parcelhandler\l::get_raw_localities" alt="" coords="449,825,638,866"/>
+<area shape="rect" id="node38" href="$dc/d54/namespacehpx_1_1agas.html#a12a1dcd0a238611b21af8211145a1c75" title="hpx::agas::bind" alt="" coords="488,657,599,684"/>
+<area shape="rect" id="node43" href="$d2/d28/structhpx_1_1agas_1_1detail_1_1bootstrap__locality__namespace.html#a17fa8a29a5b6c64ac5f92b67fd816be1" title="hpx::agas::detail::\lbootstrap_locality_namespace\l::allocate" alt="" coords="444,1031,643,1087"/>
+<area shape="rect" id="node45" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ab1d0ff454f580a5082a9b5d25b4f06fd" title="Bind unique range of global ids to given base address. " alt="" coords="456,1111,631,1153"/>
+<area shape="rect" id="node46" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#afb44b2c86524b47d1431d9d66524075c" title="hpx::agas::addressing\l_service::resolve_locally\l_known_addresses" alt="" coords="697,1188,859,1244"/>
+<area shape="rect" id="node47" href="$d4/dc9/namespacehpx_1_1naming.html#a960045d29982b0fda774809643cf2be8" title="hpx::naming::is_locality" alt="" coords="464,1228,623,1255"/>
+<area shape="rect" id="node49" href="$df/dfd/classhpx_1_1components_1_1fixed__component__base.html#acf5f1bd8626edf99d06ea6d535c363e9" title="hpx::components::fixed\l_component_base\&lt; symbol\l_namespace \&gt;::set_locality_id" alt="" coords="444,1279,643,1335"/>
+<area shape="rect" id="node50" href="$dc/d72/structhpx_1_1agas_1_1server_1_1locality__namespace.html#a53c05de8b43cbdb17edf4930b0fc0ac6" title="hpx::agas::server::\llocality_namespace::free" alt="" coords="460,1359,627,1401"/>
+</map>

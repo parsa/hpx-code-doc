@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$da/d89/classhpx_1_1util_1_1logging_1_1msg__route_1_1with__route_1_1route.html" title="hpx::util::logging\l::msg_route::with_route\l\&lt; formatter_base, destination\l_base, lock_resource, formatter\l_array, destination_array \&gt;::route" alt="" coords="5,71,220,157"/>
+<area shape="rect" id="node2" href="$d8/de5/structhpx_1_1util_1_1logging_1_1msg__route_1_1with__route_1_1route__do__append.html" title="hpx::util::logging\l::msg_route::with_route\l\&lt; formatter_base, destination\l_base, lock_resource, formatter\l_array, destination_array \&gt;::route\l_do_append" alt="" coords="291,5,505,105"/>
+<area shape="rect" id="node3" href="$d0/d7e/structhpx_1_1util_1_1logging_1_1msg__route_1_1with__route_1_1route__do__set.html" title="hpx::util::logging\l::msg_route::with_route\l\&lt; formatter_base, destination\l_base, lock_resource, formatter\l_array, destination_array \&gt;::route_do_set" alt="" coords="268,130,528,215"/>
+</map>

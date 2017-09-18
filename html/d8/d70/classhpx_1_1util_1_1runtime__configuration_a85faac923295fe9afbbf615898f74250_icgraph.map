@@ -1,0 +1,5 @@
+<map id="hpx::util::runtime_configuration::get_first_used_core" name="hpx::util::runtime_configuration::get_first_used_core">
+<area shape="rect" id="node2" href="$d7/d9b/structhpx_1_1threads_1_1policies_1_1detail_1_1affinity__data.html#af1b5d1af92b58e065b42048f9114f107" title="hpx::threads::policies\l::detail::affinity_data::init" alt="" coords="181,5,344,47"/>
+<area shape="rect" id="node4" href="$d0/d7b/classhpx_1_1runtime.html#ab3c29b4713d734dea0e6a5799bfe24e5" title="hpx::runtime::assign\l_cores" alt="" coords="193,71,333,112"/>
+<area shape="rect" id="node3" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a8319dd5018945e7d493f7a6d88a6ca02" title="hpx::resource::detail\l::partitioner::parse" alt="" coords="392,5,532,47"/>
+</map>

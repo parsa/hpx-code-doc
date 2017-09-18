@@ -1,0 +1,6 @@
+<map id="hpx::threads::reset_continuation_recursion_count" name="hpx::threads::reset_continuation_recursion_count">
+<area shape="rect" id="node2" href="$d0/d7b/classhpx_1_1runtime.html#a4781e21025b0f41443fbe43bc4a8b8ab" title="hpx::runtime::deinit_tss" alt="" coords="252,13,411,39"/>
+<area shape="rect" id="node5" href="$d7/d28/namespacehpx_1_1threads.html#ae3f683ad072d61249bf20c67134d604c" title="hpx::threads::interrupt\l_thread" alt="" coords="257,64,406,105"/>
+<area shape="rect" id="node3" href="$dc/d80/classhpx_1_1runtime__impl.html#aa9de8265198ceaf0e1e3f2ac1d78462e" title="hpx::runtime_impl::\lget_notification_policy" alt="" coords="459,5,609,47"/>
+<area shape="rect" id="node4" href="$dc/d80/classhpx_1_1runtime__impl.html#af8458421582bcb47802b012932a68757" title="Run the HPX runtime system, initially use the given number of (OS) threads in the thread&#45;manager and ..." alt="" coords="657,13,808,39"/>
+</map>

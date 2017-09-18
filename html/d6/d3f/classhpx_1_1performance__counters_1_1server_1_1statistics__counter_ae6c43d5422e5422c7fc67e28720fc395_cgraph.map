@@ -1,0 +1,5 @@
+<map id="hpx::performance_counters::server::statistics_counter::ensure_base_counter" name="hpx::performance_counters::server::statistics_counter::ensure_base_counter">
+<area shape="rect" id="node2" href="$d0/d36/namespacehpx_1_1performance__counters.html#ab7849064e361c28c8975a47717e5f05e" title="hpx::performance_counters\l::get_counter" alt="" coords="232,35,411,76"/>
+<area shape="rect" id="node3" href="$d0/d36/namespacehpx_1_1performance__counters.html#aa69496dbba46619d8d3179c86801f1c7" title="Get the global id of an existing performance counter, if the counter does not exist yet..." alt="" coords="459,5,637,47"/>
+<area shape="rect" id="node4" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="477,71,619,98"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="run_unique_copy_benchmark_std" name="run_unique_copy_benchmark_std">
+<area shape="rect" id="node2" href="$dd/d16/structhpx_1_1util_1_1high__resolution__clock.html#aaf1ff59c3ef8d3b70696fadb0a55842c" title="hpx::util::high_resolution\l_clock::now" alt="" coords="269,17,432,58"/>
+<area shape="rect" id="node4" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a5add8dcef59fc0c35d33ed325756a041" title="hpx::parallel::v1::\lunique_copy" alt="" coords="291,82,411,123"/>
+<area shape="rect" id="node3" href="$de/db3/1d__stencil__1__omp_8cpp.html#a89e9667753dccfac455bd37a7a3a7b16" title="now" alt="" coords="481,24,526,51"/>
+<area shape="rect" id="node5" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="482,81,525,108"/>
+<area shape="rect" id="node11" href="$dc/d8b/cxx11__std__thread_8cpp.html#a31ff3168522b47b050989c5e07dd8408" title="pred" alt="" coords="480,132,527,159"/>
+<area shape="rect" id="node6" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="610,5,685,32"/>
+<area shape="rect" id="node7" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="575,56,720,83"/>
+<area shape="rect" id="node8" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="611,157,683,184"/>
+<area shape="rect" id="node9" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="822,107,909,133"/>
+<area shape="rect" id="node10" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="768,158,963,199"/>
+</map>

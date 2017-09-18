@@ -1,0 +1,6 @@
+<map id="hpx::lcos::local::detail::thread_id_from_mutex&lt; lcos::local::spinlock &gt;::call" name="hpx::lcos::local::detail::thread_id_from_mutex&lt; lcos::local::spinlock &gt;::call">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="447,5,616,32"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#afafe0f900b9fac3d4ed3c747625c1cfe" title="hpx::threads::get_self_id" alt="" coords="223,31,387,57"/>
+<area shape="rect" id="node5" href="$de/d0c/structhpx_1_1lcos_1_1local_1_1detail_1_1thread__id__from__mutex.html#afc9f4bc790c0d9ed415eacd369266a19" title="hpx::lcos::local::detail\l::thread_id_from_mutex::call" alt="" coords="212,82,399,123"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="664,5,811,32"/>
+</map>

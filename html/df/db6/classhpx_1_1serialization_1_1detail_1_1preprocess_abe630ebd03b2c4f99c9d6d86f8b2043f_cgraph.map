@@ -1,0 +1,6 @@
+<map id="hpx::serialization::detail::preprocess::await_future" name="hpx::serialization::detail::preprocess::await_future">
+<area shape="rect" id="node2" href="$da/d11/structhpx_1_1lcos_1_1detail_1_1future__data__refcnt__base.html#afd9a10ac726a0922edf542ce91fc4ebb" title="hpx::lcos::detail::\lfuture_data_refcnt_base\l::set_on_completed" alt="" coords="187,5,347,61"/>
+<area shape="rect" id="node3" href="$df/db6/classhpx_1_1serialization_1_1detail_1_1preprocess.html#a717694054211c975bfcf72d6103f4f6f" title="hpx::serialization\l::detail::preprocess\l::trigger" alt="" coords="200,85,333,141"/>
+<area shape="rect" id="node4" href="$da/d9a/async__io__external_8cpp.html#ae46b07440afec1138286368e32af7ae6" title="set_value" alt="" coords="607,100,683,127"/>
+<area shape="rect" id="node5" href="$d3/dc1/classhpx_1_1lcos_1_1local_1_1promise_3_01void_01_4.html#a02118460968620402b62236f81f2f80b" title="hpx::lcos::local::promise\l\&lt; void \&gt;::set_value" alt="" coords="395,122,559,163"/>
+</map>

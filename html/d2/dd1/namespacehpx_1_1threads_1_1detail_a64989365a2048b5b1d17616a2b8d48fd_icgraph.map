@@ -1,0 +1,6 @@
+<map id="hpx::threads::detail::set_self_ptr" name="hpx::threads::detail::set_self_ptr">
+<area shape="rect" id="node2" href="$db/de3/structhpx_1_1threads_1_1executors_1_1detail_1_1on__self__reset.html#a9ccf9b3a165bab181b5341c3d08cfe4c" title="hpx::threads::executors\l::detail::on_self_reset\l::on_self_reset" alt="" coords="187,5,345,61"/>
+<area shape="rect" id="node3" href="$db/de3/structhpx_1_1threads_1_1executors_1_1detail_1_1on__self__reset.html#a17b7d8327b76836cd35d792ed22825ca" title="hpx::threads::executors\l::detail::on_self_reset\l::~on_self_reset" alt="" coords="187,85,345,141"/>
+<area shape="rect" id="node4" href="$df/db5/structhpx_1_1threads_1_1executors_1_1detail_1_1on__run__exit.html#a850a677aac6bdc21c7b44cf5a799cf21" title="hpx::threads::executors\l::detail::on_run_exit\l::on_run_exit" alt="" coords="187,165,345,221"/>
+<area shape="rect" id="node5" href="$df/db5/structhpx_1_1threads_1_1executors_1_1detail_1_1on__run__exit.html#a6005f7d6ea3bddcfa2260d44fda98f2a" title="hpx::threads::executors\l::detail::on_run_exit\l::~on_run_exit" alt="" coords="187,245,345,301"/>
+</map>

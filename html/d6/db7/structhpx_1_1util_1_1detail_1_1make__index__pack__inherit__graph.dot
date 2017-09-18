@@ -1,0 +1,15 @@
+digraph "hpx::util::detail::make_index_pack&lt; N &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::detail::\lmake_index_pack\< N \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::util::detail::\lmake_index_pack_join\l\< make_index_pack\< N\l/2 \>::type, make_index\l_pack\< N - N/2 \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/de0/structhpx_1_1util_1_1detail_1_1make__index__pack__join.html"];
+  Node2 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< make_index_pack\<\l N/2 \>::type, make_index\l_pack\< N - N/2 \>::type \>" ,fontname="Helvetica"];
+  Node2 [label="hpx::util::detail::\lmake_index_pack_join\l\< Left, Right \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/de0/structhpx_1_1util_1_1detail_1_1make__index__pack__join.html"];
+  Node0 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< util::tuple_size\l\< std::decay\< Tuple\l \>::type \>::value \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::util::detail::\lmake_index_pack\< util\l::tuple_size\< std::decay\l\< Tuple \>::type \>::value \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d6b/structhpx_1_1util_1_1detail_1_1make__index__pack.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::util::detail::\lfused_index_pack\< Tuple \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d1b/structhpx_1_1util_1_1detail_1_1fused__index__pack.html"];
+}

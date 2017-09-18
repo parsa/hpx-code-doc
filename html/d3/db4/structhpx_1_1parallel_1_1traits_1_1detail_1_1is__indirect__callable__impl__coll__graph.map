@@ -1,0 +1,4 @@
+<map id="hpx::parallel::traits::detail::is_indirect_callable_impl&lt; F, Args &gt;" name="hpx::parallel::traits::detail::is_indirect_callable_impl&lt; F, Args &gt;">
+<area shape="rect" id="node2" href="$d1/d49/structhpx_1_1traits_1_1is__invocable.html" title="hpx::traits::is_invocable\l\&lt; F, Args... \&gt;" alt="" coords="11,184,170,225"/>
+<area shape="rect" id="node3" href="$d2/d40/structhpx_1_1traits_1_1detail_1_1is__callable__impl.html" title="hpx::traits::detail\l::is_callable_impl\&lt;\l F &amp;&amp;(Ts &amp;&amp;...), void \&gt;" alt="" coords="13,80,168,136"/>
+</map>

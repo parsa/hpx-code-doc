@@ -1,0 +1,13 @@
+digraph "hpx::util::logging::tss_value&lt; type, HPX_LOG_TSS_DEFAULT_CLASS &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::logging\l::tss_value\< type, HPX\l_LOG_TSS_DEFAULT_CLASS \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< cached_value \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::util::logging\l::tss_value\< cached\l_value \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d29/structhpx_1_1util_1_1logging_1_1tss__value.html"];
+  Node0 -> Node2 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< stream_type \>" ,fontname="Helvetica"];
+  Node2 [label="hpx::util::logging\l::tss_value\< stream\l_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d29/structhpx_1_1util_1_1logging_1_1tss__value.html"];
+  Node0 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< value_and_time \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::util::logging\l::tss_value\< value_and\l_time \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d29/structhpx_1_1util_1_1logging_1_1tss__value.html"];
+}

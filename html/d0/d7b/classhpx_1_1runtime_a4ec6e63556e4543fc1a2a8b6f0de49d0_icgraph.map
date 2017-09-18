@@ -1,0 +1,8 @@
+<map id="hpx::runtime::stopping" name="hpx::runtime::stopping">
+<area shape="rect" id="node2" href="$dc/d80/classhpx_1_1runtime__impl.html#ade07d0e41b902f6db94049b46f97091f" title="Initiate termination of the runtime system. " alt="" coords="204,75,363,102"/>
+<area shape="rect" id="node3" href="$dc/d80/classhpx_1_1runtime__impl.html#aabdaeb29966bd884e97f5fbca0ecae3d" title="Report a non&#45;recoverable error to the runtime system. " alt="" coords="419,39,553,80"/>
+<area shape="rect" id="node7" href="$dc/d80/classhpx_1_1runtime__impl.html#ad97f579306f8e516c65886ca56a58f2b" title="Run the HPX runtime system, use the given function for the main thread and block waiting for all thre..." alt="" coords="411,105,561,131"/>
+<area shape="rect" id="node4" href="$dc/d80/classhpx_1_1runtime__impl.html#a5183bfa1e494d6a1455d6c10300d202d" title="Report a non&#45;recoverable error to the runtime system. " alt="" coords="618,5,751,47"/>
+<area shape="rect" id="node5" href="$dc/d80/classhpx_1_1runtime__impl.html#aa9de8265198ceaf0e1e3f2ac1d78462e" title="hpx::runtime_impl::\lget_notification_policy" alt="" coords="609,71,760,112"/>
+<area shape="rect" id="node6" href="$dc/d80/classhpx_1_1runtime__impl.html#af8458421582bcb47802b012932a68757" title="Run the HPX runtime system, initially use the given number of (OS) threads in the thread&#45;manager and ..." alt="" coords="808,78,959,105"/>
+</map>

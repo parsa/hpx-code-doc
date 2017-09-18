@@ -1,0 +1,33 @@
+<map id="p2" name="p2">
+<area shape="rect" id="node2" href="$dd/ded/bind__placeholder__test_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="403,61,453,87"/>
+<area shape="rect" id="node3" href="$da/d09/structhpx_1_1util_1_1logging_1_1formatter_1_1convert_1_1string__finder_3_01_1_1hpx_1_1util_1_1loe3f73a176adffd0ee7d2c5e1121ceb93.html#a9f91bb7bb18f0c343f6f95448106ffe0" title="hpx::util::logging\l::formatter::convert\l::string_finder\&lt; ::hpx\l::util::logging::optimize\l::cache_string_several_str\l\&lt; string \&gt; \&gt;::get" alt="" coords="341,112,515,212"/>
+<area shape="rect" id="node4" href="$de/d08/namespacehpx_1_1util_1_1logging_1_1formatter_1_1convert_1_1prepend.html#a800b76595c1330001994b1279f93d7ee" title="hpx::util::logging\l::formatter::convert\l::prepend::write" alt="" coords="363,237,493,293"/>
+<area shape="rect" id="node5" href="$da/d97/namespacehpx_1_1util_1_1logging_1_1formatter_1_1convert_1_1append.html#a719ba04af3b9146a733025e9518eab47" title="hpx::util::logging\l::formatter::convert\l::append::write" alt="" coords="363,367,493,423"/>
+<area shape="rect" id="node6" href="$df/d5f/namespacehpx_1_1util_1_1logging_1_1formatter_1_1convert_1_1modify.html#aa88c9565b436c49c89eac1cb2e0ec7c2" title="hpx::util::logging\l::formatter::convert\l::modify::write" alt="" coords="363,447,493,503"/>
+<area shape="rect" id="node7" href="$df/da5/future__then_8cpp.html#a2e41883da983a4e735ff63a070df689f" title="p4" alt="" coords="172,317,211,343"/>
+<area shape="rect" id="node10" href="$df/da5/future__then_8cpp.html#a4574c7d42a67c66efb94b4aad426e984" title="test_return_int" alt="" coords="139,883,244,910"/>
+<area shape="rect" id="node11" href="$df/da5/future__then_8cpp.html#a4d59ccf0b01a1fa8fde2acc877f986a7" title="test_return_int_launch" alt="" coords="116,27,267,54"/>
+<area shape="rect" id="node12" href="$df/da5/future__then_8cpp.html#aa74379f2bcdf911e278b78569028848b" title="test_simple_then" alt="" coords="131,513,252,539"/>
+<area shape="rect" id="node13" href="$df/da5/future__then_8cpp.html#a026670a80b5d18f81a87665f09f4b9e4" title="test_simple_deferred_then" alt="" coords="104,563,279,590"/>
+<area shape="rect" id="node14" href="$df/da5/future__then_8cpp.html#a65c0909ab7ad1dbde6b00a89e09d12ee" title="test_complex_then" alt="" coords="125,614,257,641"/>
+<area shape="rect" id="node15" href="$df/da5/future__then_8cpp.html#a57e79de123fc4563e6535bcb0d510eb6" title="test_complex_then_launch" alt="" coords="103,665,280,691"/>
+<area shape="rect" id="node16" href="$df/da5/future__then_8cpp.html#aa9256ab654994c70d6de44c612f62ac1" title="test_complex_then_chain_one" alt="" coords="92,715,291,742"/>
+<area shape="rect" id="node17" href="$df/da5/future__then_8cpp.html#acf17bb2a5182b9cb7667271f95a03704" title="test_complex_then_chain\l_one_launch" alt="" coords="106,767,277,808"/>
+<area shape="rect" id="node18" href="$df/da5/future__then_8cpp.html#a877da4dafc5590d16fa0d3c57391c363" title="test_complex_then_chain_two" alt="" coords="93,833,290,859"/>
+<area shape="rect" id="node19" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a1186b3f6aa7198ada6c81f987e08f85b" title="hpx::parallel::v1::\lrotate" alt="" coords="131,1119,251,1160"/>
+<area shape="rect" id="node8" href="$df/da5/future__then_8cpp.html#ad7b1b04c3515e5bf95459e94b1bdc337" title="test_implicit_unwrapping" alt="" coords="346,317,510,343"/>
+<area shape="rect" id="node9" href="$df/da5/future__then_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="607,654,686,681"/>
+<area shape="rect" id="node20" href="$d9/dbd/structpartition__server.html#a6642286bc38b9bed88cc6423d181b87f" title="partition_server::do_work" alt="" coords="345,1269,511,1295"/>
+<area shape="rect" id="node22" href="$d7/d5d/rotate_8cpp.html#ab8a8520d8bdef3f9022bc5377426d949" title="test_rotate" alt="" coords="386,1050,470,1077"/>
+<area shape="rect" id="node24" href="$d7/d5d/rotate_8cpp.html#ae3e37eb13d1c555e7ec861e99599cecb" title="test_rotate_async" alt="" coords="365,1101,491,1127"/>
+<area shape="rect" id="node25" href="$d7/d5d/rotate_8cpp.html#a84f60bd76e1e8fe9ecce9b0b1ae38bea" title="test_rotate_exception" alt="" coords="355,1151,501,1178"/>
+<area shape="rect" id="node27" href="$d7/d5d/rotate_8cpp.html#a472f3593addc133bd849ff486e2a4e9a" title="test_rotate_exception\l_async" alt="" coords="355,1203,501,1244"/>
+<area shape="rect" id="node28" href="$d7/d5d/rotate_8cpp.html#ae74a2766c7d66fa2c13743d2d7b75fa9" title="test_rotate_bad_alloc" alt="" coords="355,933,501,959"/>
+<area shape="rect" id="node30" href="$d7/d5d/rotate_8cpp.html#a02745132ec799d5c6af870c3350a7454" title="test_rotate_bad_alloc\l_async" alt="" coords="355,984,501,1025"/>
+<area shape="rect" id="node31" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#acc6f55c3bfc3aecae26cb8a73e3e2563" title="hpx::parallel::v1::\lrotate" alt="" coords="368,1320,488,1361"/>
+<area shape="rect" id="node32" href="$d8/d52/classhpx_1_1threads_1_1policies_1_1shared__priority__scheduler.html#a6b50d46539ac974cbe2706f56c2fbc3f" title="hpx::threads::policies\l::shared_priority_scheduler\l::on_start_thread" alt="" coords="339,1386,517,1442"/>
+<area shape="rect" id="node21" href="$d9/dbd/structpartition__server.html#a80906893b5b6771003acbf3fcfec37cf" title="partition_server::partition\l_server" alt="" coords="565,1261,728,1303"/>
+<area shape="rect" id="node23" href="$d7/d5d/rotate_8cpp.html#ae9e7ca0d224acd1e52ac006b1b1249e6" title="test_rotate" alt="" coords="605,1075,689,1102"/>
+<area shape="rect" id="node26" href="$d7/d5d/rotate_8cpp.html#aa448ed0e1a24642b5baaa5bb029abfc1" title="test_rotate_exception" alt="" coords="573,1181,720,1207"/>
+<area shape="rect" id="node29" href="$d7/d5d/rotate_8cpp.html#a6945fe3952a002c1c4536cb98882a9bf" title="test_rotate_bad_alloc" alt="" coords="573,962,720,989"/>
+</map>

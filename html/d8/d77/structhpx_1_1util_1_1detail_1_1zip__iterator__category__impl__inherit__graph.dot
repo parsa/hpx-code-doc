@@ -1,0 +1,15 @@
+digraph "hpx::util::detail::zip_iterator_category_impl&lt; T, U &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::detail::\lzip_iterator_category\l_impl\< T, U \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< std::iterator_traits\l\< T \>::iterator_category,\l std::iterator_traits\< U\l \>::iterator_category \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::util::detail::\lzip_iterator_category\l_impl\< std::iterator_traits\l\< T \>::iterator_category,\l std::iterator_traits\< U \>\l::iterator_category \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d1e/structhpx_1_1util_1_1detail_1_1zip__iterator__category__impl.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::util::detail::\lzip_iterator_category\l\< tuple\< T, U \>, typename\l std::enable_if\< tuple_size\l\< tuple\< T, U \> \>::value==2\l \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/db1/structhpx_1_1util_1_1detail_1_1zip__iterator__category_3_01tuple_3_01_t_00_01_u_01_4_00_01typenae61f3b460c998e37c19c85979389c536.html"];
+  Node0 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< zip_iterator_category\l_impl\< std::iterator_traits\l\< T \>::iterator_category,\l std::iterator_traits\< U \>\l::iterator_category \>::type,\l zip_iterator_category\< tuple\l\< Tail... \> \>::type \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::util::detail::\lzip_iterator_category\l_impl\< zip_iterator_category\l_impl\< std::iterator_traits\l\< T \>::iterator_category, std\l::iterator_traits\< U \>::iterator\l_category \>::type, zip_iterator\l_category\< tuple\< Tail... \> \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d1e/structhpx_1_1util_1_1detail_1_1zip__iterator__category__impl.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::util::detail::\lzip_iterator_category\l\< IteratorTuple, Enable\l \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d97/structhpx_1_1util_1_1detail_1_1zip__iterator__category_1_1type_01_4.html"];
+}

@@ -1,0 +1,4 @@
+<map id="hpx::threads::executors::detail::current_executor::get_state" name="hpx::threads::executors::detail::current_executor::get_state">
+<area shape="rect" id="node2" href="$dd/d7e/structhpx_1_1threads_1_1policies_1_1scheduler__base.html#ab7dde2f17f34638fed75860ab220558d" title="hpx::threads::policies\l::scheduler_base::get_state" alt="" coords="223,5,406,47"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#ad438935ca2f8603f9cab036b68b34f36" title="Return the number of the current OS&#45;thread running in the runtime instance the current HPX&#45;thread is ..." alt="" coords="220,71,409,98"/>
+</map>

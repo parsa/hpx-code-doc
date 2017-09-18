@@ -1,0 +1,5 @@
+<map id="hpx::lcos::promise&lt; void, hpx::util::unused_type &gt;::swap" name="hpx::lcos::promise&lt; void, hpx::util::unused_type &gt;::swap">
+<area shape="rect" id="node2" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html#aa75e4ae901f1429ad65e46289c94ba3b" title="hpx::lcos::local::detail\l::promise_base\&lt; Result,\l detail::promise_data\&lt; Result\l \&gt; \&gt;::swap" alt="" coords="213,5,405,76"/>
+<area shape="rect" id="node3" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html#a79250e32abe2045a0e6b7b73c99372ed" title="hpx::lcos::local::detail\l::promise_base\&lt; Result,\l detail::promise_data\&lt; Result\l \&gt; \&gt;::valid" alt="" coords="213,100,405,171"/>
+<area shape="rect" id="node4" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html#a941a7057c3296a4c06ecbbb5032146a2" title="hpx::lcos::local::detail\l::promise_base\&lt; Result,\l detail::promise_data\&lt; Result\l \&gt; \&gt;::get_future" alt="" coords="213,195,405,265"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hpx::lcos::local::detail::cancelable_task_object&lt; Result, F &gt;" name="hpx::lcos::local::detail::cancelable_task_object&lt; Result, F &gt;">
+<area shape="rect" id="node2" href="$dc/d6b/structhpx_1_1lcos_1_1local_1_1detail_1_1task__object.html" title="hpx::lcos::local::detail\l::task_object\&lt; Result,\l F, lcos::detail::cancelable\l_task_base\&lt; Result \&gt; \&gt;" alt="" coords="657,61,832,132"/>
+<area shape="rect" id="node3" href="$d0/d9c/structhpx_1_1lcos_1_1detail_1_1cancelable__task__base.html" title="hpx::lcos::detail::\lcancelable_task_base\l\&lt; Result \&gt;" alt="" coords="444,27,595,83"/>
+<area shape="rect" id="node4" href="$d6/d98/structhpx_1_1lcos_1_1detail_1_1task__base.html" title="hpx::lcos::detail::\ltask_base\&lt; Result \&gt;" alt="" coords="252,35,395,76"/>
+<area shape="rect" id="node5" href="$d9/dfd/structhpx_1_1lcos_1_1detail_1_1future__data.html" title="hpx::lcos::detail::\lfuture_data\&lt; Result \&gt;" alt="" coords="8,5,155,47"/>
+<area shape="rect" id="node6" href="$d5/df2/classhpx_1_1threads_1_1executor.html" title="hpx::threads::executor" alt="" coords="5,71,157,98"/>
+</map>

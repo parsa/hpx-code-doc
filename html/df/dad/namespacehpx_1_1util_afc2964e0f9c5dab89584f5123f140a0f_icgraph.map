@@ -1,0 +1,20 @@
+<map id="hpx::util::invoke_fused" name="hpx::util::invoke_fused">
+<area shape="rect" id="node2" href="$d2/de8/structhpx_1_1compute_1_1host_1_1block__allocator.html#af22eecbbc8ea06ffff3855dbf12fb612" title="hpx::compute::host\l::block_allocator::bulk\l_construct" alt="" coords="227,5,376,61"/>
+<area shape="rect" id="node5" href="$db/df7/structhpx_1_1lcos_1_1detail_1_1dataflow__frame.html#a8d694808548c5627995627664210b3f8" title="hpx::lcos::detail::\ldataflow_frame::execute" alt="" coords="220,86,383,127"/>
+<area shape="rect" id="node7" href="$d4/d3e/classhpx_1_1util_1_1detail_1_1deferred_3_01_f_07_ts_8_8_8_08_4.html#ae50bf0434dac031b4d28314e588690e7" title="hpx::util::detail::\ldeferred\&lt; F(Ts...)\&gt;\l::operator()" alt="" coords="236,152,367,208"/>
+<area shape="rect" id="node8" href="$d3/d60/namespacehpx_1_1util_1_1detail_1_1spreading.html#a2698b2ad0dba10bd73957ef00e1e0738" title="hpx::util::detail::\lspreading::apply_spread_impl" alt="" coords="204,233,399,274"/>
+<area shape="rect" id="node15" href="$db/d65/namespacehpx_1_1util_1_1detail_1_1tuple__like__remapping.html#a27d95bb8c4a107e63f5c45e14f454ffd" title="hpx::util::detail::\ltuple_like_remapping\l::remap" alt="" coords="229,299,373,355"/>
+<area shape="rect" id="node16" href="$d2/dd1/namespacehpx_1_1threads_1_1detail.html#a85172e2f1993dc0ac59b9ae27cae2ef7" title="hpx::threads::detail\l::run_as_hpx_thread" alt="" coords="231,379,371,421"/>
+<area shape="rect" id="node19" href="$df/dcb/structhpx_1_1util_1_1detail_1_1invoke__wrapped__invocation__select.html#a196676117711b33fd342a1ab71974530" title="Invoke the callable with the tuple argument through invoke_fused. " alt="" coords="213,445,390,501"/>
+<area shape="rect" id="node3" href="$dc/d4a/block__allocator_8cpp.html#a2925f1fe6a1a36584c3568c90a34f9fb" title="test_block_construction" alt="" coords="447,20,607,47"/>
+<area shape="rect" id="node4" href="$dc/d4a/block__allocator_8cpp.html#aad021fb470ac159eac4609ba96066d4d" title="test_bulk_allocator" alt="" coords="678,20,809,47"/>
+<area shape="rect" id="node6" href="$db/df7/structhpx_1_1lcos_1_1detail_1_1dataflow__frame.html#aacfd73e154e2ae1d4d036bb982b98509" title="hpx::lcos::detail::\ldataflow_frame::finalize" alt="" coords="449,86,605,127"/>
+<area shape="rect" id="node9" href="$d3/d60/namespacehpx_1_1util_1_1detail_1_1spreading.html#a44dceb275744936603a0422852ea82ee" title="hpx::util::detail::\lspreading::map_spread" alt="" coords="448,233,605,274"/>
+<area shape="rect" id="node10" href="$d3/d60/namespacehpx_1_1util_1_1detail_1_1spreading.html#a257aad156d190507e24c492a668b4d9b" title="hpx::util::detail::\lspreading::tupelize" alt="" coords="678,167,809,209"/>
+<area shape="rect" id="node13" href="$d3/d60/namespacehpx_1_1util_1_1detail_1_1spreading.html#aa1a349cb3c531afb1fededba0c8a6b8e" title="hpx::util::detail::\lspreading::flat_tupelize_to" alt="" coords="657,233,830,274"/>
+<area shape="rect" id="node14" href="$d3/d60/namespacehpx_1_1util_1_1detail_1_1spreading.html#afacbd702f53a30d3fdee8064a8d7deb4" title="hpx::util::detail::\lspreading::flat_arraylize_to" alt="" coords="655,298,832,339"/>
+<area shape="rect" id="node11" href="$d3/d60/namespacehpx_1_1util_1_1detail_1_1spreading.html#a68dd91023f64239659aada1b97286dfe" title="hpx::util::detail::\lspreading::tupelize\l_or_void" alt="" coords="880,160,1011,216"/>
+<area shape="rect" id="node12" href="$d8/dd8/classhpx_1_1util_1_1detail_1_1mapping__helper.html#afcf33994c4cd1dd2be7ccc062d042c21" title="hpx::util::detail::\lmapping_helper::init\l_traverse" alt="" coords="1059,160,1197,216"/>
+<area shape="rect" id="node17" href="$d7/d28/namespacehpx_1_1threads.html#a1c655e5aae2bca8c3807003a97d23d46" title="hpx::threads::run_as\l_hpx_thread" alt="" coords="456,379,597,421"/>
+<area shape="rect" id="node18" href="$d6/dad/init__globally_8cpp.html#ab5d95e2be7087fd86a4362fddccf42b3" title="thread_func" alt="" coords="699,387,788,413"/>
+</map>

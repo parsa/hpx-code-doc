@@ -1,0 +1,5 @@
+<map id="hpx::components::stubs::runtime_support::shutdown_async" name="hpx::components::stubs::runtime_support::shutdown_async">
+<area shape="rect" id="node2" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html#a941a7057c3296a4c06ecbbb5032146a2" title="hpx::lcos::local::detail\l::promise_base::get_future" alt="" coords="281,5,457,47"/>
+<area shape="rect" id="node3" href="$d4/def/classhpx_1_1lcos_1_1detail_1_1promise__base.html#a2517464a9b53f71a7531c5cf75323ef5" title="hpx::lcos::detail::\lpromise_base::get_id" alt="" coords="296,71,443,112"/>
+<area shape="rect" id="node4" href="$db/dee/structhpx_1_1naming_1_1id__type.html#a0375af42ca6b0ff79e627d91bfae571b" title="hpx::naming::id_type\l::get_gid" alt="" coords="298,136,441,177"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hpx::components::server::component_storage::migrate_from_here" name="hpx::components::server::component_storage::migrate_from_here">
+<area shape="rect" id="node2" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#ad3a849cb7ebd5dccf9aefadccc21dd89" title="hpx::naming::detail\l::get_stripped_gid" alt="" coords="304,53,436,94"/>
+<area shape="rect" id="node6" href="$d1/d75/unordered__map_8cpp.html#a79a89ed8fcc17399cbb0d8f6b145f877" title="HPX_REGISTER_UNORDERED_MAP" alt="" coords="248,119,492,145"/>
+<area shape="rect" id="node3" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a95cca4d4bc82a9da3e804b225b03dfaf" title="hpx::naming::detail\l::strip_internal_bits\l_from_gid" alt="" coords="559,5,691,61"/>
+<area shape="rect" id="node4" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a1ab848588112d0f7fac377a15692c9cc" title="hpx::naming::detail\l::get_stripped_gid_except\l_dont_cache" alt="" coords="540,85,711,141"/>
+<area shape="rect" id="node5" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#aabeb51a92376c6bfb9cf31bf9ff0c4cc" title="hpx::naming::detail\l::strip_internal_bits\l_except_dont_cache_from_gid" alt="" coords="759,85,957,141"/>
+</map>

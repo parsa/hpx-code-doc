@@ -1,0 +1,14 @@
+<map id="rdma_error.hpp" name="rdma_error.hpp">
+<area shape="rect" id="node2" href="$db/d66/plugins_2parcelport_2verbs_2connection__handler_8hpp.html" title="connection_handler.hpp" alt="" coords="5,80,164,107"/>
+<area shape="rect" id="node3" href="$d8/d5c/rdma__controller_8hpp.html" title="rdma_controller.hpp" alt="" coords="225,543,361,569"/>
+<area shape="rect" id="node4" href="$dc/d5c/verbs__completion__queue_8hpp.html" title="verbs_completion_queue.hpp" alt="" coords="666,155,855,181"/>
+<area shape="rect" id="node5" href="$dd/db4/verbs__endpoint_8hpp.html" title="verbs_endpoint.hpp" alt="" coords="401,468,534,495"/>
+<area shape="rect" id="node7" href="$dc/d81/verbs__memory__region_8hpp.html" title="verbs_memory_region.hpp" alt="" coords="469,155,642,181"/>
+<area shape="rect" id="node12" href="$df/dfd/verbs__protection__domain_8hpp.html" title="verbs_protection_domain.hpp" alt="" coords="291,80,481,107"/>
+<area shape="rect" id="node6" href="$d9/dd2/plugins_2parcelport_2verbs_2sender__connection_8hpp.html" title="sender_connection.hpp" alt="" coords="475,543,631,569"/>
+<area shape="rect" id="node8" href="$d0/d4e/rdma__chunk__pool_8hpp.html" title="Provides class pool: a fast memory allocator that guarantees proper alignment of all allocated chunks..." alt="" coords="521,229,670,256"/>
+<area shape="rect" id="node9" href="$d9/d6f/rdma__memory__pool_8hpp.html" title="rdma_memory_pool.hpp" alt="" coords="511,311,672,338"/>
+<area shape="rect" id="node10" href="$d8/dcc/verbs_2pinned__memory__vector_8hpp.html" title="pinned_memory_vector.hpp" alt="" coords="667,468,847,495"/>
+<area shape="rect" id="node11" href="$dc/db0/verbs__sender__receiver_8hpp.html" title="verbs_sender_receiver.hpp" alt="" coords="452,393,627,420"/>
+<area shape="rect" id="node13" href="$d6/d2e/verbs__shared__receive__queue_8hpp.html" title="verbs_shared_receive\l_queue.hpp" alt="" coords="341,304,487,345"/>
+</map>

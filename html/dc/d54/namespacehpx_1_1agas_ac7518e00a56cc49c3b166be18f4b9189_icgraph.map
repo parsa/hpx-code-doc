@@ -1,0 +1,11 @@
+<map id="hpx::agas::get_big_boot_barrier" name="hpx::agas::get_big_boot_barrier">
+<area shape="rect" id="node2" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#afb80dcf683086f9ec1237c81129017d8" title="hpx::agas::addressing\l_service::initialize" alt="" coords="189,5,339,47"/>
+<area shape="rect" id="node4" href="$dc/d54/namespacehpx_1_1agas.html#a3c98dc053a97fca0f3f3b5719d9f8336" title="hpx::agas::register\l_worker" alt="" coords="403,123,534,164"/>
+<area shape="rect" id="node6" href="$dc/d54/namespacehpx_1_1agas.html#a9bf88ab8d54a369fb9ed0fd3157ef1e8" title="hpx::agas::notify_worker" alt="" coords="183,189,345,215"/>
+<area shape="rect" id="node7" href="$d8/db6/structhpx_1_1agas_1_1big__boot__barrier.html#a4f0a3fbaed50482d5fba106e49c0d1af" title="hpx::agas::big_boot\l_barrier::add_thunk" alt="" coords="196,123,332,164"/>
+<area shape="rect" id="node8" href="$dc/d80/classhpx_1_1runtime__impl.html#af9bdb195f306613b511f9055416bfd22" title="Start the runtime system. " alt="" coords="197,240,331,281"/>
+<area shape="rect" id="node3" href="$dc/d80/classhpx_1_1runtime__impl.html#a19b55584b2e6b6b4d72ae159fbef0f6e" title="hpx::runtime_impl::\lruntime_impl" alt="" coords="402,5,535,47"/>
+<area shape="rect" id="node5" href="$de/dae/structhpx_1_1agas_1_1notification__header.html#aa028cf0e80baf9259523c340c4568634" title="hpx::agas::notification\l_header::serialize" alt="" coords="592,152,741,193"/>
+<area shape="rect" id="node9" href="$dc/d80/classhpx_1_1runtime__impl.html#a65be9f67d82e42bc9d6ad34da1fd8e68" title="Start the runtime system. " alt="" coords="402,240,535,281"/>
+<area shape="rect" id="node10" href="$dc/d80/classhpx_1_1runtime__impl.html#ad97f579306f8e516c65886ca56a58f2b" title="Run the HPX runtime system, use the given function for the main thread and block waiting for all thre..." alt="" coords="393,306,544,333"/>
+</map>

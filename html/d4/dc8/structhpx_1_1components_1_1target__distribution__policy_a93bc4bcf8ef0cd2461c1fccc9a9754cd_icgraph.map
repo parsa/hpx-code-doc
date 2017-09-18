@@ -1,0 +1,10 @@
+<map id="hpx::components::target_distribution_policy::target_distribution_policy" name="hpx::components::target_distribution_policy::target_distribution_policy">
+<area shape="rect" id="node2" href="$d4/dc8/structhpx_1_1components_1_1target__distribution__policy.html#a5dffeaf322d9ae5135e7db4c8868fb34" title="hpx::components::target\l_distribution_policy::\loperator()" alt="" coords="220,116,383,172"/>
+<area shape="rect" id="node3" href="$d4/dc8/structhpx_1_1components_1_1target__distribution__policy.html#a0a8c503fd217bf3de0dbdc804ec89ba2" title="hpx::components::target\l_distribution_policy::\lget_next_target" alt="" coords="220,196,383,252"/>
+<area shape="rect" id="node4" href="$d4/dc8/structhpx_1_1components_1_1target__distribution__policy.html#a778f907a6ac1b1e0752b975929bc9b15" title="hpx::components::target\l_distribution_policy::\lcreate" alt="" coords="437,5,600,61"/>
+<area shape="rect" id="node5" href="$d4/dc8/structhpx_1_1components_1_1target__distribution__policy.html#a5279f29ebe2bff6eb83cb517355ac012" title="hpx::components::target\l_distribution_policy::\lbulk_create" alt="" coords="437,85,600,141"/>
+<area shape="rect" id="node6" href="$d4/dc8/structhpx_1_1components_1_1target__distribution__policy.html#a151b90869a668cb2453197b389dfbdda" title="hpx::components::target\l_distribution_policy::async" alt="" coords="431,166,607,207"/>
+<area shape="rect" id="node7" href="$d4/dc8/structhpx_1_1components_1_1target__distribution__policy.html#af5349627afa5c6ba465ae6f0011c512b" title="hpx::components::target\l_distribution_policy::\lasync_cb" alt="" coords="437,232,600,288"/>
+<area shape="rect" id="node8" href="$d4/dc8/structhpx_1_1components_1_1target__distribution__policy.html#a73766f15f3cf1ac6bba9a0329b85f078" title="hpx::components::target\l_distribution_policy::apply" alt="" coords="433,313,605,354"/>
+<area shape="rect" id="node9" href="$d4/dc8/structhpx_1_1components_1_1target__distribution__policy.html#a9cefed99e44df371100964b838ba4596" title="hpx::components::target\l_distribution_policy::\lapply_cb" alt="" coords="437,379,600,435"/>
+</map>

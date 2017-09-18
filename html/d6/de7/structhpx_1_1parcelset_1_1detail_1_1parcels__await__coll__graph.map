@@ -1,0 +1,6 @@
+<map id="hpx::parcelset::detail::parcels_await" name="hpx::parcelset::detail::parcels_await">
+<area shape="rect" id="node2" href="$d8/d99/structhpx_1_1parcelset_1_1detail_1_1parcel__await__base.html" title="hpx::parcelset::detail\l::parcel_await_base\&lt; std\l::vector\&lt; parcel \&gt;, std\l::vector\&lt; write_handler_type\l \&gt;, parcels_await \&gt;" alt="" coords="471,64,655,149"/>
+<area shape="rect" id="node4" href="$df/db6/classhpx_1_1serialization_1_1detail_1_1preprocess.html" title="hpx::serialization\l::detail::preprocess" alt="" coords="212,86,345,127"/>
+<area shape="rect" id="node5" href="$d4/d01/structhpx_1_1serialization_1_1output__archive.html" title="hpx::serialization\l::output_archive" alt="" coords="219,151,339,193"/>
+<area shape="rect" id="node6" href="$dc/d15/structhpx_1_1serialization_1_1basic__archive.html" title="hpx::serialization\l::basic_archive\&lt; output\l_archive \&gt;" alt="" coords="5,144,161,200"/>
+</map>

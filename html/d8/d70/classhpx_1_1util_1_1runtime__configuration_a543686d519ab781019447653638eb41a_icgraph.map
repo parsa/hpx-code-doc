@@ -1,0 +1,6 @@
+<map id="hpx::util::runtime_configuration::get_stack_size" name="hpx::util::runtime_configuration::get_stack_size">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#a250e7e8bb2e75f8cbf2effad42d071c8" title="hpx::threads::get_stack_size" alt="" coords="181,5,372,32"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#aa52f4ef74b112fae23bcbb68955f8146" title="hpx::threads::get_stack\l_size_name" alt="" coords="197,57,356,98"/>
+<area shape="rect" id="node4" href="$d0/d82/customize__async_8cpp.html#a6016a3884b47920235a6f1372d57577b" title="run_with_large_stack" alt="" coords="420,64,564,91"/>
+<area shape="rect" id="node5" href="$d0/d82/customize__async_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="612,64,663,91"/>
+</map>

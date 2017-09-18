@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="da/db2/structhpx_1_1actions_1_1detail_1_1add__constant__entry" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::actions::detail::add_constant_entry</compoundname>
+    <includes refid="d1/d61/action__factory_8hpp" local="no">action_factory.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>std::uint32_t</type>
+        <declname>Id</declname>
+        <defname>Id</defname>
+      </param>
+    </templateparamlist>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="da/db2/structhpx_1_1actions_1_1detail_1_1add__constant__entry_1a456ace24f477c173a69c4a169bb21abb" prot="public" static="yes" mutable="no">
+        <type><ref refid="da/db2/structhpx_1_1actions_1_1detail_1_1add__constant__entry" kindref="compound">add_constant_entry</ref></type>
+        <definition>add_constant_entry&lt; Id &gt; hpx::actions::detail::add_constant_entry&lt; Id &gt;::instance</definition>
+        <argsstring></argsstring>
+        <name>instance</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="110" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" bodystart="110" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="da/db2/structhpx_1_1actions_1_1detail_1_1add__constant__entry_1a72f93098ca457257b97773a374e1d679" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>hpx::actions::detail::add_constant_entry&lt; Id &gt;::HPX_NON_COPYABLE</definition>
+        <argsstring>(add_constant_entry)</argsstring>
+        <name>HPX_NON_COPYABLE</name>
+        <param>
+          <type><ref refid="da/db2/structhpx_1_1actions_1_1detail_1_1add__constant__entry" kindref="compound">add_constant_entry</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="106" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="da/db2/structhpx_1_1actions_1_1detail_1_1add__constant__entry_1a2d449359176040fecb87bcaa6b8047ca" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>hpx::actions::detail::add_constant_entry&lt; Id &gt;::add_constant_entry</definition>
+        <argsstring>()</argsstring>
+        <name>add_constant_entry</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="109" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" bodystart="117" bodyend="121"/>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a4d8a8074f8a91fdc5a62e8067ef6472c" compoundref="d1/d52/action__factory_8cpp" startline="163" endline="167">hpx::actions::detail::action_registry::instance</references>
+        <references refid="d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry_1a7352d14b8ad4d97a880c8ff247f0e04a" compoundref="d1/d52/action__factory_8cpp" startline="34" endline="57">hpx::actions::detail::action_registry::register_typename</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="296">
+        <label>hpx::actions::detail::add_constant_entry&lt; Id &gt;</label>
+        <link refid="da/db2/structhpx_1_1actions_1_1detail_1_1add__constant__entry"/>
+        <childnode refid="296" relation="usage">
+          <edgelabel>instance</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" line="104" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/runtime/actions/detail/action_factory.hpp" bodystart="103" bodyend="111"/>
+    <listofallmembers>
+      <member refid="da/db2/structhpx_1_1actions_1_1detail_1_1add__constant__entry_1a2d449359176040fecb87bcaa6b8047ca" prot="public" virt="non-virtual"><scope>hpx::actions::detail::add_constant_entry</scope><name>add_constant_entry</name></member>
+      <member refid="da/db2/structhpx_1_1actions_1_1detail_1_1add__constant__entry_1a72f93098ca457257b97773a374e1d679" prot="public" virt="non-virtual"><scope>hpx::actions::detail::add_constant_entry</scope><name>HPX_NON_COPYABLE</name></member>
+      <member refid="da/db2/structhpx_1_1actions_1_1detail_1_1add__constant__entry_1a456ace24f477c173a69c4a169bb21abb" prot="public" virt="non-virtual"><scope>hpx::actions::detail::add_constant_entry</scope><name>instance</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

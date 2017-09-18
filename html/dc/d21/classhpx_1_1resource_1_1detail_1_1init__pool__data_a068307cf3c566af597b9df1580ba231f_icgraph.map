@@ -1,0 +1,6 @@
+<map id="hpx::resource::detail::init_pool_data::pu_is_assigned" name="hpx::resource::detail::init_pool_data::pu_is_assigned">
+<area shape="rect" id="node2" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#abc3ae2e664bacb1f3b342a5c413e8198" title="hpx::resource::detail\l::partitioner::shrink_pool" alt="" coords="197,5,358,47"/>
+<area shape="rect" id="node4" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a65f8a24b2159a999be1d5cabf35fe236" title="hpx::resource::detail\l::partitioner::expand_pool" alt="" coords="193,71,361,112"/>
+<area shape="rect" id="node3" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#a29170722b44bd7e3b8722d39fdff704c" title="hpx::threads::threadmanager\l::shrink_pool" alt="" coords="409,5,597,47"/>
+<area shape="rect" id="node5" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#a4f3cf57d4561a7cca4c47d6bc05ccc58" title="hpx::threads::threadmanager\l::expand_pool" alt="" coords="409,71,597,112"/>
+</map>

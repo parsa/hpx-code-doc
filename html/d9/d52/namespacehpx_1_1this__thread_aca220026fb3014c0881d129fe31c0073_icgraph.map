@@ -1,0 +1,51 @@
+<map id="hpx::this_thread::suspend" name="hpx::this_thread::suspend">
+<area shape="rect" id="node2" href="$d5/d5d/structtest__server.html#abb97948885a769fc02aeb9f27a10f263" title="test_server::call_void" alt="" coords="251,177,394,204"/>
+<area shape="rect" id="node3" href="$d5/d5d/structtest__server.html#a6e4453a08c3db0ea21b51cca14a38d37" title="test_server::call_future_void" alt="" coords="473,5,654,32"/>
+<area shape="rect" id="node4" href="$db/d8a/action__invoke__no__more__than_8cpp.html#a5d2633b0a95edc3ee554a2203f23fb3f" title="plain_void" alt="" coords="283,349,362,376"/>
+<area shape="rect" id="node5" href="$db/d8a/action__invoke__no__more__than_8cpp.html#ab3807c5173260e9c18d3d26eb9560728" title="plain_future_void" alt="" coords="264,400,381,427"/>
+<area shape="rect" id="node6" href="$da/d82/classexamples_1_1server_1_1cancelable__action.html#af49b4772ebb753ef1faf93236f9e38fa" title="examples::server::cancelable\l_action::do_it" alt="" coords="227,451,418,493"/>
+<area shape="rect" id="node8" href="$d2/d39/classhpx_1_1lcos_1_1local_1_1detail_1_1condition__variable.html#a50fcaaece7968ab37d3f2e8771afabf9" title="hpx::lcos::local::detail\l::condition_variable::wait" alt="" coords="241,582,404,623"/>
+<area shape="rect" id="node18" href="$d5/dca/hpx__thread__phase_8cpp.html#a33ae614742af7a5d14a763390f10b5ce" title="lock_and_wait" alt="" coords="738,880,842,907"/>
+<area shape="rect" id="node19" href="$df/d88/thread__id_8cpp.html#ad27c188384788837a2a71dde38635725" title="do_nothing" alt="" coords="747,945,833,972"/>
+<area shape="rect" id="node20" href="$db/d59/thread__suspend__duration_8cpp.html#a51db1109c6dea5b277ccfc6e1a2e0a18" title="suspend_test" alt="" coords="740,996,840,1023"/>
+<area shape="rect" id="node24" href="$d2/d39/classhpx_1_1lcos_1_1local_1_1detail_1_1condition__variable.html#a3c608ceb722edb8d30c821eb0857e680" title="hpx::lcos::local::detail\l::condition_variable::wait_until" alt="" coords="225,517,420,558"/>
+<area shape="rect" id="node25" href="$de/d7d/future__timed__wait__1025_8cpp.html#a70176b0fee7337b96bbabf260942af4e" title="wait_for" alt="" coords="289,1061,356,1088"/>
+<area shape="rect" id="node26" href="$de/d7d/future__timed__wait__1025_8cpp.html#a68ed9a01d3ad06f4cac1de08bae1dea1" title="wait_until" alt="" coords="285,1112,361,1139"/>
+<area shape="rect" id="node27" href="$dc/d45/structhpx_1_1lcos_1_1detail_1_1wait__each.html#a47fc77b0dc5ff3bd39fa11b33ed675bd" title="hpx::lcos::detail::\lwait_each::operator()" alt="" coords="251,1163,394,1205"/>
+<area shape="rect" id="node28" href="$db/dd5/namespace_storage.html#afc22ee9d2a21b6e473f85bb8b98c93b0" title="Storage::CopyFromStorage" alt="" coords="233,1229,413,1256"/>
+<area shape="rect" id="node29" href="$d2/dc6/structhpx_1_1iostreams_1_1server_1_1output__stream.html#a5ade1a52da0fb211a2e4b418aba2de7e" title="hpx::iostreams::server\l::output_stream::write_sync" alt="" coords="231,1281,414,1322"/>
+<area shape="rect" id="node30" href="$db/d0a/classhpx_1_1parcelset_1_1parcelport__impl.html#a7b02a639f681a084d08ae4fb348e4dd2" title="hpx::parcelset::parcelport\l_impl\&lt; parcelport \&gt;::flush\l_parcels" alt="" coords="238,1347,407,1403"/>
+<area shape="rect" id="node31" href="$db/d0a/classhpx_1_1parcelset_1_1parcelport__impl.html#a590024331c0c701e3585be0cea1e6fd0" title="hpx::parcelset::parcelport\l_impl\&lt; parcelport \&gt;::trigger\l_pending_work" alt="" coords="233,1427,412,1483"/>
+<area shape="rect" id="node32" href="$d2/dd1/namespacehpx_1_1threads_1_1detail.html#a4caef2f942519fa78863cb0050a67697" title="hpx::threads::detail\l::create_background_thread" alt="" coords="231,1507,414,1549"/>
+<area shape="rect" id="node33" href="$d4/d81/set__thread__state_8cpp.html#a49ce651aa219110f1f0c3872833975c3" title="test_dummy_thread" alt="" coords="254,1573,391,1600"/>
+<area shape="rect" id="node34" href="$d4/d4e/simplest__performance__counter_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="283,1624,362,1651"/>
+<area shape="rect" id="node35" href="$db/d62/sine__client_8cpp.html#a0792b1416c60f5e163e42debd6d5ccbc" title="monitor" alt="" coords="290,1675,355,1701"/>
+<area shape="rect" id="node36" href="$da/dbc/structhpx_1_1lcos_1_1local_1_1spinlock.html#a711ff2d6e184f38ecdc067a03f29d0bc" title="hpx::lcos::local::spinlock\l::yield" alt="" coords="239,1726,406,1767"/>
+<area shape="rect" id="node37" href="$de/d9b/classhpx_1_1thread.html#a144b2a4ef1ec1209d5eac52d95419b62" title="hpx::thread::join" alt="" coords="265,1792,380,1819"/>
+<area shape="rect" id="node38" href="$d9/d52/namespacehpx_1_1this__thread.html#a60baac157054035f3d1aec354d0a1ed3" title="hpx::this_thread::yield_to" alt="" coords="239,1843,407,1869"/>
+<area shape="rect" id="node39" href="$d9/d52/namespacehpx_1_1this__thread.html#a9741ecd1a565aada509f4ece34a51098" title="hpx::this_thread::yield" alt="" coords="247,1893,398,1920"/>
+<area shape="rect" id="node40" href="$d9/d52/namespacehpx_1_1this__thread.html#ae12a853980115b23ff0ab8ca06622658" title="hpx::this_thread::sleep\l_until" alt="" coords="245,1945,400,1986"/>
+<area shape="rect" id="node41" href="$d0/d20/classhpx_1_1threads_1_1executors_1_1detail_1_1thread__pool__executor.html#a985ac5d8e9202879fdfb64789caf44ea" title="hpx::threads::executors\l::detail::thread_pool\l_executor::~thread_pool\l_executor" alt="" coords="241,2010,404,2081"/>
+<area shape="rect" id="node42" href="$d0/d20/classhpx_1_1threads_1_1executors_1_1detail_1_1thread__pool__executor.html#af41127daa3c42f2d3bed8dc150b830cb" title="hpx::threads::executors\l::detail::thread_pool\l_executor::suspend_back\l_into_calling_context" alt="" coords="237,2105,408,2175"/>
+<area shape="rect" id="node43" href="$da/dda/classhpx_1_1threads_1_1executors_1_1detail_1_1thread__pool__os__executor.html#a22251a7b3b0710f1fd13f0b6ed5472e5" title="hpx::threads::executors\l::detail::thread_pool\l_os_executor::~thread_pool\l_os_executor" alt="" coords="231,2199,414,2270"/>
+<area shape="rect" id="node44" href="$dd/d39/namespacedetail.html#a0c91de0ea7b7f279bc8858212a82bce6" title="detail::wait" alt="" coords="281,2295,365,2321"/>
+<area shape="rect" id="node45" href="$de/d9f/thread__suspension__executor_8cpp.html#a7d2bc4c0a9e87137edbb77f1061f8c34" title="test_executor_association\l_suspend" alt="" coords="235,2346,410,2387"/>
+<area shape="rect" id="node46" href="$df/de1/timed__task__spawn_8cpp.html#a4f433b87e585b9d1b1c2b2d0cccb5076" title="invoke_worker_timed\l_suspension" alt="" coords="251,2411,394,2453"/>
+<area shape="rect" id="node47" href="$d3/d89/structhpx_1_1lcos_1_1detail_1_1wait__some.html#a1c09ab6c8f5cb6674cef7d1762130930" title="hpx::lcos::detail::\lwait_some::operator()" alt="" coords="249,2477,396,2518"/>
+<area shape="rect" id="node48" href="$d1/dd3/structhpx_1_1lcos_1_1detail_1_1when__any.html#ac49ed9f2c62f0b2e6dab4c5a14a5123e" title="hpx::lcos::detail::\lwhen_any::operator()" alt="" coords="251,2542,394,2583"/>
+<area shape="rect" id="node49" href="$d7/de1/structhpx_1_1lcos_1_1detail_1_1when__some.html#a45be23bcf3913d1b92a9b0dcb33ca18b" title="hpx::lcos::detail::\lwhen_some::operator()" alt="" coords="245,2607,400,2649"/>
+<area shape="rect" id="node50" href="$d2/d8e/namespacehpx_1_1util_1_1detail.html#a6320105908993a100a64b66dd76698c1" title="hpx::util::detail::\lyield_k" alt="" coords="265,2673,380,2714"/>
+<area shape="rect" id="node7" href="$da/d82/classexamples_1_1server_1_1cancelable__action.html#a411ff697f6719bdf2db9df63e7ce0d1a" title="examples::server::cancelable\l_action::cancel_it" alt="" coords="468,57,659,98"/>
+<area shape="rect" id="node9" href="$d2/d39/classhpx_1_1lcos_1_1local_1_1detail_1_1condition__variable.html#ae669c43530443e8852760f51f0ee3862" title="hpx::lcos::local::detail\l::condition_variable::notify_all" alt="" coords="468,334,659,375"/>
+<area shape="rect" id="node10" href="$d2/d39/classhpx_1_1lcos_1_1local_1_1detail_1_1condition__variable.html#aa0eda2419e7df2922669d8f8ca392376" title="hpx::lcos::local::detail\l::condition_variable::wait" alt="" coords="482,122,645,163"/>
+<area shape="rect" id="node11" href="$d3/d41/classhpx_1_1process_1_1process.html#acc7ec4687f3bf5ae121ef7b494d991d8" title="hpx.process.process.join" alt="" coords="707,495,873,521"/>
+<area shape="rect" id="node12" href="$d3/d61/classhpx_1_1lcos_1_1local_1_1detail_1_1counting__semaphore.html#a649923710c2ef70cfe2933926438d5fe" title="hpx::lcos::local::detail\l::counting_semaphore::wait" alt="" coords="473,517,654,558"/>
+<area shape="rect" id="node13" href="$d2/d08/classhpx_1_1lcos_1_1local_1_1event.html#a1705a352cfae05961fe1f5c112199554" title="Reset the event. " alt="" coords="489,647,637,689"/>
+<area shape="rect" id="node14" href="$dd/de7/classhpx_1_1lcos_1_1local_1_1latch.html#adefe7460a4205b19b2d7db2390673685" title="hpx::lcos::local::latch\l::count_down_and_wait" alt="" coords="485,713,642,754"/>
+<area shape="rect" id="node15" href="$dd/de7/classhpx_1_1lcos_1_1local_1_1latch.html#aee0ac5a5fbb311045b28412f8f484bf0" title="hpx::lcos::local::latch\l::wait" alt="" coords="490,582,637,623"/>
+<area shape="rect" id="node16" href="$da/d43/classhpx_1_1lcos_1_1local_1_1barrier.html#aefb0700d69c5d946e12d1b914ac80ba6" title="hpx::lcos::local::barrier\l::barrier" alt="" coords="486,778,641,819"/>
+<area shape="rect" id="node17" href="$da/d43/classhpx_1_1lcos_1_1local_1_1barrier.html#ae3374c182ffd12c9975963139b6f9255" title="hpx::lcos::local::barrier\l::wait" alt="" coords="486,843,641,885"/>
+<area shape="rect" id="node21" href="$d2/dd8/classhpx_1_1lcos_1_1local_1_1mutex.html#a82c6428f1de7bf66ce8a6e915a2aed5f" title="hpx::lcos::local::mutex\l::lock" alt="" coords="486,187,641,229"/>
+<area shape="rect" id="node22" href="$d9/df5/structhpx_1_1parcelset_1_1policies_1_1libfabric_1_1receiver.html#ae18eac5b1593bc79ba31cf828177d611" title="hpx::parcelset::policies\l::libfabric::receiver::\lhandle_recv" alt="" coords="485,253,641,309"/>
+<area shape="rect" id="node23" href="$d4/d7a/classhpx_1_1lcos_1_1local_1_1detail_1_1sliding__semaphore.html#ab93bd7db6fac9f091a701a35ceea6a8c" title="hpx::lcos::local::detail\l::sliding_semaphore::wait" alt="" coords="479,399,648,441"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="hpx::naming::replace_locality_id" name="hpx::naming::replace_locality_id">
+<area shape="rect" id="node2" href="$d4/dc9/namespacehpx_1_1naming.html#ae50a3ecdb5854b6a25a556ebc9830541" title="hpx::naming::get_gid\l_from_locality_id" alt="" coords="200,5,343,47"/>
+<area shape="rect" id="node4" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html#a31d0fb49a563fb184fecaabdced4dcd9" title="hpx::naming::gid_type\l::get_msb" alt="" coords="196,71,347,112"/>
+<area shape="rect" id="node3" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="395,5,561,47"/>
+</map>

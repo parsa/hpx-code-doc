@@ -1,0 +1,6 @@
+<map id="hpx::util::logging::manipulator::class_&lt; type, op_e, base_type &gt;" name="hpx::util::logging::manipulator::class_&lt; type, op_e, base_type &gt;">
+<area shape="rect" id="node3" href="$d3/df9/structhpx_1_1util_1_1logging_1_1manipulator_1_1detail_1_1op__equal__base.html" title="hpx::util::logging\l::manipulator::detail\l::op_equal_base\&lt; op_e \&gt;" alt="" coords="411,56,580,112"/>
+<area shape="rect" id="node4" href="$d5/d01/structhpx_1_1util_1_1logging_1_1op__equal_1_1same__type__op__equal.html" title="Implements operator==, which compares two objects. If they have the same type, it will compare them u..." alt="" coords="418,136,573,192"/>
+<area shape="rect" id="node5" href="$d0/d91/structhpx_1_1util_1_1logging_1_1op__equal_1_1same__type__op__equal__base.html" title="Base class when you want to implement operator== that will compare based on type and member operator=..." alt="" coords="208,136,363,192"/>
+<area shape="rect" id="node6" href="$d4/d6e/structhpx_1_1util_1_1logging_1_1op__equal_1_1same__type__op__equal__top.html" title="hpx::util::logging\l::op_equal::same_type\l_op_equal_top" alt="" coords="5,136,160,192"/>
+</map>

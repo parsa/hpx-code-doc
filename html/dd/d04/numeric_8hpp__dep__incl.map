@@ -1,0 +1,11 @@
+<map id="numeric.hpp" name="numeric.hpp">
+<area shape="rect" id="node2" href="$d9/db1/parallel__numeric_8hpp.html" title="parallel_numeric.hpp" alt="" coords="692,80,833,107"/>
+<area shape="rect" id="node3" href="$df/de9/vector__counting__dotproduct_8cpp.html" title="vector_counting_dotproduct.cpp" alt="" coords="5,155,211,181"/>
+<area shape="rect" id="node4" href="$dc/d18/vector__zip__dotproduct_8cpp.html" title="vector_zip_dotproduct.cpp" alt="" coords="235,155,408,181"/>
+<area shape="rect" id="node5" href="$de/d68/transpose__await_8cpp.html" title="transpose_await.cpp" alt="" coords="432,155,573,181"/>
+<area shape="rect" id="node6" href="$d0/de1/transpose__block_8cpp.html" title="transpose_block.cpp" alt="" coords="598,155,741,181"/>
+<area shape="rect" id="node7" href="$dd/d3b/transpose__block__numa_8cpp.html" title="transpose_block_numa.cpp" alt="" coords="765,155,947,181"/>
+<area shape="rect" id="node8" href="$d2/d99/transpose__smp_8cpp.html" title="transpose_smp.cpp" alt="" coords="971,155,1107,181"/>
+<area shape="rect" id="node9" href="$da/d4d/transpose__smp__block_8cpp.html" title="transpose_smp_block.cpp" alt="" coords="1131,155,1306,181"/>
+<area shape="rect" id="node10" href="$db/d2a/transform__reduce__scaling_8cpp.html" title="transform_reduce_scaling.cpp" alt="" coords="1331,155,1525,181"/>
+</map>

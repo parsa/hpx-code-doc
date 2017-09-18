@@ -1,0 +1,6 @@
+<map id="hpx::detail::get_locality_base_name" name="hpx::detail::get_locality_base_name">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="233,13,375,39"/>
+<area shape="rect" id="node4" href="$d0/d7b/classhpx_1_1runtime.html#aa3997c2fc929d3bb84bcb100b4b66e8d" title="hpx::runtime::get_parcel\l_handler" alt="" coords="223,64,385,105"/>
+<area shape="rect" id="node5" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a39cb148390444ca0e1ea2ee5afe52d9a" title="hpx::parcelset::parcelhandler\l::get_locality_name" alt="" coords="209,129,399,171"/>
+<area shape="rect" id="node3" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="447,5,609,47"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="hpx_main" name="hpx_main">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a8e7953a6163ccfab68ebf6e708b45615" title="Asynchronously return the number of localities which are currently registered for the running applica..." alt="" coords="132,122,291,149"/>
+<area shape="rect" id="node8" href="$d5/d5d/structtest__server.html#a6350579f5fa89191b7a52dff75c83267" title="test_server::test" alt="" coords="154,213,269,239"/>
+<area shape="rect" id="node10" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="166,263,257,290"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="381,13,523,39"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="393,63,511,90"/>
+<area shape="rect" id="node6" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="375,115,529,156"/>
+<area shape="rect" id="node7" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a58ab179aa064fcb808a90d22e3b058f4" title="Query for the number of all known localities. " alt="" coords="339,180,565,221"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="613,5,776,47"/>
+<area shape="rect" id="node9" href="$d5/d5d/structtest__server.html#a74b51251b35240d8add4991aeb053831" title="test_server::HPX_DEFINE\l_COMPONENT_DIRECT_ACTION" alt="" coords="343,245,561,287"/>
+</map>

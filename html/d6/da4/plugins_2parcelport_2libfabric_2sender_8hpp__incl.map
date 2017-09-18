@@ -1,0 +1,25 @@
+<map id="sender.hpp" name="sender.hpp">
+<area shape="rect" id="node2" href="$dd/dce/plugins_2parcelport_2libfabric_2header_8hpp.html" title="plugins/parcelport\l/libfabric/header.hpp" alt="" coords="2773,184,2911,225"/>
+<area shape="rect" id="node7" href="$d2/d54/assert_8hpp.html" title="hpx/util/assert.hpp" alt="" coords="3309,288,3439,315"/>
+<area shape="rect" id="node13" href="$db/d03/libfabric__region__provider_8hpp.html" title="plugins/parcelport\l/libfabric/libfabric\l_region_provider.hpp" alt="" coords="541,273,681,329"/>
+<area shape="rect" id="node22" href="$d6/def/libfabric_2pinned__memory__vector_8hpp.html" title="plugins/parcelport\l/libfabric/pinned_memory\l_vector.hpp" alt="" coords="2907,80,3073,136"/>
+<area shape="rect" id="node27" href="$d8/d19/rma__memory__pool_8hpp.html" title="plugins/parcelport\l/rma_memory_pool.hpp" alt="" coords="1824,184,1983,225"/>
+<area shape="rect" id="node30" href="$d1/d58/atomic__count_8hpp.html" title="hpx/util/atomic_count.hpp" alt="" coords="2378,288,2549,315"/>
+<area shape="rect" id="node33" href="$d8/d98/plugins_2parcelport_2performance__counter_8hpp.html" title="plugins/parcelport\l/performance_counter.hpp" alt="" coords="1283,281,1455,322"/>
+<area shape="rect" id="node39" href="$de/d54/rma__base_8hpp.html" title="plugins/parcelport\l/libfabric/rma_base.hpp" alt="" coords="667,87,823,129"/>
+<area shape="rect" id="node40" href="$d1/dbe/hpx_2runtime_2parcelset_2locality_8hpp.html" title="hpx/runtime/parcelset\l/locality.hpp" alt="" coords="3894,184,4041,225"/>
+<area shape="rect" id="node48" href="$da/d32/unique__function_8hpp.html" title="hpx/util/unique_function.hpp" alt="" coords="4476,191,4659,218"/>
+<area shape="rect" id="node3" href="$d9/d31/parcel__buffer_8hpp.html" title="hpx/runtime/parcelset\l/parcel_buffer.hpp" alt="" coords="2986,281,3133,322"/>
+<area shape="rect" id="node4" href="$d8/dfd/config_8hpp.html" title="hpx/config.hpp" alt="" coords="3651,474,3758,501"/>
+<area shape="rect" id="node14" href="$d1/d25/rma__memory__region__traits_8hpp.html" title="hpx/traits/rma_memory\l_region_traits.hpp" alt="" coords="899,377,1055,419"/>
+<area shape="rect" id="node23" href="$d1/d87/parcelport__logging_8hpp.html" title="plugins/parcelport\l/parcelport_logging.hpp" alt="" coords="1415,377,1571,419"/>
+<area shape="rect" id="node28" href="$d3/d48/lcos_2local_2mutex_8hpp.html" title="hpx/lcos/local/mutex.hpp" alt="" coords="2187,288,2353,315"/>
+<area shape="rect" id="node29" href="$d9/d89/lcos_2local_2spinlock_8hpp.html" title="hpx/lcos/local/spinlock.hpp" alt="" coords="2699,385,2878,411"/>
+<area shape="rect" id="node32" href="$da/db5/rma__memory__region_8hpp.html" title="plugins/parcelport\l/rma_memory_region.hpp" alt="" coords="936,281,1105,322"/>
+<area shape="rect" id="node41" href="$d7/d1e/exception_8hpp.html" title="hpx/exception.hpp" alt="" coords="3954,288,4082,315"/>
+<area shape="rect" id="node42" href="$dd/d54/warnings__prefix_8hpp.html" title="hpx/config/warnings\l_prefix.hpp" alt="" coords="4187,377,4323,419"/>
+<area shape="rect" id="node43" href="$d3/d50/parcelset__fwd_8hpp.html" title="hpx/runtime/parcelset\l_fwd.hpp" alt="" coords="3966,377,4113,419"/>
+<area shape="rect" id="node44" href="$d4/d93/serialization__fwd_8hpp.html" title="hpx/runtime/serialization\l/serialization_fwd.hpp" alt="" coords="4546,281,4709,322"/>
+<area shape="rect" id="node45" href="$df/d7c/map_8hpp.html" title="hpx/runtime/serialization\l/map.hpp" alt="" coords="3717,281,3879,322"/>
+<area shape="rect" id="node47" href="$d3/d3f/is__iterator_8hpp.html" title="hpx/traits/is_iterator.hpp" alt="" coords="4207,288,4370,315"/>
+</map>

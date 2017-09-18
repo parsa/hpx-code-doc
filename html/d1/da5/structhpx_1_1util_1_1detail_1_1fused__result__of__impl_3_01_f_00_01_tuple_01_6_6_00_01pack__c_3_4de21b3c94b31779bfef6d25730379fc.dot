@@ -1,0 +1,10 @@
+digraph "hpx::util::detail::fused_result_of_impl&lt; F, Tuple &amp;&amp;, pack_c&lt; std::size_t, Is... &gt; &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node3 [label="hpx::util::detail::\lfused_result_of_impl\l\< F, Tuple &&, pack_c\l\< std::size_t, Is... \> \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::util::result_of\l\< F(util::tuple_element\l\< Is, Tuple \>::type &&...) \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d6b/structhpx_1_1util_1_1result__of.html"];
+  Node5 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< F(util::tuple_element\l\< Is, Tuple \>::type &&...) \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::util::result_of\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d6b/structhpx_1_1util_1_1result__of.html"];
+}

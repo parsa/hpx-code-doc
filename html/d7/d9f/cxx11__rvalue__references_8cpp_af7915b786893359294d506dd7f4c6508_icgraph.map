@@ -1,0 +1,5 @@
+<map id="forward" name="forward">
+<area shape="rect" id="node2" href="$d7/d9f/cxx11__rvalue__references_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="162,5,213,32"/>
+<area shape="rect" id="node3" href="$dc/d83/namespacehpx_1_1util_1_1detail_1_1container__remapping.html#a04ae404a9c0585def1b39c19e023273f" title="We create a new container, which may hold the resulting type. " alt="" coords="116,56,259,112"/>
+<area shape="rect" id="node4" href="$dc/d83/namespacehpx_1_1util_1_1detail_1_1container__remapping.html#a547139d23ab5a55066bd1f6ee722f786" title="Just call the visitor with the content of the container. " alt="" coords="116,136,259,192"/>
+</map>

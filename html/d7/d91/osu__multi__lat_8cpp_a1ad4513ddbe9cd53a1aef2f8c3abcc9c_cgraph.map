@@ -1,0 +1,25 @@
+<map id="run_benchmark" name="run_benchmark">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a820f6ca4310861d4f6390cbd066c659b" title="Return the list of global ids representing all localities available to this application. " alt="" coords="164,93,313,119"/>
+<area shape="rect" id="node11" href="$df/d58/osu__latency_8cpp.html#a66e2c4fbc787128497d496461c1df436" title="receive" alt="" coords="207,187,270,214"/>
+<area shape="rect" id="node12" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="195,238,282,265"/>
+<area shape="rect" id="node18" href="$df/dc6/namespacehpx_1_1parallel_1_1util.html#ab57e9fe9dcda3baa915398e2d7ba3d69" title="hpx::parallel::util\l::accumulate" alt="" coords="394,311,511,352"/>
+<area shape="rect" id="node23" href="$d0/d3e/local__channel_8cpp.html#a59ccefc587362186eebb8f1a3c9c07ca" title="sum" alt="" coords="215,339,262,366"/>
+<area shape="rect" id="node3" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="361,13,544,39"/>
+<area shape="rect" id="node5" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="373,63,533,90"/>
+<area shape="rect" id="node6" href="$da/dcb/classhpx_1_1applier_1_1applier.html#a1d4a6d6d2a6e941d365075f597ce590f" title="hpx::applier::applier\l::get_localities" alt="" coords="385,115,520,156"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="605,5,768,47"/>
+<area shape="rect" id="node7" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#ac4cb84a74380ddbab1039ad7ab672007" title="hpx::parcelset::parcelhandler\l::get_raw_localities" alt="" coords="592,92,781,133"/>
+<area shape="rect" id="node8" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a3d263988f86b2a4c26dbb8d734540a5a" title="Query for the locality_ids of all known localities. " alt="" coords="850,92,1003,133"/>
+<area shape="rect" id="node9" href="$d4/dc9/namespacehpx_1_1naming.html#ae50a3ecdb5854b6a25a556ebc9830541" title="hpx::naming::get_gid\l_from_locality_id" alt="" coords="1083,92,1226,133"/>
+<area shape="rect" id="node10" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="1285,92,1452,133"/>
+<area shape="rect" id="node13" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="431,209,474,235"/>
+<area shape="rect" id="node14" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="649,158,724,185"/>
+<area shape="rect" id="node15" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="614,209,759,235"/>
+<area shape="rect" id="node16" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="651,259,723,286"/>
+<area shape="rect" id="node17" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="829,252,1024,293"/>
+<area shape="rect" id="node19" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="667,318,706,345"/>
+<area shape="rect" id="node22" href="$df/dad/namespacehpx_1_1util.html#a9ed3f52b36e725e476dbf5099134ed3d" title="hpx::util::invoke" alt="" coords="631,369,743,395"/>
+<area shape="rect" id="node20" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="883,318,970,345"/>
+<area shape="rect" id="node21" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="1072,311,1237,352"/>
+<area shape="rect" id="node24" href="$de/d49/classhpx_1_1lcos_1_1local_1_1detail_1_1channel__base.html#a66e3590dcd9d8095083e6ef60147e95d" title="hpx::lcos::local::detail\l::channel_base::set" alt="" coords="378,376,527,417"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="hpx::parcelset::parcelhandler::get_parcel_receive_count" name="hpx::parcelset::parcelhandler::get_parcel_receive_count">
+<area shape="rect" id="node2" href="$d9/d67/classhpx_1_1parcelset_1_1parcelport.html#ae000dfb0f2ce957e7fa057b94c1de7b9" title="number of parcels received " alt="" coords="243,13,419,54"/>
+<area shape="rect" id="node3" href="$de/db4/classhpx_1_1performance__counters_1_1parcels_1_1detail_1_1gatherer.html#a4c87847adad1250f005a2bdc3501afec" title="hpx::performance_counters\l::parcels::detail::gatherer\l::num_parcels" alt="" coords="467,5,645,61"/>
+<area shape="rect" id="node4" href="$df/dad/namespacehpx_1_1util.html#ad5c4989e2aa44d2be2a0c236d87b9239" title="hpx::util::get_and\l_reset_value" alt="" coords="693,13,816,54"/>
+</map>

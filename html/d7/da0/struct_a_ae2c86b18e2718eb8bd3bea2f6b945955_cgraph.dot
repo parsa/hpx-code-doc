@@ -1,0 +1,11 @@
+digraph "A::A"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node66 [label="A::A",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node66 -> Node67 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node67 [label="A::A",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/da0/struct_a.html#a9773bbfa83a5872b50e49f109c762ff8"];
+  Node66 -> Node68 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node68 [label="A::foo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/da0/struct_a.html#a9ee7221affe17277f6e3d6e75922d75e"];
+}

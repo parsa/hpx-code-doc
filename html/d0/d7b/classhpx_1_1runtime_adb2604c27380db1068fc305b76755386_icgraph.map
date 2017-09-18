@@ -1,0 +1,9 @@
+<map id="hpx::runtime::endpoints" name="hpx::runtime::endpoints">
+<area shape="rect" id="node2" href="$d8/db6/structhpx_1_1agas_1_1big__boot__barrier.html#af83d97cabe46bfd67841283fece1cb24" title="hpx::agas::big_boot\l_barrier::wait_hosted" alt="" coords="220,8,363,49"/>
+<area shape="rect" id="node5" href="$dc/d80/classhpx_1_1runtime__impl.html#a6f8fb249b38985825d8aac651b289858" title="Returns a string of the locality endpoints (usable in debug output) " alt="" coords="212,75,371,102"/>
+<area shape="rect" id="node3" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#afb80dcf683086f9ec1237c81129017d8" title="hpx::agas::addressing\l_service::initialize" alt="" coords="419,5,569,47"/>
+<area shape="rect" id="node4" href="$dc/d80/classhpx_1_1runtime__impl.html#a19b55584b2e6b6b4d72ae159fbef0f6e" title="hpx::runtime_impl::\lruntime_impl" alt="" coords="626,5,759,47"/>
+<area shape="rect" id="node6" href="$dc/d80/classhpx_1_1runtime__impl.html#af9bdb195f306613b511f9055416bfd22" title="Start the runtime system. " alt="" coords="427,71,561,112"/>
+<area shape="rect" id="node7" href="$dc/d80/classhpx_1_1runtime__impl.html#a65be9f67d82e42bc9d6ad34da1fd8e68" title="Start the runtime system. " alt="" coords="626,71,759,112"/>
+<area shape="rect" id="node8" href="$dc/d80/classhpx_1_1runtime__impl.html#ad97f579306f8e516c65886ca56a58f2b" title="Run the HPX runtime system, use the given function for the main thread and block waiting for all thre..." alt="" coords="617,137,768,163"/>
+</map>

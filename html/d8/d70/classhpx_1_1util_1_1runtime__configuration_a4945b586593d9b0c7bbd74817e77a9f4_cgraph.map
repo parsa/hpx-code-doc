@@ -1,0 +1,12 @@
+<map id="hpx::util::runtime_configuration::runtime_configuration" name="hpx::util::runtime_configuration::runtime_configuration">
+<area shape="rect" id="node2" href="$d8/d70/classhpx_1_1util_1_1runtime__configuration.html#a4b9d4d9314f708abef1dc126d7dcdbe5" title="hpx::util::runtime\l_configuration::get\l_itt_notify_mode" alt="" coords="256,5,384,61"/>
+<area shape="rect" id="node5" href="$d8/d70/classhpx_1_1util_1_1runtime__configuration.html#ab50e77409c383b0017ca0036fc3788b8" title="hpx::util::runtime\l_configuration::enable\l_lock_detection" alt="" coords="246,85,394,141"/>
+<area shape="rect" id="node6" href="$df/dad/namespacehpx_1_1util.html#a8daf09f3353da87330f5901602232177" title="hpx::util::enable_lock\l_detection" alt="" coords="247,486,393,527"/>
+<area shape="rect" id="node7" href="$d8/d70/classhpx_1_1util_1_1runtime__configuration.html#abe829ef1a5980b358b6776908007262c" title="hpx::util::runtime\l_configuration::enable\l_global_lock_detection" alt="" coords="243,165,397,221"/>
+<area shape="rect" id="node8" href="$df/dad/namespacehpx_1_1util.html#a9dd5ee6b7cd77491008f54e8772663fd" title="hpx::util::enable_global\l_lock_detection" alt="" coords="243,551,397,593"/>
+<area shape="rect" id="node9" href="$d8/d70/classhpx_1_1util_1_1runtime__configuration.html#a3f52b5b8581475a998fd6b65be93b04c" title="hpx::util::runtime\l_configuration::enable\l_minimal_deadlock_detection" alt="" coords="223,245,417,301"/>
+<area shape="rect" id="node10" href="$d8/d70/classhpx_1_1util_1_1runtime__configuration.html#a70fafe541a43c2fe5d039c39de787174" title="hpx::util::runtime\l_configuration::enable\l_spinlock_deadlock_detection" alt="" coords="222,325,418,381"/>
+<area shape="rect" id="node11" href="$d8/d70/classhpx_1_1util_1_1runtime__configuration.html#aa7c3b564f809ff66f071c5fda8037905" title="hpx::util::runtime\l_configuration::get\l_spinlock_deadlock_detection_limit" alt="" coords="207,405,433,461"/>
+<area shape="rect" id="node3" href="$dd/de4/classhpx_1_1util_1_1section.html#a2ef0091925e5c2e3fda235bff644cdb4" title="hpx::util::section\l::has_section" alt="" coords="481,177,600,218"/>
+<area shape="rect" id="node4" href="$dd/de4/classhpx_1_1util_1_1section.html#a3506cc01fb5453b2176f4747352c5517" title="hpx::util::section\l::get_section" alt="" coords="481,249,600,290"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="hpx::lcos::local::receive_buffer::get_buffer_entry" name="hpx::lcos::local::receive_buffer::get_buffer_entry">
+<area shape="rect" id="node2" href="$dd/daf/structhpx_1_1lcos_1_1local_1_1receive__buffer.html#a86d2ce2bf92a5467fda1a7ac5f282093" title="hpx::lcos::local::receive\l_buffer\&lt; partition \&gt;::receive" alt="" coords="213,5,392,47"/>
+<area shape="rect" id="node3" href="$dd/daf/structhpx_1_1lcos_1_1local_1_1receive__buffer.html#ad2febbd884f0d46d3715e0ca26617581" title="hpx::lcos::local::receive\l_buffer\&lt; partition \&gt;::store\l_received" alt="" coords="219,71,386,127"/>
+<area shape="rect" id="node4" href="$dc/dfe/structhpx_1_1lcos_1_1local_1_1receive__buffer_3_01void_00_01_mutex_01_4.html#a869b22c5fa731e2753761b4184550987" title="hpx::lcos::local::receive\l_buffer\&lt; void, Mutex \&gt;\l::receive" alt="" coords="223,151,382,207"/>
+<area shape="rect" id="node5" href="$dc/dfe/structhpx_1_1lcos_1_1local_1_1receive__buffer_3_01void_00_01_mutex_01_4.html#ac745a2e64b1bb09b8fa3c2121adc0385" title="hpx::lcos::local::receive\l_buffer\&lt; void, Mutex \&gt;\l::store_received" alt="" coords="223,231,382,287"/>
+</map>

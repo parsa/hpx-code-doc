@@ -1,0 +1,10 @@
+<map id="hpx::performance_counters::registry::create_raw_counter" name="hpx::performance_counters::registry::create_raw_counter">
+<area shape="rect" id="node2" href="$d0/d36/namespacehpx_1_1performance__counters.html#afaa6f73101dfefe157a14aace0fed711" title="Return the readable name of a given counter type. " alt="" coords="242,5,421,47"/>
+<area shape="rect" id="node3" href="$d0/d36/namespacehpx_1_1performance__counters.html#a02f879175b5bb99013a8c79f66e57213" title="hpx::performance_counters\l::status_is_valid" alt="" coords="242,71,421,112"/>
+<area shape="rect" id="node4" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#a295ca66d734c3f5b8e499f780f4223b7" title="hpx::performance_counters\l::registry::locate_counter_type" alt="" coords="232,136,431,177"/>
+<area shape="rect" id="node6" href="$d0/d36/namespacehpx_1_1performance__counters.html#a0256857d76e12ec08c01ac2f020b1f48" title="Complement the counter info if parent instance name is missing. " alt="" coords="242,201,421,243"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#a154bc03d8bffebc41d36767f98aea4b0" title="Returns a new error_code constructed from the given parameters. " alt="" coords="256,267,407,294"/>
+<area shape="rect" id="node8" href="$de/d25/classhpx_1_1exception.html#a427fc21f422d4a796cf7e8f7b74c1fe1" title="hpx::exception::get\l_error" alt="" coords="265,319,398,360"/>
+<area shape="rect" id="node9" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="244,385,419,411"/>
+<area shape="rect" id="node5" href="$d0/d36/namespacehpx_1_1performance__counters.html#a02484881ca812cb4266f73acd18e0897" title="Fill the given counter_type_path_elements instance from the given full name of a counter type..." alt="" coords="479,129,657,185"/>
+</map>

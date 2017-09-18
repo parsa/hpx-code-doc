@@ -1,0 +1,10 @@
+<map id="test_insert" name="test_insert">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#aa16b81ab9efec229b7b8810b1ec57dd5" title="The function get_locality returns a reference to the locality prefix. " alt="" coords="156,93,273,119"/>
+<area shape="rect" id="node6" href="$d5/dbe/namespacehpx_1_1detail.html#ad8777977a00adb127e6a98cca53052bb" title="hpx::detail::get_next_id" alt="" coords="136,173,293,199"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="371,137,489,163"/>
+<area shape="rect" id="node4" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="353,5,507,47"/>
+<area shape="rect" id="node5" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ab52c19a37c2a7a006c6c15f90ad0539c" title="hpx::agas::addressing\l_service::get_local_locality" alt="" coords="341,71,519,112"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="359,187,501,214"/>
+<area shape="rect" id="node9" href="$d0/d7b/classhpx_1_1runtime.html#a7475da1148de70005433b994bb321f04" title="hpx::runtime::get_next_id" alt="" coords="345,238,515,265"/>
+<area shape="rect" id="node8" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="567,180,729,221"/>
+</map>

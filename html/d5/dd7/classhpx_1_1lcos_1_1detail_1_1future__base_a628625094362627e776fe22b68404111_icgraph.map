@@ -1,0 +1,11 @@
+<map id="hpx::lcos::detail::future_base::is_ready" name="hpx::lcos::detail::future_base::is_ready">
+<area shape="rect" id="node2" href="$d6/d4d/future_8cpp.html#a498458f061af87d4d618d8a05e796f08" title="test_void_promise" alt="" coords="221,5,347,32"/>
+<area shape="rect" id="node4" href="$d6/d4d/future_8cpp.html#acf44ef7e2cb24965315add81ebd14fab" title="test_task_returning_void" alt="" coords="203,56,365,83"/>
+<area shape="rect" id="node5" href="$d6/d63/structhpx_1_1test_1_1managed__refcnt__monitor.html#a4075d84c7206089aec85a1dd3ae8482e" title="hpx::test::managed\l_refcnt_monitor::is_ready" alt="" coords="200,107,368,149"/>
+<area shape="rect" id="node6" href="$dc/de1/osu__coll_8hpp.html#a70ccfbb59a3d364de9007f91ee45c330" title="distribute_component" alt="" coords="211,173,357,200"/>
+<area shape="rect" id="node10" href="$d9/d66/structhpx_1_1test_1_1simple__refcnt__monitor.html#a9f05344ca8f797f913ca5f8fdb0033d1" title="hpx::test::simple_refcnt\l_monitor::is_ready" alt="" coords="205,225,363,266"/>
+<area shape="rect" id="node3" href="$d6/d4d/future_8cpp.html#a255f773d830db5ca937cff11c2692fa2" title="hpx_main" alt="" coords="416,31,495,57"/>
+<area shape="rect" id="node7" href="$dc/de1/osu__coll_8hpp.html#a5fba99ed1ff27b2151a9ac0531d040ce" title="print_data" alt="" coords="416,173,495,200"/>
+<area shape="rect" id="node8" href="$d3/dca/osu__bcast_8cpp.html#a03a9259c1031dc6e2473041a34d95b4d" title="run_benchmark" alt="" coords="543,173,653,200"/>
+<area shape="rect" id="node9" href="$d3/dca/osu__bcast_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="701,173,780,200"/>
+</map>

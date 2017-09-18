@@ -1,0 +1,5 @@
+<map id="hpx::components::component_factory::get_component_name" name="hpx::components::component_factory::get_component_name">
+<area shape="rect" id="node2" href="$d9/dc0/structhpx_1_1components_1_1component__factory.html#afa5dee3f6360badd1daabe8baf869597" title="Return the unique identifier of the component type this factory is responsible for. " alt="" coords="257,5,455,47"/>
+<area shape="rect" id="node3" href="$d9/dc0/structhpx_1_1components_1_1component__factory.html#ace882c30bb4f9e13092e578eec47bbf1" title="hpx::components::component\l_factory::create" alt="" coords="259,71,453,112"/>
+<area shape="rect" id="node4" href="$d9/dc0/structhpx_1_1components_1_1component__factory.html#a41e7ed19885ee952695fd76d1aa0309d" title="Create one new component instance and initialize it using the using the given constructor function..." alt="" coords="259,136,453,177"/>
+</map>

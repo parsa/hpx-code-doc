@@ -1,0 +1,11 @@
+digraph "hpx::parcelset::policies::verbs::rdma_chunk_pool&lt; UserAllocator &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::parcelset::policies\l::verbs::rdma_chunk_pool\l\< UserAllocator \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="darkgreen",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="boost::simple_segregated\l_storage\< UserAllocator\l::size_type \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node0 -> Node2 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::parcelset::policies\l::verbs::memory_region_allocator \>" ,fontname="Helvetica"];
+  Node2 [label="hpx::parcelset::policies\l::verbs::rdma_chunk_pool\l\< hpx::parcelset::policies\l::verbs::memory_region_allocator \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d78/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1rdma__chunk__pool.html"];
+}

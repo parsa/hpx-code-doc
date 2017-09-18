@@ -1,0 +1,5 @@
+<map id="hpx::threads::coroutines::detail::find_tss_data" name="hpx::threads::coroutines::detail::find_tss_data">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="216,5,385,32"/>
+<area shape="rect" id="node4" href="$d3/dbe/classhpx_1_1threads_1_1coroutines_1_1detail_1_1tss__storage.html#a007cc7a95b6bd8b8b88bc2ac4371e718" title="hpx::threads::coroutines\l::detail::tss_storage::find" alt="" coords="218,57,383,98"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="433,5,580,32"/>
+</map>

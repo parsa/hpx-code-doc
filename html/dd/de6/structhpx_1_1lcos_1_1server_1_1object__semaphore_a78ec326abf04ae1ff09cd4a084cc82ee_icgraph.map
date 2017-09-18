@@ -1,0 +1,5 @@
+<map id="hpx::lcos::server::object_semaphore::abort_pending" name="hpx::lcos::server::object_semaphore::abort_pending">
+<area shape="rect" id="node2" href="$dd/de6/structhpx_1_1lcos_1_1server_1_1object__semaphore.html#a55418c5802e39374b4825940be85ba6e" title="hpx::lcos::server::\lobject_semaphore::~object\l_semaphore" alt="" coords="219,5,397,61"/>
+<area shape="rect" id="node3" href="$dd/de6/structhpx_1_1lcos_1_1server_1_1object__semaphore.html#a0c4526ab3db5c6d4ba94af76eb6eca85" title="hpx::lcos::server::\lobject_semaphore::wait" alt="" coords="229,86,387,127"/>
+<area shape="rect" id="node4" href="$d3/d41/classhpx_1_1process_1_1process.html#acc7ec4687f3bf5ae121ef7b494d991d8" title="hpx.process.process.join" alt="" coords="445,93,612,120"/>
+</map>

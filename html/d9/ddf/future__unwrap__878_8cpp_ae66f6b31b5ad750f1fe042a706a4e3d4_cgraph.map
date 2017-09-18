@@ -1,0 +1,9 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d6/de4/classhpx_1_1lcos_1_1local_1_1promise.html#aee94596c23f090f136cf9a4d4838f44b" title="hpx::lcos::local::promise\l::get_future" alt="" coords="110,5,274,47"/>
+<area shape="rect" id="node3" href="$d6/de4/classhpx_1_1lcos_1_1local_1_1promise.html#a563664925bc51641cc575b56201e635d" title="hpx::lcos::local::promise\l::set_exception" alt="" coords="110,71,274,112"/>
+<area shape="rect" id="node4" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#aa95b01f70ad95706ae420ff1db2e5b99" title="hpx::lcos::detail::\lfuture_base\&lt; future\l\&lt; R \&gt;, R \&gt;::has_exception" alt="" coords="104,137,280,193"/>
+<area shape="rect" id="node5" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="117,217,267,243"/>
+<area shape="rect" id="node7" href="$df/dad/namespacehpx_1_1util.html#afbf0ff58a7808ecc4cdb8a9225cd4164" title="hpx::util::report_errors" alt="" coords="117,271,267,298"/>
+<area shape="rect" id="node6" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="328,205,448,247"/>
+<area shape="rect" id="node8" href="$d4/dd9/structhpx_1_1util_1_1detail_1_1fixture.html#a556e0694a5dd410f2a6cbd58917c585c" title="hpx::util::detail::\lfixture::get" alt="" coords="331,271,445,312"/>
+</map>

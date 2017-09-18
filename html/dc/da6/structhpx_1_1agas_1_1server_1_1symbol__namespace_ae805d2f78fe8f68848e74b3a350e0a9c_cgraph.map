@@ -1,0 +1,23 @@
+<map id="hpx::agas::server::symbol_namespace::register_global_counter_types" name="hpx::agas::server::symbol_namespace::register_global_counter_types">
+<area shape="rect" id="node2" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="517,373,617,399"/>
+<area shape="rect" id="node3" href="$d0/d36/namespacehpx_1_1performance__counters.html#a88f016cee579c478cbfa2ff9b67dd1db" title="hpx::performance_counters\l::agas_raw_counter_creator" alt="" coords="243,209,425,251"/>
+<area shape="rect" id="node16" href="$d0/d36/namespacehpx_1_1performance__counters.html#a4145b8ec6c6b285ea708fd1ac981431f" title="Install a new generic performance counter type in a way, which will uninstall it automatically during..." alt="" coords="245,429,423,471"/>
+<area shape="rect" id="node19" href="$d0/d36/namespacehpx_1_1performance__counters.html#a1dde75a358cb6a734c22cd84eb1401ba" title="hpx::performance_counters\l::locality_counter_discoverer" alt="" coords="473,516,660,557"/>
+<area shape="rect" id="node4" href="$d0/d36/namespacehpx_1_1performance__counters.html#a20efd215ad44c2a1d6bf36731b07094c" title="Fill the given counter_path_elements instance from the given full name of a counter. " alt="" coords="949,325,1139,367"/>
+<area shape="rect" id="node5" href="$d4/d2c/make__continuation__1615_8cpp.html#acbdae3e81403e1ffc527c18dc1cd51dd" title="to_string" alt="" coords="531,191,603,218"/>
+<area shape="rect" id="node7" href="$dc/d54/namespacehpx_1_1agas.html#a739f4cc96792199719e626873d9f362a" title="hpx::agas::resolve_name" alt="" coords="483,137,650,163"/>
+<area shape="rect" id="node13" href="$d0/d36/namespacehpx_1_1performance__counters.html#a3a9aa99b61eb1a675a13a18bf395bb2d" title="hpx::performance_counters\l::remove_counter_prefix" alt="" coords="477,71,656,112"/>
+<area shape="rect" id="node14" href="$d0/df8/namespacehpx_1_1performance__counters_1_1detail.html#a23221f5cd23eb9c7b60e5792b0a46105" title="hpx::performance_counters\l::detail::retrieve_agas\l_counter" alt="" coords="477,293,656,349"/>
+<area shape="rect" id="node6" href="$d4/d2c/make__continuation__1615_8cpp.html#a8b2f8a7c58b490fcb1260f36bac46541" title="HPX_PLAIN_ACTION" alt="" coords="729,191,874,218"/>
+<area shape="rect" id="node8" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="724,60,879,101"/>
+<area shape="rect" id="node11" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a958dcde257f99d445f7d9cafa6d55fbe" title="hpx::agas::addressing\l_service::resolve_name" alt="" coords="723,125,879,167"/>
+<area shape="rect" id="node9" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="985,71,1103,98"/>
+<area shape="rect" id="node10" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="967,5,1121,47"/>
+<area shape="rect" id="node12" href="$dd/d5e/structhpx_1_1agas_1_1symbol__namespace.html#a6e3738ab07d37cf31822ab6044e856e8" title="hpx::agas::symbol_namespace\l::resolve" alt="" coords="943,125,1145,167"/>
+<area shape="rect" id="node15" href="$dd/dd0/namespacehpx_1_1agas_1_1detail.html#a6f5d421d2b919adb2059addbd0395855" title="hpx::agas::detail::\lretrieve_action_service_code" alt="" coords="708,296,895,337"/>
+<area shape="rect" id="node17" href="$d0/d36/namespacehpx_1_1performance__counters.html#ae4c341430bcefef5080eb7b92b489700" title="hpx::performance_counters\l::locality_raw_counter\l_creator" alt="" coords="477,423,656,479"/>
+<area shape="rect" id="node18" href="$d0/df8/namespacehpx_1_1performance__counters_1_1detail.html#a5e451affac03963e4ae0cb8eddb34fbd" title="hpx::performance_counters\l::detail::create_raw_counter" alt="" coords="710,413,893,455"/>
+<area shape="rect" id="node20" href="$d0/d36/namespacehpx_1_1performance__counters.html#a02f879175b5bb99013a8c79f66e57213" title="hpx::performance_counters\l::status_is_valid" alt="" coords="712,531,891,572"/>
+<area shape="rect" id="node21" href="$d0/d36/namespacehpx_1_1performance__counters.html#af277aab5e2e75f4d32dedcb1f4cdf21d" title="Create a full name of a counter from the contents of the given counter_path_elements instance..." alt="" coords="712,596,891,637"/>
+<area shape="rect" id="node22" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="714,662,889,689"/>
+</map>

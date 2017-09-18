@@ -1,0 +1,6 @@
+<map id="hpx::threads::coroutines::detail::get_stack_ptr" name="hpx::threads::coroutines::detail::get_stack_ptr">
+<area shape="rect" id="node2" href="$d8/da9/classhpx_1_1threads_1_1coroutines_1_1detail_1_1generic__context_1_1fcontext__context__impl.html#a9480e3cb06aba92fdc4dde83cbfb794e" title="hpx::threads::coroutines\l::detail::generic_context\l::fcontext_context_impl::\lget_available_stack_space" alt="" coords="216,5,393,76"/>
+<area shape="rect" id="node3" href="$df/db5/stack__check_8cpp.html#a199c8b580226e1bd99a2a04de45e3eeb" title="stack_remaining" alt="" coords="246,101,363,127"/>
+<area shape="rect" id="node4" href="$df/db5/stack__check_8cpp.html#ac09c2e6e5006db74750d4738089767b8" title="stack_waste" alt="" coords="441,75,536,102"/>
+<area shape="rect" id="node5" href="$df/db5/stack__check_8cpp.html#ab1825231fb9efbfb464404767c072654" title="hpx_main" alt="" coords="584,101,663,127"/>
+</map>

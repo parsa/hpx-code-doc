@@ -1,0 +1,51 @@
+<map id="hpx::util::thread_specific_ptr::get" name="hpx::util::thread_specific_ptr::get">
+<area shape="rect" id="node2" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="226,1557,409,1584"/>
+<area shape="rect" id="node19" href="$d8/dcb/namespacehpx_1_1applier.html#acc2459f09cc721c68c73113d875e8a8c" title="hpx::applier::get_locality_id" alt="" coords="227,1961,407,1988"/>
+<area shape="rect" id="node21" href="$d2/dcb/classhpx_1_1threads_1_1coroutines_1_1detail_1_1coroutine__self.html#a9802026c57dea4a7f3938dde4eb672d3" title="hpx::threads::coroutines\l::detail::coroutine_self\l::set_self" alt="" coords="236,2012,399,2068"/>
+<area shape="rect" id="node23" href="$d2/dcb/classhpx_1_1threads_1_1coroutines_1_1detail_1_1coroutine__self.html#a0be9c863546920dd8ef1936bcb2cc726" title="hpx::threads::coroutines\l::detail::coroutine_self\l::get_self" alt="" coords="236,2172,399,2228"/>
+<area shape="rect" id="node25" href="$d2/dcb/classhpx_1_1threads_1_1coroutines_1_1detail_1_1coroutine__self.html#a611898d6a5416be0e7f76124cbd26725" title="hpx::threads::coroutines\l::detail::coroutine_self\l::init_self" alt="" coords="236,2092,399,2148"/>
+<area shape="rect" id="node26" href="$d0/d7b/classhpx_1_1runtime.html#a8aa04153394a34e9f75cf0a07a05ad27" title="hpx::runtime::init_tss" alt="" coords="245,2281,389,2308"/>
+<area shape="rect" id="node30" href="$d0/d7b/classhpx_1_1runtime.html#adeb6fca03ce5ab9019872891481aa31f" title="Return the name of the calling thread. " alt="" coords="216,115,419,141"/>
+<area shape="rect" id="node34" href="$d8/d83/namespacehpx.html#a69350b29bb641f990117ad53c4df1d51" title="hpx::get_thread_itt\l_domain" alt="" coords="513,107,644,149"/>
+<area shape="rect" id="node36" href="$d0/d7b/classhpx_1_1runtime.html#a85a04b7c2a3746fa0bd05f3e45068969" title="Return the system uptime measure on the thread executing this call. " alt="" coords="232,2394,403,2435"/>
+<area shape="rect" id="node38" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="247,649,388,676"/>
+<area shape="rect" id="node3" href="$d8/dcb/namespacehpx_1_1applier.html#a401cd1145927e58d74d1eb52aaccd936" title="hpx::applier::register\l_thread_nullary" alt="" coords="509,1399,649,1441"/>
+<area shape="rect" id="node5" href="$d8/dcb/namespacehpx_1_1applier.html#aa385dd8c421f374f5b672a60aef36df4" title="hpx::applier::register\l_thread" alt="" coords="509,1203,649,1245"/>
+<area shape="rect" id="node6" href="$d8/dcb/namespacehpx_1_1applier.html#af52189d319dd2fa91d63dff6fcef6097" title="hpx::applier::register\l_thread_plain" alt="" coords="509,1269,649,1310"/>
+<area shape="rect" id="node7" href="$d8/dcb/namespacehpx_1_1applier.html#a5149fbf2ef4b2b306c0750a79f79b228" title="hpx::applier::register\l_work_nullary" alt="" coords="509,1334,649,1375"/>
+<area shape="rect" id="node8" href="$d8/dcb/namespacehpx_1_1applier.html#a6559f27d0f1b7e11aa932035c9aad33a" title="hpx::applier::register_work" alt="" coords="491,1465,666,1492"/>
+<area shape="rect" id="node9" href="$d8/dcb/namespacehpx_1_1applier.html#a26ab853d968792ac9f5e91208144bb60" title="hpx::applier::register\l_work_plain" alt="" coords="509,1517,649,1558"/>
+<area shape="rect" id="node10" href="$d8/dcb/namespacehpx_1_1applier.html#ad4088ad9153b8a1c88b3bec6252b896f" title="hpx::applier::bind\l_gid_local" alt="" coords="518,1582,639,1623"/>
+<area shape="rect" id="node11" href="$d8/dcb/namespacehpx_1_1applier.html#a60793b922cd290335e43e983467db8d1" title="hpx::applier::unbind\l_gid_local" alt="" coords="511,1647,646,1689"/>
+<area shape="rect" id="node12" href="$d8/dcb/namespacehpx_1_1applier.html#a65b30e90067adab7066951084f779cf2" title="hpx::applier::bind\l_range_local" alt="" coords="518,1713,639,1754"/>
+<area shape="rect" id="node13" href="$d8/dcb/namespacehpx_1_1applier.html#acc7a9ea9d2b805f2b0ff846be5193f59" title="hpx::applier::unbind\l_range_local" alt="" coords="511,1778,646,1819"/>
+<area shape="rect" id="node14" href="$d3/d97/classhpx_1_1components_1_1server_1_1random__mem__access.html#ab61c35b91b5b6d18f873c4c2b40299fd" title="hpx::components::server\l::random_mem_access::random\l_mem_access" alt="" coords="474,1844,683,1900"/>
+<area shape="rect" id="node15" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="527,1924,630,1951"/>
+<area shape="rect" id="node16" href="$d8/d83/namespacehpx.html#a265cd11a586a37b9c3f3c9dfd44eb958" title="Return the list of global ids representing all localities available to this application which support..." alt="" coords="504,1975,653,2001"/>
+<area shape="rect" id="node17" href="$d8/d83/namespacehpx.html#a733bed68dc49d3a0fa2d1368e6203588" title="Return the list of locality ids of remote localities supporting the given component type..." alt="" coords="491,1101,667,1128"/>
+<area shape="rect" id="node18" href="$d8/d83/namespacehpx.html#adde1eeefca5bbb4863e54ca81dfb1b6f" title="Return the global id representing an arbitrary locality which supports the given component type..." alt="" coords="519,1152,638,1179"/>
+<area shape="rect" id="node4" href="$d4/d41/namespacehpx_1_1parcelset.html#abb7d99e0c8aaa983f0851d9c5d4e78bf" title="hpx::parcelset::decode\l_message_with_chunks" alt="" coords="739,1097,900,1138"/>
+<area shape="rect" id="node20" href="$da/dcb/classhpx_1_1applier_1_1applier.html#a9fd373efb61af71bdc60850832530588" title="hpx::applier::applier\l::~applier" alt="" coords="511,2026,646,2067"/>
+<area shape="rect" id="node22" href="$d2/dcb/classhpx_1_1threads_1_1coroutines_1_1detail_1_1coroutine__self.html#a5ef08868707f6acee675aa16fad43379" title="hpx::threads::coroutines\l::detail::coroutine_self\l::get_continuation_recursion_count" alt="" coords="467,2092,691,2148"/>
+<area shape="rect" id="node24" href="$d7/dd2/classhpx_1_1threads_1_1coroutines_1_1detail_1_1coroutine__impl.html#a9e9734e8516ed51824b453f5abaa8435" title="hpx::threads::coroutines\l::detail::coroutine_impl\l::operator()" alt="" coords="497,2172,660,2228"/>
+<area shape="rect" id="node27" href="$d0/d7b/classhpx_1_1runtime.html#ab43f75dc859aa23717d94f591b7c3ff8" title="construct a new instance of a runtime " alt="" coords="506,2252,651,2279"/>
+<area shape="rect" id="node28" href="$dc/d80/classhpx_1_1runtime__impl.html#af9bdb195f306613b511f9055416bfd22" title="Start the runtime system. " alt="" coords="512,2303,645,2345"/>
+<area shape="rect" id="node29" href="$dc/d80/classhpx_1_1runtime__impl.html#aa9de8265198ceaf0e1e3f2ac1d78462e" title="hpx::runtime_impl::\lget_notification_policy" alt="" coords="503,2369,654,2410"/>
+<area shape="rect" id="node31" href="$d8/d83/namespacehpx.html#af59d165ab289edc23121bae716d73b81" title="Extract the diagnostic information embedded in the given exception and return a string holding a form..." alt="" coords="489,5,669,32"/>
+<area shape="rect" id="node33" href="$d8/d83/namespacehpx.html#aaa2a7b43b2655775e3811d5a3f9c0f5e" title="Return the name of the calling thread. " alt="" coords="503,56,654,83"/>
+<area shape="rect" id="node35" href="$d0/d07/system__characteristics_8hpp.html#ab89dcd3f8f12bd35634d3849f0e93d90" title="print_system_characteristics" alt="" coords="484,173,673,200"/>
+<area shape="rect" id="node32" href="$d5/dbe/namespacehpx_1_1detail.html#a078ade6d283dcb816b9295092df8bd7b" title="hpx::detail::assertion\l_failed_msg" alt="" coords="748,247,891,289"/>
+<area shape="rect" id="node37" href="$d8/d83/namespacehpx.html#a805a6863e2633550de10e42233f6ee0b" title="Return the system uptime measure on the thread executing this call. " alt="" coords="496,2435,661,2461"/>
+<area shape="rect" id="node39" href="$da/d9a/async__io__external_8cpp.html#a242f4a714e3dfad90a56a38ef180d6e3" title="io" alt="" coords="559,853,598,880"/>
+<area shape="rect" id="node40" href="$d9/dab/classhpx_1_1lcos_1_1barrier.html#a1fcac5ce49dd1b9800affc8c8b84e4c9" title="hpx::lcos::barrier\l::wait" alt="" coords="519,905,638,946"/>
+<area shape="rect" id="node41" href="$d2/d34/structhpx_1_1components_1_1pending__logs.html#a075313a33460e8098dbeb711a8ed37a0" title="hpx::components::pending\l_logs::add" alt="" coords="491,970,666,1011"/>
+<area shape="rect" id="node42" href="$d8/d1e/namespacehpx_1_1resource_1_1detail.html#afaa9079d4ccd8a302a3b5eb91d66c68a" title="hpx::resource::detail\l::throw_runtime_error" alt="" coords="507,1035,651,1077"/>
+<area shape="rect" id="node43" href="$d8/d1e/namespacehpx_1_1resource_1_1detail.html#a77b1448d28e15489e1d69793250bba9c" title="hpx::resource::detail\l::throw_invalid_argument" alt="" coords="497,225,661,266"/>
+<area shape="rect" id="node44" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a388cd3ddb0cea3d328d74f6d25101723" title="hpx::resource::detail\l::partitioner::create\l_thread_pool" alt="" coords="509,291,649,347"/>
+<area shape="rect" id="node45" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a6fc88349ac96168910cd846a41e4066b" title="hpx::resource::detail\l::partitioner::add_resource" alt="" coords="492,371,665,413"/>
+<area shape="rect" id="node46" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#abc3ae2e664bacb1f3b342a5c413e8198" title="hpx::resource::detail\l::partitioner::shrink_pool" alt="" coords="498,437,659,478"/>
+<area shape="rect" id="node47" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a65f8a24b2159a999be1d5cabf35fe236" title="hpx::resource::detail\l::partitioner::expand_pool" alt="" coords="495,554,663,595"/>
+<area shape="rect" id="node48" href="$d5/dbe/namespacehpx_1_1detail.html#a9bc870a59e82a707b66f801d11a31524" title="hpx::detail::get_exception" alt="" coords="493,620,664,647"/>
+<area shape="rect" id="node49" href="$d5/dbe/namespacehpx_1_1detail.html#a648be066751ceaeab74ee16f2d91238f" title="hpx::detail::get_locality\l_base_name" alt="" coords="501,671,657,713"/>
+<area shape="rect" id="node50" href="$d8/dc7/structmanage__global__runtime.html#a32cb502adad1fce7ba92895b7ed255b2" title="manage_global_runtime\l::hpx_main" alt="" coords="499,737,658,778"/>
+</map>

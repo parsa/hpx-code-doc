@@ -1,0 +1,5 @@
+<map id="hpx::util::logging::destination::file_t&lt; convert_dest &gt;" name="hpx::util::logging::destination::file_t&lt; convert_dest &gt;">
+<area shape="rect" id="node2" href="$d3/d73/structhpx_1_1util_1_1logging_1_1manipulator_1_1is__generic.html" title="Represents a generic manipulator (formatter or destination) " alt="" coords="54,5,135,32"/>
+<area shape="rect" id="node3" href="$d1/db7/structhpx_1_1util_1_1logging_1_1manipulator_1_1non__const__context.html" title="In case your manipulator (formatter or destination) needs to hold non&#45;const context information..." alt="" coords="5,56,184,112"/>
+<area shape="rect" id="node4" href="$d4/dc9/structhpx_1_1util_1_1spinlock.html" title="boost::mutex&#45;compatible spinlock class " alt="" coords="33,136,157,163"/>
+</map>

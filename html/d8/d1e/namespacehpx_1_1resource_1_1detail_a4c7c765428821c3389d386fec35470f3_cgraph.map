@@ -1,0 +1,51 @@
+<map id="hpx::resource::detail::create_partitioner" name="hpx::resource::detail::create_partitioner">
+<area shape="rect" id="node2" href="$df/dad/namespacehpx_1_1util.html#ae40a23c1ba0a48d9304dcf717a95793e" title="hpx::util::set_hpx\l_prefix" alt="" coords="193,1103,316,1145"/>
+<area shape="rect" id="node3" href="$d8/d1e/namespacehpx_1_1resource_1_1detail.html#a95685050c68171246244686ec73270fc" title="hpx::resource::detail\l::create_partitioner" alt="" coords="389,23,529,65"/>
+<area shape="rect" id="node7" href="$d4/d03/create__partitioner_8hpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="215,1220,294,1247"/>
+<area shape="rect" id="node50" href="$d0/d2b/cxx14__return__type__deduction_8cpp.html#a985ac753901f60be998f7e3fbfeae4d6" title="check" alt="" coords="226,1271,283,1297"/>
+<area shape="rect" id="node4" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a2967c633948a3bf17a3b5405ef5a8318" title="hpx::util::static_::get" alt="" coords="613,5,755,32"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="813,115,955,141"/>
+<area shape="rect" id="node6" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="609,425,759,452"/>
+<area shape="rect" id="node8" href="$d8/d83/namespacehpx.html#a7899ab2136e9b3ba674caf70aa659a59" title="Return the number of OS&#45;threads running in the runtime instance the current HPX&#45;thread is associated ..." alt="" coords="617,107,751,149"/>
+<area shape="rect" id="node9" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#ae1153bd13c544f90055c5ca181145297" title="hpx::parallel::v1::sort" alt="" coords="388,679,531,705"/>
+<area shape="rect" id="node10" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="414,729,505,756"/>
+<area shape="rect" id="node11" href="$d0/d6b/1d__stencil__4__repart_8cpp.html#a8e0f0439eca934090d2b0c1f9e20baa9" title="get_counter_value" alt="" coords="396,780,523,807"/>
+<area shape="rect" id="node12" href="$d8/d83/namespacehpx.html#a820f6ca4310861d4f6390cbd066c659b" title="Return the list of global ids representing all localities available to this application. " alt="" coords="609,856,759,883"/>
+<area shape="rect" id="node13" href="$df/de0/1d__stencil__8_8cpp.html#a92376f624d5a1d2e22a1140503b65bc9" title="do_all_work" alt="" coords="414,881,505,908"/>
+<area shape="rect" id="node14" href="$df/d08/classhpx_1_1performance__counters_1_1performance__counter__set.html#ac01d4352cfe0da245b7f38aa4d010888" title="Retrieve the counter infos for all counters in this set. " alt="" coords="370,932,549,988"/>
+<area shape="rect" id="node15" href="$d5/df0/adjacentdifference_8cpp.html#a8d10e90ac8f89e4086f7795d67a80bd0" title="adjacent_difference_test" alt="" coords="378,1012,541,1039"/>
+<area shape="rect" id="node16" href="$d8/d95/adjacentdifference__bad__alloc_8cpp.html#a55193700841958ea8283d1977d30b817" title="adjacent_difference\l_bad_alloc_test" alt="" coords="393,1063,526,1105"/>
+<area shape="rect" id="node17" href="$d8/d0b/adjacentdifference__exception_8cpp.html#ad0add46335afa66f9014edc52aa435bb" title="adjacent_difference\l_exception_test" alt="" coords="393,1129,526,1170"/>
+<area shape="rect" id="node18" href="$d2/d99/adjacentfind_8cpp.html#a0622e1676b73428c1028bb0d8cece5e1" title="adjacent_find_test" alt="" coords="396,1195,523,1221"/>
+<area shape="rect" id="node19" href="$d3/d2a/adjacentfind__bad__alloc_8cpp.html#a86bae785da14cddc6a8e5cc6074f7317" title="adjacent_find_bad_alloc_test" alt="" coords="365,1245,554,1272"/>
+<area shape="rect" id="node20" href="$d8/da8/adjacentfind__binary__exception_8cpp.html#a46904566d012bafd7ecd7550a9f23553" title="adjacent_find_exception_test" alt="" coords="364,1296,555,1323"/>
+<area shape="rect" id="node21" href="$d2/db4/bind__stateful__test_8cpp.html#a0246c23e4dae2f83071c3c441bbd71ff" title="f0" alt="" coords="440,1347,479,1373"/>
+<area shape="rect" id="node22" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="641,527,727,553"/>
+<area shape="rect" id="node23" href="$d8/d8b/broadcast_8cpp.html#a1751fbd41f2529b84514a9dbd767959a" title="f1" alt="" coords="440,1397,479,1424"/>
+<area shape="rect" id="node24" href="$d2/dc9/namespacehpx_1_1lcos.html#aa22f424df487aac588e30b71f15dd2fe" title="hpx::lcos::wait_all" alt="" coords="396,1448,523,1475"/>
+<area shape="rect" id="node25" href="$df/dad/namespacehpx_1_1util.html#afbf0ff58a7808ecc4cdb8a9225cd4164" title="hpx::util::report_errors" alt="" coords="385,1499,534,1525"/>
+<area shape="rect" id="node26" href="$de/d98/classhpx_1_1util_1_1cache_1_1local__cache.html#a0f633ccdb1bf77cbcc9ed440ca70265e" title="Change the maximum size this cache can grow to. " alt="" coords="386,1550,533,1591"/>
+<area shape="rect" id="node27" href="$d5/dbe/namespacehpx_1_1detail.html#ad8777977a00adb127e6a98cca53052bb" title="hpx::detail::get_next_id" alt="" coords="605,207,763,233"/>
+<area shape="rect" id="node28" href="$dd/d37/agas__cache__timings_8cpp.html#ad5cd50b16a6d71a58f202f709795e9c9" title="test_insert" alt="" coords="418,308,501,335"/>
+<area shape="rect" id="node29" href="$dd/d37/agas__cache__timings_8cpp.html#a4f6baed18feae966298db64cdd7c5cab" title="test_get" alt="" coords="425,1616,494,1643"/>
+<area shape="rect" id="node30" href="$dd/d37/agas__cache__timings_8cpp.html#a9b81a773a34dc9223d094c866316bcce" title="test_update" alt="" coords="414,1667,505,1693"/>
+<area shape="rect" id="node31" href="$db/d88/all__of_8cpp.html#a35b1265f9a4642e72c4da301a8026cfc" title="all_of_test" alt="" coords="419,1717,500,1744"/>
+<area shape="rect" id="node32" href="$db/d88/all__of_8cpp.html#a8e1f02599148f3abe91aaa78461f0c18" title="all_of_exception_test" alt="" coords="387,1768,531,1795"/>
+<area shape="rect" id="node33" href="$db/d88/all__of_8cpp.html#a006673e047222aad9f60d48368d992d4" title="all_of_bad_alloc_test" alt="" coords="388,1819,531,1845"/>
+<area shape="rect" id="node34" href="$d8/d5d/any__of_8cpp.html#a15aca8a561fbc8de586742ebd78ec2ae" title="any_of_test" alt="" coords="415,1869,504,1896"/>
+<area shape="rect" id="node35" href="$d8/d5d/any__of_8cpp.html#af36347bd2f1e0629bfbf608e53adc9c1" title="any_of_exception_test" alt="" coords="383,1920,535,1947"/>
+<area shape="rect" id="node36" href="$d8/d5d/any__of_8cpp.html#a281bb96c62e80a158ab5b94b7a733a65" title="any_of_bad_alloc_test" alt="" coords="384,1971,535,1997"/>
+<area shape="rect" id="node37" href="$dd/d16/structhpx_1_1util_1_1high__resolution__clock.html#aaf1ff59c3ef8d3b70696fadb0a55842c" title="hpx::util::high_resolution\l_clock::now" alt="" coords="603,2075,765,2117"/>
+<area shape="rect" id="node38" href="$de/da6/async__overheads_8cpp.html#a90bddeba9cc68793b3e853f85e1dfa91" title="test_func" alt="" coords="647,603,721,629"/>
+<area shape="rect" id="node39" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#afb2ea48b0902f52ee4d8b764807b4316" title="hpx::util::detail::\lrange_impl::end" alt="" coords="627,2143,741,2185"/>
+<area shape="rect" id="node40" href="$de/da6/async__overheads_8cpp.html#a456defbaea2e41cd35e7b02a0376a056" title="spawn_level" alt="" coords="414,577,505,604"/>
+<area shape="rect" id="node41" href="$df/d63/tests_2unit_2lcos_2barrier_8cpp.html#adfee0f3e737c1b6eb1504cceb8a2f264" title="local_tests" alt="" coords="417,476,502,503"/>
+<area shape="rect" id="node42" href="$df/d63/tests_2unit_2lcos_2barrier_8cpp.html#a9adc8ac951de324bf3ffe4f67be7bb19" title="remote_test_multiple" alt="" coords="388,2325,531,2352"/>
+<area shape="rect" id="node43" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a1f74f2be2954d6fbd8278df5fedb946a" title="hpx::parallel::v1::\lgenerate" alt="" coords="399,141,519,182"/>
+<area shape="rect" id="node44" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#a31e165df2b865cdd961f35ce938db41a" title="hpx::util::detail::\lrange_impl::begin" alt="" coords="622,2214,746,2255"/>
+<area shape="rect" id="node45" href="$d5/df7/structrandom__fill.html#ac318553bc4bdaa076e4b4cd21ff248b6" title="random_fill::random_fill" alt="" coords="382,257,537,284"/>
+<area shape="rect" id="node46" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#a0a6696d8c17a32b8ebfaa496b9ab3332" title="hpx::parallel::v1::\ldetail::next" alt="" coords="399,359,519,401"/>
+<area shape="rect" id="node47" href="$da/d4f/benchmark__is__heap_8cpp.html#a67b63c5bbcc73a1ccbd7fc8a8b75e2df" title="run_is_heap_benchmark_std" alt="" coords="365,2072,553,2099"/>
+<area shape="rect" id="node48" href="$da/d4f/benchmark__is__heap_8cpp.html#a163836cb641572dca14893cb27f0ef33" title="run_is_heap_benchmark_seq" alt="" coords="364,2123,555,2149"/>
+<area shape="rect" id="node49" href="$da/d4f/benchmark__is__heap_8cpp.html#a9f7882904c572b17cbab75fb2d8c5d2f" title="run_is_heap_benchmark_par" alt="" coords="365,2224,553,2251"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="hpx::util::logging::logger_holder&lt; type &gt;" name="hpx::util::logging::logger_holder&lt; type &gt;">
+<area shape="rect" id="node2" href="$d6/d47/structhpx_1_1util_1_1logging_1_1logger__holder__by__ptr.html" title="Allows using a log without knowing its full type yet. Even if the log is not fully defined..." alt="" coords="216,5,367,61"/>
+<area shape="rect" id="node3" href="$d4/d41/structhpx_1_1util_1_1logging_1_1logger__holder__by__value.html" title="Allows using a log without knowing its full type yet. Even if the log is not fully defined..." alt="" coords="209,85,373,141"/>
+</map>

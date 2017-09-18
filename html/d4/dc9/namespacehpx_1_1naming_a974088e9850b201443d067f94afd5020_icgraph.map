@@ -1,0 +1,9 @@
+<map id="hpx::naming::get_locality_from_id" name="hpx::naming::get_locality_from_id">
+<area shape="rect" id="node2" href="$d0/d0d/structhpx_1_1lcos_1_1broadcast.html#a41563e4cae2cf4333311462bd0e4cfe3" title="hpx::lcos::broadcast\l::operator()" alt="" coords="247,5,387,47"/>
+<area shape="rect" id="node3" href="$d4/d6c/namespacehpx_1_1lcos_1_1detail.html#a6575c2189b82a495a00b099f7c150172" title="hpx::lcos::detail::\lbroadcast_impl" alt="" coords="256,71,379,112"/>
+<area shape="rect" id="node4" href="$d2/da2/namespacehpx_1_1components_1_1server.html#a8c820dd0dff2a99985fe537486602dfe" title="hpx::components::server\l::perform_migrate_component" alt="" coords="220,136,415,177"/>
+<area shape="rect" id="node5" href="$d5/d76/namespacehpx_1_1components.html#a82bfeeb38c6172869ba4e793a926f5ac" title="hpx::components::migrate\l_from_storage" alt="" coords="231,201,404,243"/>
+<area shape="rect" id="node6" href="$d5/d76/namespacehpx_1_1components.html#a4e88298fbcd62358773ff73291e079dd" title="hpx::components::migrate\l_to_storage" alt="" coords="231,267,404,308"/>
+<area shape="rect" id="node8" href="$d1/d43/structjacobi_1_1server_1_1stencil__iterator.html#afd01e01cf68930df65482b613e4698d9" title="jacobi::server::stencil\l_iterator::init" alt="" coords="245,332,389,373"/>
+<area shape="rect" id="node7" href="$dd/d02/migrate__component__to__storage_8cpp.html#ab2024c00e8a86e61696b5f8434ea736a" title="test_migrate_component\l_from_storage" alt="" coords="463,267,628,308"/>
+</map>

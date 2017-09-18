@@ -1,0 +1,6 @@
+<map id="pass_functor" name="pass_functor">
+<area shape="rect" id="node2" href="$d8/db1/function__serialization__728_8cpp.html#a6c21b04ae8f9445a9e6c6687056433e6" title="HPX_DECLARE_PLAIN_ACTION" alt="" coords="151,5,365,32"/>
+<area shape="rect" id="node3" href="$d8/db1/function__serialization__728_8cpp.html#a8c125ec710562d84a7fac3e9c146c14c" title="HPX_ACTION_USES_ZLIB\l_COMPRESSION" alt="" coords="169,57,347,98"/>
+<area shape="rect" id="node4" href="$d8/db1/function__serialization__728_8cpp.html#a38ca6f6db1ce3f0a8aa7d40b6c1024ed" title="HPX_ACTION_USES_MESSAGE\l_COALESCING" alt="" coords="149,122,367,163"/>
+<area shape="rect" id="node5" href="$d8/db1/function__serialization__728_8cpp.html#af10db3bb32db17e40420ed40fb22ac47" title="HPX_PLAIN_ACTION" alt="" coords="185,188,331,215"/>
+</map>

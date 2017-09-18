@@ -1,0 +1,6 @@
+<map id="hpx::lcos::detail::promise_base&lt; Result, RemoteResult, SharedState &gt;" name="hpx::lcos::detail::promise_base&lt; Result, RemoteResult, SharedState &gt;">
+<area shape="rect" id="node2" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html" title="hpx::lcos::local::detail\l::promise_base\&lt; Result,\l SharedState \&gt;" alt="" coords="257,5,421,61"/>
+<area shape="rect" id="node3" href="$db/dee/structhpx_1_1naming_1_1id__type.html" title="hpx::naming::id_type" alt="" coords="268,85,411,112"/>
+<area shape="rect" id="node4" href="$d2/d7f/structhpx_1_1naming_1_1address.html" title="hpx::naming::address" alt="" coords="266,136,413,163"/>
+<area shape="rect" id="node5" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html" title="Global identifier for components across the HPX system. " alt="" coords="5,136,156,163"/>
+</map>

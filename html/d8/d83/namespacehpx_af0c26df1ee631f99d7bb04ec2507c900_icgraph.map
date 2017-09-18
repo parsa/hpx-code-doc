@@ -1,0 +1,9 @@
+<map id="hpx::set_lco_error" name="hpx::set_lco_error">
+<area shape="rect" id="node2" href="$d0/d4e/classhpx_1_1actions_1_1continuation.html#a3a7ce9b301fc018c9b5666aa3170abf4" title="hpx::actions::continuation\l::trigger_error" alt="" coords="180,5,351,47"/>
+<area shape="rect" id="node3" href="$d8/dcb/namespacehpx_1_1applier.html#afb70d3f57636ccb271dc9faab57233fd" title="hpx::applier::trigger\l_error" alt="" coords="199,71,332,112"/>
+<area shape="rect" id="node8" href="$d8/d83/namespacehpx.html#a4319f12b95c698b336d3bddcdc86fa9a" title="Set the error state for the LCO referenced by the given id. " alt="" coords="202,137,329,163"/>
+<area shape="rect" id="node4" href="$dd/de6/structhpx_1_1lcos_1_1server_1_1object__semaphore.html#a78ec326abf04ae1ff09cd4a084cc82ee" title="hpx::lcos::server::\lobject_semaphore::abort\l_pending" alt="" coords="399,63,564,119"/>
+<area shape="rect" id="node5" href="$dd/de6/structhpx_1_1lcos_1_1server_1_1object__semaphore.html#a55418c5802e39374b4825940be85ba6e" title="hpx::lcos::server::\lobject_semaphore::~object\l_semaphore" alt="" coords="612,26,791,82"/>
+<area shape="rect" id="node6" href="$dd/de6/structhpx_1_1lcos_1_1server_1_1object__semaphore.html#a0c4526ab3db5c6d4ba94af76eb6eca85" title="hpx::lcos::server::\lobject_semaphore::wait" alt="" coords="622,107,781,148"/>
+<area shape="rect" id="node7" href="$d3/d41/classhpx_1_1process_1_1process.html#acc7ec4687f3bf5ae121ef7b494d991d8" title="hpx.process.process.join" alt="" coords="839,114,1005,141"/>
+</map>

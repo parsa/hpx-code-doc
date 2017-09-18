@@ -1,0 +1,7 @@
+<map id="hpx::threads::noop_topology::hardware_concurrency" name="hpx::threads::noop_topology::hardware_concurrency">
+<area shape="rect" id="node2" href="$d0/d9a/structhpx_1_1threads_1_1noop__topology.html#a8a4161c6a2afdf562cec92696418a26d" title="Return the number of available cores. " alt="" coords="192,5,347,61"/>
+<area shape="rect" id="node3" href="$d0/d9a/structhpx_1_1threads_1_1noop__topology.html#ae44de1633afc78c01e2cbfa58b224f6a" title="Return the number of available hardware processing units. " alt="" coords="192,85,347,141"/>
+<area shape="rect" id="node4" href="$d0/d9a/structhpx_1_1threads_1_1noop__topology.html#a0136a0e39d2a39232817ab003054ddb2" title="Return number of cores in given numa domain. " alt="" coords="192,165,347,221"/>
+<area shape="rect" id="node5" href="$d0/d9a/structhpx_1_1threads_1_1noop__topology.html#a363b70a49a8c7639dca3f8de47a16cf1" title="Return number of processing units in a given numa domain. " alt="" coords="192,245,347,301"/>
+<area shape="rect" id="node6" href="$d0/d9a/structhpx_1_1threads_1_1noop__topology.html#adfbe137b60835e2cb3b6107f70d6d389" title="Return number of processing units in a given socket. " alt="" coords="192,325,347,381"/>
+</map>

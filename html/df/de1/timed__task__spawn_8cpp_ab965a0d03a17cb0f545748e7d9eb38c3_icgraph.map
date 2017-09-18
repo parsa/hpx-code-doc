@@ -1,0 +1,6 @@
+<map id="invoke_worker_timed_no_suspension" name="invoke_worker_timed_no_suspension">
+<area shape="rect" id="node2" href="$df/de1/timed__task__spawn_8cpp.html#a080d49e6f3dbf611dc09b4eefb05c56a" title="stage_worker_static\l_balanced_stackbased" alt="" coords="196,5,351,47"/>
+<area shape="rect" id="node4" href="$df/de1/timed__task__spawn_8cpp.html#aad6e9a3c933772b7c4adda28ebe9dfe3" title="stage_worker_static\l_imbalanced" alt="" coords="204,71,343,112"/>
+<area shape="rect" id="node5" href="$df/de1/timed__task__spawn_8cpp.html#a5afc40d88dc0b3aa1bc973ea37ffcd4b" title="stage_worker_round\l_robin" alt="" coords="204,136,343,177"/>
+<area shape="rect" id="node3" href="$df/de1/timed__task__spawn_8cpp.html#aaf67a3863f19ff7033e239ebb1204fb7" title="hpx_main" alt="" coords="399,78,477,105"/>
+</map>

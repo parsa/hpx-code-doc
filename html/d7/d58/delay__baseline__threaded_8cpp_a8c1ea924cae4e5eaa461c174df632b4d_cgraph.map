@@ -1,0 +1,7 @@
+<map id="invoke_n_workers" name="invoke_n_workers">
+<area shape="rect" id="node2" href="$d2/d1f/classhpx_1_1compat_1_1barrier.html#ab68a3011257cd8c25d3c3d9dca3e09b5" title="hpx::compat::barrier\l::wait" alt="" coords="192,5,331,47"/>
+<area shape="rect" id="node3" href="$d7/d58/delay__baseline__threaded_8cpp.html#aff71c49c52fd16a7af0ee24f9cbd9f7c" title="invoke_n_workers_nowait" alt="" coords="177,71,345,98"/>
+<area shape="rect" id="node4" href="$d4/db8/worker__timed_8hpp.html#a11be0c8620df93f53ec0a28d215d3cd9" title="worker_timed" alt="" coords="393,71,492,98"/>
+<area shape="rect" id="node5" href="$dd/d16/structhpx_1_1util_1_1high__resolution__clock.html#aaf1ff59c3ef8d3b70696fadb0a55842c" title="hpx::util::high_resolution\l_clock::now" alt="" coords="540,64,703,105"/>
+<area shape="rect" id="node6" href="$de/db3/1d__stencil__1__omp_8cpp.html#a89e9667753dccfac455bd37a7a3a7b16" title="now" alt="" coords="751,71,796,98"/>
+</map>

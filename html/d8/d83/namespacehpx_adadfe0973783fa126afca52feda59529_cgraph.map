@@ -1,0 +1,5 @@
+<map id="hpx::finalize" name="hpx::finalize">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="156,5,247,32"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#a6aaa247c60a4c2197141dd92d59c6e4b" title="Terminate any application non&#45;gracefully. " alt="" coords="149,56,254,83"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#adf8bb4418737d0c2751a192c8f86875e" title="Disconnect this locality from the application. " alt="" coords="144,107,259,133"/>
+</map>

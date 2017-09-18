@@ -1,0 +1,9 @@
+<map id="hpx::runtime_impl::get_thread_pool" name="hpx::runtime_impl::get_thread_pool">
+<area shape="rect" id="node2" href="$dc/d80/classhpx_1_1runtime__impl.html#a9e4bc9c083c05ebb40d99f441489d608" title="hpx::runtime_impl::\lkeep_factory_alive" alt="" coords="187,5,320,47"/>
+<area shape="rect" id="node3" href="$dc/d80/classhpx_1_1runtime__impl.html#ad038e06c49f0e3d63d6eac4538041f40" title="hpx::runtime_impl::\ladd_shutdown_function" alt="" coords="368,5,525,47"/>
+<area shape="rect" id="node4" href="$dc/d80/classhpx_1_1runtime__impl.html#a19b55584b2e6b6b4d72ae159fbef0f6e" title="hpx::runtime_impl::\lruntime_impl" alt="" coords="1209,49,1343,91"/>
+<area shape="rect" id="node5" href="$dc/d80/classhpx_1_1runtime__impl.html#a6b2c973ef7938badd839422e45bf857e" title="hpx::runtime_impl::\ladd_pre_shutdown_function" alt="" coords="573,35,756,76"/>
+<area shape="rect" id="node6" href="$dc/d80/classhpx_1_1runtime__impl.html#aedf7ab79886e7d9a2d6e02a4e9591f2c" title="hpx::runtime_impl::\ladd_startup_function" alt="" coords="804,85,947,127"/>
+<area shape="rect" id="node7" href="$dc/d80/classhpx_1_1runtime__impl.html#accf86f9b92cef9d4120d05b175693fa7" title="hpx::runtime_impl::\ladd_pre_startup_function" alt="" coords="995,136,1161,177"/>
+<area shape="rect" id="node8" href="$dc/d80/classhpx_1_1runtime__impl.html#ac0009affe323cd040ae3d8ae2ddab4e1" title="hpx::runtime_impl::\lget_next_id" alt="" coords="1209,136,1343,177"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="hpx::parcelset::policies::libfabric::receiver::pre_post_receive" name="hpx::parcelset::policies::libfabric::receiver::pre_post_receive">
+<area shape="rect" id="node2" href="$d9/df5/structhpx_1_1parcelset_1_1policies_1_1libfabric_1_1receiver.html#ae89a3539d5c32dfe73af4961ea92188b" title="hpx::parcelset::policies\l::libfabric::receiver::\lreceiver" alt="" coords="209,5,365,61"/>
+<area shape="rect" id="node3" href="$d9/df5/structhpx_1_1parcelset_1_1policies_1_1libfabric_1_1receiver.html#ae18eac5b1593bc79ba31cf828177d611" title="hpx::parcelset::policies\l::libfabric::receiver::\lhandle_recv" alt="" coords="209,85,365,141"/>
+</map>

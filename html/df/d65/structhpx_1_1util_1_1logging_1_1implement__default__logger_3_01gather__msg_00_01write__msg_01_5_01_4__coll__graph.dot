@@ -1,0 +1,22 @@
+digraph "hpx::util::logging::implement_default_logger&lt; gather_msg, write_msg * &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node8 [label="hpx::util::logging\l::implement_default\l_logger\< gather_msg,\l write_msg * \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node9 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="hpx::util::logging\l::logger\< gather_msg,\l default_ \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d21/structhpx_1_1util_1_1logging_1_1logger_3_01gather__msg_00_01default___01_4.html"];
+  Node10 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="hpx::util::logging\l::logger_base\< gather\l_msg, default_ \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d10/structhpx_1_1util_1_1logging_1_1logger__base.html"];
+  Node11 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="hpx::util::logging\l::detail::default_cache\l_keeper\< detail ::cache\l_before_init\< detail::find\l_gather_if_default\< gather\l_msg \> ::msg_type \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d40/structhpx_1_1util_1_1logging_1_1detail_1_1default__cache__keeper.html"];
+  Node12 -> Node11 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< detail ::cache_before\l_init\< detail::find_gather\l_if_default\< gather_msg \>\l ::msg_type \> \>" ,fontname="Helvetica"];
+  Node12 [label="hpx::util::logging\l::detail::default_cache\l_keeper\< cache_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d40/structhpx_1_1util_1_1logging_1_1detail_1_1default__cache__keeper.html",tooltip="default implementation of keeping cache "];
+  Node13 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="hpx::util::logging\l::detail::common_base\l_holder\< gather_msg, default_ \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/dfe/structhpx_1_1util_1_1logging_1_1detail_1_1common__base__holder_3_01gather__msg_00_01default___01_4.html"];
+  Node14 -> Node10 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< gather_msg, default_ \>" ,fontname="Helvetica"];
+  Node14 [label="hpx::util::logging\l::logger_base\< gather\l_msg, write_msg, dummy \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d10/structhpx_1_1util_1_1logging_1_1logger__base.html",tooltip="logger base class. "];
+  Node11 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="hpx::util::logging\l::detail::common_base\l_holder\< gather_msg, write_msg \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d5a/structhpx_1_1util_1_1logging_1_1detail_1_1common__base__holder.html"];
+}

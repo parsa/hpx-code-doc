@@ -1,0 +1,6 @@
+<map id="hpx::lcos::local::latch::is_ready" name="hpx::lcos::local::latch::is_ready">
+<area shape="rect" id="node2" href="$d7/d72/classhpx_1_1lcos_1_1server_1_1latch.html#ad541d54c8511f3ac3f1cdace2b4bc7bf" title="This is invoked whenever the is_ready() function is called. " alt="" coords="227,5,352,47"/>
+<area shape="rect" id="node3" href="$d4/db4/local__latch_8cpp.html#a835e7630881efa4fb379972b0dc2fdb1" title="test_count_down_and_wait" alt="" coords="200,71,379,98"/>
+<area shape="rect" id="node4" href="$d4/db4/local__latch_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="427,122,505,149"/>
+<area shape="rect" id="node5" href="$d4/db4/local__latch_8cpp.html#a6920c9633d0c95c497d3a4ee446a2bc5" title="test_count_down" alt="" coords="229,173,349,199"/>
+</map>

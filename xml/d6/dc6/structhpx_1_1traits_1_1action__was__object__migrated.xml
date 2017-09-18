@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d6/dc6/structhpx_1_1traits_1_1action__was__object__migrated" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::traits::action_was_object_migrated</compoundname>
+    <includes refid="d6/df0/action__was__object__migrated_8hpp" local="no">action_was_object_migrated.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>typename Action</type>
+      </param>
+      <param>
+        <type>typename Enable</type>
+        <defval>void</defval>
+      </param>
+    </templateparamlist>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="d6/dc6/structhpx_1_1traits_1_1action__was__object__migrated_1a9fae9693881ba2ce995978dd94e2622a" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>std::pair&lt; bool, <ref refid="da/d56/classhpx_1_1components_1_1pinned__ptr" kindref="compound">components::pinned_ptr</ref> &gt;</type>
+        <definition>static std::pair&lt;bool, components::pinned_ptr&gt; hpx::traits::action_was_object_migrated&lt; Action, Enable &gt;::call</definition>
+        <argsstring>(hpx::naming::gid_type const &amp;id, naming::address::address_type lva)</argsstring>
+        <name>call</name>
+        <param>
+          <type><ref refid="d3/d67/structhpx_1_1naming_1_1gid__type" kindref="compound">hpx::naming::gid_type</ref> const &amp;</type>
+          <declname>id</declname>
+        </param>
+        <param>
+          <type><ref refid="d2/d7f/structhpx_1_1naming_1_1address_1a92a8e16b811329a8e29fdd9682c64acd" kindref="member">naming::address::address_type</ref></type>
+          <declname>lva</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/action_was_object_migrated.hpp" line="60" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/action_was_object_migrated.hpp" bodystart="60" bodyend="63"/>
+        <referencedby refid="d5/dbe/namespacehpx_1_1detail_1a2a7da8a6ff5bb50cfaa905a43cf32949" compoundref="d3/d8f/apply__implementations_8hpp" startline="33" endline="73">hpx::detail::apply_impl</referencedby>
+        <referencedby refid="d5/dbe/namespacehpx_1_1detail_1a017889aa022ccbd8fb62461e936b9177" compoundref="d3/d8f/apply__implementations_8hpp" startline="219" endline="268">hpx::detail::apply_cb_impl</referencedby>
+        <referencedby refid="db/d7f/classhpx_1_1lcos_1_1packaged__action_3_01_action_00_01_result_00_01true_01_4_1acd623b84ef5ed1ea5ad6b81132d57a27" compoundref="dd/d59/packaged__action_8hpp" startline="383" endline="423">hpx::lcos::packaged_action&lt; Action, Result, true &gt;::apply</referencedby>
+        <referencedby refid="db/d7f/classhpx_1_1lcos_1_1packaged__action_3_01_action_00_01_result_00_01true_01_4_1a6b023b13d50ecca5d46e34e537c38cd1" compoundref="dd/d59/packaged__action_8hpp" startline="470" endline="516">hpx::lcos::packaged_action&lt; Action, Result, true &gt;::apply_cb</referencedby>
+        <referencedby refid="da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support_1a00eb79f89db48417b54a011078a9c7ae" compoundref="d8/d9f/runtime__support__stubs_8cpp" startline="120" endline="167">hpx::components::stubs::runtime_support::free_component_sync</referencedby>
+        <referencedby refid="d1/d63/structhpx_1_1actions_1_1transfer__base__action_1aafc7b547fc6d9d37b017a232b125ad4a" compoundref="d5/d53/transfer__base__action_8hpp" startline="218" endline="221">hpx::actions::transfer_base_action&lt; Action &gt;::get_static_component_type</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="d6/dc6/structhpx_1_1traits_1_1action__was__object__migrated_1a6f7f8a71f609cbeeba766e94b874a05d" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>std::pair&lt; bool, <ref refid="da/d56/classhpx_1_1components_1_1pinned__ptr" kindref="compound">components::pinned_ptr</ref> &gt;</type>
+        <definition>static std::pair&lt;bool, components::pinned_ptr&gt; hpx::traits::action_was_object_migrated&lt; Action, Enable &gt;::call</definition>
+        <argsstring>(hpx::naming::id_type const &amp;id, naming::address::address_type lva)</argsstring>
+        <name>call</name>
+        <param>
+          <type><ref refid="db/dee/structhpx_1_1naming_1_1id__type" kindref="compound">hpx::naming::id_type</ref> const &amp;</type>
+          <declname>id</declname>
+        </param>
+        <param>
+          <type><ref refid="d2/d7f/structhpx_1_1naming_1_1address_1a92a8e16b811329a8e29fdd9682c64acd" kindref="member">naming::address::address_type</ref></type>
+          <declname>lva</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/action_was_object_migrated.hpp" line="66" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/action_was_object_migrated.hpp" bodystart="66" bodyend="69"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/action_was_object_migrated.hpp" line="57" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/action_was_object_migrated.hpp" bodystart="56" bodyend="70"/>
+    <listofallmembers>
+      <member refid="d6/dc6/structhpx_1_1traits_1_1action__was__object__migrated_1a9fae9693881ba2ce995978dd94e2622a" prot="public" virt="non-virtual"><scope>hpx::traits::action_was_object_migrated</scope><name>call</name></member>
+      <member refid="d6/dc6/structhpx_1_1traits_1_1action__was__object__migrated_1a6f7f8a71f609cbeeba766e94b874a05d" prot="public" virt="non-virtual"><scope>hpx::traits::action_was_object_migrated</scope><name>call</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

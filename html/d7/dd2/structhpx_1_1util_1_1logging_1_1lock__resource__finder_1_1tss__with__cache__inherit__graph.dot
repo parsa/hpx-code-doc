@@ -1,0 +1,11 @@
+digraph "hpx::util::logging::lock_resource_finder::tss_with_cache&lt; refresh_secs, mutex &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::logging\l::lock_resource_finder\l::tss_with_cache\< refresh\l_secs, mutex \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< secs \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::util::logging\l::lock_resource_finder\l::tss_with_cache\< secs \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d96/structhpx_1_1util_1_1logging_1_1lock__resource__finder_1_1tss__with__cache.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::util::logging\l::scenario::usage::detail\l_find_logger::find_logger\l\< favor_, change::often\< period\l_secs \>, gather \>::lock_resource\< secs \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dce/structhpx_1_1util_1_1logging_1_1scenario_1_1usage_1_1detail__find__logger_1_1find__logger_3_01fa25400c48187a767dc69f237c1358e0b0.html"];
+}

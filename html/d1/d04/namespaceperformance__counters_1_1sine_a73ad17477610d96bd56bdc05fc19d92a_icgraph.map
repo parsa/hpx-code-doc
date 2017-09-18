@@ -1,0 +1,13 @@
+<map id="performance_counters::sine::startup" name="performance_counters::sine::startup">
+<area shape="rect" id="node2" href="$d3/dd9/structhpx_1_1components_1_1component__startup__shutdown__base.html#a57921f1aff8ae707782f0759c06665de" title="hpx::components::component\l_startup_shutdown_base::\l~component_startup_shutdown_base" alt="" coords="204,5,443,61"/>
+<area shape="rect" id="node3" href="$db/d19/classhpx_1_1util_1_1io__service__pool.html#af7e070444c6cfb215fdb4b1d7976d341" title="Get number of threads associated with this I/O service. " alt="" coords="257,86,390,127"/>
+<area shape="rect" id="node6" href="$db/d19/classhpx_1_1util_1_1io__service__pool.html#abfd69991e67cfe2f7dbea839a5cf63af" title="hpx::util::io_service\l_pool::get_on_stop_thread" alt="" coords="236,151,411,193"/>
+<area shape="rect" id="node7" href="$d9/d4a/classhpx_1_1threads_1_1detail_1_1io__service__thread__pool.html#ad90796aa145ea2cd32e902ebb27e5d3e" title="hpx::threads::detail\l::io_service_thread_pool::run" alt="" coords="230,217,417,258"/>
+<area shape="rect" id="node8" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a18f2b38df9ce10cde72b3a19174b18fe" title="hpx::threads::detail\l::scheduled_thread_pool\l::get_os_thread_handle" alt="" coords="242,283,405,339"/>
+<area shape="rect" id="node9" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a898fd945f669a69a8dc4ef660206df51" title="hpx::threads::detail\l::scheduled_thread_pool\l::add_processing_unit" alt="" coords="242,363,405,419"/>
+<area shape="rect" id="node11" href="$d1/d04/namespaceperformance__counters_1_1sine.html#afdd6b64370ca1540fdc40ed54ede6efe" title="performance_counters\l::sine::get_startup" alt="" coords="248,443,399,485"/>
+<area shape="rect" id="node4" href="$d9/d4a/classhpx_1_1threads_1_1detail_1_1io__service__thread__pool.html#a4d2488cb49796207f76b6f12fe96b47e" title="hpx::threads::detail\l::io_service_thread_pool\l::get_os_thread_count" alt="" coords="498,39,659,95"/>
+<area shape="rect" id="node5" href="$dc/d91/structhpx_1_1parcelset_1_1policies_1_1libfabric_1_1parcelport.html#a6e57ffdf7bb6390a115e6a1cde9872c5" title="hpx::parcelset::policies\l::libfabric::parcelport\l::do_run" alt="" coords="501,119,657,175"/>
+<area shape="rect" id="node10" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a2f281765fae56e182a978b907c75f1ca" title="hpx::threads::detail\l::scheduled_thread_pool\l::get_queue_length" alt="" coords="497,363,660,419"/>
+<area shape="rect" id="node12" href="$d4/d89/io__counters_8cpp.html#a7c451f3370d4f2fe4a1a19d73e82f681" title="BOOST_FUSION_DEFINE\l_STRUCT" alt="" coords="491,443,667,485"/>
+</map>

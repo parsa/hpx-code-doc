@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d7/d41/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl_3_01_range_00_01typename_01std_1_1c711b8db9114480ab7a0f054efa6b7db" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::traits::detail::acquire_shared_state_impl&lt; Range, typename std::enable_if&lt; traits::is_future_range&lt; Range &gt;::value &gt;::type &gt;</compoundname>
+    <includes refid="d4/d49/acquire__shared__state_8hpp" local="no">acquire_shared_state.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>typename Range</type>
+      </param>
+    </templateparamlist>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="d7/d41/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl_3_01_range_00_01typename_01std_1_1c711b8db9114480ab7a0f054efa6b7db_1ab0cdbba8bf2076687d8dfec84dd7e78c" prot="public" static="no">
+        <type><ref refid="d1/dd8/structhpx_1_1traits_1_1future__range__traits" kindref="compound">traits::future_range_traits</ref>&lt; Range &gt;::<ref refid="d7/d41/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl_3_01_range_00_01typename_01std_1_1c711b8db9114480ab7a0f054efa6b7db_1ab0cdbba8bf2076687d8dfec84dd7e78c" kindref="member">future_type</ref></type>
+        <definition>typedef traits::future_range_traits&lt;Range&gt;::future_type hpx::traits::detail::acquire_shared_state_impl&lt; Range, typename std::enable_if&lt; traits::is_future_range&lt; Range &gt;::value &gt;::type &gt;::future_type</definition>
+        <argsstring></argsstring>
+        <name>future_type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/acquire_shared_state.hpp" line="100" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/acquire_shared_state.hpp" bodystart="100" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="d7/d41/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl_3_01_range_00_01typename_01std_1_1c711b8db9114480ab7a0f054efa6b7db_1a3f95079fe7f64ecbbab942d1494b5146" prot="public" static="no">
+        <type><ref refid="d5/d7e/structhpx_1_1traits_1_1detail_1_1shared__state__ptr__for" kindref="compound">traits::detail::shared_state_ptr_for</ref>&lt; <ref refid="d7/d41/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl_3_01_range_00_01typename_01std_1_1c711b8db9114480ab7a0f054efa6b7db_1ab0cdbba8bf2076687d8dfec84dd7e78c" kindref="member">future_type</ref> &gt;::<ref refid="d7/d41/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl_3_01_range_00_01typename_01std_1_1c711b8db9114480ab7a0f054efa6b7db_1a836eb0b561e097106b765d5db661c542" kindref="member">type</ref></type>
+        <definition>typedef traits::detail::shared_state_ptr_for&lt;future_type&gt;::type hpx::traits::detail::acquire_shared_state_impl&lt; Range, typename std::enable_if&lt; traits::is_future_range&lt; Range &gt;::value &gt;::type &gt;::shared_state_ptr</definition>
+        <argsstring></argsstring>
+        <name>shared_state_ptr</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/acquire_shared_state.hpp" line="103" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/acquire_shared_state.hpp" bodystart="103" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="d7/d41/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl_3_01_range_00_01typename_01std_1_1c711b8db9114480ab7a0f054efa6b7db_1a836eb0b561e097106b765d5db661c542" prot="public" static="no">
+        <type>std::vector&lt; <ref refid="d7/d41/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl_3_01_range_00_01typename_01std_1_1c711b8db9114480ab7a0f054efa6b7db_1a3f95079fe7f64ecbbab942d1494b5146" kindref="member">shared_state_ptr</ref> &gt;</type>
+        <definition>typedef std::vector&lt;shared_state_ptr&gt; hpx::traits::detail::acquire_shared_state_impl&lt; Range, typename std::enable_if&lt; traits::is_future_range&lt; Range &gt;::value &gt;::type &gt;::type</definition>
+        <argsstring></argsstring>
+        <name>type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/acquire_shared_state.hpp" line="104" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/acquire_shared_state.hpp" bodystart="104" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d7/d41/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl_3_01_range_00_01typename_01std_1_1c711b8db9114480ab7a0f054efa6b7db_1aee398ba5cdc710d315502f6199c4f4ec" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename Range_</type>
+          </param>
+        </templateparamlist>
+        <type><ref refid="d7/d7f/forceinline_8hpp_1a6c8f31b01feb29751470093a9a75b04f" kindref="member">HPX_FORCEINLINE</ref> std::vector&lt; <ref refid="d7/d41/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl_3_01_range_00_01typename_01std_1_1c711b8db9114480ab7a0f054efa6b7db_1a3f95079fe7f64ecbbab942d1494b5146" kindref="member">shared_state_ptr</ref> &gt;</type>
+        <definition>HPX_FORCEINLINE std::vector&lt;shared_state_ptr&gt; hpx::traits::detail::acquire_shared_state_impl&lt; Range, typename std::enable_if&lt; traits::is_future_range&lt; Range &gt;::value &gt;::type &gt;::operator()</definition>
+        <argsstring>(Range_ &amp;&amp;futures) const</argsstring>
+        <name>operator()</name>
+        <param>
+          <type>Range_ &amp;&amp;</type>
+          <declname>futures</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/acquire_shared_state.hpp" line="108" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/acquire_shared_state.hpp" bodystart="108" bodyend="117"/>
+        <references refid="de/d59/namespacehpx_1_1traits_1_1detail_1aaa6c2b0d18577d633a21bc591127d19b" compoundref="df/de2/reserve_8hpp" startline="54" endline="57">hpx::traits::detail::reserve_if_random_access_by_range</references>
+        <references refid="db/db9/namespacehpx_1_1parallel_1_1v1_1a32d45550d15f1c22055bc56a431c69f4" compoundref="d4/d47/algorithms_2transform_8hpp" startline="319" endline="326">hpx::parallel::v1::transform</references>
+        <references refid="d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl_1a31e165df2b865cdd961f35ce938db41a">hpx::util::detail::range_impl::begin</references>
+        <references refid="d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl_1afb2ea48b0902f52ee4d8b764807b4316">hpx::util::detail::range_impl::end</references>
+        <references refid="d7/d7f/forceinline_8hpp_1a6c8f31b01feb29751470093a9a75b04f" compoundref="d7/d7f/forceinline_8hpp" startline="19">HPX_FORCEINLINE</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/acquire_shared_state.hpp" line="98" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/acquire_shared_state.hpp" bodystart="92" bodyend="118"/>
+    <listofallmembers>
+      <member refid="d7/d41/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl_3_01_range_00_01typename_01std_1_1c711b8db9114480ab7a0f054efa6b7db_1ab0cdbba8bf2076687d8dfec84dd7e78c" prot="public" virt="non-virtual"><scope>hpx::traits::detail::acquire_shared_state_impl&lt; Range, typename std::enable_if&lt; traits::is_future_range&lt; Range &gt;::value &gt;::type &gt;</scope><name>future_type</name></member>
+      <member refid="d7/d41/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl_3_01_range_00_01typename_01std_1_1c711b8db9114480ab7a0f054efa6b7db_1aee398ba5cdc710d315502f6199c4f4ec" prot="public" virt="non-virtual"><scope>hpx::traits::detail::acquire_shared_state_impl&lt; Range, typename std::enable_if&lt; traits::is_future_range&lt; Range &gt;::value &gt;::type &gt;</scope><name>operator()</name></member>
+      <member refid="d7/d41/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl_3_01_range_00_01typename_01std_1_1c711b8db9114480ab7a0f054efa6b7db_1a3f95079fe7f64ecbbab942d1494b5146" prot="public" virt="non-virtual"><scope>hpx::traits::detail::acquire_shared_state_impl&lt; Range, typename std::enable_if&lt; traits::is_future_range&lt; Range &gt;::value &gt;::type &gt;</scope><name>shared_state_ptr</name></member>
+      <member refid="d7/d41/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl_3_01_range_00_01typename_01std_1_1c711b8db9114480ab7a0f054efa6b7db_1a836eb0b561e097106b765d5db661c542" prot="public" virt="non-virtual"><scope>hpx::traits::detail::acquire_shared_state_impl&lt; Range, typename std::enable_if&lt; traits::is_future_range&lt; Range &gt;::value &gt;::type &gt;</scope><name>type</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

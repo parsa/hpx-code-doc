@@ -1,0 +1,12 @@
+<map id="hpx::lcos::channel::set" name="hpx::lcos::channel::set">
+<area shape="rect" id="node2" href="$dd/d5f/channel_8cpp.html#a5eb4df851d38dc3016b73d78ec254dfd" title="sum" alt="" coords="253,5,300,32"/>
+<area shape="rect" id="node3" href="$dd/d5f/channel_8cpp.html#aa17ab86bf3ca4964c8b4a7d9df1b3b2c" title="dispatched_work" alt="" coords="217,56,336,83"/>
+<area shape="rect" id="node4" href="$dd/d5f/channel_8cpp.html#a3d606b83e4ff5fddcaf60e1e4724c219" title="dispatch_work" alt="" coords="224,107,329,133"/>
+<area shape="rect" id="node6" href="$dd/d5f/channel_8cpp.html#a38b0840217b66b16fd29fa66bb69bb1e" title="channel_range" alt="" coords="223,157,330,184"/>
+<area shape="rect" id="node7" href="$dd/d5f/channel_8cpp.html#a3cf409af54af985dbcbcfd63382bad85" title="channel_range_void" alt="" coords="209,208,344,235"/>
+<area shape="rect" id="node8" href="$dd/d5f/channel_8cpp.html#a615cc57b47b12d65521e307be7560ca1" title="closed_channel_get\l_generation" alt="" coords="208,259,345,301"/>
+<area shape="rect" id="node9" href="$dd/d5f/channel_8cpp.html#abba54cc420f5b1095c9cb6cf183749c0" title="closed_channel_set" alt="" coords="208,325,345,352"/>
+<area shape="rect" id="node10" href="$d4/d98/channel__register__as__2722_8cpp.html#ab97c284e1eb1e5056b59dbcf0a1e24fc" title="send_values" alt="" coords="230,376,323,403"/>
+<area shape="rect" id="node5" href="$dd/d5f/channel_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="407,208,458,235"/>
+<area shape="rect" id="node11" href="$d4/d98/channel__register__as__2722_8cpp.html#afc586e4a5ccf6171e4b99b32e548416e" title="hpx_main" alt="" coords="393,376,472,403"/>
+</map>

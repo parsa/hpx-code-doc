@@ -1,0 +1,11 @@
+<map id="hpx::lcos::local::stage_task_cleanup::~stage_task_cleanup" name="hpx::lcos::local::stage_task_cleanup::~stage_task_cleanup">
+<area shape="rect" id="node2" href="$d0/df4/cxx14__constexpr_8cpp.html#af8c1eedcce18792389f0b7ba06800a96" title="zero" alt="" coords="260,5,307,32"/>
+<area shape="rect" id="node4" href="$df/d97/structhpx_1_1lcos_1_1local_1_1detail_1_1debug__object.html#aec7e3a842ded42935144ae0de8cd838f" title="hpx::lcos::local::detail\l::debug_object::check" alt="" coords="208,57,359,98"/>
+<area shape="rect" id="node5" href="$d4/dcb/namespacehpx_1_1lcos_1_1local_1_1detail.html#a55a940f019734e9bb045dc123cd80e48" title="hpx::lcos::local::detail\l::free" alt="" coords="209,122,358,163"/>
+<area shape="rect" id="node6" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="233,188,333,215"/>
+<area shape="rect" id="node7" href="$d0/d47/namespacehpx_1_1lcos_1_1local.html#a9082d0cab5e6831cf8a7739469af5825" title="hpx::lcos::local::run\l_guarded" alt="" coords="215,239,351,281"/>
+<area shape="rect" id="node10" href="$da/d48/classhpx_1_1lcos_1_1local_1_1guard__set.html#ab0407a9e591d7e83636f108576e13338" title="hpx::lcos::local::guard\l_set::get" alt="" coords="208,305,359,346"/>
+<area shape="rect" id="node3" href="$d0/df4/cxx14__constexpr_8cpp.html#a5a05b1c535348a0faf76abfb71e28d12" title="decrement" alt="" coords="441,5,523,32"/>
+<area shape="rect" id="node8" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="407,247,557,273"/>
+<area shape="rect" id="node9" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="605,239,725,281"/>
+</map>

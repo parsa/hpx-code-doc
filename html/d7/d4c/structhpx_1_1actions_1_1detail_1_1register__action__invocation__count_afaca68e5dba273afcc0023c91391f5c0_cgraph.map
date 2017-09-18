@@ -1,0 +1,5 @@
+<map id="hpx::actions::detail::register_action_invocation_count::register_action_invocation_count" name="hpx::actions::detail::register_action_invocation_count::register_action_invocation_count">
+<area shape="rect" id="node2" href="$dc/d69/classhpx_1_1actions_1_1detail_1_1invocation__count__registry.html#ad61f686c5ae3ca3c2a73340e28e36223" title="hpx::actions::detail\l::invocation_count_registry\l::local_instance" alt="" coords="311,5,487,61"/>
+<area shape="rect" id="node4" href="$dc/d69/classhpx_1_1actions_1_1detail_1_1invocation__count__registry.html#a490bef5c1827db25c0d28f4dfda49f2d" title="hpx::actions::detail\l::invocation_count_registry\l::remote_instance" alt="" coords="311,85,487,141"/>
+<area shape="rect" id="node3" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a2967c633948a3bf17a3b5405ef5a8318" title="hpx::util::static_::get" alt="" coords="535,60,676,87"/>
+</map>

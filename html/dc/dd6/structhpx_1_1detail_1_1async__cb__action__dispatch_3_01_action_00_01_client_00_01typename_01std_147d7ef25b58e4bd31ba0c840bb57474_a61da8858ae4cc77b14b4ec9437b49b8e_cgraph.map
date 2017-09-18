@@ -1,0 +1,11 @@
+<map id="hpx::detail::async_cb_action_dispatch&lt; Action, Client, typename std::enable_if&lt; traits::is_client&lt; Client &gt;::value &gt;::type &gt;::call" name="hpx::detail::async_cb_action_dispatch&lt; Action, Client, typename std::enable_if&lt; traits::is_client&lt; Client &gt;::value &gt;::type &gt;::call">
+<area shape="rect" id="node2" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="290,73,333,100"/>
+<area shape="rect" id="node6" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="687,5,774,32"/>
+<area shape="rect" id="node8" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a0cdfe4b8fed578eb1ce34222c0f07b03" title="hpx::components::client\l_base::get_id" alt="" coords="231,125,392,166"/>
+<area shape="rect" id="node9" href="$d7/d7f/async__cb__colocated_8cpp.html#ae8e7b15d60cbf27f78a81c0b74124fab" title="cb" alt="" coords="292,199,331,225"/>
+<area shape="rect" id="node3" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="475,56,550,83"/>
+<area shape="rect" id="node4" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="440,107,585,133"/>
+<area shape="rect" id="node5" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="477,157,549,184"/>
+<area shape="rect" id="node7" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="633,150,828,191"/>
+<area shape="rect" id="node10" href="$d7/d7f/async__cb__colocated_8cpp.html#a52e3aad384eb40b3744f885060f82339" title="callback_called" alt="" coords="457,208,568,235"/>
+</map>

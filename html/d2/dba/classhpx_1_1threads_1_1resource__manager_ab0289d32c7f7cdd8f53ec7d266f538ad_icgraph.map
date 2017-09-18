@@ -1,0 +1,5 @@
+<map id="hpx::threads::resource_manager::reserve_processing_units" name="hpx::threads::resource_manager::reserve_processing_units">
+<area shape="rect" id="node2" href="$d2/dba/classhpx_1_1threads_1_1resource__manager.html#a3915e09985ac2b21e905b20abc56ff13" title="hpx::threads::resource\l_manager::reserve_at_higher\l_use_count" alt="" coords="287,5,475,61"/>
+<area shape="rect" id="node3" href="$d2/dba/classhpx_1_1threads_1_1resource__manager.html#a478df1e76fda2c6040166eeb337cfee4" title="hpx::threads::resource\l_manager::allocate_virt_cores" alt="" coords="523,46,717,87"/>
+<area shape="rect" id="node4" href="$d2/dba/classhpx_1_1threads_1_1resource__manager.html#a134f43f58a4f65cdece92e6cf1b2520a" title="hpx::threads::resource\l_manager::initial_allocation" alt="" coords="765,46,944,87"/>
+</map>

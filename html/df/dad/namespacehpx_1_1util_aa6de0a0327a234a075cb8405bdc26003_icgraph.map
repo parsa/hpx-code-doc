@@ -1,0 +1,5 @@
+<map id="hpx::util::hrtimer_ticks" name="hpx::util::hrtimer_ticks">
+<area shape="rect" id="node2" href="$d0/d45/structhpx_1_1util_1_1detail_1_1time__logger__ref__time.html#a66a35eaea39e8b8651c842be0f9e44dd" title="hpx::util::detail::\ltime_logger_ref_time\l::time_logger_ref_time" alt="" coords="169,5,320,61"/>
+<area shape="rect" id="node3" href="$df/d8b/classhpx_1_1util_1_1time__logger.html#acd5961c74770138db861c123b761a428" title="hpx::util::time_logger\l::tick" alt="" coords="173,86,316,127"/>
+<area shape="rect" id="node4" href="$df/d8b/classhpx_1_1util_1_1time__logger.html#aeb20cf9b456b553d20cbffef3c26b0b8" title="hpx::util::time_logger\l::tock" alt="" coords="173,151,316,193"/>
+</map>

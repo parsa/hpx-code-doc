@@ -1,0 +1,22 @@
+<map id="hpx::parallel::v1::is_partitioned" name="hpx::parallel::v1::is_partitioned">
+<area shape="rect" id="node2" href="$df/d07/is__partitioned_8cpp.html#a92e52af64cb53a5b6011dd4b9a7c6e20" title="test_partitioned1" alt="" coords="201,5,320,32"/>
+<area shape="rect" id="node4" href="$df/d07/is__partitioned_8cpp.html#addbe15e1c645299bb6b551a2e71dfe13" title="test_partitioned1_async" alt="" coords="181,56,341,83"/>
+<area shape="rect" id="node5" href="$df/d07/is__partitioned_8cpp.html#aece898c5a252cfc80f4d4c32c51e4fde" title="test_partitioned2" alt="" coords="201,107,320,133"/>
+<area shape="rect" id="node7" href="$df/d07/is__partitioned_8cpp.html#a742fb3827036b99f147078513b51a137" title="test_partitioned2_async" alt="" coords="181,157,341,184"/>
+<area shape="rect" id="node8" href="$df/d07/is__partitioned_8cpp.html#afb253edce357cecf62ca96a89488988c" title="test_partitioned3" alt="" coords="201,208,320,235"/>
+<area shape="rect" id="node10" href="$df/d07/is__partitioned_8cpp.html#aaa974e2fc9f2648c0f8bb8b366d70a3b" title="test_partitioned3_async" alt="" coords="181,259,341,285"/>
+<area shape="rect" id="node11" href="$df/d07/is__partitioned_8cpp.html#acbc1ff1589b7ee9bdf2c6b5052039509" title="test_partitioned_exception" alt="" coords="173,309,348,336"/>
+<area shape="rect" id="node13" href="$df/d07/is__partitioned_8cpp.html#a425c07ce82db1088d9545a7adb39654c" title="test_partitioned_async\l_exception" alt="" coords="184,361,337,402"/>
+<area shape="rect" id="node14" href="$df/d07/is__partitioned_8cpp.html#a35a218ae53d3601c8eac4c5e1d7dc689" title="test_partitioned_bad\l_alloc" alt="" coords="191,426,330,467"/>
+<area shape="rect" id="node16" href="$df/d07/is__partitioned_8cpp.html#a71e81403727479104791b90a6e25b98f" title="test_partitioned_async\l_bad_alloc" alt="" coords="184,491,337,533"/>
+<area shape="rect" id="node17" href="$df/dd8/partition__tests_8hpp.html#a4f40d9e862c5aaa7e64d56fc15f089ce" title="test_partition" alt="" coords="212,557,309,584"/>
+<area shape="rect" id="node20" href="$df/dd8/partition__tests_8hpp.html#aae3d4d8e7dafc0029ef1ef9296dd49da" title="test_partition_async" alt="" coords="191,608,330,635"/>
+<area shape="rect" id="node3" href="$df/d07/is__partitioned_8cpp.html#a60434a2a9ecf79171ac847436c32d7c9" title="test_partitioned1" alt="" coords="424,31,543,57"/>
+<area shape="rect" id="node6" href="$df/d07/is__partitioned_8cpp.html#a5b55593462c1bc00e2cca486a9ca917f" title="test_partitioned2" alt="" coords="424,132,543,159"/>
+<area shape="rect" id="node9" href="$df/d07/is__partitioned_8cpp.html#a9ca03948a97c9882eadf3b47607aca22" title="test_partitioned3" alt="" coords="424,233,543,260"/>
+<area shape="rect" id="node12" href="$df/d07/is__partitioned_8cpp.html#a4112e407c20c79ff3b917311a08c8c4f" title="test_partitioned_exception" alt="" coords="396,339,571,365"/>
+<area shape="rect" id="node15" href="$df/d07/is__partitioned_8cpp.html#ad81c678dd1cbbef2e57b383087f8255c" title="test_partitioned_bad\l_alloc" alt="" coords="414,433,553,474"/>
+<area shape="rect" id="node18" href="$df/dd8/partition__tests_8hpp.html#ac570753d8bc211c4f3f2191fc0614e84" title="test_partition" alt="" coords="435,507,532,533"/>
+<area shape="rect" id="node19" href="$df/dd8/partition__tests_8hpp.html#aa34b09b89272730e508bef4664c15560" title="test_partition_heavy" alt="" coords="415,557,552,584"/>
+<area shape="rect" id="node21" href="$df/dd8/partition__tests_8hpp.html#a5b2b400969b46c7a629f0794120917a6" title="test_partition_async" alt="" coords="414,608,553,635"/>
+</map>

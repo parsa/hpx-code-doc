@@ -1,0 +1,9 @@
+digraph "hpx::parcelset::rma_memory_pool&lt; RegionProvider &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::parcelset::rma\l_memory_pool\< RegionProvider \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::parcelset::policies\l::libfabric::libfabric_region\l_provider \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::parcelset::rma\l_memory_pool\< hpx::parcelset\l::policies::libfabric::libfabric\l_region_provider \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d53/structhpx_1_1parcelset_1_1rma__memory__pool.html"];
+}

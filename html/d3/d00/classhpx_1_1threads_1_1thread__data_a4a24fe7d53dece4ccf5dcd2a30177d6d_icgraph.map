@@ -1,0 +1,9 @@
+<map id="hpx::threads::thread_data::get_state" name="hpx::threads::thread_data::get_state">
+<area shape="rect" id="node2" href="$d5/d1a/namespacehpx_1_1threads_1_1policies_1_1detail.html#ababe430ee0cc877dc815b46d16e2e1ce" title="hpx::threads::policies\l::detail::dump_suspended\l_threads" alt="" coords="192,8,363,64"/>
+<area shape="rect" id="node4" href="$d2/dd1/namespacehpx_1_1threads_1_1detail.html#a68a95dd6ac6606418b859ac45da10a5a" title="hpx::threads::detail\l::scheduling_loop" alt="" coords="211,90,344,131"/>
+<area shape="rect" id="node8" href="$d3/d00/classhpx_1_1threads_1_1thread__data.html#a217a53de381825c2b02635f3c5e88610" title="hpx::threads::thread\l_data::add_thread_exit\l_callback" alt="" coords="200,156,355,212"/>
+<area shape="rect" id="node3" href="$d0/d44/classhpx_1_1threads_1_1policies_1_1thread__queue.html#ac9e8ca8885064986290252e96efc53bb" title="hpx::threads::policies\l::thread_queue::dump_suspended\l_threads" alt="" coords="411,5,629,61"/>
+<area shape="rect" id="node5" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a32d8c1d6d55b20d42149c5710792142f" title="hpx::threads::detail\l::scheduled_thread_pool\l::thread_func" alt="" coords="439,85,601,141"/>
+<area shape="rect" id="node6" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a18f2b38df9ce10cde72b3a19174b18fe" title="hpx::threads::detail\l::scheduled_thread_pool\l::get_os_thread_handle" alt="" coords="677,45,840,101"/>
+<area shape="rect" id="node7" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a83df1a54306c268c2cc95d0c4b9b9eb6" title="hpx::threads::detail\l::scheduled_thread_pool\l::add_processing_unit" alt="" coords="677,125,840,181"/>
+</map>

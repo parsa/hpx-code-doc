@@ -1,0 +1,6 @@
+<map id="hpx::threads::coroutines::exception_base" name="hpx::threads::coroutines::exception_base">
+<area shape="rect" id="node3" href="$df/d53/classhpx_1_1threads_1_1coroutines_1_1coroutine__exited.html" title="hpx::threads::coroutines\l::coroutine_exited" alt="" coords="348,5,511,47"/>
+<area shape="rect" id="node4" href="$df/d85/classhpx_1_1threads_1_1coroutines_1_1exit__exception.html" title="hpx::threads::coroutines\l::exit_exception" alt="" coords="348,71,511,112"/>
+<area shape="rect" id="node5" href="$d6/d6e/classhpx_1_1threads_1_1coroutines_1_1null__thread__id__exception.html" title="hpx::threads::coroutines\l::null_thread_id_exception" alt="" coords="343,136,516,177"/>
+<area shape="rect" id="node6" href="$da/d01/classhpx_1_1threads_1_1coroutines_1_1waiting.html" title="hpx::threads::coroutines\l::waiting" alt="" coords="348,201,511,243"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="boost::inspect::inspector" name="boost::inspect::inspector">
+<area shape="rect" id="node2" href="$d0/da3/classboost_1_1inspect_1_1apple__macro__check.html" title="boost::inspect::apple\l_macro_check" alt="" coords="236,5,379,47"/>
+<area shape="rect" id="node3" href="$df/d41/classboost_1_1inspect_1_1ascii__check.html" title="boost::inspect::ascii\l_check" alt="" coords="238,71,377,112"/>
+<area shape="rect" id="node4" href="$dc/dc3/classboost_1_1inspect_1_1assert__macro__check.html" title="boost::inspect::assert\l_macro_check" alt="" coords="233,136,381,177"/>
+<area shape="rect" id="node5" href="$d8/de1/classboost_1_1inspect_1_1deprecated__include__check.html" title="boost::inspect::deprecated\l_include_check" alt="" coords="219,201,395,243"/>
+<area shape="rect" id="node6" href="$d9/dfc/classboost_1_1inspect_1_1deprecated__macro__check.html" title="boost::inspect::deprecated\l_macro_check" alt="" coords="219,267,395,308"/>
+<area shape="rect" id="node7" href="$db/de6/classboost_1_1inspect_1_1deprecated__name__check.html" title="boost::inspect::deprecated\l_name_check" alt="" coords="219,332,395,373"/>
+<area shape="rect" id="node8" href="$d2/d6e/classboost_1_1inspect_1_1end__check.html" title="boost::inspect::end\l_check" alt="" coords="241,397,374,439"/>
+<area shape="rect" id="node9" href="$db/dda/classboost_1_1inspect_1_1file__name__check.html" title="boost::inspect::file\l_name_check" alt="" coords="243,463,371,504"/>
+<area shape="rect" id="node10" href="$dc/dad/classboost_1_1inspect_1_1hypertext__inspector.html" title="boost::inspect::hypertext\l_inspector" alt="" coords="224,528,391,569"/>
+<area shape="rect" id="node12" href="$d8/da6/classboost_1_1inspect_1_1include__check.html" title="boost::inspect::include\l_check" alt="" coords="231,593,384,635"/>
+<area shape="rect" id="node13" href="$db/d73/classboost_1_1inspect_1_1length__check.html" title="boost::inspect::length\l_check" alt="" coords="234,659,381,700"/>
+<area shape="rect" id="node14" href="$d0/def/classboost_1_1inspect_1_1minmax__check.html" title="boost::inspect::minmax\l_check" alt="" coords="228,724,387,765"/>
+<area shape="rect" id="node15" href="$d7/d4f/classboost_1_1inspect_1_1source__inspector.html" title="boost::inspect::source\l_inspector" alt="" coords="232,789,383,831"/>
+<area shape="rect" id="node19" href="$de/df2/classboost_1_1inspect_1_1tab__check.html" title="boost::inspect::tab\l_check" alt="" coords="242,855,373,896"/>
+<area shape="rect" id="node20" href="$d1/df9/classboost_1_1inspect_1_1unnamed__namespace__check.html" title="boost::inspect::unnamed\l_namespace_check" alt="" coords="225,920,390,961"/>
+<area shape="rect" id="node21" href="$d0/d6d/classboost_1_1inspect_1_1whitespace__check.html" title="boost::inspect::whitespace\l_check" alt="" coords="219,985,396,1027"/>
+<area shape="rect" id="node11" href="$db/dbd/classboost_1_1inspect_1_1link__check.html" title="boost::inspect::link\l_check" alt="" coords="461,528,593,569"/>
+<area shape="rect" id="node16" href="$d4/d82/classboost_1_1inspect_1_1copyright__check.html" title="boost::inspect::copyright\l_check" alt="" coords="444,724,609,765"/>
+<area shape="rect" id="node17" href="$df/df8/classboost_1_1inspect_1_1crlf__check.html" title="boost::inspect::crlf\l_check" alt="" coords="462,789,591,831"/>
+<area shape="rect" id="node18" href="$d6/d2e/classboost_1_1inspect_1_1license__check.html" title="boost::inspect::license\l_check" alt="" coords="450,855,603,896"/>
+</map>

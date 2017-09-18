@@ -1,0 +1,11 @@
+<map id="HPX_ACTION_USES_MEDIUM_STACK" name="HPX_ACTION_USES_MEDIUM_STACK">
+<area shape="rect" id="node2" href="$dc/d72/structhpx_1_1agas_1_1server_1_1locality__namespace.html#aa9f3ea539ff11605d5e9620e200f56d2" title="hpx::agas::server::\llocality_namespace::\llocality_namespace" alt="" coords="277,5,423,61"/>
+<area shape="rect" id="node3" href="$d7/d3a/structhpx_1_1agas_1_1server_1_1primary__namespace.html#a52d12a1efbe05190fd6592ba971192b6" title="hpx::agas::server::\lprimary_namespace::set\l_local_locality" alt="" coords="267,85,433,141"/>
+<area shape="rect" id="node4" href="$d8/d25/classhpx_1_1components_1_1server_1_1runtime__support.html#ac5c336a6922e101c0db4873cfa5a5c74" title="hpx::components::server\l::runtime_support::migrate\l_component_to_here" alt="" coords="263,165,437,221"/>
+<area shape="rect" id="node6" href="$d4/d6e/sheneos__test_8cpp.html#ac12fcf5a0f70ba6c2a57d947946dda58" title="test_sheneos" alt="" coords="300,245,400,272"/>
+<area shape="rect" id="node7" href="$d4/d6e/sheneos__test_8cpp.html#a0d046da43474887772429b5d8ce891dd" title="test_sheneos_one_bulk" alt="" coords="271,296,429,323"/>
+<area shape="rect" id="node8" href="$d4/d6e/sheneos__test_8cpp.html#a77dae88fbc768802b4d1566d71273ded" title="test_sheneos_bulk" alt="" coords="285,347,415,373"/>
+<area shape="rect" id="node9" href="$dc/da6/structhpx_1_1agas_1_1server_1_1symbol__namespace.html#a47e93a69f95628011765023a666b6619" title="hpx::agas::server::\lsymbol_namespace::symbol\l_namespace" alt="" coords="256,397,444,453"/>
+<area shape="rect" id="node10" href="$df/d43/thread__stacksize_8cpp.html#a6071605403db86b300aab0674427c42d" title="test_small_stacksize" alt="" coords="277,477,423,504"/>
+<area shape="rect" id="node5" href="$d8/d25/classhpx_1_1components_1_1server_1_1runtime__support.html#a17d89675ad9c0e530b4194b5fc4da440" title="hpx::components::server\l::runtime_support::is\l_target_valid" alt="" coords="492,165,656,221"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="shared_priority_scheduler.hpp" name="shared_priority_scheduler.hpp">
+<area shape="rect" id="node2" href="$d8/dfd/config_8hpp.html" title="hpx/config.hpp" alt="" coords="1631,467,1737,493"/>
+<area shape="rect" id="node16" href="$db/d3c/compat_2mutex_8hpp.html" title="hpx/compat/mutex.hpp" alt="" coords="2148,385,2303,411"/>
+<area shape="rect" id="node18" href="$db/d4b/lockfree__queue__backends_8hpp.html" title="hpx/runtime/threads\l/policies/lockfree_queue\l_backends.hpp" alt="" coords="3605,169,3766,225"/>
+<area shape="rect" id="node26" href="$d1/dc8/scheduler__base_8hpp.html" title="hpx/runtime/threads\l/policies/scheduler\l_base.hpp" alt="" coords="2066,169,2203,225"/>
+<area shape="rect" id="node33" href="$df/d4b/topology_8hpp.html" title="hpx/runtime/threads\l/topology.hpp" alt="" coords="2327,377,2465,419"/>
+<area shape="rect" id="node36" href="$d4/d46/util__fwd_8hpp.html" title="hpx/util_fwd.hpp" alt="" coords="1540,385,1655,411"/>
+<area shape="rect" id="node39" href="$dd/d54/warnings__prefix_8hpp.html" title="hpx/config/warnings\l_prefix.hpp" alt="" coords="645,377,781,419"/>
+<area shape="rect" id="node40" href="$dc/dd1/warnings__suffix_8hpp.html" title="hpx/config/warnings\l_suffix.hpp" alt="" coords="376,377,512,419"/>
+<area shape="rect" id="node41" href="$d2/d54/assert_8hpp.html" title="hpx/util/assert.hpp" alt="" coords="3005,288,3134,315"/>
+<area shape="rect" id="node44" href="$d1/d01/thread__queue_8hpp.html" title="hpx/runtime/threads\l/policies/thread_queue.hpp" alt="" coords="2527,80,2705,121"/>
+<area shape="rect" id="node45" href="$d0/dde/thread__data_8hpp.html" title="hpx/runtime/threads\l/thread_data.hpp" alt="" coords="1054,177,1191,218"/>
+<area shape="rect" id="node46" href="$d7/d3a/throw__exception_8hpp.html" title="hpx/throw_exception.hpp" alt="" coords="458,288,625,315"/>
+<area shape="rect" id="node47" href="$d0/da9/logging_8hpp.html" title="hpx/util/logging.hpp" alt="" coords="954,288,1089,315"/>
+<area shape="rect" id="node48" href="$d7/da9/threads__fwd_8hpp.html" title="hpx/runtime/threads\l_fwd.hpp" alt="" coords="47,80,185,121"/>
+<area shape="rect" id="node49" href="$d1/d87/parcelport__logging_8hpp.html" title="plugins/parcelport\l/parcelport_logging.hpp" alt="" coords="4161,177,4317,218"/>
+<area shape="rect" id="node3" href="$df/d6a/attributes_8hpp.html" title="hpx/config/attributes.hpp" alt="" coords="1830,549,1994,575"/>
+<area shape="rect" id="node5" href="$d2/d97/compiler__specific_8hpp.html" title="hpx/config/compiler\l_specific.hpp" alt="" coords="2143,631,2278,672"/>
+<area shape="rect" id="node6" href="$de/d38/branch__hints_8hpp.html" title="hpx/config/branch_hints.hpp" alt="" coords="1189,549,1373,575"/>
+<area shape="rect" id="node7" href="$d4/dce/constexpr_8hpp.html" title="hpx/config/constexpr.hpp" alt="" coords="2379,638,2546,665"/>
+<area shape="rect" id="node8" href="$d6/de2/emulate__deleted_8hpp.html" title="hpx/config/emulate\l_deleted.hpp" alt="" coords="1397,541,1528,583"/>
+<area shape="rect" id="node9" href="$d8/df6/config_2export__definitions_8hpp.html" title="hpx/config/export_definitions.hpp" alt="" coords="1077,638,1288,665"/>
+<area shape="rect" id="node10" href="$d7/d7f/forceinline_8hpp.html" title="hpx/config/forceinline.hpp" alt="" coords="2245,549,2413,575"/>
+<area shape="rect" id="node11" href="$de/d75/manual__profiling_8hpp.html" title="hpx/config/manual_profiling.hpp" alt="" coords="2019,549,2221,575"/>
+<area shape="rect" id="node12" href="$d5/ddd/config_2version_8hpp.html" title="hpx/config/version.hpp" alt="" coords="1553,549,1703,575"/>
+<area shape="rect" id="node13" href="$d0/d47/cat_8hpp.html" title="hpx/util/detail/pp\l/cat.hpp" alt="" coords="1409,631,1527,672"/>
+<area shape="rect" id="node15" href="$de/ded/stringize_8hpp.html" title="hpx/util/detail/pp\l/stringize.hpp" alt="" coords="3524,541,3641,583"/>
+<area shape="rect" id="node19" href="$db/db4/util_2lockfree_2deque_8hpp.html" title="hpx/util/lockfree/deque.hpp" alt="" coords="4246,288,4423,315"/>
+<area shape="rect" id="node27" href="$d7/d96/compat_2condition__variable_8hpp.html" title="hpx/compat/condition\l_variable.hpp" alt="" coords="1265,281,1412,322"/>
+<area shape="rect" id="node28" href="$dd/d61/interface_8hpp.html" title="hpx/runtime/agas/interface.hpp" alt="" coords="1903,288,2103,315"/>
+<area shape="rect" id="node31" href="$d3/d50/parcelset__fwd_8hpp.html" title="hpx/runtime/parcelset\l_fwd.hpp" alt="" coords="2625,377,2772,419"/>
+<area shape="rect" id="node32" href="$d4/d13/runtime_2resource_2detail_2partitioner_8hpp.html" title="hpx/runtime/resource\l/detail/partitioner.hpp" alt="" coords="2380,281,2524,322"/>
+<area shape="rect" id="node35" href="$d1/d25/thread__pool__base_8hpp.html" title="hpx/runtime/threads\l/detail/thread_pool\l_base.hpp" alt="" coords="1741,273,1878,329"/>
+</map>

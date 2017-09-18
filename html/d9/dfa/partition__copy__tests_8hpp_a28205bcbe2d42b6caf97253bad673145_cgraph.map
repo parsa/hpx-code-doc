@@ -1,0 +1,15 @@
+<map id="test_partition_copy_bad_alloc" name="test_partition_copy_bad_alloc">
+<area shape="rect" id="node2" href="$d9/dfa/partition__copy__tests_8hpp.html#ad40fcd2681c3356c8c4ad99ff0486b8e" title="test_partition_copy\l_bad_alloc" alt="" coords="185,202,317,243"/>
+<area shape="rect" id="node14" href="$d9/dfa/partition__copy__tests_8hpp.html#a1238f72e7aecd1435274b6c74fdee2a3" title="test_partition_copy\l_bad_alloc_async" alt="" coords="185,267,317,309"/>
+<area shape="rect" id="node3" href="$df/d04/namespacetest.html#abdbbc37e6fb67287495e853a554c493a" title="test::iota" alt="" coords="389,317,462,344"/>
+<area shape="rect" id="node4" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#a31e165df2b865cdd961f35ce938db41a" title="hpx::util::detail::\lrange_impl::begin" alt="" coords="533,253,657,294"/>
+<area shape="rect" id="node5" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#afb2ea48b0902f52ee4d8b764807b4316" title="hpx::util::detail::\lrange_impl::end" alt="" coords="538,318,653,359"/>
+<area shape="rect" id="node6" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#ab868bf4c4c7f961ad902bdb4174ef5b2" title="hpx::parallel::v1::\lpartition_copy" alt="" coords="365,99,485,141"/>
+<area shape="rect" id="node7" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="574,81,617,108"/>
+<area shape="rect" id="node13" href="$dc/d8b/cxx11__std__thread_8cpp.html#a31ff3168522b47b050989c5e07dd8408" title="pred" alt="" coords="572,132,619,159"/>
+<area shape="rect" id="node8" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="741,5,815,32"/>
+<area shape="rect" id="node9" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="705,56,851,83"/>
+<area shape="rect" id="node10" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="742,157,814,184"/>
+<area shape="rect" id="node11" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="953,107,1039,133"/>
+<area shape="rect" id="node12" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="899,158,1093,199"/>
+</map>

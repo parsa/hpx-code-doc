@@ -1,0 +1,2 @@
+<map id="hpx::util::detail::container_remapping::is_reservable&lt; T, typename always_void&lt; decltype(std::declval&lt; T &gt;().reserve(std::declval&lt; std::size_t &gt;()))&gt;::type &gt;" name="hpx::util::detail::container_remapping::is_reservable&lt; T, typename always_void&lt; decltype(std::declval&lt; T &gt;().reserve(std::declval&lt; std::size_t &gt;()))&gt;::type &gt;">
+</map>

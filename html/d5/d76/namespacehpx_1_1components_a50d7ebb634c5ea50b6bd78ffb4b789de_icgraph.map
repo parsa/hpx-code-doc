@@ -1,0 +1,5 @@
+<map id="hpx::components::intrusive_ptr_release" name="hpx::components::intrusive_ptr_release">
+<area shape="rect" id="node2" href="$d6/d83/structhpx_1_1components_1_1detail__adl__barrier_1_1manage__lifetime_3_01traits_1_1managed__objecca9f0eed1cc062a638aad05bb0548651.html#a7bb5cdde75ba7278d5dd728bc103a819" title="hpx::components::detail\l_adl_barrier::manage_lifetime\l\&lt; traits::managed_object_is\l_lifetime_controlled \&gt;::release" alt="" coords="231,5,425,76"/>
+<area shape="rect" id="node3" href="$dc/d4c/classhpx_1_1components_1_1managed__component.html#a2a81244e6fe331e329bcc007f858caa9" title="The destructor releases any wrapped instances. " alt="" coords="236,101,420,157"/>
+<area shape="rect" id="node4" href="$dc/d4c/classhpx_1_1components_1_1managed__component.html#abf8722336ced2e4710bf2d5f96dbdfbd" title="hpx::components::managed\l_component\&lt; test, Wrapper\l \&gt;::get_base_gid" alt="" coords="236,181,420,237"/>
+</map>

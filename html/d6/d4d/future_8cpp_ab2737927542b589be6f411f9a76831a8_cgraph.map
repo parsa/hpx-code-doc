@@ -1,0 +1,7 @@
+<map id="test_invoking_a_packaged_task_populates_future" name="test_invoking_a_packaged_task_populates_future">
+<area shape="rect" id="node2" href="$d6/d4d/future_8cpp.html#a3a56f2ae9d0bf0a1781b994fcbe14e1b" title="make_int" alt="" coords="279,5,353,32"/>
+<area shape="rect" id="node3" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a628625094362627e776fe22b68404111" title="hpx::lcos::detail::\lfuture_base\&lt; future\l\&lt; R \&gt;, R \&gt;::is_ready" alt="" coords="245,56,387,112"/>
+<area shape="rect" id="node4" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a21423c49daa024230c4e4e85d7e0aa0a" title="hpx::lcos::detail::\lfuture_base\&lt; future\l\&lt; R \&gt;, R \&gt;::has_value" alt="" coords="241,136,391,192"/>
+<area shape="rect" id="node5" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#aa95b01f70ad95706ae420ff1db2e5b99" title="hpx::lcos::detail::\lfuture_base\&lt; future\l\&lt; R \&gt;, R \&gt;::has_exception" alt="" coords="228,216,404,272"/>
+<area shape="rect" id="node6" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="245,296,387,323"/>
+</map>

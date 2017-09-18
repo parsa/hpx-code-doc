@@ -1,0 +1,7 @@
+<map id="hpx::components::runtime_support::get_instance_count" name="hpx::components::runtime_support::get_instance_count">
+<area shape="rect" id="node2" href="$d0/df8/namespacehpx_1_1performance__counters_1_1detail.html#a78d5a6580036217ab3eefe27cb1ca11a" title="hpx::performance_counters\l::detail::get_instance_count" alt="" coords="247,31,429,72"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="477,38,580,65"/>
+<area shape="rect" id="node4" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="628,13,811,39"/>
+<area shape="rect" id="node6" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="639,63,799,90"/>
+<area shape="rect" id="node5" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="859,5,1021,47"/>
+</map>

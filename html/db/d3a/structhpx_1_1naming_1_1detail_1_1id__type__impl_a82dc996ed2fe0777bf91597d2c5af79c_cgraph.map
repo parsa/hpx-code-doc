@@ -1,0 +1,12 @@
+<map id="hpx::naming::detail::id_type_impl::save" name="hpx::naming::detail::id_type_impl::save">
+<area shape="rect" id="node2" href="$d4/d01/structhpx_1_1serialization_1_1output__archive.html#a3dc59356d0f080a4283f347893cccf61" title="hpx::serialization\l::output_archive::is\l_preprocessing" alt="" coords="195,27,325,83"/>
+<area shape="rect" id="node3" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#aade6b5eb4f9361377b0a427cd8bffdca" title="hpx::naming::detail\l::move_gid" alt="" coords="194,107,326,149"/>
+<area shape="rect" id="node11" href="$d4/d01/structhpx_1_1serialization_1_1output__archive.html#aee54ce9f1e2a9e5b7ebe0ee05da9a7e3" title="hpx::serialization\l::output_archive::get\l_new_gid" alt="" coords="191,173,329,229"/>
+<area shape="rect" id="node4" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html#a25f1f7d247b4ec6e77e577400bbbc18f" title="hpx::naming::gid_type\l::get_mutex" alt="" coords="377,13,528,54"/>
+<area shape="rect" id="node6" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#ade50f3a7ea7970594a107017d9781f45" title="hpx::naming::detail\l::move_gid_locked" alt="" coords="387,107,519,149"/>
+<area shape="rect" id="node9" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="377,176,528,203"/>
+<area shape="rect" id="node5" href="$d4/dc9/namespacehpx_1_1naming.html#ad9103d927583be9fcc218e045ad2a6e6" title="hpx::naming::operator\&lt;\&lt;" alt="" coords="576,5,740,32"/>
+<area shape="rect" id="node7" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#afb823cf706d95f298c25af22fe39653b" title="hpx::naming::detail\l::has_credits" alt="" coords="592,57,724,98"/>
+<area shape="rect" id="node8" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#a422b12b60e5f7844b224dd68cf8cae8e" title="hpx::naming::detail\l::strip_credits_from_gid" alt="" coords="579,122,737,163"/>
+<area shape="rect" id="node10" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="598,187,718,229"/>
+</map>

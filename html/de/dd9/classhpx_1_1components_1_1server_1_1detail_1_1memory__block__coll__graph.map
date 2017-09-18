@@ -1,0 +1,6 @@
+<map id="hpx::components::server::detail::memory_block" name="hpx::components::server::detail::memory_block">
+<area shape="rect" id="node2" href="$d7/d1b/classhpx_1_1components_1_1server_1_1detail_1_1memory__block__header.html" title="The memory_block_header holds all information needed to describe a block of memory managed by a serve..." alt="" coords="327,57,491,113"/>
+<area shape="rect" id="node3" href="$d3/d65/classhpx_1_1components_1_1server_1_1memory__block.html" title="hpx::components::server\l::memory_block" alt="" coords="5,5,169,47"/>
+<area shape="rect" id="node4" href="$dc/d59/classhpx_1_1util_1_1atomic__count.html" title="hpx::util::atomic_count" alt="" coords="10,71,165,98"/>
+<area shape="rect" id="node5" href="$d7/dc7/structhpx_1_1actions_1_1manage__object__action__base.html" title="hpx::actions::manage\l_object_action_base" alt="" coords="14,123,161,164"/>
+</map>

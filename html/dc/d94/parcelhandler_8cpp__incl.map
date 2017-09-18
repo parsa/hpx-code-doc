@@ -1,0 +1,35 @@
+<map id="parcelhandler.cpp" name="parcelhandler.cpp">
+<area shape="rect" id="node2" href="$d8/dfd/config_8hpp.html" title="hpx/config.hpp" alt="" coords="2553,348,2660,375"/>
+<area shape="rect" id="node6" href="$de/ded/stringize_8hpp.html" title="hpx/util/detail/pp\l/stringize.hpp" alt="" coords="5211,423,5328,464"/>
+<area shape="rect" id="node7" href="$db/d3e/asio_8hpp.html" title="hpx/config/asio.hpp" alt="" coords="4121,266,4255,293"/>
+<area shape="rect" id="node8" href="$d7/d1e/exception_8hpp.html" title="hpx/exception.hpp" alt="" coords="1593,177,1721,203"/>
+<area shape="rect" id="node13" href="$d8/de0/counting__semaphore_8hpp.html" title="hpx/lcos/local/counting\l_semaphore.hpp" alt="" coords="1969,80,2124,121"/>
+<area shape="rect" id="node16" href="$d6/dd5/local_2promise_8hpp.html" title="hpx/lcos/local/promise.hpp" alt="" coords="4851,177,5029,203"/>
+<area shape="rect" id="node18" href="$df/d2c/counter__creators_8hpp.html" title="hpx/performance_counters\l/counter_creators.hpp" alt="" coords="879,80,1054,121"/>
+<area shape="rect" id="node19" href="$dc/da2/counters_8hpp.html" title="hpx/performance_counters\l/counters.hpp" alt="" coords="1746,169,1921,211"/>
+<area shape="rect" id="node21" href="$d1/dfc/manage__counter__type_8hpp.html" title="hpx/performance_counters\l/manage_counter_type.hpp" alt="" coords="1404,80,1583,121"/>
+<area shape="rect" id="node22" href="$d3/d82/continuation_8hpp.html" title="hpx/runtime/actions\l/continuation.hpp" alt="" coords="4901,80,5037,121"/>
+<area shape="rect" id="node23" href="$d0/da9/logging_8hpp.html" title="hpx/util/logging.hpp" alt="" coords="3293,177,3427,203"/>
+<area shape="rect" id="node24" href="$de/d38/runtime_2applier_2applier_8hpp.html" title="hpx/runtime/applier\l/applier.hpp" alt="" coords="3451,169,3583,211"/>
+<area shape="rect" id="node25" href="$d2/d54/assert_8hpp.html" title="hpx/util/assert.hpp" alt="" coords="4501,266,4630,293"/>
+<area shape="rect" id="node26" href="$d5/d5b/config__entry_8hpp.html" title="hpx/runtime/config\l_entry.hpp" alt="" coords="2047,169,2175,211"/>
+<area shape="rect" id="node27" href="$dc/d45/message__handler__fwd_8hpp.html" title="hpx/runtime/message\l_handler_fwd.hpp" alt="" coords="251,169,397,211"/>
+<area shape="rect" id="node28" href="$d5/d6b/resolver__client_8hpp.html" title="hpx/runtime/naming\l/resolver_client.hpp" alt="" coords="5163,80,5299,121"/>
+<area shape="rect" id="node29" href="$da/d9b/parcelhandler_8hpp.html" title="hpx/runtime/parcelset\l/parcelhandler.hpp" alt="" coords="3111,80,3257,121"/>
+<area shape="rect" id="node30" href="$d3/df8/util_2bind_8hpp.html" title="hpx/util/bind.hpp" alt="" coords="4507,177,4624,203"/>
+<area shape="rect" id="node31" href="$d0/d5f/parcelport__factory__base_8hpp.html" title="hpx/plugins/parcelport\l_factory_base.hpp" alt="" coords="2351,169,2500,211"/>
+<area shape="rect" id="node34" href="$dc/d84/message__handler_8hpp.html" title="hpx/runtime/parcelset\l/policies/message_handler.hpp" alt="" coords="3750,259,3951,300"/>
+<area shape="rect" id="node36" href="$d1/daf/thread__helpers_8hpp.html" title="hpx/runtime/threads\l/thread_helpers.hpp" alt="" coords="574,169,711,211"/>
+<area shape="rect" id="node37" href="$d4/d5d/runtime_2threads_2threadmanager_8hpp.html" title="hpx/runtime/threads\l/threadmanager.hpp" alt="" coords="2535,80,2673,121"/>
+<area shape="rect" id="node38" href="$da/d3b/state_8hpp.html" title="hpx/state.hpp" alt="" coords="1316,177,1417,203"/>
+<area shape="rect" id="node39" href="$d8/d3f/io__service__pool_8hpp.html" title="hpx/util/io_service\l_pool.hpp" alt="" coords="3659,169,3784,211"/>
+<area shape="rect" id="node40" href="$dd/d43/apex_8hpp.html" title="hpx/util/apex.hpp" alt="" coords="3975,266,4097,293"/>
+<area shape="rect" id="node41" href="$d0/d3b/deferred__call_8hpp.html" title="hpx/util/deferred_call.hpp" alt="" coords="4062,177,4229,203"/>
+<area shape="rect" id="node42" href="$de/df9/itt__notify_8hpp.html" title="hpx/util/itt_notify.hpp" alt="" coords="735,177,878,203"/>
+<area shape="rect" id="node43" href="$d6/dbd/runtime__configuration_8hpp.html" title="hpx/util/runtime_configuration.hpp" alt="" coords="2657,177,2873,203"/>
+<area shape="rect" id="node44" href="$d2/d60/safe__lexical__cast_8hpp.html" title="hpx/util/safe_lexical\l_cast.hpp" alt="" coords="1156,169,1292,211"/>
+<area shape="rect" id="node45" href="$dc/dfe/unlock__guard_8hpp.html" title="hpx/util/unlock_guard.hpp" alt="" coords="5,266,176,293"/>
+<area shape="rect" id="node3" href="$df/d6a/attributes_8hpp.html" title="hpx/config/attributes.hpp" alt="" coords="2525,430,2689,457"/>
+<area shape="rect" id="node4" href="$d2/d97/compiler__specific_8hpp.html" title="hpx/config/compiler\l_specific.hpp" alt="" coords="2479,512,2614,553"/>
+<area shape="rect" id="node5" href="$de/d38/branch__hints_8hpp.html" title="hpx/config/branch_hints.hpp" alt="" coords="2713,430,2897,457"/>
+</map>

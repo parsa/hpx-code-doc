@@ -1,0 +1,5 @@
+<map id="hpx_main" name="hpx_main">
+<area shape="rect" id="node2" href="$dc/d4a/block__allocator_8cpp.html#a908935e8aeaf0709673d51087672b70d" title="construction_count" alt="" coords="132,5,264,32"/>
+<area shape="rect" id="node3" href="$dc/d4a/block__allocator_8cpp.html#a03e811b6f563c77b1ad6b9b5de51853d" title="destruction_count" alt="" coords="135,56,261,83"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="153,107,243,133"/>
+</map>

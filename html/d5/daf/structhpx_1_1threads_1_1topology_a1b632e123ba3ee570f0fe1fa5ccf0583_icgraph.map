@@ -1,0 +1,12 @@
+<map id="hpx::threads::topology::get_number_of_core_pus" name="hpx::threads::topology::get_number_of_core_pus">
+<area shape="rect" id="node2" href="$dd/dd0/namespacehpx_1_1agas_1_1detail.html#a61528e142383c07747a7d3c8c4a718a4" title="hpx::agas::detail::\lget_number_of_pus_in_cores" alt="" coords="228,9,419,51"/>
+<area shape="rect" id="node5" href="$d2/d8e/namespacehpx_1_1util_1_1detail.html#a23a47f04c3a8a73b6c0a0898ce5bf65b" title="hpx::util::detail::\lget_number_of_default_cores" alt="" coords="228,75,419,116"/>
+<area shape="rect" id="node8" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#af7c74cfa12348b3443c6a40c2263ff7e" title="hpx::resource::detail\l::partitioner::partitioner" alt="" coords="247,140,399,181"/>
+<area shape="rect" id="node9" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a11483ef960b429a24d9856cba726bd04" title="hpx::resource::detail\l::partitioner::assign_cores" alt="" coords="237,205,409,247"/>
+<area shape="rect" id="node11" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a67c5a4444b8889b1de56aa7a17459734" title="hpx::threads::topology\l::~topology" alt="" coords="248,271,399,312"/>
+<area shape="rect" id="node3" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#afb80dcf683086f9ec1237c81129017d8" title="hpx::agas::addressing\l_service::initialize" alt="" coords="467,8,617,49"/>
+<area shape="rect" id="node4" href="$dc/d80/classhpx_1_1runtime__impl.html#a19b55584b2e6b6b4d72ae159fbef0f6e" title="hpx::runtime_impl::\lruntime_impl" alt="" coords="674,5,807,47"/>
+<area shape="rect" id="node6" href="$d2/d8e/namespacehpx_1_1util_1_1detail.html#a6ff8fe3dac1304fff17a3cf0da2a4f72" title="hpx::util::detail::\lhandle_num_cores" alt="" coords="477,77,607,119"/>
+<area shape="rect" id="node7" href="$d2/df0/structhpx_1_1util_1_1command__line__handling.html#a1aa8a009a61fe583bf8de6e144846eee" title="hpx::util::command\l_line_handling::handle\l_arguments" alt="" coords="665,71,816,127"/>
+<area shape="rect" id="node10" href="$d0/d7b/classhpx_1_1runtime.html#ab3c29b4713d734dea0e6a5799bfe24e5" title="hpx::runtime::assign\l_cores" alt="" coords="472,205,612,247"/>
+</map>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d0/d24/structadd__to__obj" kind="struct" language="C++" prot="public">
+    <compoundname>add_to_obj</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="d0/d24/structadd__to__obj_1af30816712ceb04a433966152cb0116a8" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int add_to_obj::value</definition>
+        <argsstring></argsstring>
+        <name>value</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/function/function_test.cpp" line="49" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/function/function_test.cpp" bodystart="49" bodyend="-1"/>
+        <referencedby refid="dd/d25/classhpx_1_1_unordered_1ac80fb13b2b91fb76bd146c064a7aef6e" compoundref="d0/df0/hpx_8py" startline="28" endline="34">hpx.Unordered.__len__</referencedby>
+        <referencedby refid="dd/d25/classhpx_1_1_unordered_1a1fa64ba965ac856b404586d9280516a4" compoundref="d0/df0/hpx_8py" startline="35" endline="46">hpx.Unordered.__iter__</referencedby>
+        <referencedby refid="dd/d25/classhpx_1_1_unordered_1ad1bcdace937b1c6126e657e6ea055ccb" compoundref="d0/df0/hpx_8py" startline="47" endline="49">hpx.Unordered.empty</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d0/d24/structadd__to__obj_1a941d3cc6ec24804120cbf08fac2663be" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>add_to_obj::add_to_obj</definition>
+        <argsstring>(int v)</argsstring>
+        <name>add_to_obj</name>
+        <param>
+          <type>int</type>
+          <declname>v</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/function/function_test.cpp" line="45" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/function/function_test.cpp" bodystart="45" bodyend="45"/>
+      </memberdef>
+      <memberdef kind="function" id="d0/d24/structadd__to__obj_1a26e8c382982e4c3938766d65a0b4c6b5" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int add_to_obj::operator()</definition>
+        <argsstring>(int x) const</argsstring>
+        <name>operator()</name>
+        <param>
+          <type>int</type>
+          <declname>x</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/function/function_test.cpp" line="47" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/function/function_test.cpp" bodystart="47" bodyend="47"/>
+        <references refid="d8/da8/tuple_8cpp_1a6c5a06782a1bdeae9e209450ee9b69c8" compoundref="d8/da8/tuple_8cpp" startline="89">x</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/function/function_test.cpp" line="44" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/unit/util/function/function_test.cpp" bodystart="43" bodyend="50"/>
+    <listofallmembers>
+      <member refid="d0/d24/structadd__to__obj_1a941d3cc6ec24804120cbf08fac2663be" prot="public" virt="non-virtual"><scope>add_to_obj</scope><name>add_to_obj</name></member>
+      <member refid="d0/d24/structadd__to__obj_1a26e8c382982e4c3938766d65a0b4c6b5" prot="public" virt="non-virtual"><scope>add_to_obj</scope><name>operator()</name></member>
+      <member refid="d0/d24/structadd__to__obj_1af30816712ceb04a433966152cb0116a8" prot="public" virt="non-virtual"><scope>add_to_obj</scope><name>value</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

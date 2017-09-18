@@ -1,0 +1,11 @@
+<map id="hpx::threads::policies::scheduler_base::background_callback" name="hpx::threads::policies::scheduler_base::background_callback">
+<area shape="rect" id="node2" href="$d4/d41/namespacehpx_1_1parcelset.html#a1c37a1125414de7ed0fdb0dbef922ae0" title="hpx::parcelset::do\l_background_work" alt="" coords="259,100,390,141"/>
+<area shape="rect" id="node7" href="$dc/d54/namespacehpx_1_1agas.html#afad9c8faca41f9a5ec2c50b98ad1e05f" title="hpx::agas::garbage\l_collect_non_blocking" alt="" coords="249,195,400,236"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="703,177,822,203"/>
+<area shape="rect" id="node4" href="$d0/d7b/classhpx_1_1runtime.html#aa3997c2fc929d3bb84bcb100b4b66e8d" title="hpx::runtime::get_parcel\l_handler" alt="" coords="461,5,624,47"/>
+<area shape="rect" id="node5" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a4d1c13251cdae6b6e7d06f5a7ff48d5b" title="do background work in the parcel layer " alt="" coords="448,71,637,112"/>
+<area shape="rect" id="node6" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#afb2ea48b0902f52ee4d8b764807b4316" title="hpx::util::detail::\lrange_impl::end" alt="" coords="705,71,820,112"/>
+<area shape="rect" id="node8" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="465,268,620,309"/>
+<area shape="rect" id="node10" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a031124dcd3086059ceff3abde50f0b97" title="hpx::agas::addressing\l_service::garbage_collect\l_non_blocking" alt="" coords="459,187,627,243"/>
+<area shape="rect" id="node9" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="685,268,840,309"/>
+</map>

@@ -1,0 +1,2 @@
+<map id="hpx::traits::is_range&lt; T, typename std::enable_if&lt; std::is_same&lt; typename util::detail::iterator&lt; T &gt;::type, typename util::detail::sentinel&lt; T &gt;::type &gt;::value &gt;::type &gt;" name="hpx::traits::is_range&lt; T, typename std::enable_if&lt; std::is_same&lt; typename util::detail::iterator&lt; T &gt;::type, typename util::detail::sentinel&lt; T &gt;::type &gt;::value &gt;::type &gt;">
+</map>

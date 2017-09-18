@@ -1,0 +1,11 @@
+<map id="hpx::performance_counters::performance_counter::get_value" name="hpx::performance_counters::performance_counter::get_value">
+<area shape="rect" id="node2" href="$d1/d66/all__counters_8cpp.html#a17dd2a4fa0112d73e3edb75c812eb31d" title="test_all_locality_thread\l_counters" alt="" coords="237,71,392,112"/>
+<area shape="rect" id="node8" href="$d6/d82/new__binpacking_8cpp.html#a3b354b82749679b66573b711f01ea60b" title="test_binpacking_multiple" alt="" coords="232,137,397,163"/>
+<area shape="rect" id="node10" href="$d6/d82/new__binpacking_8cpp.html#a06994ebf8ae4e664bb3d84acfc8e2e9a" title="test_binpacking_single" alt="" coords="237,187,392,214"/>
+<area shape="rect" id="node3" href="$d1/d66/all__counters_8cpp.html#aa2f25281ad7ef8c1905b5787adb4f409" title="test_all_locality_pool\l_thread_counters" alt="" coords="461,5,604,47"/>
+<area shape="rect" id="node6" href="$d1/d66/all__counters_8cpp.html#a7cae972fbb71e0e6fd1fb7035a35ec70" title="test_all_locality_pool\l_thread_no_total_counters" alt="" coords="445,71,620,112"/>
+<area shape="rect" id="node7" href="$d1/d66/all__counters_8cpp.html#a662f0ae86e6db77be34692641335de96" title="test_all_locality_counters" alt="" coords="448,137,617,163"/>
+<area shape="rect" id="node4" href="$d1/d66/all__counters_8cpp.html#a34bf97a9c78dd60c22389da383f346fd" title="test_all_counters_locality" alt="" coords="668,78,837,105"/>
+<area shape="rect" id="node5" href="$d1/d66/all__counters_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="885,78,936,105"/>
+<area shape="rect" id="node9" href="$d6/d82/new__binpacking_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="507,187,558,214"/>
+</map>

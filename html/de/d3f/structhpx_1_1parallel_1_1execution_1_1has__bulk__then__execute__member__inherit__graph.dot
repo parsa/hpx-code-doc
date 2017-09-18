@@ -1,0 +1,12 @@
+digraph "hpx::parallel::execution::has_bulk_then_execute_member&lt; T, Enable &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node0 [label="hpx::parallel::execution\l::has_bulk_then_execute\l_member\< T, Enable \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="detail::has_bulk_then\l_execute\< std::decay\l\< T \>::type \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node0 -> Node2 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< T \>" ,fontname="Helvetica"];
+  Node2 [label="hpx::parallel::execution\l::has_bulk_then_execute\l_member\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/dcb/structhpx_1_1parallel_1_1execution_1_1has__bulk__then__execute__member.html"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hpx::traits::has_bulk\l_then_execute_member\l\< T, Enable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d9c/structhpx_1_1traits_1_1has__bulk__then__execute__member.html"];
+}

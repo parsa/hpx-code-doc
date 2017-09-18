@@ -1,0 +1,24 @@
+<map id="stepper_server::heat_part" name="stepper_server::heat_part">
+<area shape="rect" id="node2" href="$d3/d98/structpartition.html#abcd76329a2cbe6b6123049829b01f995" title="partition::get_data" alt="" coords="239,48,365,75"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="486,23,573,49"/>
+<area shape="rect" id="node10" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#a04d77a61f72ce77d4e20fc32c956d7fa" title="hpx::lcos::detail::\lfuture_base\&lt; shared\l_future\&lt; R \&gt;, R \&gt;::then" alt="" coords="224,99,380,155"/>
+<area shape="rect" id="node11" href="$df/dad/namespacehpx_1_1util.html#a7529d9ac687684c33403cdd1f9cef8e4" title="hpx::util::unwrapping" alt="" coords="231,179,373,205"/>
+<area shape="rect" id="node12" href="$da/d97/structpartition__data.html#a4fba3ef8b0d3058a6d6b37718202b9ab" title="partition_data::size" alt="" coords="236,229,368,256"/>
+<area shape="rect" id="node13" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#a0a6696d8c17a32b8ebfaa496b9ab3332" title="hpx::parallel::v1::\ldetail::next" alt="" coords="242,281,362,322"/>
+<area shape="rect" id="node15" href="$d8/d83/namespacehpx.html#af190603b22ee0808033d551c432b182e" title="hpx::dataflow" alt="" coords="480,339,579,365"/>
+<area shape="rect" id="node16" href="$d3/d1e/quicksort_8cpp.html#a036bce8f1d8715bef11fc9c9fe2854da" title="partition" alt="" coords="268,397,336,424"/>
+<area shape="rect" id="node21" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a0cdfe4b8fed578eb1ce34222c0f07b03" title="hpx::components::client\l_base::get_id" alt="" coords="221,449,383,490"/>
+<area shape="rect" id="node22" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="227,515,377,541"/>
+<area shape="rect" id="node9" href="$d8/d3c/simple__future__continuation_8cpp.html#a64b28a4bbb16e7f78fc14c60466ddd8d" title="get_id" alt="" coords="501,73,558,100"/>
+<area shape="rect" id="node4" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="698,73,741,100"/>
+<area shape="rect" id="node5" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="856,124,931,151"/>
+<area shape="rect" id="node6" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="821,73,966,100"/>
+<area shape="rect" id="node7" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="857,23,929,49"/>
+<area shape="rect" id="node8" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="1024,15,1219,57"/>
+<area shape="rect" id="node14" href="$db/dfa/structhpx_1_1parallel_1_1v1_1_1detail_1_1calculate__distance.html#a950a6627830a7d019ac0e734b0a447bf" title="hpx::parallel::v1::\ldetail::calculate_distance::call" alt="" coords="431,273,628,314"/>
+<area shape="rect" id="node17" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="510,456,549,483"/>
+<area shape="rect" id="node20" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#a31e165df2b865cdd961f35ce938db41a" title="hpx::util::detail::\lrange_impl::begin" alt="" coords="467,390,591,431"/>
+<area shape="rect" id="node18" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="676,456,763,483"/>
+<area shape="rect" id="node19" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="811,449,976,490"/>
+<area shape="rect" id="node23" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="469,507,589,549"/>
+</map>

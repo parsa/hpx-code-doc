@@ -1,0 +1,8 @@
+<map id="hpx::performance_counters::discover_counters" name="hpx::performance_counters::discover_counters">
+<area shape="rect" id="node2" href="$db/d1c/structhpx_1_1performance__counters_1_1performance__counter.html#af829d449c8b44bb72fc82cfb1957f837" title="hpx::performance_counters\l::performance_counter::\lget_value" alt="" coords="232,5,411,61"/>
+<area shape="rect" id="node3" href="$df/d23/put__parcels_8cpp.html#af80bde13e0799a8836ea0c3ca81034a6" title="print_counters" alt="" coords="269,85,373,112"/>
+<area shape="rect" id="node5" href="$df/d62/put__parcels__with__compression_8cpp.html#a08198bac17e41571a7d9cb6b0215dcad" title="verify_counters" alt="" coords="267,136,375,163"/>
+<area shape="rect" id="node7" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#a39e66fcf0626e1a403c69c4758b750a6" title="hpx::performance_counters\l::registry::registry" alt="" coords="232,187,411,229"/>
+<area shape="rect" id="node4" href="$df/d23/put__parcels_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="459,85,537,112"/>
+<area shape="rect" id="node6" href="$df/d62/put__parcels__with__compression_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="459,136,537,163"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="hpx::naming::detail::strip_lock_from_gid" name="hpx::naming::detail::strip_lock_from_gid">
+<area shape="rect" id="node2" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html#aac0d2e1302980e239962e61da6c8f123" title="hpx::naming::gid_type\l::set_msb" alt="" coords="196,5,347,47"/>
+<area shape="rect" id="node3" href="$d5/d18/namespacehpx_1_1naming_1_1detail.html#ad24a9f53ae8ff681f74c9336a6354884" title="hpx::naming::detail\l::strip_lock_from_gid" alt="" coords="200,71,343,112"/>
+<area shape="rect" id="node4" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html#a31d0fb49a563fb184fecaabdced4dcd9" title="hpx::naming::gid_type\l::get_msb" alt="" coords="196,136,347,177"/>
+</map>

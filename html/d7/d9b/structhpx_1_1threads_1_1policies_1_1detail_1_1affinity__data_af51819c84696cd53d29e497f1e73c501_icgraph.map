@@ -1,0 +1,7 @@
+<map id="hpx::threads::policies::detail::affinity_data::init_cached_pu_nums" name="hpx::threads::policies::detail::affinity_data::init_cached_pu_nums">
+<area shape="rect" id="node2" href="$d7/d9b/structhpx_1_1threads_1_1policies_1_1detail_1_1affinity__data.html#af1b5d1af92b58e065b42048f9114f107" title="hpx::threads::policies\l::detail::affinity_data::init" alt="" coords="214,5,377,47"/>
+<area shape="rect" id="node4" href="$d7/d9b/structhpx_1_1threads_1_1policies_1_1detail_1_1affinity__data.html#aca494dde21c150fb5e6733f40d1e05a9" title="hpx::threads::policies\l::detail::affinity_data\l::add_punit" alt="" coords="222,71,369,127"/>
+<area shape="rect" id="node5" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a11483ef960b429a24d9856cba726bd04" title="hpx::resource::detail\l::partitioner::assign_cores" alt="" coords="209,152,381,193"/>
+<area shape="rect" id="node3" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a8319dd5018945e7d493f7a6d88a6ca02" title="hpx::resource::detail\l::partitioner::parse" alt="" coords="429,5,569,47"/>
+<area shape="rect" id="node6" href="$d0/d7b/classhpx_1_1runtime.html#ab3c29b4713d734dea0e6a5799bfe24e5" title="hpx::runtime::assign\l_cores" alt="" coords="429,152,569,193"/>
+</map>

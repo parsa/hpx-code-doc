@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d6/da4/structhpx_1_1traits_1_1detail_1_1executor__future.html" title="hpx::traits::detail\l::executor_future\&lt; std\l::decay\&lt; Executor \&gt;::type,\l T, hpx::util::detail::pack\l\&lt; std::decay\&lt; Ts \&gt;::type... \&gt; \&gt;" alt="" coords="5,5,208,91"/>
+<area shape="rect" id="node2" href="$d8/d94/structhpx_1_1traits_1_1executor__future.html" title="hpx::traits::executor\l_future\&lt; Executor, T, Ts \&gt;" alt="" coords="256,27,431,69"/>
+</map>

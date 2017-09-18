@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d1/d18/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item_3_01_base_plugin_00_01_base_00_24cad398dbed88075c1d71144bfde513" kind="struct" language="C++" prot="public" abstract="yes">
+    <compoundname>hpx::util::plugin::detail::abstract_factory_item&lt; BasePlugin, Base, hpx::util::detail::pack&lt; Parameters... &gt; &gt;</compoundname>
+    <basecompoundref refid="d0/d05/struct_base" prot="public" virt="non-virtual">Base&lt; T &gt;</basecompoundref>
+    <includes refid="d5/da5/abstract__factory_8hpp" local="no">abstract_factory.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>typename BasePlugin</type>
+      </param>
+      <param>
+        <type>typename <ref refid="d0/d05/struct_base" kindref="compound">Base</ref></type>
+      </param>
+      <param>
+        <type>typename...</type>
+        <declname>Parameters</declname>
+        <defname>Parameters</defname>
+      </param>
+    </templateparamlist>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d1/d18/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item_3_01_base_plugin_00_01_base_00_24cad398dbed88075c1d71144bfde513_1a2f2ae947dac9bd9d600f2f311dce2a49" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type>BasePlugin *</type>
+        <definition>virtual BasePlugin* hpx::util::plugin::detail::abstract_factory_item&lt; BasePlugin, Base, hpx::util::detail::pack&lt; Parameters... &gt; &gt;::create</definition>
+        <argsstring>(dll_handle dll, Parameters...parameters)=0</argsstring>
+        <name>create</name>
+        <param>
+          <type><ref refid="d6/dc8/namespacehpx_1_1util_1_1plugin_1ad655ead0fb4c0fa248b66af466b551a6" kindref="member">dll_handle</ref></type>
+          <declname>dll</declname>
+        </param>
+        <param>
+          <type>Parameters...</type>
+          <declname>parameters</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/util/plugin/abstract_factory.hpp" line="35" column="1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><ref refid="d7/da0/struct_a" kindref="compound">A</ref> template class, which is given the base type of plugin and a set of constructor parameter types and defines the appropriate virtual &apos;create&apos; function. </para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="88">
+        <label>Base&lt; T &gt;</label>
+        <link refid="d0/d05/struct_base"/>
+      </node>
+      <node id="87">
+        <label>hpx::util::plugin::detail::abstract_factory_item&lt; BasePlugin, Base, hpx::util::detail::pack&lt; Parameters... &gt; &gt;</label>
+        <link refid="d1/d18/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item_3_01_base_plugin_00_01_base_00_24cad398dbed88075c1d71144bfde513"/>
+        <childnode refid="88" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="90">
+        <label>Base&lt; T &gt;</label>
+        <link refid="d0/d05/struct_base"/>
+        <childnode refid="91" relation="usage">
+          <edgelabel>prefix_</edgelabel>
+        </childnode>
+      </node>
+      <node id="91">
+        <label>string</label>
+      </node>
+      <node id="89">
+        <label>hpx::util::plugin::detail::abstract_factory_item&lt; BasePlugin, Base, hpx::util::detail::pack&lt; Parameters... &gt; &gt;</label>
+        <link refid="d1/d18/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item_3_01_base_plugin_00_01_base_00_24cad398dbed88075c1d71144bfde513"/>
+        <childnode refid="90" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/util/plugin/abstract_factory.hpp" line="33" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/util/plugin/abstract_factory.hpp" bodystart="30" bodyend="36"/>
+    <listofallmembers>
+      <member refid="d0/d05/struct_base_1a3d21f53a67fbdd369559251e28b62901" prot="public" virt="non-virtual"><scope>hpx::util::plugin::detail::abstract_factory_item&lt; BasePlugin, Base, hpx::util::detail::pack&lt; Parameters... &gt; &gt;</scope><name>Base</name></member>
+      <member refid="d0/d05/struct_base_1a2a1a5f2d7d189b2d8d1b240cc73b4434" prot="public" virt="non-virtual"><scope>hpx::util::plugin::detail::abstract_factory_item&lt; BasePlugin, Base, hpx::util::detail::pack&lt; Parameters... &gt; &gt;</scope><name>Base</name></member>
+      <member refid="d1/d18/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item_3_01_base_plugin_00_01_base_00_24cad398dbed88075c1d71144bfde513_1a2f2ae947dac9bd9d600f2f311dce2a49" prot="public" virt="pure-virtual"><scope>hpx::util::plugin::detail::abstract_factory_item&lt; BasePlugin, Base, hpx::util::detail::pack&lt; Parameters... &gt; &gt;</scope><name>create</name></member>
+      <member refid="d0/d05/struct_base_1aebf4cfbddb6a09ebd315ab59c41064fb" prot="public" virt="non-virtual"><scope>hpx::util::plugin::detail::abstract_factory_item&lt; BasePlugin, Base, hpx::util::detail::pack&lt; Parameters... &gt; &gt;</scope><name>prefix_</name></member>
+      <member refid="d0/d05/struct_base_1ae5c3ea188abf3ac5689cbf677375492b" prot="public" virt="pure-virtual"><scope>hpx::util::plugin::detail::abstract_factory_item&lt; BasePlugin, Base, hpx::util::detail::pack&lt; Parameters... &gt; &gt;</scope><name>print</name></member>
+      <member refid="d0/d05/struct_base_1ae8ee634a22b7edd1202f17b3fd11e88e" prot="public" virt="pure-virtual"><scope>hpx::util::plugin::detail::abstract_factory_item&lt; BasePlugin, Base, hpx::util::detail::pack&lt; Parameters... &gt; &gt;</scope><name>size</name></member>
+      <member refid="d0/d05/struct_base_1ae9db5ca886f0208f2db9f2ab8d169130" prot="public" virt="virtual"><scope>hpx::util::plugin::detail::abstract_factory_item&lt; BasePlugin, Base, hpx::util::detail::pack&lt; Parameters... &gt; &gt;</scope><name>~Base</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

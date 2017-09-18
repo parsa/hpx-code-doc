@@ -1,0 +1,7 @@
+<map id="verify_resource_allocation" name="verify_resource_allocation">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#af4f0809fabfd08200b0b1891e351ea6c" title="hpx::threads::get_resource\l_allocation" alt="" coords="224,43,401,84"/>
+<area shape="rect" id="node3" href="$d2/dba/classhpx_1_1threads_1_1resource__manager.html#ad5b108024da5bf2e7b063913ead4e1d8" title="hpx::threads::resource\l_manager::get" alt="" coords="455,5,607,47"/>
+<area shape="rect" id="node5" href="$d2/dba/classhpx_1_1threads_1_1resource__manager.html#af5a144689c43f6a5f14c255304c83408" title="hpx::threads::resource\l_manager::get_resource\l_allocation" alt="" coords="449,71,612,127"/>
+<area shape="rect" id="node4" href="$d2/db7/structhpx_1_1util_1_1reinitializable__static.html#a2c616d22a193ed9d3b0b58d4203b3809" title="hpx::util::reinitializable\l_static::get" alt="" coords="660,5,811,47"/>
+<area shape="rect" id="node6" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#afb2ea48b0902f52ee4d8b764807b4316" title="hpx::util::detail::\lrange_impl::end" alt="" coords="678,79,793,120"/>
+</map>

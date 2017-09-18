@@ -1,0 +1,5 @@
+<map id="hpx::util::tagged_tuple&lt; Ts &gt;" name="hpx::util::tagged_tuple&lt; Ts &gt;">
+<area shape="rect" id="node2" href="$dd/d48/structhpx_1_1util_1_1tagged.html" title="hpx::util::tagged\&lt;\l tuple\&lt; detail::tag\l_elem\&lt; Ts \&gt;::type...\l \&gt;, detail::tag_spec\&lt;\l Ts \&gt;::type... \&gt;" alt="" coords="492,57,635,143"/>
+<area shape="rect" id="node3" href="$dc/d52/classhpx_1_1util_1_1tuple.html" title="hpx::util::tuple\&lt; detail\l::tag_elem\&lt; Ts \&gt;::type... \&gt;" alt="" coords="264,27,443,69"/>
+<area shape="rect" id="node4" href="$dc/d4e/structhpx_1_1util_1_1detail_1_1tuple__impl.html" title="hpx::util::detail::\ltuple_impl\&lt; typename\l hpx::util::detail::make\l_index_pack\&lt; sizeof...(Ts)\l\&gt;::type, Ts... \&gt;" alt="" coords="5,5,180,91"/>
+</map>

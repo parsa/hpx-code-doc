@@ -1,0 +1,5 @@
+<map id="get_num_numa_pus" name="get_num_numa_pus">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#aa8752a235478d2ad7b5ac467b63ab527" title="hpx::threads::hardware\l_concurrency" alt="" coords="203,5,357,47"/>
+<area shape="rect" id="node4" href="$df/dad/namespacehpx_1_1util.html#aca0372e368b829ebac21ebfb2f50a82b" title="hpx::util::safe_lexical_cast" alt="" coords="192,71,368,98"/>
+<area shape="rect" id="node3" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a2967c633948a3bf17a3b5405ef5a8318" title="hpx::util::static_::get" alt="" coords="416,13,557,39"/>
+</map>

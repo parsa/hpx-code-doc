@@ -1,0 +1,7 @@
+<map id="hpx::parcelset::policies::libfabric::sender::cleanup" name="hpx::parcelset::policies::libfabric::sender::cleanup">
+<area shape="rect" id="node2" href="$dc/d51/structhpx_1_1parcelset_1_1policies_1_1libfabric_1_1sender.html#ae1af542af2c0b67dc4d03687eaaf6e1e" title="hpx::parcelset::policies\l::libfabric::sender::handle\l_send_completion" alt="" coords="235,13,401,69"/>
+<area shape="rect" id="node4" href="$dc/d51/structhpx_1_1parcelset_1_1policies_1_1libfabric_1_1sender.html#a6bb118c55aa4f3d85d10ef778ed4d102" title="hpx::parcelset::policies\l::libfabric::sender::verify" alt="" coords="470,86,629,127"/>
+<area shape="rect" id="node5" href="$dc/d51/structhpx_1_1parcelset_1_1policies_1_1libfabric_1_1sender.html#aa5a794880fce3044ac57b3d1624b2ff0" title="hpx::parcelset::policies\l::libfabric::sender::handle\l_message_completion_ack" alt="" coords="228,144,408,200"/>
+<area shape="rect" id="node3" href="$db/d9f/classhpx_1_1parcelset_1_1policies_1_1libfabric_1_1libfabric__controller.html#afaa02e122be1ea6800a245af7b3a9cf8" title="hpx::parcelset::policies\l::libfabric::libfabric\l_controller::poll_send_queue" alt="" coords="456,5,643,61"/>
+<area shape="rect" id="node6" href="$d9/df5/structhpx_1_1parcelset_1_1policies_1_1libfabric_1_1receiver.html#ae18eac5b1593bc79ba31cf828177d611" title="hpx::parcelset::policies\l::libfabric::receiver::\lhandle_recv" alt="" coords="471,152,627,208"/>
+</map>

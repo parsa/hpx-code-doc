@@ -1,0 +1,42 @@
+digraph "hpx::traits::is_future&lt; Future &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::traits::is_future\l\< Future \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::traits::detail\l::is_future_customization\l_point\< Future \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d0b/structhpx_1_1traits_1_1detail_1_1is__future__customization__point.html"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="false_type",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Future \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::traits::detail\l::is_future_customization\l_point\< Future, Enable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d0b/structhpx_1_1traits_1_1detail_1_1is__future__customization__point.html"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::lcos::detail::\lis_future_or_shared\l_state\< Future \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/def/structhpx_1_1lcos_1_1detail_1_1is__future__or__shared__state.html"];
+  Node4 -> Node5 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< R \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::lcos::detail::\lis_future_or_shared\l_state\< R \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/def/structhpx_1_1lcos_1_1detail_1_1is__future__or__shared__state.html"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hpx::lcos::detail::\lis_future_or_shared\l_state\< boost::reference\l_wrapper\< R \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/da4/structhpx_1_1lcos_1_1detail_1_1is__future__or__shared__state_3_01boost_1_1reference__wrapper_3_01_r_01_4_01_4.html"];
+  Node5 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hpx::lcos::detail::\lis_future_or_shared\l_state\< std::reference\l_wrapper\< R \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d95/structhpx_1_1lcos_1_1detail_1_1is__future__or__shared__state_3_01std_1_1reference__wrapper_3_01_r_01_4_01_4.html"];
+  Node4 -> Node8 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< T \>" ,fontname="Helvetica"];
+  Node8 [label="hpx::lcos::detail::\lis_future_or_shared\l_state\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/def/structhpx_1_1lcos_1_1detail_1_1is__future__or__shared__state.html"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="hpx::lcos::detail::\lis_future_or_shared\l_state_range\< std::array\l\< T, N \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d4b/structhpx_1_1lcos_1_1detail_1_1is__future__or__shared__state__range_3_01std_1_1array_3_01_t_00_01_n_01_4_01_4.html"];
+  Node8 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="hpx::lcos::detail::\lis_future_or_shared\l_state_range\< std::vector\l\< T \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d53/structhpx_1_1lcos_1_1detail_1_1is__future__or__shared__state__range_3_01std_1_1vector_3_01_t_01_4_01_4.html"];
+  Node0 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="hpx::traits::is_ref\l_wrapped_future\< boost\l::reference_wrapper\< Future \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d29/structhpx_1_1traits_1_1is__ref__wrapped__future_3_01boost_1_1reference__wrapper_3_01_future_01_4_01_4.html"];
+  Node0 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="hpx::traits::is_ref\l_wrapped_future\< std\l::reference_wrapper\<\l Future \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/dcd/structhpx_1_1traits_1_1is__ref__wrapped__future_3_01std_1_1reference__wrapper_3_01_future_01_4_01_4.html"];
+  Node0 -> Node13 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< range_traits\< R \>\l::value_type \>" ,fontname="Helvetica"];
+  Node13 [label="hpx::traits::is_future\l\< range_traits\< R \>::value\l_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dab/structhpx_1_1traits_1_1is__future.html"];
+  Node13 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="hpx::traits::is_future\l_range\< R, typename std\l::enable_if\< is_range\< R\l \>::value \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dfd/structhpx_1_1traits_1_1is__future__range_3_01_r_00_01typename_01std_1_1enable__if_3_01is__range_27e648db6892c0a892b113becbff6e91.html"];
+  Node0 -> Node15 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< R \>" ,fontname="Helvetica"];
+  Node15 [label="hpx::traits::is_future\< R \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dab/structhpx_1_1traits_1_1is__future.html"];
+  Node15 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 -> Node16 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< T \>" ,fontname="Helvetica"];
+  Node16 [label="hpx::traits::is_future\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dab/structhpx_1_1traits_1_1is__future.html"];
+  Node16 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

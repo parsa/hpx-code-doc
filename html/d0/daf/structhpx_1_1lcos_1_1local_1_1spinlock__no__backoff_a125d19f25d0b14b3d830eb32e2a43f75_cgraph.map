@@ -1,0 +1,4 @@
+<map id="hpx::lcos::local::spinlock_no_backoff::lock" name="hpx::lcos::local::spinlock_no_backoff::lock">
+<area shape="rect" id="node2" href="$d0/daf/structhpx_1_1lcos_1_1local_1_1spinlock__no__backoff.html#a114cbd1ec8061cf9183340a36acee965" title="hpx::lcos::local::spinlock\l_no_backoff::try_lock" alt="" coords="220,5,387,47"/>
+<area shape="rect" id="node3" href="$df/dad/namespacehpx_1_1util.html#af482b20c594fc019f28cb952c993377c" title="hpx::util::register_lock" alt="" coords="435,42,585,69"/>
+</map>

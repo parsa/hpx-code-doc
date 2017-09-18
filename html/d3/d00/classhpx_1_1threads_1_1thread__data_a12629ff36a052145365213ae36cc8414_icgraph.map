@@ -1,0 +1,6 @@
+<map id="hpx::threads::thread_data::get_scheduler_base" name="hpx::threads::thread_data::get_scheduler_base">
+<area shape="rect" id="node2" href="$d8/d52/classhpx_1_1threads_1_1policies_1_1shared__priority__scheduler.html#a309284fa93f9949de2e70cf80fb3bd8e" title="Return the next thread to be executed, return false if none available. " alt="" coords="232,5,411,61"/>
+<area shape="rect" id="node3" href="$d8/d52/classhpx_1_1threads_1_1policies_1_1shared__priority__scheduler.html#a8c86e58282d8a21f00e0ae36c6ee9028" title="Schedule the passed thread. " alt="" coords="232,85,411,141"/>
+<area shape="rect" id="node4" href="$d8/d52/classhpx_1_1threads_1_1policies_1_1shared__priority__scheduler.html#aecc8782866da32af7e06ae612aba6963" title="Put task on the back of the queue. " alt="" coords="232,165,411,221"/>
+<area shape="rect" id="node5" href="$d8/d52/classhpx_1_1threads_1_1policies_1_1shared__priority__scheduler.html#aaa4cc84fd016d15ad95330c215e66bca" title="Destroy the passed thread &#45; as it has been terminated. " alt="" coords="232,245,411,301"/>
+</map>

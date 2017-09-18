@@ -1,0 +1,8 @@
+<map id="hpx::serialization::create_pointer_chunk" name="hpx::serialization::create_pointer_chunk">
+<area shape="rect" id="node2" href="$d4/d41/namespacehpx_1_1parcelset.html#a89e81819a2338ee28ead8fe78c4a940f" title="hpx::parcelset::decode\l_chunks" alt="" coords="215,39,369,80"/>
+<area shape="rect" id="node6" href="$da/dfe/structhpx_1_1parcelset_1_1policies_1_1libfabric_1_1header.html#a7fbad6c5991cf188217131da819e56ce" title="hpx::parcelset::policies\l::libfabric::header::header" alt="" coords="208,104,376,145"/>
+<area shape="rect" id="node7" href="$dc/ddf/structhpx_1_1serialization_1_1output__container.html#a00f7a8763b6b12f20098cef28086be27" title="hpx::serialization\l::output_container::\lsave_binary_chunk" alt="" coords="225,170,359,226"/>
+<area shape="rect" id="node3" href="$d4/d41/namespacehpx_1_1parcelset.html#ab5f27461c52dbbfeab29fe8a37986faa" title="hpx::parcelset::decode\l_message" alt="" coords="424,39,579,80"/>
+<area shape="rect" id="node4" href="$d4/d41/namespacehpx_1_1parcelset.html#a0199ca3fa04e8fa08c9e6b9eec41ebb5" title="hpx::parcelset::decode\l_parcel" alt="" coords="627,5,781,47"/>
+<area shape="rect" id="node5" href="$d4/d41/namespacehpx_1_1parcelset.html#aa7b4acdaa73e95824f4406d316551b51" title="hpx::parcelset::decode\l_parcels" alt="" coords="627,71,781,112"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="test_colocation" name="test_colocation">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="185,38,288,65"/>
+<area shape="rect" id="node6" href="$dd/d0d/get__colocation__id_8cpp.html#a99257600e2070fae9b3a950ca8caf810" title="HPX_PLAIN_ACTION" alt="" coords="164,89,309,115"/>
+<area shape="rect" id="node3" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="357,13,540,39"/>
+<area shape="rect" id="node5" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="369,63,529,90"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="588,5,751,47"/>
+</map>

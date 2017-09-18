@@ -1,0 +1,6 @@
+<map id="hpx::lcos::detail::dataflow_frame::await_next" name="hpx::lcos::detail::dataflow_frame::await_next">
+<area shape="rect" id="node2" href="$de/d59/namespacehpx_1_1traits_1_1detail.html#ad87b094b7d0f33956fcad9f91be03134" title="hpx::traits::detail\l::get_shared_state" alt="" coords="242,5,373,47"/>
+<area shape="rect" id="node3" href="$df/dad/namespacehpx_1_1util.html#acdded623c658a7a3436f7e76bc9d881c" title="hpx::util::deferred_call" alt="" coords="233,71,382,98"/>
+<area shape="rect" id="node4" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="232,122,383,149"/>
+<area shape="rect" id="node5" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="431,115,551,156"/>
+</map>

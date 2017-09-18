@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$de/d55/structhpx_1_1util_1_1detail_1_1tuple__first__argument.html" title="hpx::util::detail::\ltuple_first_argument\l\&lt; F::arguments_type \&gt;" alt="" coords="5,13,160,69"/>
+<area shape="rect" id="node2" href="$de/da9/structhpx_1_1util_1_1first__argument_3_01_f_00_01typename_01std_1_1enable__if_3_01hpx_1_1traits_323232a5dd1e6ecb057f70fe55c02aa4.html" title="hpx::util::first_argument\l\&lt; F, typename std::enable\l_if\&lt; hpx::traits::is_action\l\&lt; F \&gt;::value \&gt;::type \&gt;" alt="" coords="208,5,383,76"/>
+</map>

@@ -1,0 +1,20 @@
+digraph "hpx::util::detail::fused_result_of_impl&lt; F, Tuple, Is &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::detail::\lfused_result_of_impl\l\< F, Tuple, Is \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< F, Tuple &&, fused\l_index_pack\< Tuple \>\l::type \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::util::detail::\lfused_result_of_impl\l\< F, Tuple &&, fused\l_index_pack\< Tuple \>::\ltype \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d10/structhpx_1_1util_1_1detail_1_1fused__result__of__impl.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hpx::util::detail::\lfused_result_of\< F(Tuple)\>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d84/structhpx_1_1util_1_1detail_1_1fused__result__of_3_01_f_07_tuple_08_4.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hpx::util::detail::\linvoke_fused_result\l\< F, Tuple \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d81/structhpx_1_1util_1_1detail_1_1invoke__fused__result.html"];
+  Node3 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< F, Args \>" ,fontname="Helvetica"];
+  Node4 [label="hpx::util::detail::\linvoke_fused_result\l\< F, Args \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d81/structhpx_1_1util_1_1detail_1_1invoke__fused__result.html"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="hpx::lcos::detail::\ldataflow_return\< F,\l Args, typename std::\lenable_if\<!traits::is\l_action\< F \>::value \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d44/structhpx_1_1lcos_1_1detail_1_1dataflow__return_3_01_f_00_01_args_00_01typename_01std_1_1enable_a28495f7e1f441fb67f82e1866687f0c.html"];
+  Node0 -> Node6 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< F, Args &&, fused\l_index_pack\< Args \>\l::type \>" ,fontname="Helvetica"];
+  Node6 [label="hpx::util::detail::\lfused_result_of_impl\l\< F, Args &&, fused_index\l_pack\< Args \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d10/structhpx_1_1util_1_1detail_1_1fused__result__of__impl.html"];
+  Node6 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

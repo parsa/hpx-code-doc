@@ -1,0 +1,6 @@
+<map id="hpx::util::memory_chunk::allocate" name="hpx::util::memory_chunk::allocate">
+<area shape="rect" id="node2" href="$d3/dc2/structhpx_1_1util_1_1memory__chunk.html#ab428f103ea7ee9dfeb2dcf168376e5ee" title="hpx::util::memory_chunk\l::check_invariants_locked" alt="" coords="219,5,389,47"/>
+<area shape="rect" id="node3" href="$d3/dc2/structhpx_1_1util_1_1memory__chunk.html#a6338c0de074237ecfd189e1d4fa70689" title="hpx::util::memory_chunk\l::charge" alt="" coords="221,71,387,112"/>
+<area shape="rect" id="node4" href="$d3/dc2/structhpx_1_1util_1_1memory__chunk.html#a88b9cfbedb261ee979f7d30d3c2c8db5" title="hpx::util::memory_chunk\l::deleter" alt="" coords="437,71,603,112"/>
+<area shape="rect" id="node5" href="$d4/dcb/namespacehpx_1_1lcos_1_1local_1_1detail.html#a55a940f019734e9bb045dc123cd80e48" title="hpx::lcos::local::detail\l::free" alt="" coords="651,71,800,112"/>
+</map>

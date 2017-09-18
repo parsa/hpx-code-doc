@@ -1,0 +1,21 @@
+<map id="test_async_continue_cb_colocated" name="test_async_continue_cb_colocated">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#ad0b53edde1ab3de81f31904777d5beba" title="hpx::make_continuation" alt="" coords="197,101,357,127"/>
+<area shape="rect" id="node3" href="$dd/dce/async__continue__cb__colocated_8cpp.html#a52e3aad384eb40b3744f885060f82339" title="callback_called" alt="" coords="222,151,333,178"/>
+<area shape="rect" id="node4" href="$d8/d8b/broadcast_8cpp.html#a1751fbd41f2529b84514a9dbd767959a" title="f1" alt="" coords="258,202,297,229"/>
+<area shape="rect" id="node17" href="$d8/d83/namespacehpx.html#aadb6e057a671936031a9ab63b401fc84" title="hpx::async_continue_cb" alt="" coords="196,253,359,279"/>
+<area shape="rect" id="node20" href="$d4/d6c/namespacehpx_1_1lcos_1_1detail.html#a5cc01691118e1c613c59b994375dc4d0" title="hpx::lcos::detail::\lmake_continuation" alt="" coords="212,304,343,345"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#a158d7c54a657bb364c1704033010697b" title="Return the number of the locality this function is being called from. " alt="" coords="443,122,577,149"/>
+<area shape="rect" id="node15" href="$d8/d8b/broadcast_8cpp.html#a19685a0394ce6a99351f7a679f6eeefc" title="HPX_PLAIN_ACTION" alt="" coords="437,173,583,199"/>
+<area shape="rect" id="node16" href="$d7/d38/addressing__service_8cpp.html#a573d764d9cb34eec46a4bdffcf07875f" title="HPX_REGISTER_BROADCAST\l_ACTION_DECLARATION" alt="" coords="407,224,613,265"/>
+<area shape="rect" id="node6" href="$dc/d54/namespacehpx_1_1agas.html#a491cc2ddecdf0f1a9129900caa6a4d3e" title="hpx::agas::get_locality_id" alt="" coords="661,122,832,149"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="898,13,1039,39"/>
+<area shape="rect" id="node9" href="$d0/d7b/classhpx_1_1runtime.html#ab405f80e060dac95d624520f38b0524c" title="hpx::runtime::get_state" alt="" coords="891,63,1047,90"/>
+<area shape="rect" id="node10" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="891,115,1046,156"/>
+<area shape="rect" id="node13" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ab52c19a37c2a7a006c6c15f90ad0539c" title="hpx::agas::addressing\l_service::get_local_locality" alt="" coords="880,180,1057,221"/>
+<area shape="rect" id="node14" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="885,245,1052,287"/>
+<area shape="rect" id="node8" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="1105,5,1268,47"/>
+<area shape="rect" id="node11" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="1127,97,1246,123"/>
+<area shape="rect" id="node12" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="1109,148,1264,189"/>
+<area shape="rect" id="node18" href="$d7/d7f/async__cb__colocated_8cpp.html#ae8e7b15d60cbf27f78a81c0b74124fab" title="cb" alt="" coords="491,290,529,317"/>
+<area shape="rect" id="node19" href="$d7/d7f/async__cb__colocated_8cpp.html#a52e3aad384eb40b3744f885060f82339" title="callback_called" alt="" coords="691,290,802,317"/>
+</map>

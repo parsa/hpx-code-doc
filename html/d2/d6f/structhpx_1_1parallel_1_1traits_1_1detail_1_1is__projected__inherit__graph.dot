@@ -1,0 +1,21 @@
+digraph "hpx::parallel::traits::detail::is_projected&lt; F, Iter, Enable &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::parallel::traits\l::detail::is_projected\l\< F, Iter, Enable \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="false_type",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node0 -> Node2 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::util::decay\l\< F \>::type, hpx::traits\l::projected_iterator\< Iter\l \>::type \>" ,fontname="Helvetica"];
+  Node2 [label="hpx::parallel::traits\l::detail::is_projected\l\< hpx::util::decay\< F \>\l::type, hpx::traits::projected\l_iterator\< Iter \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d8a/structhpx_1_1parallel_1_1traits_1_1detail_1_1is__projected.html"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hpx::parallel::traits\l::is_projected\< F, Iter,\l Enable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/da4/structhpx_1_1parallel_1_1traits_1_1is__projected.html"];
+  Node0 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::util::decay\l\< Proj \>::type, hpx\l::traits::range_iterator\l\< Rng \>::type \>" ,fontname="Helvetica"];
+  Node4 [label="hpx::parallel::traits\l::detail::is_projected\l\< hpx::util::decay\< Proj\l \>::type, hpx::traits::range\l_iterator\< Rng \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d8a/structhpx_1_1parallel_1_1traits_1_1detail_1_1is__projected.html"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="hpx::parallel::traits\l::is_projected_range\l\< Proj, Rng, typename\l std::enable_if\< hpx::traits\l::is_range\< Rng \>::value \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/dba/structhpx_1_1parallel_1_1traits_1_1is__projected__range_3_01_proj_00_01_rng_00_01typename_01std_d00db901faed1fc6153e025a27d0ef72.html"];
+  Node0 -> Node6 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< Projected::projector\l_type, Projected::iterator\l_type \>" ,fontname="Helvetica"];
+  Node6 [label="hpx::parallel::traits\l::detail::is_projected\l\< Projected::projector\l_type, Projected::iterator_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d8a/structhpx_1_1parallel_1_1traits_1_1detail_1_1is__projected.html"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hpx::parallel::traits\l::detail::is_projected\l_indirect\< Projected, typename\l hpx::util::always_void\< typename\l Projected::projector_type \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d21/structhpx_1_1parallel_1_1traits_1_1detail_1_1is__projected__indirect_3_01_projected_00_01typenamc803d224ac3f70fa9ca26701b365346b.html"];
+}

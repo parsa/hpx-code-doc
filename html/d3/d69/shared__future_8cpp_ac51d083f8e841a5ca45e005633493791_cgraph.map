@@ -1,0 +1,51 @@
+<map id="test_wait_for_either_of_two_futures_list_2" name="test_wait_for_either_of_two_futures_list_2">
+<area shape="rect" id="node2" href="$d3/d69/shared__future_8cpp.html#a705c7614d231fc70ec236f627c8287f1" title="make_int_slowly" alt="" coords="215,945,334,971"/>
+<area shape="rect" id="node49" href="$d2/dc9/namespacehpx_1_1lcos.html#a7153aebe3b8b8da116190c6bcff567b1" title="hpx::lcos::when_any" alt="" coords="204,1003,345,1030"/>
+<area shape="rect" id="node3" href="$d9/d52/namespacehpx_1_1this__thread.html#afc042a5a5fa52eef2d1d177a343435cf" title="hpx::this_thread::sleep_for" alt="" coords="393,927,568,954"/>
+<area shape="rect" id="node4" href="$d9/d52/namespacehpx_1_1this__thread.html#ae12a853980115b23ff0ab8ca06622658" title="hpx::this_thread::sleep\l_until" alt="" coords="633,673,787,715"/>
+<area shape="rect" id="node14" href="$d9/d4f/classhpx_1_1util_1_1steady__duration.html#a0132206d767cd0f7395507b40111a153" title="hpx::util::steady_duration\l::from_now" alt="" coords="626,383,794,424"/>
+<area shape="rect" id="node16" href="$de/d9b/classhpx_1_1thread.html#a4535ef82cec3b953d2c941d20e3e3904" title="hpx::thread::get_thread_data" alt="" coords="616,853,804,879"/>
+<area shape="rect" id="node47" href="$de/d9b/classhpx_1_1thread.html#a7317a3cf5251f3b33c990449570d4cea" title="hpx::thread::set_thread_data" alt="" coords="1095,958,1283,985"/>
+<area shape="rect" id="node5" href="$d9/d52/namespacehpx_1_1this__thread.html#aca220026fb3014c0881d129fe31c0073" title="hpx::this_thread::suspend" alt="" coords="1581,181,1753,207"/>
+<area shape="rect" id="node6" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="1819,122,1966,149"/>
+<area shape="rect" id="node8" href="$d7/d28/namespacehpx_1_1threads.html#afafe0f900b9fac3d4ed3c747625c1cfe" title="hpx::threads::get_self_id" alt="" coords="1811,71,1975,98"/>
+<area shape="rect" id="node9" href="$d7/d28/namespacehpx_1_1threads.html#ada6ec56a12b050707311d8c628089059" title="hpx::threads::interruption\l_point" alt="" coords="1809,291,1976,332"/>
+<area shape="rect" id="node10" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="2028,393,2203,419"/>
+<area shape="rect" id="node11" href="$df/dad/namespacehpx_1_1util.html#ae0e1837ee6f09b79b26c2e788d2e9fc9" title="hpx::util::verify_no\l_locks" alt="" coords="1829,173,1956,215"/>
+<area shape="rect" id="node12" href="$d7/d28/namespacehpx_1_1threads.html#a42fc18a7a680f4e8bc633a4b4c956701" title="hpx::threads::get_thread\l_description" alt="" coords="1811,5,1974,47"/>
+<area shape="rect" id="node7" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="2031,122,2200,149"/>
+<area shape="rect" id="node13" href="$df/d9e/structhpx_1_1util_1_1thread__description.html#a8c834e14eca6eb228188022577f9f952" title="hpx::util::thread_description\l::get_description" alt="" coords="2024,5,2207,47"/>
+<area shape="rect" id="node15" href="$de/db3/1d__stencil__1__omp_8cpp.html#a89e9667753dccfac455bd37a7a3a7b16" title="now" alt="" coords="927,270,972,297"/>
+<area shape="rect" id="node17" href="$d7/d28/namespacehpx_1_1threads.html#a8737931ff6303807225f735b2b384ae4" title="hpx::threads::get_thread_data" alt="" coords="852,882,1047,909"/>
+<area shape="rect" id="node18" href="$de/d9b/classhpx_1_1thread.html#acf48190d264ab64c1c4ec99d0b421b5a" title="hpx::thread::native\l_handle" alt="" coords="885,816,1013,857"/>
+<area shape="rect" id="node19" href="$de/d9b/classhpx_1_1thread.html#a8e4fff210e02485ba493bc3a2a956c03" title="hpx::thread::hardware\l_concurrency" alt="" coords="1115,791,1262,832"/>
+<area shape="rect" id="node22" href="$d8/dfd/id__type__ref__counting__1032_8cpp.html#ab811b86ea5107ffb3351fcaa29d2c652" title="func" alt="" coords="1405,966,1451,993"/>
+<area shape="rect" id="node38" href="$de/d9b/classhpx_1_1thread.html#ac34d0d033aa743c476a79dbc2e1a8a39" title="hpx::thread::interrupt" alt="" coords="1117,739,1260,766"/>
+<area shape="rect" id="node40" href="$de/d9b/classhpx_1_1thread.html#a33276bb4c20bbb0b1978944e18ef71b8" title="hpx::thread::interruption\l_requested" alt="" coords="1109,673,1268,715"/>
+<area shape="rect" id="node42" href="$de/d9b/classhpx_1_1thread.html#a87fdb0d8da826366fc190ed224900a64" title="hpx::thread::get_future" alt="" coords="1113,907,1265,934"/>
+<area shape="rect" id="node20" href="$d7/d28/namespacehpx_1_1threads.html#aa8752a235478d2ad7b5ac467b63ab527" title="hpx::threads::hardware\l_concurrency" alt="" coords="1351,783,1505,824"/>
+<area shape="rect" id="node25" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="2065,722,2165,749"/>
+<area shape="rect" id="node26" href="$df/dad/namespacehpx_1_1util.html#a273e61be42a72415291e0ec0a4f28c7a" title="hpx::util::one_shot" alt="" coords="1363,543,1493,570"/>
+<area shape="rect" id="node27" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="1353,1097,1503,1123"/>
+<area shape="rect" id="node29" href="$d7/d28/namespacehpx_1_1threads.html#a076973c3a53beadde7d967e22c4f6cce" title="hpx::threads::get_thread\l_manager" alt="" coords="1347,645,1509,687"/>
+<area shape="rect" id="node32" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#a7f79c7578e08a60ca45eb276ce8133d8" title="hpx::threads::threadmanager\l::register_thread" alt="" coords="1334,717,1522,759"/>
+<area shape="rect" id="node35" href="$d7/d28/namespacehpx_1_1threads.html#ac0690ad16ad778bcc79dcd727cc33025" title="Set the thread state of the thread referenced by the thread_id id. " alt="" coords="1586,473,1749,515"/>
+<area shape="rect" id="node21" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a2967c633948a3bf17a3b5405ef5a8318" title="hpx::util::static_::get" alt="" coords="1597,802,1738,829"/>
+<area shape="rect" id="node23" href="$d8/dfd/id__type__ref__counting__1032_8cpp.html#a5264b94bf7c262ac0e521fb290d476d5" title="ensure_garbage_collect" alt="" coords="1588,1029,1747,1055"/>
+<area shape="rect" id="node24" href="$dc/d54/namespacehpx_1_1agas.html#a951337adc4f9bd6df00a50737468e911" title="hpx::agas::garbage\l_collect" alt="" coords="1826,1021,1959,1063"/>
+<area shape="rect" id="node28" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="1607,1089,1727,1131"/>
+<area shape="rect" id="node30" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="1608,539,1727,566"/>
+<area shape="rect" id="node31" href="$d0/d7b/classhpx_1_1runtime.html#a865b12d57fcd44a8d3dda3e35414f563" title="hpx::runtime::get_thread\l_manager" alt="" coords="1586,591,1749,632"/>
+<area shape="rect" id="node33" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#a851f067d03b5dd1c5e6a9a6a841e05df" title="hpx::threads::threadmanager\l::default_pool" alt="" coords="1573,656,1761,697"/>
+<area shape="rect" id="node34" href="$de/dae/classhpx_1_1threads_1_1detail_1_1thread__pool__base.html#ad35d3779eef6f4528e62a26d71b34b34" title="hpx::threads::detail\l::thread_pool_base::create\l_thread" alt="" coords="1579,722,1755,778"/>
+<area shape="rect" id="node36" href="$d2/dd1/namespacehpx_1_1threads_1_1detail.html#af85ddc854c4a149bf1738eb1b111b9ab" title="hpx::threads::detail\l::set_thread_state" alt="" coords="1826,524,1959,565"/>
+<area shape="rect" id="node37" href="$d7/d28/namespacehpx_1_1threads.html#a26f91ea8d2195f165c033241c5cd11db" title="hpx::threads::get_thread\l_state_name" alt="" coords="2034,524,2197,565"/>
+<area shape="rect" id="node39" href="$d7/d28/namespacehpx_1_1threads.html#a6bdda1a2aab61b9b13d274b5155d7e73" title="hpx::threads::interrupt\l_thread" alt="" coords="1353,473,1503,515"/>
+<area shape="rect" id="node41" href="$d7/d28/namespacehpx_1_1threads.html#ae64a7fdb8b5c8bac7be0c8282672a03b" title="hpx::threads::get_thread\l_interruption_requested" alt="" coords="1811,356,1974,397"/>
+<area shape="rect" id="node43" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html#aaf7beb7374815614363033bd96573e75" title="hpx::lcos::detail::\lfuture_base\&lt; future\l\&lt; R \&gt;, R \&gt;::valid" alt="" coords="1361,1017,1495,1073"/>
+<area shape="rect" id="node44" href="$d2/da2/namespacehpx_1_1components_1_1server.html#ac776c89f3d68ceb910e8cee9fa937ab4" title="Create arrays of components using their default constructor. " alt="" coords="1346,900,1510,941"/>
+<area shape="rect" id="node45" href="$d2/da2/namespacehpx_1_1components_1_1server.html#a77d26de181c97b444565e230577981bd" title="hpx::components::server\l::create" alt="" coords="1585,904,1749,945"/>
+<area shape="rect" id="node46" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#acf303558375048e8a7cc9a2c2e09477f" title="hpx::parallel::v1::\ldestroy" alt="" coords="1833,929,1953,971"/>
+<area shape="rect" id="node48" href="$d7/d28/namespacehpx_1_1threads.html#a00a625acc149fce3ae38e4340454acf7" title="hpx::threads::set_thread_data" alt="" coords="1331,1147,1525,1174"/>
+<area shape="rect" id="node50" href="$df/dad/namespacehpx_1_1util.html#acdded623c658a7a3436f7e76bc9d881c" title="hpx::util::deferred_call" alt="" coords="406,1003,555,1030"/>
+</map>

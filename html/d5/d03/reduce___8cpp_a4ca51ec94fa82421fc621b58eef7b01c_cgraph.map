@@ -1,0 +1,8 @@
+<map id="hpx_main" name="hpx_main">
+<area shape="rect" id="node2" href="$d5/d03/reduce___8cpp.html#acec1a74bcf5d33803283f7bb0f2dd385" title="reduce_test1" alt="" coords="160,5,257,32"/>
+<area shape="rect" id="node3" href="$d5/d03/reduce___8cpp.html#a77274fb5adc00b5201060a5d8a8e3b31" title="reduce_test2" alt="" coords="160,56,257,83"/>
+<area shape="rect" id="node4" href="$d5/d03/reduce___8cpp.html#ab146b09150e6734e6e622fa15da516c7" title="reduce_test3" alt="" coords="160,107,257,133"/>
+<area shape="rect" id="node5" href="$d5/d03/reduce___8cpp.html#ac9a265f43cac06c7ac8462cc5207a7cd" title="reduce_exception_test" alt="" coords="132,157,285,184"/>
+<area shape="rect" id="node6" href="$d5/d03/reduce___8cpp.html#a85695c166c5bfb02c4db74e07d16eb0d" title="reduce_bad_alloc_test" alt="" coords="133,208,285,235"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="163,259,254,285"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="scaling" name="scaling">
+<area shape="rect" id="node2" href="$d2/dba/classhpx_1_1threads_1_1resource__manager.html#a3915e09985ac2b21e905b20abc56ff13" title="hpx::threads::resource\l_manager::reserve_at_higher\l_use_count" alt="" coords="116,5,304,61"/>
+<area shape="rect" id="node5" href="$d1/d35/classperformance__counters_1_1sine_1_1server_1_1sine__counter.html#a521725f74839ed6c505d8d8336d9b704" title="performance_counters\l::sine::server::sine\l_counter::get_counter_value" alt="" coords="118,85,302,141"/>
+<area shape="rect" id="node7" href="$df/de1/timed__task__spawn_8cpp.html#a43bbe4be392f501e63c865c2e68ea020" title="print_results" alt="" coords="163,165,257,192"/>
+<area shape="rect" id="node8" href="$df/de1/timed__task__spawn_8cpp.html#aaf67a3863f19ff7033e239ebb1204fb7" title="hpx_main" alt="" coords="171,216,249,243"/>
+<area shape="rect" id="node9" href="$df/de1/timed__task__spawn_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="185,267,235,293"/>
+<area shape="rect" id="node3" href="$d2/dba/classhpx_1_1threads_1_1resource__manager.html#a478df1e76fda2c6040166eeb337cfee4" title="hpx::threads::resource\l_manager::allocate_virt_cores" alt="" coords="352,13,547,54"/>
+<area shape="rect" id="node4" href="$d2/dba/classhpx_1_1threads_1_1resource__manager.html#a134f43f58a4f65cdece92e6cf1b2520a" title="hpx::threads::resource\l_manager::initial_allocation" alt="" coords="595,13,773,54"/>
+<area shape="rect" id="node6" href="$d1/d35/classperformance__counters_1_1sine_1_1server_1_1sine__counter.html#a42411afc8afd81ed472f21639e4cb135" title="performance_counters\l::sine::server::sine\l_counter::sine_counter" alt="" coords="372,85,527,141"/>
+</map>

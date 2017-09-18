@@ -1,0 +1,11 @@
+digraph "hpx::util::detail::tuple_cat_element&lt; I, Tuples, Enable &gt;::type &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node3 [label="hpx::util::detail::\ltuple_cat_element\< I,\l Tuples, Enable \>::type \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::util::detail::\ltuple_cat_element\< I\l - tuple_size\< Head \>\l::value, detail::pack\l\< Tail... \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d04/structhpx_1_1util_1_1detail_1_1tuple__cat__element.html"];
+  Node5 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< I - tuple_size\< Head\l \>::value, detail::pack\l\< Tail... \> \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::util::detail::\ltuple_cat_element\< I,\l Tuples, Enable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d04/structhpx_1_1util_1_1detail_1_1tuple__cat__element.html"];
+}

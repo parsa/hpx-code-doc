@@ -1,0 +1,5 @@
+<map id="hpx::resource::detail::init_pool_data::assign_pu" name="hpx::resource::detail::init_pool_data::assign_pu">
+<area shape="rect" id="node2" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a48dab010465de5e62662efb6370a76b3" title="hpx::resource::detail\l::partitioner::assign_pu" alt="" coords="231,13,385,54"/>
+<area shape="rect" id="node4" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a020c39c2fa75501587afabfeacb90e33" title="hpx::resource::detail\l::partitioner::terminate\l_after_parse" alt="" coords="233,79,383,135"/>
+<area shape="rect" id="node3" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a83df1a54306c268c2cc95d0c4b9b9eb6" title="hpx::threads::detail\l::scheduled_thread_pool\l::add_processing_unit" alt="" coords="433,5,596,61"/>
+</map>

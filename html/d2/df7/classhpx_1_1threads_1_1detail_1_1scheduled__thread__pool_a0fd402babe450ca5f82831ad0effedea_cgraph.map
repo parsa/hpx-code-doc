@@ -1,0 +1,9 @@
+<map id="hpx::threads::detail::scheduled_thread_pool::remove_processing_unit" name="hpx::threads::detail::scheduled_thread_pool::remove_processing_unit">
+<area shape="rect" id="node2" href="$dd/da5/namespacehpx_1_1resource.html#af91354c369d9a22a00581d6b6da7d0ee" title="hpx::resource::get\l_partitioner" alt="" coords="243,45,370,86"/>
+<area shape="rect" id="node6" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a14ab510a725b2002bc1e9673087de6fe" title="hpx::resource::detail\l::partitioner::unassign_pu" alt="" coords="223,110,391,151"/>
+<area shape="rect" id="node8" href="$db/d62/structhpx_1_1threads_1_1detail_1_1pool__id__type.html#a3031d19c1ce8d88f6b9092cc0e322308" title="hpx::threads::detail\l::pool_id_type::name" alt="" coords="235,175,378,217"/>
+<area shape="rect" id="node3" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a2967c633948a3bf17a3b5405ef5a8318" title="hpx::util::static_::get" alt="" coords="463,5,605,32"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="463,56,605,83"/>
+<area shape="rect" id="node5" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="677,49,840,90"/>
+<area shape="rect" id="node7" href="$dc/d21/classhpx_1_1resource_1_1detail_1_1init__pool__data.html#a1c6393f51304130d45b483f38cc2c35d" title="hpx::resource::detail\l::init_pool_data::unassign_pu" alt="" coords="439,110,629,151"/>
+</map>

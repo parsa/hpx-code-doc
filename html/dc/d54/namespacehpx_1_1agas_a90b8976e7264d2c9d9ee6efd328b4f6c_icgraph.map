@@ -1,0 +1,10 @@
+<map id="hpx::agas::get_colocation_id" name="hpx::agas::get_colocation_id">
+<area shape="rect" id="node2" href="$dc/d54/namespacehpx_1_1agas.html#a0060331026fc697fb901b1ac7e9d6547" title="hpx::agas::get_colocation_id" alt="" coords="241,5,429,32"/>
+<area shape="rect" id="node3" href="$dc/d54/namespacehpx_1_1agas.html#abb5e5584ed3b536ace8e3f58415e24c2" title="hpx::agas::is_local\l_lva_encoded_address" alt="" coords="259,57,412,98"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#ad71888005ccae819b23eb88e8c4683be" title="Return the id of the locality where the object referenced by the given id is currently located on..." alt="" coords="259,123,411,149"/>
+<area shape="rect" id="node5" href="$dd/d0d/get__colocation__id_8cpp.html#a6797a4febabe54a64686e97ff93b369a" title="test" alt="" coords="537,72,581,99"/>
+<area shape="rect" id="node6" href="$dd/d0d/get__colocation__id_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="519,123,598,149"/>
+<area shape="rect" id="node7" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#a00eb79f89db48417b54a011078a9c7ae" title="hpx::components::stubs\l::runtime_support::free\l_component_sync" alt="" coords="477,173,640,229"/>
+<area shape="rect" id="node8" href="$d2/da2/namespacehpx_1_1components_1_1server.html#a21dc8857d55d9ec83e3e337b382fbc17" title="hpx::components::server\l::destroy_component" alt="" coords="688,181,852,222"/>
+<area shape="rect" id="node9" href="$d2/da2/namespacehpx_1_1components_1_1server.html#afbb6d12dceb0494bcb20f84065e1eb7f" title="hpx::components::server\l::destroy" alt="" coords="900,181,1064,222"/>
+</map>

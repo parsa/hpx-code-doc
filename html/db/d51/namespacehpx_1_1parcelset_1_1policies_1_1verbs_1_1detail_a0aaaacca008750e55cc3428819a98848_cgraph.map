@@ -1,0 +1,9 @@
+<map id="hpx::parcelset::policies::verbs::detail::operator&lt;&lt;" name="hpx::parcelset::policies::verbs::detail::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#afafe0f900b9fac3d4ed3c747625c1cfe" title="hpx::threads::get_self_id" alt="" coords="431,28,595,55"/>
+<area shape="rect" id="node5" href="$da/da2/synchronize_8cpp.html#a49d13e6b51edba01c7eb626006f9920d" title="dummy" alt="" coords="271,28,336,55"/>
+<area shape="rect" id="node6" href="$d9/d52/namespacehpx_1_1this__thread.html#a7af20818d0b5e9201ab9337d7023d47d" title="hpx::this_thread::get_id" alt="" coords="224,79,383,105"/>
+<area shape="rect" id="node7" href="$d8/d46/classhpx_1_1thread_1_1id.html#a507879fe4ee65bfa589df2d04a4a6618" title="hpx::thread::id::native\l_handle" alt="" coords="230,130,377,171"/>
+<area shape="rect" id="node8" href="$d8/d3c/simple__future__continuation_8cpp.html#a64b28a4bbb16e7f78fc14c60466ddd8d" title="get_id" alt="" coords="275,196,332,223"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="643,28,812,55"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="860,28,1007,55"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="hpx::performance_counters::ensure_counter_prefix" name="hpx::performance_counters::ensure_counter_prefix">
+<area shape="rect" id="node2" href="$d9/d0b/classhpx_1_1util_1_1activate__counters.html#af2193bbb81054707baea1f8f19d63ddf" title="hpx::util::activate\l_counters::start_counters" alt="" coords="236,13,407,54"/>
+<area shape="rect" id="node4" href="$d0/d36/namespacehpx_1_1performance__counters.html#a4fd89573f2cbee3f0e88792778d5c6fd" title="hpx::performance_counters\l::ensure_counter_prefix" alt="" coords="232,78,411,119"/>
+<area shape="rect" id="node5" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#ac9cff32525a8816a4b757df08d84d1d6" title="hpx::util::query_counters\l::query_counters" alt="" coords="239,143,404,185"/>
+<area shape="rect" id="node6" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#a161780fff85c669515be3253f0e29fa5" title="Add an existing performance counter instance to the registry. " alt="" coords="232,209,411,250"/>
+<area shape="rect" id="node8" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#a3c6c6b7ef3d2008c79148cbadce7cfa9" title="remove the existing performance counter from the registry " alt="" coords="232,274,411,315"/>
+<area shape="rect" id="node3" href="$d9/d0b/classhpx_1_1util_1_1activate__counters.html#a58030114fe706c120ec4d6d793da25d7" title="hpx::util::activate\l_counters::activate\l_counters" alt="" coords="499,5,629,61"/>
+<area shape="rect" id="node7" href="$d2/d02/classhpx_1_1performance__counters_1_1registry.html#af060ad9ba59fefe302c89bd8e80227d9" title="hpx::performance_counters\l::registry::discover_counter_type" alt="" coords="459,241,669,282"/>
+</map>

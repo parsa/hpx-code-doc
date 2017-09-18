@@ -1,0 +1,8 @@
+<map id="hpx::threads::coroutines::detail::coroutine_self::get_continuation_recursion_count" name="hpx::threads::coroutines::detail::coroutine_self::get_continuation_recursion_count">
+<area shape="rect" id="node2" href="$d2/dcb/classhpx_1_1threads_1_1coroutines_1_1detail_1_1coroutine__self.html#a9802026c57dea4a7f3938dde4eb672d3" title="hpx::threads::coroutines\l::detail::coroutine_self\l::set_self" alt="" coords="277,5,440,61"/>
+<area shape="rect" id="node4" href="$d2/dcb/classhpx_1_1threads_1_1coroutines_1_1detail_1_1coroutine__self.html#a0be9c863546920dd8ef1936bcb2cc726" title="hpx::threads::coroutines\l::detail::coroutine_self\l::get_self" alt="" coords="277,85,440,141"/>
+<area shape="rect" id="node5" href="$d2/dcb/classhpx_1_1threads_1_1coroutines_1_1detail_1_1coroutine__self.html#a611898d6a5416be0e7f76124cbd26725" title="hpx::threads::coroutines\l::detail::coroutine_self\l::init_self" alt="" coords="277,165,440,221"/>
+<area shape="rect" id="node7" href="$d2/dcb/classhpx_1_1threads_1_1coroutines_1_1detail_1_1coroutine__self.html#af2bf931a1362bb9360c6c9c672015b1a" title="hpx::threads::coroutines\l::detail::coroutine_self\l::reset_self" alt="" coords="277,245,440,301"/>
+<area shape="rect" id="node3" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="488,93,651,134"/>
+<area shape="rect" id="node6" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a39c7045b96ffecd7220745a72a89ea6e" title="hpx::util::thread_specific\l_ptr::reset" alt="" coords="488,213,651,254"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="test_async" name="test_async">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#a6c49fc6d131e6aa7ef6eda2ef52bb920" title="hpx::threads::async\l_execute" alt="" coords="140,86,277,127"/>
+<area shape="rect" id="node9" href="$d3/ded/minimal__sync__executor_8cpp.html#a0faac6bf6daa6422f48a266a344ecf18" title="sync_test" alt="" coords="169,152,248,179"/>
+<area shape="rect" id="node10" href="$d9/d52/namespacehpx_1_1this__thread.html#a7af20818d0b5e9201ab9337d7023d47d" title="hpx::this_thread::get_id" alt="" coords="325,177,484,204"/>
+<area shape="rect" id="node14" href="$d3/ded/minimal__sync__executor_8cpp.html#a5cd1ddee9df7df248f89e5257aef84a9" title="sync_test_void" alt="" coords="155,253,263,280"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="361,93,448,120"/>
+<area shape="rect" id="node4" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="593,56,635,83"/>
+<area shape="rect" id="node5" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="791,5,866,32"/>
+<area shape="rect" id="node6" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="756,56,901,83"/>
+<area shape="rect" id="node7" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="793,107,865,133"/>
+<area shape="rect" id="node8" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="961,99,1156,141"/>
+<area shape="rect" id="node11" href="$d7/d28/namespacehpx_1_1threads.html#afafe0f900b9fac3d4ed3c747625c1cfe" title="hpx::threads::get_self_id" alt="" coords="532,177,696,204"/>
+<area shape="rect" id="node12" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="744,177,913,204"/>
+<area shape="rect" id="node13" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="985,177,1132,204"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="hpx::resource::get_pool_name" name="hpx::resource::get_pool_name">
+<area shape="rect" id="node2" href="$dd/da5/namespacehpx_1_1resource.html#a8ab78d95eaa6f193a085a1d983ea9f5b" title="Return the thread pool given its internal index. " alt="" coords="211,5,338,47"/>
+<area shape="rect" id="node3" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a932efced0bbfee361094b8552334d931" title="hpx::resource::detail\l::partitioner::get_affinity_data" alt="" coords="180,71,369,112"/>
+<area shape="rect" id="node4" href="$d8/dd8/resource__partitioner_8cpp.html#ab1825231fb9efbfb464404767c072654" title="hpx_main" alt="" coords="235,137,314,163"/>
+</map>

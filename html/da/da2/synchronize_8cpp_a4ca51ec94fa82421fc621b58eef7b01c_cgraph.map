@@ -1,0 +1,7 @@
+<map id="hpx_main" name="hpx_main">
+<area shape="rect" id="node2" href="$d6/d0f/classhpx_1_1util_1_1high__resolution__timer.html#abdf9bf5837743b9abdccc618a1c86736" title="hpx::util::high_resolution\l_timer::elapsed" alt="" coords="132,5,295,47"/>
+<area shape="rect" id="node6" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="168,71,259,98"/>
+<area shape="rect" id="node3" href="$d6/d0f/classhpx_1_1util_1_1high__resolution__timer.html#abdc7f9511dd3bfe1c5da2c38fe295851" title="hpx::util::high_resolution\l_timer::take_time_stamp" alt="" coords="343,5,509,47"/>
+<area shape="rect" id="node4" href="$dd/d16/structhpx_1_1util_1_1high__resolution__clock.html#aaf1ff59c3ef8d3b70696fadb0a55842c" title="hpx::util::high_resolution\l_clock::now" alt="" coords="557,5,720,47"/>
+<area shape="rect" id="node5" href="$de/db3/1d__stencil__1__omp_8cpp.html#a89e9667753dccfac455bd37a7a3a7b16" title="now" alt="" coords="768,13,813,39"/>
+</map>

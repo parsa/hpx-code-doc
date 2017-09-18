@@ -1,0 +1,9 @@
+<map id="jacobi::server::stencil_iterator" name="jacobi::server::stencil_iterator">
+<area shape="rect" id="node2" href="$d2/de6/classhpx_1_1components_1_1component__base.html" title="hpx::components::component\l_base\&lt; stencil_iterator \&gt;" alt="" coords="233,63,428,104"/>
+<area shape="rect" id="node3" href="$d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag.html" title="hpx::traits::detail\l::component_tag" alt="" coords="21,5,140,47"/>
+<area shape="rect" id="node4" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html" title="Global identifier for components across the HPX system. " alt="" coords="5,71,156,98"/>
+<area shape="rect" id="node5" href="$df/deb/structjacobi_1_1row.html" title="jacobi::row" alt="" coords="289,129,373,155"/>
+<area shape="rect" id="node6" href="$db/dee/structhpx_1_1naming_1_1id__type.html" title="hpx::naming::id_type" alt="" coords="9,126,152,153"/>
+<area shape="rect" id="node7" href="$d4/d31/classhpx_1_1lcos_1_1shared__future.html" title="hpx::lcos::shared_future\l\&lt; jacobi::row \&gt;" alt="" coords="250,189,411,231"/>
+<area shape="rect" id="node8" href="$d5/dd7/classhpx_1_1lcos_1_1detail_1_1future__base.html" title="hpx::lcos::detail::\lfuture_base\&lt; shared\l_future\&lt; jacobi::row\l \&gt;, jacobi::row \&gt;" alt="" coords="11,177,151,248"/>
+</map>

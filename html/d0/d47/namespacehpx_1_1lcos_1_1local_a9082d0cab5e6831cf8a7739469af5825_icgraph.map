@@ -1,0 +1,7 @@
+<map id="hpx::lcos::local::run_guarded" name="hpx::lcos::local::run_guarded">
+<area shape="rect" id="node2" href="$d3/d68/examples_2quickstart_2composable__guard_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="227,5,306,32"/>
+<area shape="rect" id="node3" href="$dd/dd8/structhpx_1_1lcos_1_1local_1_1stage__data.html#a6f526c8e8888340351542cc014e944d9" title="hpx::lcos::local::stage\l_data::~stage_data" alt="" coords="392,118,543,159"/>
+<area shape="rect" id="node4" href="$d4/dde/structhpx_1_1lcos_1_1local_1_1stage__task__cleanup.html#a16b5f82aaa95171f752d678955659732" title="hpx::lcos::local::stage\l_task_cleanup::~stage\l_task_cleanup" alt="" coords="189,107,344,163"/>
+<area shape="rect" id="node5" href="$da/d48/classhpx_1_1lcos_1_1local_1_1guard__set.html#ac2d4d18bc8535c1a28976fa58ac4a846" title="hpx::lcos::local::guard\l_set::size" alt="" coords="191,187,342,229"/>
+<area shape="rect" id="node6" href="$d0/d47/namespacehpx_1_1lcos_1_1local.html#affd3473d78fa495c84106fc67c388e8a" title="hpx::lcos::local::run\l_guarded" alt="" coords="199,253,335,294"/>
+</map>

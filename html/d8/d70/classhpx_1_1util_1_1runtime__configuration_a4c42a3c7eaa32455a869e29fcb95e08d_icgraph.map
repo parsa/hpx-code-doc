@@ -1,0 +1,4 @@
+<map id="hpx::util::runtime_configuration::get_agas_service_mode" name="hpx::util::runtime_configuration::get_agas_service_mode">
+<area shape="rect" id="node2" href="$dc/d54/namespacehpx_1_1agas.html#ac6fc2c0c43b89634249428c189ddf26c" title="hpx::agas::get_number\l_of_bootstrap_connections" alt="" coords="196,5,373,47"/>
+<area shape="rect" id="node3" href="$d8/d70/classhpx_1_1util_1_1runtime__configuration.html#a06ca2f2a89ed314f17dd3fcbfc0a1db4" title="hpx::util::runtime\l_configuration::set\l_num_localities" alt="" coords="221,71,349,127"/>
+</map>

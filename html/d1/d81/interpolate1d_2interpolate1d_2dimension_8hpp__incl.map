@@ -1,0 +1,34 @@
+<map id="dimension.hpp" name="dimension.hpp">
+<area shape="rect" id="node2" href="$d8/d21/serialization_8hpp.html" title="hpx/include/serialization.hpp" alt="" coords="1965,80,2152,107"/>
+<area shape="rect" id="node3" href="$d4/d93/serialization__fwd_8hpp.html" title="hpx/runtime/serialization\l/serialization_fwd.hpp" alt="" coords="593,616,756,657"/>
+<area shape="rect" id="node7" href="$d1/d31/serialize_8hpp.html" title="hpx/runtime/serialization\l/serialize.hpp" alt="" coords="1928,333,2091,375"/>
+<area shape="rect" id="node21" href="$d4/da0/string_8hpp.html" title="hpx/runtime/serialization\l/string.hpp" alt="" coords="659,527,821,568"/>
+<area shape="rect" id="node22" href="$dd/d7a/runtime_2serialization_2array_8hpp.html" title="hpx/runtime/serialization\l/array.hpp" alt="" coords="3169,244,3332,285"/>
+<area shape="rect" id="node25" href="$d6/d86/bitset_8hpp.html" title="hpx/runtime/serialization\l/bitset.hpp" alt="" coords="695,244,857,285"/>
+<area shape="rect" id="node27" href="$db/dd8/complex_8hpp.html" title="hpx/runtime/serialization\l/complex.hpp" alt="" coords="1112,244,1275,285"/>
+<area shape="rect" id="node29" href="$dd/dc8/runtime_2serialization_2datapar_8hpp.html" title="hpx/runtime/serialization\l/datapar.hpp" alt="" coords="3928,155,4091,196"/>
+<area shape="rect" id="node30" href="$de/d68/runtime_2serialization_2deque_8hpp.html" title="hpx/runtime/serialization\l/deque.hpp" alt="" coords="1316,244,1479,285"/>
+<area shape="rect" id="node33" href="$dc/d64/dynamic__bitset_8hpp.html" title="hpx/runtime/serialization\l/dynamic_bitset.hpp" alt="" coords="3557,244,3720,285"/>
+<area shape="rect" id="node35" href="$d0/d5c/intrusive__ptr_8hpp.html" title="hpx/runtime/serialization\l/intrusive_ptr.hpp" alt="" coords="183,333,345,375"/>
+<area shape="rect" id="node38" href="$dc/d1d/list_8hpp.html" title="hpx/runtime/serialization\l/list.hpp" alt="" coords="1503,244,1665,285"/>
+<area shape="rect" id="node39" href="$df/d7c/map_8hpp.html" title="hpx/runtime/serialization\l/map.hpp" alt="" coords="2469,430,2632,471"/>
+<area shape="rect" id="node40" href="$d1/d8a/multi__array_8hpp.html" title="hpx/runtime/serialization\l/multi_array.hpp" alt="" coords="3741,155,3904,196"/>
+<area shape="rect" id="node42" href="$de/d3e/runtime_2serialization_2partitioned__vector_8hpp.html" title="hpx/runtime/serialization\l/partitioned_vector.hpp" alt="" coords="1689,244,1852,285"/>
+<area shape="rect" id="node43" href="$d3/d5e/serialize__buffer_8hpp.html" title="hpx/runtime/serialization\l/serialize_buffer.hpp" alt="" coords="3051,155,3213,196"/>
+<area shape="rect" id="node44" href="$da/dfe/set_8hpp.html" title="hpx/runtime/serialization\l/set.hpp" alt="" coords="2763,244,2925,285"/>
+<area shape="rect" id="node45" href="$d0/dc5/shared__ptr_8hpp.html" title="hpx/runtime/serialization\l/shared_ptr.hpp" alt="" coords="609,333,772,375"/>
+<area shape="rect" id="node46" href="$d1/d17/unique__ptr_8hpp.html" title="hpx/runtime/serialization\l/unique_ptr.hpp" alt="" coords="796,333,959,375"/>
+<area shape="rect" id="node47" href="$d5/dde/hpx_2runtime_2serialization_2unordered__map_8hpp.html" title="hpx/runtime/serialization\l/unordered_map.hpp" alt="" coords="2469,333,2632,375"/>
+<area shape="rect" id="node48" href="$dc/d69/valarray_8hpp.html" title="hpx/runtime/serialization\l/valarray.hpp" alt="" coords="2576,244,2739,285"/>
+<area shape="rect" id="node49" href="$d9/d7a/variant_8hpp.html" title="hpx/runtime/serialization\l/variant.hpp" alt="" coords="2739,527,2901,568"/>
+<area shape="rect" id="node50" href="$d4/dad/runtime_2serialization_2vector_8hpp.html" title="hpx/runtime/serialization\l/vector.hpp" alt="" coords="1977,155,2140,196"/>
+<area shape="rect" id="node4" href="$d8/dfd/config_8hpp.html" title="hpx/config.hpp" alt="" coords="2885,713,2992,739"/>
+<area shape="rect" id="node5" href="$d1/dcf/strip__parens_8hpp.html" title="Defines the HPX_PP_STRIP_PARENS macro. " alt="" coords="613,705,736,747"/>
+<area shape="rect" id="node8" href="$d4/dbf/access_8hpp.html" title="hpx/runtime/serialization\l/access.hpp" alt="" coords="421,527,584,568"/>
+<area shape="rect" id="node10" href="$d3/d18/input__archive_8hpp.html" title="hpx/runtime/serialization\l/input_archive.hpp" alt="" coords="2197,527,2360,568"/>
+<area shape="rect" id="node17" href="$df/d22/output__archive_8hpp.html" title="hpx/runtime/serialization\l/output_archive.hpp" alt="" coords="1909,527,2072,568"/>
+<area shape="rect" id="node20" href="$da/de9/polymorphic__nonintrusive__factory__impl_8hpp.html" title="hpx/runtime/serialization\l/detail/polymorphic_nonintrusive\l_factory_impl.hpp" alt="" coords="1726,423,1933,479"/>
+<area shape="rect" id="node11" href="$db/d2a/is__bitwise__serializable_8hpp.html" title="hpx/traits/is_bitwise\l_serializable.hpp" alt="" coords="1702,616,1839,657"/>
+<area shape="rect" id="node31" href="$d2/d1e/serialize__collection_8hpp.html" title="hpx/runtime/serialization\l/detail/serialize_collection.hpp" alt="" coords="1353,430,1549,471"/>
+<area shape="rect" id="node36" href="$d2/d17/pointer_8hpp.html" title="hpx/runtime/serialization\l/detail/pointer.hpp" alt="" coords="361,430,524,471"/>
+</map>

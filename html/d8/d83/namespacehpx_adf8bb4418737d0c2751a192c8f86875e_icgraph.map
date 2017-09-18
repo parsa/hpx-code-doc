@@ -1,0 +1,4 @@
+<map id="hpx::disconnect" name="hpx::disconnect">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#adadfe0973783fa126afca52feda59529" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="180,5,271,32"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#ad05607f97e7977530074039d29ca0512" title="Disconnect this locality from the application. " alt="" coords="168,56,283,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="hpx::components::process::posix::initializers::wait_on_latch::on_fork_success" name="hpx::components::process::posix::initializers::wait_on_latch::on_fork_success">
+<area shape="rect" id="node2" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a632d14405be3f73ace2827cf3e0d71a0" title="hpx::components::client\l_base::register_as" alt="" coords="260,5,421,47"/>
+<area shape="rect" id="node3" href="$df/d55/classhpx_1_1lcos_1_1latch.html#ae074a458ce393face2e0694699e1fe7c" title="hpx::lcos::latch::count\l_down_and_wait" alt="" coords="265,71,416,112"/>
+</map>

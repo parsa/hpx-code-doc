@@ -1,0 +1,9 @@
+<map id="nqueen::server::board::solve_board" name="nqueen::server::board::solve_board">
+<area shape="rect" id="node2" href="$df/d49/classnqueen_1_1server_1_1board.html#abc63209a321d425317ebaae918083def" title="nqueen::server::board\l::update_board" alt="" coords="226,5,373,47"/>
+<area shape="rect" id="node3" href="$df/d49/classnqueen_1_1server_1_1board.html#ad9b835928ef0dd248ee5b552b0b8d038" title="nqueen::server::board\l::check_board" alt="" coords="226,71,373,112"/>
+<area shape="rect" id="node4" href="$df/d49/classnqueen_1_1server_1_1board.html#a9c209a3fcb53ff98626222c3c90916c3" title="nqueen::server::board\l::access_board" alt="" coords="226,136,373,177"/>
+<area shape="rect" id="node5" href="$df/d49/classnqueen_1_1server_1_1board.html#af2fcac12698f0cfa1e2fab2db1c7023d" title="nqueen::server::board\l::HPX_DEFINE_COMPONENT\l_ACTION" alt="" coords="200,202,399,258"/>
+<area shape="rect" id="node6" href="$df/d49/classnqueen_1_1server_1_1board.html#a751ca0c87e2d2ddd2024b21709786fce" title="nqueen::server::board\l::init_board" alt="" coords="226,283,373,324"/>
+<area shape="rect" id="node7" href="$df/d49/classnqueen_1_1server_1_1board.html#a5744f8ae2502ae4750afdfa0d3b14e78" title="nqueen::server::board\l::clear_board" alt="" coords="226,348,373,389"/>
+<area shape="rect" id="node8" href="$de/d58/server_2nqueen_8hpp.html#afc4f1860c6dafa053374e1a13bdc3e12" title="HPX_REGISTER_ACTION\l_DECLARATION" alt="" coords="213,413,386,455"/>
+</map>

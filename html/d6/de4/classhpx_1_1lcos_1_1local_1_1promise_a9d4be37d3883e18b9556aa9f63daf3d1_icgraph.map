@@ -1,0 +1,30 @@
+<map id="hpx::lcos::local::promise::set_value" name="hpx::lcos::local::promise::set_value">
+<area shape="rect" id="node2" href="$dc/d1c/fibonacci__await_8cpp.html#acdec6cce6a7fb7916e541fa7b85b0758" title="_fibonacci" alt="" coords="273,5,353,32"/>
+<area shape="rect" id="node6" href="$d6/d4d/future_8cpp.html#a6c787ea062c8a166f199ace9bd795471" title="set_promise_thread" alt="" coords="245,56,381,83"/>
+<area shape="rect" id="node7" href="$d6/d4d/future_8cpp.html#aa954e0b399ca69e7e2fa7bb94925a28c" title="test_waiting_future" alt="" coords="247,107,378,133"/>
+<area shape="rect" id="node9" href="$d6/d4d/future_8cpp.html#a824a2c206e44e27af4aaf00e03da77a7" title="test_set_value_updates\l_future_status" alt="" coords="233,158,392,199"/>
+<area shape="rect" id="node10" href="$d6/d4d/future_8cpp.html#ae00cd8fb3933e83e4f6df1bfc63d4a01" title="test_set_value_can\l_be_retrieved" alt="" coords="246,223,379,265"/>
+<area shape="rect" id="node11" href="$d6/d4d/future_8cpp.html#abeb57d6988691973a7dfb972c375385c" title="test_set_value_can\l_be_moved" alt="" coords="246,289,379,330"/>
+<area shape="rect" id="node12" href="$d6/d4d/future_8cpp.html#a571b42f831aa574d09f3c73e68ad524e" title="test_reference_promise" alt="" coords="234,355,391,381"/>
+<area shape="rect" id="node13" href="$d6/d4d/future_8cpp.html#adbe21b5f45704199fa03455ac2375d3e" title="test_future_for_move\l_only_udt" alt="" coords="242,406,383,447"/>
+<area shape="rect" id="node14" href="$d6/d4d/future_8cpp.html#a7dd995df605914a0bac8832cc96cb3fd" title="test_future_for_string" alt="" coords="241,472,384,499"/>
+<area shape="rect" id="node15" href="$d6/d4d/future_8cpp.html#a6c009c0348d3402bd6357cdf4ea484fc" title="promise_set_value" alt="" coords="248,523,377,549"/>
+<area shape="rect" id="node16" href="$d6/d4d/future_8cpp.html#af6ecc5d935c082f64d39bfd6482750d3" title="test_wait_callback\l_with_timed_wait" alt="" coords="248,574,377,615"/>
+<area shape="rect" id="node17" href="$da/dde/future__serialization__1898_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="287,640,338,667"/>
+<area shape="rect" id="node18" href="$d4/daf/structhpx_1_1lcos_1_1local_1_1receive__buffer_1_1entry__data.html#ad437952f1a466af7480126e2d8f8d3b0" title="hpx::lcos::local::receive\l_buffer::entry_data::set_value" alt="" coords="217,691,408,733"/>
+<area shape="rect" id="node19" href="$df/d0b/structhpx_1_1lcos_1_1local_1_1receive__buffer_3_01void_00_01_mutex_01_4_1_1entry__data.html#a2834c6bdc0930b7f43baeb52119b822b" title="hpx::lcos::local::receive\l_buffer\&lt; void, Mutex \&gt;\l::entry_data::set_value" alt="" coords="233,757,392,813"/>
+<area shape="rect" id="node20" href="$d3/d69/shared__future_8cpp.html#a24a1a4558af677f3eea6414fbde80a5e" title="test_shared_future_ref" alt="" coords="237,837,388,864"/>
+<area shape="rect" id="node22" href="$d3/d69/shared__future_8cpp.html#a3c207e522e24a02fe6721921e01ecea5" title="test_shared_future\l_for_string" alt="" coords="248,889,377,930"/>
+<area shape="rect" id="node23" href="$de/d1d/classhpx_1_1util_1_1thread__aware__timer.html#af38b1360accaacbcdc4542ebf446cd44" title="hpx::util::thread_aware\l_timer::sample_time" alt="" coords="236,954,389,995"/>
+<area shape="rect" id="node3" href="$dc/d1c/fibonacci__await_8cpp.html#a8186a394d5a6f8444635c18298f90219" title="fibonacci" alt="" coords="503,5,576,32"/>
+<area shape="rect" id="node4" href="$dc/d1c/fibonacci__await_8cpp.html#a257020cedf848b2bad32ed1cef84087f" title="fibonacci_serial" alt="" coords="715,31,825,57"/>
+<area shape="rect" id="node5" href="$dc/d1c/fibonacci__await_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="917,31,996,57"/>
+<area shape="rect" id="node8" href="$d6/d4d/future_8cpp.html#a255f773d830db5ca937cff11c2692fa2" title="hpx_main" alt="" coords="500,325,579,352"/>
+<area shape="rect" id="node21" href="$d3/d69/shared__future_8cpp.html#a255f773d830db5ca937cff11c2692fa2" title="hpx_main" alt="" coords="500,867,579,893"/>
+<area shape="rect" id="node24" href="$de/d1d/classhpx_1_1util_1_1thread__aware__timer.html#af14ccb9b2257816fb630fbfff60dd9c4" title="hpx::util::thread_aware\l_timer::take_time_stamp" alt="" coords="456,954,623,995"/>
+<area shape="rect" id="node25" href="$de/d1d/classhpx_1_1util_1_1thread__aware__timer.html#a9361a3da793845c922e362dc3fde9cd6" title="hpx::util::thread_aware\l_timer::now" alt="" coords="693,823,847,865"/>
+<area shape="rect" id="node26" href="$de/d1d/classhpx_1_1util_1_1thread__aware__timer.html#a88f210a64557987984f0b776bcad2ddd" title="hpx::util::thread_aware\l_timer::restart" alt="" coords="693,889,847,930"/>
+<area shape="rect" id="node27" href="$de/d1d/classhpx_1_1util_1_1thread__aware__timer.html#a26d807ff873fb2563b9dfd57bd763a07" title="hpx::util::thread_aware\l_timer::elapsed" alt="" coords="693,954,847,995"/>
+<area shape="rect" id="node28" href="$de/d1d/classhpx_1_1util_1_1thread__aware__timer.html#a7d5ef68077ad72ed62f85e7990e9d9fd" title="hpx::util::thread_aware\l_timer::elapsed_microseconds" alt="" coords="671,1019,869,1061"/>
+<area shape="rect" id="node29" href="$de/d1d/classhpx_1_1util_1_1thread__aware__timer.html#a930f778d1069620bd597512886acc69d" title="hpx::util::thread_aware\l_timer::elapsed_nanoseconds" alt="" coords="673,1085,867,1126"/>
+</map>

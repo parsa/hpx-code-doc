@@ -1,0 +1,5 @@
+<map id="hpx::lcos::detail::continuation&lt; Future, F, ContResult &gt;::reset_id" name="hpx::lcos::detail::continuation&lt; Future, F, ContResult &gt;::reset_id">
+<area shape="rect" id="node2" href="$d9/dc0/classhpx_1_1lcos_1_1detail_1_1continuation.html" title="hpx::lcos::detail::\lcontinuation\&lt; Future,\l F, ContResult \&gt;" alt="" coords="76,185,221,241"/>
+<area shape="rect" id="node3" href="$d9/dfd/structhpx_1_1lcos_1_1detail_1_1future__data.html" title="hpx::lcos::detail::\lfuture_data\&lt; ContResult \&gt;" alt="" coords="5,81,180,123"/>
+<area shape="rect" id="node4" href="$dd/d8f/structhpx_1_1util_1_1decay.html" title="hpx::util::decay\&lt; F \&gt;" alt="" coords="204,89,347,115"/>
+</map>

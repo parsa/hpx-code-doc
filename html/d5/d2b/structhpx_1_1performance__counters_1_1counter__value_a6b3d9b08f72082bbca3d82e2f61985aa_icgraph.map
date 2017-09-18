@@ -1,0 +1,12 @@
+<map id="hpx::performance_counters::counter_value::get_value" name="hpx::performance_counters::counter_value::get_value">
+<area shape="rect" id="node2" href="$d0/d6b/1d__stencil__4__repart_8cpp.html#ab1bf1c667fac5b7c94245e4173d59db7" title="setup_counters" alt="" coords="272,5,383,32"/>
+<area shape="rect" id="node4" href="$dc/d43/structhpx_1_1performance__counters_1_1stubs_1_1performance__counter.html#a4ee2262e2b2788aefff379903bc75412" title="hpx::performance_counters\l::stubs::performance_counter\l::get_typed_value" alt="" coords="232,56,423,112"/>
+<area shape="rect" id="node5" href="$df/d23/put__parcels_8cpp.html#af80bde13e0799a8836ea0c3ca81034a6" title="print_counters" alt="" coords="275,136,379,163"/>
+<area shape="rect" id="node7" href="$df/d62/put__parcels__with__compression_8cpp.html#a08198bac17e41571a7d9cb6b0215dcad" title="verify_counters" alt="" coords="273,187,381,213"/>
+<area shape="rect" id="node9" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#ac2232492c0dc3f4cd9c8a25ab59aa42a" title="hpx::util::query_counters\l::print_value" alt="" coords="245,238,410,279"/>
+<area shape="rect" id="node11" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#aaa0f3990949454705bf5ea892831cd7f" title="hpx::util::query_counters\l::print_value_csv" alt="" coords="245,303,410,345"/>
+<area shape="rect" id="node3" href="$d0/d6b/1d__stencil__4__repart_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="528,5,579,32"/>
+<area shape="rect" id="node6" href="$df/d23/put__parcels_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="514,136,593,163"/>
+<area shape="rect" id="node8" href="$df/d62/put__parcels__with__compression_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="514,187,593,213"/>
+<area shape="rect" id="node10" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#aaa7032cae4c850c8f79b8664241e104b" title="hpx::util::query_counters\l::print_values" alt="" coords="471,270,636,311"/>
+</map>

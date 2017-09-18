@@ -1,0 +1,19 @@
+digraph "hpx::util::tagged_pair&lt; F, S &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::tagged_pair\l\< F, S \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::util::tagged\<\l std::pair\< detail::\ltag_elem\< F \>::type,\l detail::tag_elem\< S \>\l::type \>, detail::tag_spec\l\< F \>::type, detail::tag_spec\l\< S \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d48/structhpx_1_1util_1_1tagged.html"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="std::pair\< detail::\ltag_elem\< F \>::type,\l detail::tag_elem\< S\l \>::type \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="detail::getters::collect\l\< tagged\< std::pair\< detail\l::tag_elem\< F \>::type, detail\l::tag_elem\< S \>::type \>, Tags...\l \>, Tags... \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node4 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< std::pair\< detail\l::tag_elem\< F \>::type,\l detail::tag_elem\< S \>\l::type \>, detail::tag_spec\l\< F \>::type, detail::tag_spec\l\< S \>::type \>" ,fontname="Helvetica"];
+  Node4 [label="hpx::util::tagged\<\l Base, Tags \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d48/structhpx_1_1util_1_1tagged.html"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Base\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d05/struct_base.html"];
+  Node6 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="detail::getters::collect\l\< tagged\< Base, Tags...\l \>, Tags... \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

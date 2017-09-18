@@ -1,0 +1,5 @@
+<map id="hpx::traits::rma_memory_region_traits::register_memory" name="hpx::traits::rma_memory_region_traits::register_memory">
+<area shape="rect" id="node2" href="$d1/df4/structhpx_1_1parcelset_1_1rma__memory__region.html#a7689bd46c00da481fa03e07258391344" title="hpx::parcelset::rma\l_memory_region::rma\l_memory_region" alt="" coords="229,5,377,61"/>
+<area shape="rect" id="node3" href="$d1/df4/structhpx_1_1parcelset_1_1rma__memory__region.html#a0d52909490b61cbd853db1338be38bbf" title="hpx::parcelset::rma\l_memory_region::allocate" alt="" coords="217,86,388,127"/>
+<area shape="rect" id="node4" href="$d7/d53/structhpx_1_1parcelset_1_1rma__memory__pool.html#a104341feb34860e1887c898a4d3499d4" title="hpx::parcelset::rma\l_memory_pool\&lt; hpx::parcelset\l::policies::libfabric::libfabric\l_region_provider \&gt;::allocate_temporary_region" alt="" coords="436,71,723,142"/>
+</map>

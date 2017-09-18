@@ -1,0 +1,11 @@
+<map id="hpx::util::query_counters::print_values" name="hpx::util::query_counters::print_values">
+<area shape="rect" id="node2" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#aaa0f3990949454705bf5ea892831cd7f" title="hpx::util::query_counters\l::print_value_csv" alt="" coords="219,60,384,101"/>
+<area shape="rect" id="node8" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#ac2232492c0dc3f4cd9c8a25ab59aa42a" title="hpx::util::query_counters\l::print_value" alt="" coords="219,125,384,167"/>
+<area shape="rect" id="node3" href="$d5/d2b/structhpx_1_1performance__counters_1_1counter__value.html#a6b3d9b08f72082bbca3d82e2f61985aa" title="Retrieve the &#39;real&#39; value of the counter_value, converted to the requested type T. " alt="" coords="432,60,611,101"/>
+<area shape="rect" id="node4" href="$d0/d36/namespacehpx_1_1performance__counters.html#a02f879175b5bb99013a8c79f66e57213" title="hpx::performance_counters\l::status_is_valid" alt="" coords="659,5,837,47"/>
+<area shape="rect" id="node5" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="729,71,767,98"/>
+<area shape="rect" id="node6" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="885,71,972,98"/>
+<area shape="rect" id="node7" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="1020,64,1185,105"/>
+<area shape="rect" id="node9" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#a65753efa831bd7081d4dddd2cc08ca66" title="hpx::util::query_counters\l::print_name_csv" alt="" coords="439,125,604,167"/>
+<area shape="rect" id="node10" href="$d0/d36/namespacehpx_1_1performance__counters.html#a3a9aa99b61eb1a675a13a18bf395bb2d" title="hpx::performance_counters\l::remove_counter_prefix" alt="" coords="659,125,837,167"/>
+</map>

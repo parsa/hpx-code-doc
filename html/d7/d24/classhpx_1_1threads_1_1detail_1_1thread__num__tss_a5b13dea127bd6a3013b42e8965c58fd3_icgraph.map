@@ -1,0 +1,12 @@
+<map id="hpx::threads::detail::thread_num_tss::get_worker_thread_num" name="hpx::threads::detail::thread_num_tss::get_worker_thread_num">
+<area shape="rect" id="node2" href="$de/dae/classhpx_1_1threads_1_1detail_1_1thread__pool__base.html#aeced5b0c527cc55b06466dff964a631e" title="hpx::threads::detail\l::thread_pool_base::get\l_worker_thread_num" alt="" coords="217,85,376,141"/>
+<area shape="rect" id="node7" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#aee78d76dce7473a22de94e19ecac3ca3" title="hpx::threads::threadmanager\l::get_worker_thread_num" alt="" coords="203,191,391,233"/>
+<area shape="rect" id="node3" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#afbef55d51af59eb01a6b15227b4363ea" title="hpx::threads::detail\l::scheduled_thread_pool\l::get_state" alt="" coords="452,5,615,61"/>
+<area shape="rect" id="node5" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a189f39002cdbc0e7a95a5e9222af3f56" title="hpx::threads::detail\l::scheduled_thread_pool\l::set_state" alt="" coords="452,85,615,141"/>
+<area shape="rect" id="node4" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#af1845d32435d318d4ab49842150125d7" title="hpx::threads::detail\l::scheduled_thread_pool\l::get_scheduler" alt="" coords="676,5,839,61"/>
+<area shape="rect" id="node6" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a2810dd874b141ce2dc912bbb195e8991" title="hpx::threads::detail\l::scheduled_thread_pool\l::do_some_work" alt="" coords="676,85,839,141"/>
+<area shape="rect" id="node8" href="$d8/d83/namespacehpx.html#adc17eda7c3c7c6b2a0f7cb1affed8520" title="Return the number of the current OS&#45;thread running in the runtime instance the current HPX&#45;thread is ..." alt="" coords="439,165,628,192"/>
+<area shape="rect" id="node9" href="$d8/d83/namespacehpx.html#a07988ae2ec7a1b2c43d282cb6d99245b" title="hpx::is_scheduler_numa\l_sensitive" alt="" coords="452,217,615,258"/>
+<area shape="rect" id="node11" href="$d0/d07/system__characteristics_8hpp.html#ab89dcd3f8f12bd35634d3849f0e93d90" title="print_system_characteristics" alt="" coords="439,283,628,309"/>
+<area shape="rect" id="node10" href="$da/dce/thread__affinity_8cpp.html#a7294900b54d4eeed58981c93d6c74ed6" title="thread_affinity_worker" alt="" coords="684,224,831,251"/>
+</map>

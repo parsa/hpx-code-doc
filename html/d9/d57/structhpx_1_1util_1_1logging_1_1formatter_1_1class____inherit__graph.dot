@@ -1,0 +1,21 @@
+digraph "hpx::util::logging::formatter::class_&lt; type, op_e, base_type &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::util::logging\l::formatter::class_\l\< type, op_e, base_type \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::util::logging\l::manipulator::class\l_\< type, op_e, base_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d06/structhpx_1_1util_1_1logging_1_1manipulator_1_1class__.html",tooltip="Use this when implementing your own formatter or destination class. Don&#39;t use this directly..."];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="base_type",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hpx::util::logging\l::manipulator::detail\l::op_equal_base\< op_e \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/df9/structhpx_1_1util_1_1logging_1_1manipulator_1_1detail_1_1op__equal__base.html"];
+  Node4 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< op_e \>" ,fontname="Helvetica"];
+  Node4 [label="hpx::util::logging\l::manipulator::detail\l::op_equal_base\< type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/df9/structhpx_1_1util_1_1logging_1_1manipulator_1_1detail_1_1op__equal__base.html"];
+  Node5 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="hpx::util::logging\l::op_equal::same_type\l_op_equal\< type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d01/structhpx_1_1util_1_1logging_1_1op__equal_1_1same__type__op__equal.html",tooltip="Implements operator==, which compares two objects. If they have the same type, it will compare them u..."];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hpx::util::logging\l::op_equal::same_type\l_op_equal_base",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d91/structhpx_1_1util_1_1logging_1_1op__equal_1_1same__type__op__equal__base.html",tooltip="Base class when you want to implement operator== that will compare based on type and member operator=..."];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hpx::util::logging\l::op_equal::same_type\l_op_equal_top",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d6e/structhpx_1_1util_1_1logging_1_1op__equal_1_1same__type__op__equal__top.html"];
+}

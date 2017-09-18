@@ -1,0 +1,5 @@
+<map id="hpx::parcelset::parcel::destination_locality_id" name="hpx::parcelset::parcel::destination_locality_id">
+<area shape="rect" id="node2" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="212,5,379,47"/>
+<area shape="rect" id="node3" href="$d7/d11/classhpx_1_1parcelset_1_1parcel.html#aaa10a98ee2caf5763b688786fee6d346" title="hpx::parcelset::parcel\l::destination_locality" alt="" coords="222,71,369,112"/>
+<area shape="rect" id="node4" href="$d7/d11/classhpx_1_1parcelset_1_1parcel.html#a0b480471c167ca899eb631e4984ef72e" title="hpx::parcelset::parcel\l::addr" alt="" coords="427,71,573,112"/>
+</map>

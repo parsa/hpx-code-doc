@@ -1,0 +1,35 @@
+digraph "test_client"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="test_client",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::components::client\l_base\< test_client, test\l_server \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dad/classhpx_1_1components_1_1client__base.html"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="detail::make_stub\<\l test_server  \>::type",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dfa/structhpx_1_1components_1_1stub__base.html"];
+  Node3 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< test_client, test\l_server \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::components::client\l_base\< Derived, Stub \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dad/classhpx_1_1components_1_1client__base.html"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="detail::make_stub\<\l Stub \>::type",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dfa/structhpx_1_1components_1_1stub__base.html"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="client_base\< test_client,\l stub_base\< test_server \> \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hpx::components::client\l_base\< test_client, hpx\l::components::stub_base\l\< test_server \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dad/classhpx_1_1components_1_1client__base.html"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="detail::make_stub\<\l hpx::components::stub\l_base\< test_server \> \l \>::type",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dfa/structhpx_1_1components_1_1stub__base.html"];
+  Node3 -> Node6 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< test_client, hpx\l::components::stub_base\l\< test_server \> \>" ,fontname="Helvetica"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

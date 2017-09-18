@@ -1,0 +1,7 @@
+<map id="hpx::lcos::local::detail::counting_semaphore::signal" name="hpx::lcos::local::detail::counting_semaphore::signal">
+<area shape="rect" id="node2" href="$df/d53/classhpx_1_1lcos_1_1local_1_1counting__semaphore__var.html#a5eab648deb92bdd61e680ea16d736f1a" title="Signal the semaphore. " alt="" coords="268,5,435,47"/>
+<area shape="rect" id="node5" href="$d3/d61/classhpx_1_1lcos_1_1local_1_1detail_1_1counting__semaphore.html#a182df19eb28dc4d52b76af0a215504c0" title="hpx::lcos::local::detail\l::counting_semaphore::signal_all" alt="" coords="245,71,457,112"/>
+<area shape="rect" id="node3" href="$df/de9/counting__semaphore_8cpp.html#a0fa8b6f00a50c12c67081694e52808ed" title="worker" alt="" coords="565,13,625,39"/>
+<area shape="rect" id="node4" href="$df/de9/counting__semaphore_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="732,13,811,39"/>
+<area shape="rect" id="node6" href="$df/d53/classhpx_1_1lcos_1_1local_1_1counting__semaphore__var.html#ab84775371273cc64284cabe1477d46c0" title="hpx::lcos::local::counting\l_semaphore_var::signal_all" alt="" coords="505,71,684,112"/>
+</map>

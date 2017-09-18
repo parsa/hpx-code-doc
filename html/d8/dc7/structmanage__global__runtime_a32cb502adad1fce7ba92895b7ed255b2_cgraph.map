@@ -1,0 +1,7 @@
+<map id="manage_global_runtime::hpx_main" name="manage_global_runtime::hpx_main">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="227,13,368,39"/>
+<area shape="rect" id="node4" href="$d4/d84/classhpx_1_1lcos_1_1local_1_1condition__variable__any.html#a7340c4110e744983185671da6a5ed289" title="hpx::lcos::local::condition\l_variable_any::wait" alt="" coords="212,64,383,105"/>
+<area shape="rect" id="node6" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="252,130,343,157"/>
+<area shape="rect" id="node3" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="431,5,593,47"/>
+<area shape="rect" id="node5" href="$df/dad/namespacehpx_1_1util.html#a4f5b17e2809bff886e3e10868af110b8" title="hpx::util::ignore_lock" alt="" coords="441,71,583,98"/>
+</map>

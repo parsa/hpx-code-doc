@@ -1,0 +1,6 @@
+<map id="hpx::threads::resource_manager::get_resource_allocation" name="hpx::threads::resource_manager::get_resource_allocation">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#af4f0809fabfd08200b0b1891e351ea6c" title="hpx::threads::get_resource\l_allocation" alt="" coords="216,13,393,54"/>
+<area shape="rect" id="node3" href="$d8/d2f/tests_2unit_2threads_2resource__manager_8cpp.html#a5a66118f23a80d346a51a985b66a30c4" title="verify_resource_allocation" alt="" coords="441,20,612,47"/>
+<area shape="rect" id="node4" href="$d8/d2f/tests_2unit_2threads_2resource__manager_8cpp.html#aa8f97d3d24354d99bb7a3c33bcd40c49" title="test_executors" alt="" coords="660,20,768,47"/>
+<area shape="rect" id="node5" href="$d8/d2f/tests_2unit_2threads_2resource__manager_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="816,20,895,47"/>
+</map>

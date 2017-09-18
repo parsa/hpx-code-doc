@@ -1,0 +1,11 @@
+<map id="hpx::parallel::v1::adjacent_find" name="hpx::parallel::v1::adjacent_find">
+<area shape="rect" id="node2" href="$d2/d99/adjacentfind_8cpp.html#a085124d7b6db3951bf6d7da430a9c479" title="test_adjacent_find" alt="" coords="173,5,300,32"/>
+<area shape="rect" id="node4" href="$d2/d99/adjacentfind_8cpp.html#a6c4a437f1bd2b84e48588b6839ac8ec3" title="test_adjacent_find\l_async" alt="" coords="173,57,300,98"/>
+<area shape="rect" id="node5" href="$d3/d2a/adjacentfind__bad__alloc_8cpp.html#ae2b863c26777c67ecfddb3e3592290c2" title="test_adjacent_find\l_bad_alloc" alt="" coords="173,122,300,163"/>
+<area shape="rect" id="node7" href="$d3/d2a/adjacentfind__bad__alloc_8cpp.html#a7d7db2b4a1ef1c84692230ea8fae030a" title="test_adjacent_find\l_bad_alloc_async" alt="" coords="173,187,300,229"/>
+<area shape="rect" id="node8" href="$d8/da8/adjacentfind__binary__exception_8cpp.html#a9c28e0ba7bc14756b350c9f72dd94054" title="test_adjacent_find\l_exception" alt="" coords="173,253,300,294"/>
+<area shape="rect" id="node10" href="$d8/da8/adjacentfind__binary__exception_8cpp.html#a7b804f0c887a76a95e4e5f1cf16dc343" title="test_adjacent_find\l_exception_async" alt="" coords="173,318,300,359"/>
+<area shape="rect" id="node3" href="$d2/d99/adjacentfind_8cpp.html#a466f88b66e1561e75c71c0e2d041c4e6" title="test_adjacent_find" alt="" coords="348,35,475,61"/>
+<area shape="rect" id="node6" href="$d3/d2a/adjacentfind__bad__alloc_8cpp.html#a7110c49182a3fd0885681f46a94bbc4c" title="test_adjacent_find\l_bad_alloc" alt="" coords="348,171,475,213"/>
+<area shape="rect" id="node9" href="$d8/da8/adjacentfind__binary__exception_8cpp.html#ab77f704bc29279f34486611b31dd9f19" title="test_adjacent_find\l_exception" alt="" coords="348,269,475,310"/>
+</map>

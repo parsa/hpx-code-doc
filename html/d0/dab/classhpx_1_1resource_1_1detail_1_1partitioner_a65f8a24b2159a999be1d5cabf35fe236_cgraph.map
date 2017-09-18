@@ -1,0 +1,6 @@
+<map id="hpx::resource::detail::partitioner::expand_pool" name="hpx::resource::detail::partitioner::expand_pool">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="221,13,363,39"/>
+<area shape="rect" id="node4" href="$dc/d21/classhpx_1_1resource_1_1detail_1_1init__pool__data.html#ae87d75e52b8c3887abe2b3bea9f719d3" title="hpx::resource::detail\l::init_pool_data::pu\l_is_exclusive" alt="" coords="222,63,362,119"/>
+<area shape="rect" id="node5" href="$dc/d21/classhpx_1_1resource_1_1detail_1_1init__pool__data.html#a068307cf3c566af597b9df1580ba231f" title="hpx::resource::detail\l::init_pool_data::pu\l_is_assigned" alt="" coords="222,143,362,199"/>
+<area shape="rect" id="node3" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="411,5,573,47"/>
+</map>

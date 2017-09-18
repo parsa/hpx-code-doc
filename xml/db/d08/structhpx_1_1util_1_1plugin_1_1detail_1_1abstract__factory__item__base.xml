@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="db/d08/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item__base" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::util::plugin::detail::abstract_factory_item_base</compoundname>
+    <includes refid="d5/da5/abstract__factory_8hpp" local="no">abstract_factory.hpp</includes>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="db/d08/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item__base_1a162c13f16fc09bc458307e9b8ff6ffd8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type></type>
+        <definition>virtual hpx::util::plugin::detail::abstract_factory_item_base::~abstract_factory_item_base</definition>
+        <argsstring>()</argsstring>
+        <name>~abstract_factory_item_base</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/util/plugin/abstract_factory.hpp" line="19" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/util/plugin/abstract_factory.hpp" bodystart="19" bodyend="19"/>
+        <references refid="db/d08/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item__base_1a9f36fb64f70703dc80b4d8bdde30a29b">create</references>
+      </memberdef>
+      <memberdef kind="function" id="db/d08/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item__base_1a9f36fb64f70703dc80b4d8bdde30a29b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void hpx::util::plugin::detail::abstract_factory_item_base::create</definition>
+        <argsstring>(int *******)</argsstring>
+        <name>create</name>
+        <param>
+          <type>int *******</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/util/plugin/abstract_factory.hpp" line="20" column="1"/>
+        <referencedby refid="db/d08/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item__base_1a162c13f16fc09bc458307e9b8ff6ffd8" compoundref="d5/da5/abstract__factory_8hpp" startline="19" endline="19">~abstract_factory_item_base</referencedby>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/util/plugin/abstract_factory.hpp" line="18" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/util/plugin/abstract_factory.hpp" bodystart="17" bodyend="21"/>
+    <listofallmembers>
+      <member refid="db/d08/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item__base_1a9f36fb64f70703dc80b4d8bdde30a29b" prot="public" virt="non-virtual"><scope>hpx::util::plugin::detail::abstract_factory_item_base</scope><name>create</name></member>
+      <member refid="db/d08/structhpx_1_1util_1_1plugin_1_1detail_1_1abstract__factory__item__base_1a162c13f16fc09bc458307e9b8ff6ffd8" prot="public" virt="virtual"><scope>hpx::util::plugin::detail::abstract_factory_item_base</scope><name>~abstract_factory_item_base</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,10 @@
+<map id="hpx::serialization::HPX_SERIALIZATION_SPLIT_FREE_TEMPLATE" name="hpx::serialization::HPX_SERIALIZATION_SPLIT_FREE_TEMPLATE">
+<area shape="rect" id="node2" href="$d5/d3c/namespacehpx_1_1serialization.html#aa9e1fa3878a0507120d04d24a603ee24" title="hpx::serialization\l::save" alt="" coords="235,203,355,244"/>
+<area shape="rect" id="node8" href="$d5/d3c/namespacehpx_1_1serialization.html#a4f25225154ff39784d62d0dfafd319bb" title="hpx::serialization\l::load" alt="" coords="235,312,355,353"/>
+<area shape="rect" id="node3" href="$d9/de8/structhpx_1_1actions_1_1base__action.html#a50205c3da0fa49594bb136757d9eb159" title="Destructor. " alt="" coords="406,5,557,47"/>
+<area shape="rect" id="node4" href="$db/d3a/structhpx_1_1naming_1_1detail_1_1id__type__impl.html#a9a8d688a3e392cff3bfc2dc23e5e8487" title="hpx::naming::detail\l::id_type_impl::set\l_management_type" alt="" coords="413,71,549,127"/>
+<area shape="rect" id="node5" href="$d4/d01/structhpx_1_1serialization_1_1output__archive.html#a398ca6dda90e4be04e4e0ee5f92af193" title="hpx::serialization\l::output_archive::output\l_archive" alt="" coords="403,151,560,207"/>
+<area shape="rect" id="node6" href="$d6/d6a/classhpx_1_1serialization_1_1detail_1_1polymorphic__nonintrusive__factory.html#a5da7f1d456ff70a4633156acc074df4d" title="hpx::serialization\l::detail::polymorphic\l_nonintrusive_factory\l::register_class" alt="" coords="410,232,553,303"/>
+<area shape="rect" id="node7" href="$d5/d3c/namespacehpx_1_1serialization.html#ae57f7833a944385af5657dd946019c51" title="hpx::serialization\l::load" alt="" coords="421,327,541,368"/>
+<area shape="rect" id="node9" href="$de/d98/structhpx_1_1serialization_1_1variant__impl_3_01_t_00_01_ts_8_8_8_01_4.html#acb4060c893394d736520e43165db843f" title="hpx::serialization\l::variant_impl\&lt; T, Ts...\l \&gt;::load" alt="" coords="406,393,557,449"/>
+</map>

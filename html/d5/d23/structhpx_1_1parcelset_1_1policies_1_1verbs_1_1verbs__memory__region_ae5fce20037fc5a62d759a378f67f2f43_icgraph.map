@@ -1,0 +1,7 @@
+<map id="hpx::parcelset::policies::verbs::verbs_memory_region::get_length" name="hpx::parcelset::policies::verbs::verbs_memory_region::get_length">
+<area shape="rect" id="node2" href="$d5/d23/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1verbs__memory__region.html#ae22fc2a3cf07d3e72d297fb5f7d3de1e" title="hpx::parcelset::policies\l::verbs::verbs_memory_region\l::verbs_memory_region" alt="" coords="248,5,443,61"/>
+<area shape="rect" id="node3" href="$d5/d23/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1verbs__memory__region.html#ad8bee2a3028f754fb77cfb2b7481a06c" title="hpx::parcelset::policies\l::verbs::verbs_memory_region\l::allocate" alt="" coords="248,85,443,141"/>
+<area shape="rect" id="node5" href="$d5/d23/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1verbs__memory__region.html#af21636cdad848b952d4f3670a63fa299" title="hpx::parcelset::policies\l::verbs::verbs_memory_region\l::release" alt="" coords="248,165,443,221"/>
+<area shape="rect" id="node4" href="$d8/d75/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1rdma__memory__pool.html#a58a570b3fa23c0eec14efd575cc19bb5" title="hpx::parcelset::policies\l::verbs::rdma_memory_pool\l::allocate_temporary_region" alt="" coords="497,85,679,141"/>
+<area shape="rect" id="node6" href="$d5/d23/structhpx_1_1parcelset_1_1policies_1_1verbs_1_1verbs__memory__region.html#a7d1c118efe6a410621db9605f3891116" title="hpx::parcelset::policies\l::verbs::verbs_memory_region\l::~verbs_memory_region" alt="" coords="491,165,685,221"/>
+</map>

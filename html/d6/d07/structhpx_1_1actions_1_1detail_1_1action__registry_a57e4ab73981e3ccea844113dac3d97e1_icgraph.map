@@ -1,0 +1,6 @@
+<map id="hpx::actions::detail::action_registry::collect_registered_typenames" name="hpx::actions::detail::action_registry::collect_registered_typenames">
+<area shape="rect" id="node2" href="$d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry.html#ab7be6b90099c019bb69d12f03eee4d46" title="hpx::actions::detail\l::action_registry::get_id" alt="" coords="215,8,373,49"/>
+<area shape="rect" id="node4" href="$d6/d07/structhpx_1_1actions_1_1detail_1_1action__registry.html#a8f4100629b85e1eea1d05fe066665fe7" title="hpx::actions::detail\l::action_registry::create" alt="" coords="215,75,373,116"/>
+<area shape="rect" id="node3" href="$df/d7f/namespacehpx_1_1actions_1_1detail.html#af4c016b298446c17144dbadd1eeab696" title="hpx::actions::detail\l::get_action_id_from_name" alt="" coords="421,5,600,47"/>
+<area shape="rect" id="node5" href="$d3/dcf/structhpx_1_1actions_1_1detail_1_1register__action.html#a51136044b384532f86470e142ce0697b" title="hpx::actions::detail\l::register_action::register\l_action" alt="" coords="427,71,594,127"/>
+</map>

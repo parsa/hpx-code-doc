@@ -1,0 +1,5 @@
+<map id="hpx::traits::segmented_iterator_traits&lt; vector_iterator&lt; T, Data &gt; &gt;::compose" name="hpx::traits::segmented_iterator_traits&lt; vector_iterator&lt; T, Data &gt; &gt;::compose">
+<area shape="rect" id="node2" href="$dc/de7/classhpx_1_1segment__vector__iterator.html#a9a22eb201f8c06726b7cd66d42e2c927" title="hpx::segment_vector\l_iterator::get_data" alt="" coords="220,5,363,47"/>
+<area shape="rect" id="node3" href="$d8/d34/namespacesheneos_1_1server.html#a12e039b67b752981e161139539306f00" title="sheneos::server::index" alt="" coords="215,71,367,98"/>
+<area shape="rect" id="node4" href="$dc/dbe/classhpx_1_1local__vector__iterator.html#a4e39c917075d99e2669a0905682e57ca" title="hpx::local_vector_iterator\l::get_local_index" alt="" coords="208,123,375,164"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="hpx::lcos::barrier::wait" name="hpx::lcos::barrier::wait">
+<area shape="rect" id="node2" href="$d9/dab/classhpx_1_1lcos_1_1barrier.html#a1fcac5ce49dd1b9800affc8c8b84e4c9" title="hpx::lcos::barrier\l::wait" alt="" coords="184,5,303,47"/>
+<area shape="rect" id="node3" href="$d3/d41/classhpx_1_1process_1_1process.html#acc7ec4687f3bf5ae121ef7b494d991d8" title="hpx.process.process.join" alt="" coords="363,42,529,69"/>
+<area shape="rect" id="node4" href="$d9/dab/classhpx_1_1lcos_1_1barrier.html#a2c351a03842b3b4a0402d2449e74b8af" title="hpx::lcos::barrier\l::synchronize" alt="" coords="184,123,303,164"/>
+<area shape="rect" id="node8" href="$df/d63/tests_2unit_2lcos_2barrier_8cpp.html#a6566296f75c74632e18b039e48a255af" title="barrier_test" alt="" coords="200,189,287,215"/>
+<area shape="rect" id="node9" href="$df/d63/tests_2unit_2lcos_2barrier_8cpp.html#adfee0f3e737c1b6eb1504cceb8a2f264" title="local_tests" alt="" coords="403,239,489,266"/>
+<area shape="rect" id="node11" href="$df/d63/tests_2unit_2lcos_2barrier_8cpp.html#a9adc8ac951de324bf3ffe4f67be7bb19" title="remote_test_multiple" alt="" coords="375,290,517,317"/>
+<area shape="rect" id="node12" href="$df/d63/tests_2unit_2lcos_2barrier_8cpp.html#aaf4e523bcac1b05f8a7fe7fae51a7979" title="remote_test_single" alt="" coords="177,341,309,367"/>
+<area shape="rect" id="node13" href="$d1/d96/structspmd__block__helper.html#a574f7de08bae324f6667b28801629b94" title="spmd_block_helper::\loperator()" alt="" coords="172,392,315,433"/>
+<area shape="rect" id="node5" href="$db/daa/network__storage_8cpp.html#ad940e27486bbdb223140ebe25e357823" title="test_write" alt="" coords="407,111,485,138"/>
+<area shape="rect" id="node7" href="$db/daa/network__storage_8cpp.html#ac40bb11cad5e1d25954468e43c1bb0e2" title="test_read" alt="" coords="408,162,484,189"/>
+<area shape="rect" id="node6" href="$db/daa/network__storage_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="577,137,656,163"/>
+<area shape="rect" id="node10" href="$df/d63/tests_2unit_2lcos_2barrier_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="577,265,656,291"/>
+</map>

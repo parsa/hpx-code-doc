@@ -1,0 +1,6 @@
+<map id="hpx::util::logging::detail::slot_idx" name="hpx::util::logging::detail::slot_idx">
+<area shape="rect" id="node2" href="$d0/d2f/namespacehpx_1_1util_1_1logging_1_1detail.html#a3f3fd040459f20903d296f4765c0c91e" title="hpx::util::logging\l::detail::init_tss_data" alt="" coords="171,71,313,112"/>
+<area shape="rect" id="node3" href="$d0/d2f/namespacehpx_1_1util_1_1logging_1_1detail.html#a90f73652281abd84864086709b598b05" title="hpx::util::logging\l::detail::tss_data_native_key" alt="" coords="361,5,548,47"/>
+<area shape="rect" id="node4" href="$d0/d2f/namespacehpx_1_1util_1_1logging_1_1detail.html#a66bd2bdbee96a95d456ab0ed7da5cebf" title="hpx::util::logging\l::detail::cleanup_slots" alt="" coords="380,71,529,112"/>
+<area shape="rect" id="node5" href="$d0/d2f/namespacehpx_1_1util_1_1logging_1_1detail.html#a18a43c9da4a6f7fffb615bef542d91b2" title="hpx::util::logging\l::detail::object_deleter" alt="" coords="379,136,530,177"/>
+</map>

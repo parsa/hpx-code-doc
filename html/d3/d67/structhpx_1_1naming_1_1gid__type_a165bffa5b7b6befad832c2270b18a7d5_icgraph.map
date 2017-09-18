@@ -1,0 +1,20 @@
+<map id="hpx::naming::gid_type::unlock" name="hpx::naming::gid_type::unlock">
+<area shape="rect" id="node2" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a36bf06018d30e574c731af78319595d2" title="Resolve a locality to its prefix. " alt="" coords="219,275,384,317"/>
+<area shape="rect" id="node14" href="$d7/d3a/structhpx_1_1agas_1_1server_1_1primary__namespace.html#ab1681a26c8e8cc901a7e21544a88a951" title="hpx::agas::server::\lprimary_namespace::bind_gid" alt="" coords="204,345,399,386"/>
+<area shape="rect" id="node19" href="$d7/d3a/structhpx_1_1agas_1_1server_1_1primary__namespace.html#a87560fb730ac846b91fc7287dc4e247b" title="hpx::agas::server::\lprimary_namespace::allocate" alt="" coords="205,410,397,451"/>
+<area shape="rect" id="node3" href="$db/d9f/classhpx_1_1parcelset_1_1policies_1_1libfabric_1_1libfabric__controller.html#a96eeb6553564bb53a45fd8e516afe9b1" title="hpx::parcelset::policies\l::libfabric::libfabric\l_controller::initialize\l_localities" alt="" coords="464,181,620,251"/>
+<area shape="rect" id="node4" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a5e857a3061fc6df60c1d5fd8988b5e3e" title="hpx::parcelset::parcelhandler\l::find_appropriate_destination" alt="" coords="447,275,637,317"/>
+<area shape="rect" id="node5" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#ac47bfb07dba5c3273d36fabe0868d43b" title="hpx::parcelset::parcelhandler\l::put_parcel" alt="" coords="690,130,879,171"/>
+<area shape="rect" id="node9" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a32ef958ef057a82fe01c70df5da51c6a" title="hpx::parcelset::parcelhandler\l::put_parcels" alt="" coords="690,275,879,317"/>
+<area shape="rect" id="node6" href="$d6/d81/structhpx_1_1parcelset_1_1detail_1_1put__parcel__handler.html#a108c3182042dc70fac236ffefd75df24" title="hpx::parcelset::detail\l::put_parcel_handler::\loperator()" alt="" coords="969,5,1116,61"/>
+<area shape="rect" id="node7" href="$d1/df2/structhpx_1_1parcelset_1_1detail_1_1put__parcel__handler__cb.html#a2748057527af1b9f5f5984703b59d8f8" title="hpx::parcelset::detail\l::put_parcel_handler_cb\l::operator()" alt="" coords="963,85,1123,141"/>
+<area shape="rect" id="node8" href="$d7/d3a/structhpx_1_1agas_1_1server_1_1primary__namespace.html#a9037a1baa55fb13097a541bc365f2d0b" title="hpx::agas::server::\lprimary_namespace::route" alt="" coords="955,166,1131,207"/>
+<area shape="rect" id="node10" href="$df/d23/put__parcels_8cpp.html#a60e7e37daaa74f7106c7cf614d219a87" title="test_plain_argument" alt="" coords="973,232,1112,259"/>
+<area shape="rect" id="node12" href="$df/d23/put__parcels_8cpp.html#aaffb237829db631d8aaaf45d07e1ad9b" title="test_future_argument" alt="" coords="971,283,1115,309"/>
+<area shape="rect" id="node13" href="$df/d23/put__parcels_8cpp.html#a24eb81d6a10219027bfd00fa26f0d382" title="test_mixed_arguments" alt="" coords="965,333,1120,360"/>
+<area shape="rect" id="node11" href="$df/d23/put__parcels_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="1277,283,1356,309"/>
+<area shape="rect" id="node15" href="$dc/d72/structhpx_1_1agas_1_1server_1_1locality__namespace.html#a584777211619893840252d5c72b726ac" title="hpx::agas::server::\llocality_namespace::\lallocate" alt="" coords="469,359,615,415"/>
+<area shape="rect" id="node16" href="$d2/d28/structhpx_1_1agas_1_1detail_1_1bootstrap__locality__namespace.html#a17fa8a29a5b6c64ac5f92b67fd816be1" title="hpx::agas::detail::\lbootstrap_locality_namespace\l::allocate" alt="" coords="685,368,884,424"/>
+<area shape="rect" id="node17" href="$d2/d28/structhpx_1_1agas_1_1detail_1_1bootstrap__locality__namespace.html#a5d4dcef228d9a8e6040f2e404546a7b8" title="hpx::agas::detail::\lbootstrap_locality_namespace::ptr" alt="" coords="932,385,1153,426"/>
+<area shape="rect" id="node18" href="$d2/d28/structhpx_1_1agas_1_1detail_1_1bootstrap__locality__namespace.html#a6a5b1a39f25283d49aae9a42b5c4388a" title="hpx::agas::detail::\lbootstrap_locality_namespace::addr" alt="" coords="1201,385,1432,426"/>
+</map>

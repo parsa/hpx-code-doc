@@ -1,0 +1,33 @@
+<map id="test_normal_serialization" name="test_normal_serialization">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="250,63,353,90"/>
+<area shape="rect" id="node6" href="$d8/d83/namespacehpx.html#aa16b81ab9efec229b7b8810b1ec57dd5" title="The function get_locality returns a reference to the locality prefix. " alt="" coords="243,165,360,191"/>
+<area shape="rect" id="node10" href="$d4/dea/zero__copy__serialization_8cpp.html#aaea9d504330bce541e67b47f8600afd2" title="test_function1" alt="" coords="250,215,353,242"/>
+<area shape="rect" id="node11" href="$db/dee/structhpx_1_1naming_1_1id__type.html#a0375af42ca6b0ff79e627d91bfae571b" title="hpx::naming::id_type\l::get_gid" alt="" coords="456,311,599,352"/>
+<area shape="rect" id="node12" href="$d1/d78/structhpx_1_1parcelset_1_1detail_1_1create__parcel.html#a62b65942f923f68ecf7217b8d48c1157" title="hpx::parcelset::detail\l::create_parcel::call" alt="" coords="230,383,373,424"/>
+<area shape="rect" id="node13" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="452,390,603,417"/>
+<area shape="rect" id="node15" href="$d7/d11/classhpx_1_1parcelset_1_1parcel.html#a01cf5292392602279a622e88810bf2a8" title="hpx::parcelset::parcel\l::set_source_id" alt="" coords="228,317,375,359"/>
+<area shape="rect" id="node16" href="$d4/dea/zero__copy__serialization_8cpp.html#a169330aa77c78eb70d3ed75a7a8e7576" title="test_parcel_serialization" alt="" coords="220,847,383,874"/>
+<area shape="rect" id="node3" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="436,13,619,39"/>
+<area shape="rect" id="node5" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="447,63,607,90"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="673,5,836,47"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="468,114,587,141"/>
+<area shape="rect" id="node8" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="450,165,605,207"/>
+<area shape="rect" id="node9" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ab52c19a37c2a7a006c6c15f90ad0539c" title="hpx::agas::addressing\l_service::get_local_locality" alt="" coords="439,231,616,272"/>
+<area shape="rect" id="node14" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="695,379,815,420"/>
+<area shape="rect" id="node17" href="$d4/dea/zero__copy__serialization_8cpp.html#a2ce6fdb1e93bd2913668490cc25b690b" title="get_archive_size" alt="" coords="468,447,587,474"/>
+<area shape="rect" id="node19" href="$d4/d01/structhpx_1_1serialization_1_1output__archive.html#ab0a90e2c176280cffb97640e2687349f" title="hpx::serialization\l::output_archive::bytes\l_written" alt="" coords="451,498,604,554"/>
+<area shape="rect" id="node20" href="$d7/d11/classhpx_1_1parcelset_1_1parcel.html#a208d489a8b4ac9dfc5c925695b497e15" title="hpx::parcelset::parcel\l::source_id" alt="" coords="454,579,601,620"/>
+<area shape="rect" id="node21" href="$d7/d11/classhpx_1_1parcelset_1_1parcel.html#aaa10a98ee2caf5763b688786fee6d346" title="hpx::parcelset::parcel\l::destination_locality" alt="" coords="454,644,601,685"/>
+<area shape="rect" id="node23" href="$d7/d11/classhpx_1_1parcelset_1_1parcel.html#ac855b6ea0217f6d7b9463dcbcb5a49c4" title="hpx::parcelset::parcel\l::start_time" alt="" coords="454,709,601,751"/>
+<area shape="rect" id="node24" href="$d7/d11/classhpx_1_1parcelset_1_1parcel.html#ae588965977f5f140e9ec161202e9a5b6" title="hpx::parcelset::parcel\l::get_action" alt="" coords="454,775,601,816"/>
+<area shape="rect" id="node25" href="$d9/de8/structhpx_1_1actions_1_1base__action.html#a8d96b5dda2533c119e2fa85e4a6df448" title="hpx::actions::base\l_action::get_component_type" alt="" coords="431,840,624,881"/>
+<area shape="rect" id="node26" href="$d9/de8/structhpx_1_1actions_1_1base__action.html#a29daf1e87ec0afdc63f7d97e3136aba7" title="hpx::actions::base\l_action::get_action_name" alt="" coords="442,905,613,947"/>
+<area shape="rect" id="node27" href="$d9/de8/structhpx_1_1actions_1_1base__action.html#a2ae7aed81fb33ea69483a60c1aba1dcf" title="hpx::actions::base\l_action::get_action_type" alt="" coords="445,971,609,1012"/>
+<area shape="rect" id="node28" href="$d9/de8/structhpx_1_1actions_1_1base__action.html#a1aaffe741ba809798b9f59f6d7a33df1" title="return the id of the locality of the parent thread " alt="" coords="461,1037,594,1093"/>
+<area shape="rect" id="node29" href="$d9/de8/structhpx_1_1actions_1_1base__action.html#acff388bde582de234b252fe81b0cd96e" title="Return the thread id of the parent thread. " alt="" coords="461,1117,594,1173"/>
+<area shape="rect" id="node30" href="$d9/de8/structhpx_1_1actions_1_1base__action.html#a7a43f575ad71ce6195154185b211522c" title="Return the thread phase of the parent thread. " alt="" coords="461,1197,594,1253"/>
+<area shape="rect" id="node31" href="$d9/de8/structhpx_1_1actions_1_1base__action.html#afd89de02c313eb5cb78a7f38a4c7a26c" title="Return the thread priority this action has to be executed with. " alt="" coords="461,1277,594,1333"/>
+<area shape="rect" id="node32" href="$d9/de8/structhpx_1_1actions_1_1base__action.html#a288be5f46eb3086d2775b190388e9f70" title="Return the thread stacksize this action has to be executed with. " alt="" coords="461,1357,594,1413"/>
+<area shape="rect" id="node18" href="$df/db6/classhpx_1_1serialization_1_1detail_1_1preprocess.html#a0f7bbb2ca7fba9b0f58a0c6cbc286f2a" title="hpx::serialization\l::detail::preprocess::size" alt="" coords="672,444,837,485"/>
+<area shape="rect" id="node22" href="$d7/d11/classhpx_1_1parcelset_1_1parcel.html#a0b480471c167ca899eb631e4984ef72e" title="hpx::parcelset::parcel\l::addr" alt="" coords="681,644,828,685"/>
+</map>

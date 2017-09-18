@@ -1,0 +1,10 @@
+<map id="hpx::parcelset::detail::parcel_route_handler" name="hpx::parcelset::detail::parcel_route_handler">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="706,61,825,88"/>
+<area shape="rect" id="node3" href="$d0/d7b/classhpx_1_1runtime.html#aa3997c2fc929d3bb84bcb100b4b66e8d" title="hpx::runtime::get_parcel\l_handler" alt="" coords="217,47,380,89"/>
+<area shape="rect" id="node4" href="$d4/d2f/classhpx_1_1parcelset_1_1parcelhandler.html#a35c27ee3649c6062572a389b4c386394" title="hpx::parcelset::parcelhandler\l::invoke_write_handler" alt="" coords="204,113,393,154"/>
+<area shape="rect" id="node5" href="$d7/d11/classhpx_1_1parcelset_1_1parcel.html#a8043db3115c5e00ec6988bdd4e5eab91" title="hpx::parcelset::parcel\l::does_termination_detection" alt="" coords="204,178,393,219"/>
+<area shape="rect" id="node6" href="$d5/dbe/namespacehpx_1_1detail.html#ac6d90f314ffbe8f7bbe3f3e34b2f6aa5" title="hpx::detail::dijkstra\l_make_black" alt="" coords="233,243,365,285"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#ac8bb2dbc9d69dce929180e2679a9f56f" title="hpx::get_runtime_support_ptr" alt="" coords="441,152,632,179"/>
+<area shape="rect" id="node9" href="$d8/d25/classhpx_1_1components_1_1server_1_1runtime__support.html#a003e2dcc7a6c16cf79ee72c8967563f4" title="hpx::components::server\l::runtime_support::dijkstra\l_make_black" alt="" coords="450,236,623,292"/>
+<area shape="rect" id="node8" href="$d0/d7b/classhpx_1_1runtime.html#aa284ae9894186555459b37cef96ab1f2" title="hpx::runtime::get_runtime\l_support_lva" alt="" coords="680,145,851,186"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="hpx::performance_counters::get_counter_async" name="hpx::performance_counters::get_counter_async">
+<area shape="rect" id="node2" href="$d0/d36/namespacehpx_1_1performance__counters.html#a341ddf2635c40e95b499b09cb73940f4" title="hpx::performance_counters\l::add_counter_type" alt="" coords="232,126,411,167"/>
+<area shape="rect" id="node3" href="$d0/d36/namespacehpx_1_1performance__counters.html#ab7849064e361c28c8975a47717e5f05e" title="hpx::performance_counters\l::get_counter" alt="" coords="232,191,411,233"/>
+<area shape="rect" id="node29" href="$db/d1c/structhpx_1_1performance__counters_1_1performance__counter.html#af1711af1a9b957f17c431bffe6b706c1" title="hpx::performance_counters\l::performance_counter::\lperformance_counter" alt="" coords="232,257,411,313"/>
+<area shape="rect" id="node4" href="$d0/d6b/1d__stencil__4__repart_8cpp.html#ab1bf1c667fac5b7c94245e4173d59db7" title="setup_counters" alt="" coords="493,5,603,32"/>
+<area shape="rect" id="node6" href="$d6/de5/1d__stencil__4__throttle_8cpp.html#a244d1f7245f95f51debac25fb31b52b7" title="get_counter_id" alt="" coords="495,56,601,83"/>
+<area shape="rect" id="node9" href="$d9/d0b/classhpx_1_1util_1_1activate__counters.html#acc7f93dc5cd3bf46dbcfbe72012f2ff6" title="hpx::util::activate\l_counters::find_counter" alt="" coords="469,107,627,149"/>
+<area shape="rect" id="node13" href="$d5/d01/apex__policy__engine__active__thread__count_8cpp.html#aa9a1997d5209d835cd3c458d97214805" title="fibonacci" alt="" coords="511,173,585,200"/>
+<area shape="rect" id="node14" href="$d8/d98/heartbeat_8cpp.html#ad6fb83b159107518a0eae38fedf4bbd9" title="monitor" alt="" coords="515,224,581,251"/>
+<area shape="rect" id="node17" href="$da/dc8/papi__counters__basic__functions_8cpp.html#a344a9bb316c276641af2d061a2558c97" title="hpx_main" alt="" coords="509,275,587,301"/>
+<area shape="rect" id="node18" href="$df/d08/classhpx_1_1performance__counters_1_1performance__counter__set.html#a848fe9c57582888c33da9340854c43ae" title="hpx::performance_counters\l::performance_counter_set\l::find_counter" alt="" coords="459,325,637,381"/>
+<area shape="rect" id="node23" href="$d6/d3f/classhpx_1_1performance__counters_1_1server_1_1statistics__counter.html#ae6c43d5422e5422c7fc67e28720fc395" title="hpx::performance_counters\l::server::statistics_counter\l::ensure_base_counter" alt="" coords="459,432,637,488"/>
+<area shape="rect" id="node5" href="$d0/d6b/1d__stencil__4__repart_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="764,5,815,32"/>
+<area shape="rect" id="node7" href="$d6/de5/1d__stencil__4__throttle_8cpp.html#ab1bf1c667fac5b7c94245e4173d59db7" title="setup_counters" alt="" coords="734,56,845,83"/>
+<area shape="rect" id="node8" href="$d6/de5/1d__stencil__4__throttle_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1021,56,1071,83"/>
+<area shape="rect" id="node10" href="$d9/d0b/classhpx_1_1util_1_1activate__counters.html#a797f766dd5e2416f54a5a91b267bedd4" title="hpx::util::activate\l_counters::find_counters" alt="" coords="707,107,871,149"/>
+<area shape="rect" id="node11" href="$d9/d0b/classhpx_1_1util_1_1activate__counters.html#af2193bbb81054707baea1f8f19d63ddf" title="hpx::util::activate\l_counters::start_counters" alt="" coords="961,107,1131,149"/>
+<area shape="rect" id="node12" href="$d9/d0b/classhpx_1_1util_1_1activate__counters.html#a58030114fe706c120ec4d6d793da25d7" title="hpx::util::activate\l_counters::activate\l_counters" alt="" coords="1223,100,1353,156"/>
+<area shape="rect" id="node15" href="$d6/d80/credit__exhaustion_8cpp.html#a9a1c75cfa4bc8637fb9e22dfdca0891a" title="hpx_test_main" alt="" coords="736,185,843,212"/>
+<area shape="rect" id="node16" href="$d8/d98/heartbeat_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="750,236,829,263"/>
+<area shape="rect" id="node19" href="$df/d08/classhpx_1_1performance__counters_1_1performance__counter__set.html#a82a5e55260f2b6380aea7a67db23ee37" title="hpx::performance_counters\l::performance_counter_set\l::add_counters" alt="" coords="700,312,879,368"/>
+<area shape="rect" id="node20" href="$df/d08/classhpx_1_1performance__counters_1_1performance__counter__set.html#a98a228aa71d402b00fb39dcd660aa80f" title="hpx::performance_counters\l::performance_counter_set\l::performance_counter_set" alt="" coords="957,239,1135,295"/>
+<area shape="rect" id="node21" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#a5348e11b9ef51989bcebe43621816a28" title="hpx::util::query_counters\l::find_counters" alt="" coords="963,319,1129,361"/>
+<area shape="rect" id="node22" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#aa24a6ab24531938c6bd7b143bc8857ad" title="hpx::util::query_counters\l::start" alt="" coords="1205,319,1371,361"/>
+<area shape="rect" id="node24" href="$d6/d3f/classhpx_1_1performance__counters_1_1server_1_1statistics__counter.html#afea32e6ba9a2ca14fb3e476bf00b77f8" title="hpx::performance_counters\l::server::statistics_counter\l::evaluate_base_counter" alt="" coords="700,392,879,448"/>
+<area shape="rect" id="node26" href="$d6/d3f/classhpx_1_1performance__counters_1_1server_1_1statistics__counter.html#abec31473278350e90dbeecf08942dfda" title="hpx::performance_counters\l::server::statistics_counter::start" alt="" coords="941,466,1151,507"/>
+<area shape="rect" id="node28" href="$d6/d3f/classhpx_1_1performance__counters_1_1server_1_1statistics__counter.html#aad134588b9707f675b2c28f3831e7724" title="hpx::performance_counters\l::server::statistics_counter::stop" alt="" coords="685,523,893,565"/>
+<area shape="rect" id="node25" href="$d6/d3f/classhpx_1_1performance__counters_1_1server_1_1statistics__counter.html#a2f25a4facc01e405ac5f022f7e426ffe" title="hpx::performance_counters\l::server::statistics_counter\l::evaluate" alt="" coords="957,385,1135,441"/>
+<area shape="rect" id="node27" href="$d6/d3f/classhpx_1_1performance__counters_1_1server_1_1statistics__counter.html#a7b610acf7dd5e386bc1c8d9c9ff48b5a" title="hpx::performance_counters\l::server::statistics_counter\l::statistics_counter" alt="" coords="1199,459,1377,515"/>
+</map>

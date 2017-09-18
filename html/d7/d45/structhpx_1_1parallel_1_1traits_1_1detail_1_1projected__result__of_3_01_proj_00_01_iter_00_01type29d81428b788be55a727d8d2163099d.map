@@ -1,0 +1,5 @@
+<map id="hpx::parallel::traits::detail::projected_result_of&lt; Proj, Iter, typename std::enable_if&lt; hpx::traits::is_iterator&lt; Iter &gt;::value &gt;::type &gt;" name="hpx::parallel::traits::detail::projected_result_of&lt; Proj, Iter, typename std::enable_if&lt; hpx::traits::is_iterator&lt; Iter &gt;::value &gt;::type &gt;">
+<area shape="rect" id="node2" href="$d6/df1/structhpx_1_1util_1_1invoke__result.html" title="hpx::util::invoke_result\l\&lt; Proj, std::iterator_traits\l\&lt; Iter \&gt;::reference \&gt;" alt="" coords="416,27,583,83"/>
+<area shape="rect" id="node3" href="$dc/dbd/structhpx_1_1util_1_1detail_1_1result__of__impl.html" title="hpx::util::detail::\lresult_of_impl\&lt; std\l::decay\&lt; Proj \&gt;::type,\l Proj &amp;&amp;(Ts &amp;&amp;...)\&gt;" alt="" coords="219,20,368,91"/>
+<area shape="rect" id="node4" href="$dc/db3/structhpx_1_1util_1_1detail_1_1result__of__function__object__impl_1_1result__of__function__object.html" title="hpx::util::detail::\lresult_of_function_object\l_impl::result_of_function\l_object\&lt; Proj &amp;&amp; \&gt;" alt="" coords="5,20,171,91"/>
+</map>

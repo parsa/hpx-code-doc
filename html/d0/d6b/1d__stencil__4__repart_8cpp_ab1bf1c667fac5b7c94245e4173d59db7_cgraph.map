@@ -1,0 +1,10 @@
+<map id="setup_counters" name="setup_counters">
+<area shape="rect" id="node2" href="$d0/d36/namespacehpx_1_1performance__counters.html#ab7849064e361c28c8975a47717e5f05e" title="hpx::performance_counters\l::get_counter" alt="" coords="164,63,343,104"/>
+<area shape="rect" id="node5" href="$d5/d2b/structhpx_1_1performance__counters_1_1counter__value.html#a6b3d9b08f72082bbca3d82e2f61985aa" title="Retrieve the &#39;real&#39; value of the counter_value, converted to the requested type T. " alt="" coords="164,128,343,169"/>
+<area shape="rect" id="node3" href="$d0/d36/namespacehpx_1_1performance__counters.html#aa69496dbba46619d8d3179c86801f1c7" title="Get the global id of an existing performance counter, if the counter does not exist yet..." alt="" coords="391,5,569,47"/>
+<area shape="rect" id="node4" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="409,71,551,98"/>
+<area shape="rect" id="node6" href="$d0/d36/namespacehpx_1_1performance__counters.html#a02f879175b5bb99013a8c79f66e57213" title="hpx::performance_counters\l::status_is_valid" alt="" coords="391,125,569,167"/>
+<area shape="rect" id="node7" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="461,191,499,218"/>
+<area shape="rect" id="node8" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="617,191,704,218"/>
+<area shape="rect" id="node9" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="752,184,917,225"/>
+</map>

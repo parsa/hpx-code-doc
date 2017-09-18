@@ -1,0 +1,15 @@
+<map id="HPX_REGISTER_ACTION" name="HPX_REGISTER_ACTION">
+<area shape="rect" id="node2" href="$df/dd6/namespacemynamespace.html#a8c2aca7f87c415b24fda860202c32a38" title="mynamespace::test" alt="" coords="227,257,364,284"/>
+<area shape="rect" id="node3" href="$d7/d9b/structhpx_1_1threads_1_1policies_1_1detail_1_1affinity__data.html#ab0cc2ec8ed94ae2b82c20a6b975ecf75" title="hpx::threads::policies\l::detail::affinity_data\l::get_pu_mask" alt="" coords="419,45,566,101"/>
+<area shape="rect" id="node7" href="$d7/d9b/structhpx_1_1threads_1_1policies_1_1detail_1_1affinity__data.html#a4bc969ffeb1d5e4352944b74033281db" title="hpx::threads::policies\l::detail::affinity_data\l::get_used_pus_mask" alt="" coords="417,125,568,181"/>
+<area shape="rect" id="node9" href="$d7/d9b/structhpx_1_1threads_1_1policies_1_1detail_1_1affinity__data.html#a07b92d102e9741c4d8382e4acd8cb105" title="hpx::threads::policies\l::detail::affinity_data\l::get_thread_occupancy" alt="" coords="412,205,573,261"/>
+<area shape="rect" id="node10" href="$dc/dde/structtest__server1.html#a2a5082fe2b26fe3de61564addd041e25" title="test_server1::~test\l_server1" alt="" coords="427,286,558,327"/>
+<area shape="rect" id="node11" href="$d4/da7/namespacehpx_1_1compute_1_1host.html#a148bd526927f3b5f85a108c890973588" title="hpx::compute::host\l::numa_domains" alt="" coords="425,351,560,393"/>
+<area shape="rect" id="node14" href="$d7/dfb/partitioned__vector__scan_8hpp.html#a1b81c4c13d30b08cac00db9b75578cf1" title="verify_values" alt="" coords="445,417,540,444"/>
+<area shape="rect" id="node4" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a9cee933ef199fef31e6b8d48f42bb77b" title="hpx::resource::detail\l::partitioner::get_pu_mask" alt="" coords="621,53,795,94"/>
+<area shape="rect" id="node5" href="$d0/d20/classhpx_1_1threads_1_1executors_1_1detail_1_1thread__pool__executor.html#a6a0c0ade274c2f5f2f6651699873942c" title="hpx::threads::executors\l::detail::thread_pool\l_executor::get_pu_mask" alt="" coords="853,5,1019,61"/>
+<area shape="rect" id="node6" href="$da/dda/classhpx_1_1threads_1_1executors_1_1detail_1_1thread__pool__os__executor.html#ac43430f91516a48e9ddbefd7ee58ef3c" title="hpx::threads::executors\l::detail::thread_pool\l_os_executor::get_pu_mask" alt="" coords="843,85,1029,141"/>
+<area shape="rect" id="node8" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#af7c74cfa12348b3443c6a40c2263ff7e" title="hpx::resource::detail\l::partitioner::partitioner" alt="" coords="632,173,784,214"/>
+<area shape="rect" id="node12" href="$dc/d38/classhpx_1_1resource_1_1partitioner.html#ae994b2afde4fe9414c8e0b158615387b" title="hpx::resource::partitioner\l::add_resource" alt="" coords="625,322,791,363"/>
+<area shape="rect" id="node13" href="$da/d5f/stream_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="669,388,747,415"/>
+</map>

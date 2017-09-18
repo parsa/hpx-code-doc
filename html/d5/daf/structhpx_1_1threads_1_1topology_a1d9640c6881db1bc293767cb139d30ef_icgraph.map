@@ -1,0 +1,7 @@
+<map id="hpx::threads::topology::get_number_of_numa_nodes" name="hpx::threads::topology::get_number_of_numa_nodes">
+<area shape="rect" id="node2" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#af7c74cfa12348b3443c6a40c2263ff7e" title="hpx::resource::detail\l::partitioner::partitioner" alt="" coords="250,5,402,47"/>
+<area shape="rect" id="node3" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a67c5a4444b8889b1de56aa7a17459734" title="hpx::threads::topology\l::~topology" alt="" coords="251,71,401,112"/>
+<area shape="rect" id="node4" href="$dd/d3b/transpose__block__numa_8cpp.html#a00ec6ec36e166825a9dc1603f51d0ae4" title="get_num_numa_nodes" alt="" coords="249,137,403,163"/>
+<area shape="rect" id="node6" href="$dd/d3b/transpose__block__numa_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="465,187,515,214"/>
+<area shape="rect" id="node5" href="$dd/d3b/transpose__block__numa_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="451,137,529,163"/>
+</map>

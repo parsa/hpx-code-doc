@@ -1,0 +1,5 @@
+<map id="hpx::lcos::barrier::barrier" name="hpx::lcos::barrier::barrier">
+<area shape="rect" id="node2" href="$d9/dab/classhpx_1_1lcos_1_1barrier.html#a8a9fc05508fad7cd1d8014bee0e1d221" title="hpx::lcos::barrier\l::barrier" alt="" coords="172,5,291,47"/>
+<area shape="rect" id="node3" href="$d9/dab/classhpx_1_1lcos_1_1barrier.html#a1fcac5ce49dd1b9800affc8c8b84e4c9" title="hpx::lcos::barrier\l::wait" alt="" coords="172,71,291,112"/>
+<area shape="rect" id="node4" href="$d3/d41/classhpx_1_1process_1_1process.html#acc7ec4687f3bf5ae121ef7b494d991d8" title="hpx.process.process.join" alt="" coords="339,78,505,105"/>
+</map>

@@ -1,0 +1,14 @@
+digraph "hpx::parallel::traits::is_indirect_callable&lt; ExPolicy, F, Projected &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::parallel::traits\l::is_indirect_callable\l\< ExPolicy, F, Projected \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::parallel::traits\l::detail::is_indirect\l_callable\< hpx::util::\ldecay\< ExPolicy \>::type,\l hpx::util::decay\< F \>::\ltype, hpx::util::detail::\lpack\< hpx::util::decay\< Projected\l \>::type... \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/ddc/structhpx_1_1parallel_1_1traits_1_1detail_1_1is__indirect__callable.html"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="false_type",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::util::decay\l\< ExPolicy \>::type,\l hpx::util::decay\< F\l \>::type, hpx::util::detail\l::pack\< hpx::util::decay\<\l Projected \>::type... \> \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::parallel::traits\l::detail::is_indirect\l_callable\< ExPolicy, F,\l ProjectedPack, Enable \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/ddc/structhpx_1_1parallel_1_1traits_1_1detail_1_1is__indirect__callable.html"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

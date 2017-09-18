@@ -1,0 +1,9 @@
+<map id="hpx::threads::thread_data::interrupt" name="hpx::threads::thread_data::interrupt">
+<area shape="rect" id="node2" href="$d7/d0b/classhpx_1_1util_1_1spinlock__pool_1_1scoped__lock.html#a2b9c5a9bbe1d685fb18b545fc01cffad" title="hpx::util::spinlock\l_pool::scoped_lock::\lunlock" alt="" coords="204,5,347,61"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#ada6ec56a12b050707311d8c628089059" title="hpx::threads::interruption\l_point" alt="" coords="192,86,359,127"/>
+<area shape="rect" id="node6" href="$d7/d28/namespacehpx_1_1threads.html#aa1ac07d50bd71bb8b9d0370a67d79abb" title="hpx::threads::add_thread\l_exit_callback" alt="" coords="192,151,359,193"/>
+<area shape="rect" id="node7" href="$d7/d28/namespacehpx_1_1threads.html#ae919e4b33cbf225f48abb092bcfff25e" title="hpx::threads::run_thread\l_exit_callbacks" alt="" coords="194,217,357,258"/>
+<area shape="rect" id="node8" href="$d7/d28/namespacehpx_1_1threads.html#a88bd6338b161faa1513422a6e9e456e9" title="hpx::threads::free\l_thread_exit_callbacks" alt="" coords="198,282,353,323"/>
+<area shape="rect" id="node3" href="$df/dad/namespacehpx_1_1util.html#afa68a72c9850e7a46065e11d119871c6" title="hpx::util::unregister_lock" alt="" coords="412,20,576,47"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="407,192,581,219"/>
+</map>

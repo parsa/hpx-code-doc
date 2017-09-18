@@ -1,0 +1,6 @@
+<map id="hpx::performance_counters::performance_counter::reset" name="hpx::performance_counters::performance_counter::reset">
+<area shape="rect" id="node2" href="$df/d08/classhpx_1_1performance__counters_1_1performance__counter__set.html#a967e0633f648ef25cbf981c916965fc3" title="Reset all counters in this set. " alt="" coords="241,86,455,127"/>
+<area shape="rect" id="node3" href="$d4/d45/classhpx_1_1performance__counters_1_1server_1_1arithmetics__counter.html#ab9c547e99e253e801badd08fd315affa" title="hpx::performance_counters\l::server::arithmetics_counter\l::reset_counter_value" alt="" coords="516,5,703,61"/>
+<area shape="rect" id="node4" href="$df/d08/classhpx_1_1performance__counters_1_1performance__counter__set.html#a900a5bc63af22a4598fb7cc5b0263160" title="hpx::performance_counters\l::performance_counter_set::reset" alt="" coords="503,86,716,127"/>
+<area shape="rect" id="node5" href="$de/ddf/classhpx_1_1util_1_1query__counters.html#a0aaa2a60fed9881c4cee33dc84b25f94" title="hpx::util::query_counters\l::reset_counters" alt="" coords="527,151,692,193"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="hpx::parcelset::detail::encode_finalize" name="hpx::parcelset::detail::encode_finalize">
+<area shape="rect" id="node2" href="$d4/d41/namespacehpx_1_1parcelset.html#a85e1e1a4ee7e78d596f2cd32fa609cac" title="hpx::parcelset::encode\l_parcels" alt="" coords="196,53,351,94"/>
+<area shape="rect" id="node3" href="$db/d0a/classhpx_1_1parcelset_1_1parcelport__impl.html#aa8e1c465a67665c83591d61d2d14a0b0" title="hpx::parcelset::parcelport\l_impl\&lt; parcelport \&gt;::send\l_immediate_impl" alt="" coords="403,5,573,61"/>
+<area shape="rect" id="node4" href="$db/d0a/classhpx_1_1parcelset_1_1parcelport__impl.html#a590024331c0c701e3585be0cea1e6fd0" title="hpx::parcelset::parcelport\l_impl\&lt; parcelport \&gt;::trigger\l_pending_work" alt="" coords="399,85,577,141"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="hpx::util::logging::detail::init_tss_data" name="hpx::util::logging::detail::init_tss_data">
+<area shape="rect" id="node2" href="$d0/d2f/namespacehpx_1_1util_1_1logging_1_1detail.html#a90f73652281abd84864086709b598b05" title="hpx::util::logging\l::detail::tss_data_native_key" alt="" coords="196,5,383,47"/>
+<area shape="rect" id="node3" href="$d0/d2f/namespacehpx_1_1util_1_1logging_1_1detail.html#a66bd2bdbee96a95d456ab0ed7da5cebf" title="hpx::util::logging\l::detail::cleanup_slots" alt="" coords="215,71,364,112"/>
+<area shape="rect" id="node4" href="$d0/d2f/namespacehpx_1_1util_1_1logging_1_1detail.html#a18a43c9da4a6f7fffb615bef542d91b2" title="hpx::util::logging\l::detail::object_deleter" alt="" coords="214,136,365,177"/>
+</map>

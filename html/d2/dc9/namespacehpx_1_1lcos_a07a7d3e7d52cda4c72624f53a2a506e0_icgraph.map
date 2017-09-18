@@ -1,0 +1,7 @@
+<map id="hpx::lcos::broadcast" name="hpx::lcos::broadcast">
+<area shape="rect" id="node2" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ac32146408375813592224946632cdf97" title="Invoke the supplied hpx::function for every registered global name. " alt="" coords="221,5,372,47"/>
+<area shape="rect" id="node3" href="$dd/d8b/barrier__hang_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="271,71,322,98"/>
+<area shape="rect" id="node4" href="$de/d5c/runtime__support__server_8cpp.html#a2c7fd60adfab122ae67b173ad73fc706" title="HPX_REGISTER_BROADCAST\l_ACTION_ID" alt="" coords="193,123,400,164"/>
+<area shape="rect" id="node5" href="$d2/dc9/namespacehpx_1_1lcos.html#a8e99255a6b641ba9b62c2c33f1778c98" title="hpx::lcos::define_spmd\l_block" alt="" coords="219,188,375,229"/>
+<area shape="rect" id="node6" href="$d8/d2c/coarray_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="448,195,499,222"/>
+</map>

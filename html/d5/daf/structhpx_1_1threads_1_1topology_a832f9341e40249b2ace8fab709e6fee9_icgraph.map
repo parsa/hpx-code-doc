@@ -1,0 +1,6 @@
+<map id="hpx::threads::topology::allocate" name="hpx::threads::topology::allocate">
+<area shape="rect" id="node2" href="$d2/de8/structhpx_1_1compute_1_1host_1_1block__allocator.html#a4e7e43af2aebdd6b603730bc1e5bdd7c" title="hpx::compute::host\l::block_allocator::allocate" alt="" coords="204,5,375,47"/>
+<area shape="rect" id="node5" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a67c5a4444b8889b1de56aa7a17459734" title="hpx::threads::topology\l::~topology" alt="" coords="214,71,365,112"/>
+<area shape="rect" id="node3" href="$dc/d4a/block__allocator_8cpp.html#a7724967e3eafa4b9cfd8f80dad98af00" title="test_block_allocation" alt="" coords="423,13,567,39"/>
+<area shape="rect" id="node4" href="$dc/d4a/block__allocator_8cpp.html#aad021fb470ac159eac4609ba96066d4d" title="test_bulk_allocator" alt="" coords="615,13,745,39"/>
+</map>

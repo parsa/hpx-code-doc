@@ -1,0 +1,19 @@
+digraph "hpx::unordered_map&lt; Key, T, Hash, KeyEqual &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::unordered_map\l\< Key, T, Hash, KeyEqual \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::components::client\l_base\< unordered_map\<\l Key, T, Hash, KeyEqual\l \>, hpx::components::server\l::distributed_metadata_base\l\< server::unordered_map_config\l_data \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dad/classhpx_1_1components_1_1client__base.html"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="detail::make_stub\<\l hpx::components::server\l::distributed_metadata\l_base\< server::unordered\l_map_config_data \>  \>::type",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dfa/structhpx_1_1components_1_1stub__base.html"];
+  Node3 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< unordered_map\< Key,\l T, Hash, KeyEqual \>,\l hpx::components::server\l::distributed_metadata_base\l\< server::unordered_map_config\l_data \> \>" ,fontname="Helvetica"];
+  Node3 [label="hpx::components::client\l_base\< Derived, Stub \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dad/classhpx_1_1components_1_1client__base.html"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="detail::make_stub\<\l Stub \>::type",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dfa/structhpx_1_1components_1_1stub__base.html"];
+  Node5 -> Node0 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="hpx::detail::unordered\l_base\< Hash, KeyEqual \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d4a/structhpx_1_1detail_1_1unordered__base.html"];
+  Node0 -> Node6 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< hpx::naming::gid\l_type, std::vector\<\l char \> \>" ,fontname="Helvetica"];
+  Node6 [label="hpx::unordered_map\l\< hpx::naming::gid_type,\l std::vector\< char \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d51/classhpx_1_1unordered__map.html"];
+}

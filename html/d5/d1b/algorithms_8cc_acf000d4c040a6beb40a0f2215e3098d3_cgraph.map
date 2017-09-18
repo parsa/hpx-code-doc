@@ -1,0 +1,16 @@
+<map id="copy" name="copy">
+<area shape="rect" id="node2" href="$d4/de8/structblock__vector__t.html#a8dcd06bab37e6521d3f3b7f5674891fb" title="block_vector_t::block" alt="" coords="104,89,248,116"/>
+<area shape="rect" id="node3" href="$de/dd9/structvector__t__client.html#a0d9f47d32c6048c918b3f14f8e3f8bf3" title="vector_t_client::copy" alt="" coords="105,140,247,167"/>
+<area shape="rect" id="node15" href="$d2/dc9/namespacehpx_1_1lcos.html#aa22f424df487aac588e30b71f15dd2fe" title="hpx::lcos::wait_all" alt="" coords="113,191,239,217"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="740,93,827,120"/>
+<area shape="rect" id="node9" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="1159,61,1353,102"/>
+<area shape="rect" id="node10" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a0cdfe4b8fed578eb1ce34222c0f07b03" title="hpx::components::client\l_base::get_id" alt="" coords="296,162,457,203"/>
+<area shape="rect" id="node11" href="$d2/d54/structvector__t__server.html#a01002e031562457498e6dffad792b6eb" title="vector_t_server::gemv" alt="" coords="303,111,450,137"/>
+<area shape="rect" id="node5" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="875,93,917,120"/>
+<area shape="rect" id="node6" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="1001,93,1075,120"/>
+<area shape="rect" id="node7" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="965,43,1111,69"/>
+<area shape="rect" id="node8" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="1002,144,1074,171"/>
+<area shape="rect" id="node12" href="$d2/d54/structvector__t__server.html#a8447e6485be7c7bdc9290a62d964ba6a" title="vector_t_server::scal" alt="" coords="529,195,669,221"/>
+<area shape="rect" id="node13" href="$d2/d54/structvector__t__server.html#adf8d30d3b2bb2364b08862eb8786831e" title="vector_t_server::axpy" alt="" coords="527,93,671,120"/>
+<area shape="rect" id="node14" href="$d4/d31/classhpx_1_1lcos_1_1shared__future.html#a316b62d06e2bbab9e8d93fe64d13527e" title="hpx::lcos::shared_future::get" alt="" coords="505,144,692,171"/>
+</map>

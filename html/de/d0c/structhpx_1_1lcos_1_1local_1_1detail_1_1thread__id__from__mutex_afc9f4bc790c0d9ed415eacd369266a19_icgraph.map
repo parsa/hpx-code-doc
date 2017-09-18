@@ -1,0 +1,5 @@
+<map id="hpx::lcos::local::detail::thread_id_from_mutex::call" name="hpx::lcos::local::detail::thread_id_from_mutex::call">
+<area shape="rect" id="node2" href="$d0/dfd/structhpx_1_1lcos_1_1local_1_1detail_1_1thread__id__from__mutex_3_01lcos_1_1local_1_1spinlock_01_4.html#a26e72fde1f4531f30ac0ecf126a48fd2" title="hpx::lcos::local::detail\l::thread_id_from_mutex\l\&lt; lcos::local::spinlock\l \&gt;::call" alt="" coords="254,5,413,76"/>
+<area shape="rect" id="node3" href="$d0/d2e/structhpx_1_1lcos_1_1local_1_1detail_1_1recursive__mutex__impl.html#a53a05039a678c021caa30fd849a92a94" title="hpx::lcos::local::detail\l::recursive_mutex_impl\l::try_lock" alt="" coords="256,101,411,157"/>
+<area shape="rect" id="node4" href="$d0/d2e/structhpx_1_1lcos_1_1local_1_1detail_1_1recursive__mutex__impl.html#a0e1577b105eaf7def8cb168a480565b3" title="hpx::lcos::local::detail\l::recursive_mutex_impl::lock" alt="" coords="240,181,427,223"/>
+</map>

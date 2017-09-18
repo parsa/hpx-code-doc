@@ -1,0 +1,4 @@
+<map id="hpx::parcelset::policies::verbs::rdma_controller::setDisconnectionFunction" name="hpx::parcelset::policies::verbs::rdma_controller::setDisconnectionFunction">
+<area shape="rect" id="node2" href="$d7/d92/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1rdma__controller.html#afc77cb59f5d0154d3d32453afff2e22e" title="hpx::parcelset::policies\l::verbs::rdma_controller\l::poll_endpoints" alt="" coords="246,5,403,61"/>
+<area shape="rect" id="node3" href="$d7/d92/classhpx_1_1parcelset_1_1policies_1_1verbs_1_1rdma__controller.html#a9a5bc848cbf88d8edec0eee7e280c195" title="hpx::parcelset::policies\l::verbs::rdma_controller\l::poll_for_work_completions" alt="" coords="233,85,416,141"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="hpx::agas::notification_header" name="hpx::agas::notification_header">
+<area shape="rect" id="node2" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html" title="Global identifier for components across the HPX system. " alt="" coords="5,44,156,71"/>
+<area shape="rect" id="node5" href="$d2/d7f/structhpx_1_1naming_1_1address.html" title="hpx::naming::address" alt="" coords="261,83,408,109"/>
+<area shape="rect" id="node3" href="$dd/d18/structhpx_1_1agas_1_1detail_1_1assigned__id__sequence.html" title="hpx::agas::detail::\lassigned_id_sequence" alt="" coords="257,137,412,178"/>
+<area shape="rect" id="node4" href="$d7/d8f/classhpx_1_1parcelset_1_1locality.html" title="hpx::parcelset::locality" alt="" coords="258,203,411,229"/>
+</map>

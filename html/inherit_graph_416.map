@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d9/dfd/structhpx_1_1lcos_1_1detail_1_1future__data.html" title="hpx::lcos::detail::\lfuture_data\&lt; void \&gt;" alt="" coords="5,71,137,112"/>
+<area shape="rect" id="node2" href="$d2/d44/structhpx_1_1detail_1_1thread__task__base.html" title="hpx::detail::thread\l_task_base" alt="" coords="221,5,347,47"/>
+<area shape="rect" id="node3" href="$d0/d65/structhpx_1_1lcos_1_1detail_1_1wait__all__frame.html" title="hpx::lcos::detail::\lwait_all_frame\&lt; Tuple \&gt;" alt="" coords="205,71,363,112"/>
+<area shape="rect" id="node4" href="$da/d82/structhpx_1_1lcos_1_1detail_1_1when__each__frame.html" title="hpx::lcos::detail::\lwhen_each_frame\&lt; Tuple, F \&gt;" alt="" coords="185,136,383,177"/>
+</map>

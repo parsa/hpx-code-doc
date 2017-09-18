@@ -1,0 +1,5 @@
+<map id="hpx::runtime_impl::stop" name="hpx::runtime_impl::stop">
+<area shape="rect" id="node2" href="$d0/d7b/classhpx_1_1runtime.html#a4ec6e63556e4543fc1a2a8b6f0de49d0" title="Call all registered on_exit functions. " alt="" coords="221,5,372,32"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="212,56,381,83"/>
+<area shape="rect" id="node4" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="429,56,576,83"/>
+</map>

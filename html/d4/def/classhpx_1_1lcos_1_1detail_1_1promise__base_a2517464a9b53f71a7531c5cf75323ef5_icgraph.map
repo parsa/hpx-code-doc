@@ -1,0 +1,11 @@
+<map id="hpx::lcos::detail::promise_base::get_id" name="hpx::lcos::detail::promise_base::get_id">
+<area shape="rect" id="node2" href="$d4/dd8/call__promise__get__gid__more__than__once_8cpp.html#aefd26dd818037509b2241068d57e3e1d" title="hpx_main" alt="" coords="275,5,353,32"/>
+<area shape="rect" id="node3" href="$d6/d63/structhpx_1_1test_1_1managed__refcnt__monitor.html#aa2b18104667fa6e9179b95e53ba7985d" title="Create a new component on the target locality. " alt="" coords="228,56,400,112"/>
+<area shape="rect" id="node4" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#aea7da73b35a156d71c948a86b07c8d16" title="Shutdown the given runtime system. " alt="" coords="200,137,428,178"/>
+<area shape="rect" id="node6" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#a29f660c7e67afbad26e7b043f44f5be9" title="Retrieve configuration information. " alt="" coords="201,202,427,243"/>
+<area shape="rect" id="node9" href="$df/d21/tests_2unit_2parcelset_2set__parcel__write__handler_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="289,268,339,295"/>
+<area shape="rect" id="node10" href="$d9/d66/structhpx_1_1test_1_1simple__refcnt__monitor.html#ae6a3097b2bbdd160ecfbf693b62c1a98" title="Create a new component on the target locality. " alt="" coords="235,319,393,375"/>
+<area shape="rect" id="node5" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#ad094409d35b8296bd0c58a282d84d308" title="hpx::components::stubs\l::runtime_support::shutdown" alt="" coords="476,137,663,178"/>
+<area shape="rect" id="node7" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#a279b53f1b62a49555fcd02d264bb911f" title="hpx::components::stubs\l::runtime_support::terminate" alt="" coords="477,202,662,243"/>
+<area shape="rect" id="node8" href="$d3/d41/classhpx_1_1process_1_1process.html#a8c96317a0d57a9dfd75375b25e434b8b" title="hpx.process.process.\l__init__" alt="" coords="711,202,857,243"/>
+</map>

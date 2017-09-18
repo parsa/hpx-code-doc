@@ -1,0 +1,10 @@
+<map id="transfer.hpp" name="transfer.hpp">
+<area shape="rect" id="node2" href="$d8/d7b/cuda_8hpp.html" title="cuda.hpp" alt="" coords="389,80,463,107"/>
+<area shape="rect" id="node3" href="$df/dd0/compute_8hpp.html" title="compute.hpp" alt="" coords="377,155,475,181"/>
+<area shape="rect" id="node4" href="$dd/d84/cublas__matmul_8cpp.html" title="cublas_matmul.cpp" alt="" coords="5,237,140,263"/>
+<area shape="rect" id="node5" href="$da/da2/synchronize_8cpp.html" title="synchronize.cpp" alt="" coords="165,237,282,263"/>
+<area shape="rect" id="node6" href="$da/d5f/stream_8cpp.html" title="stream.cpp" alt="" coords="307,237,393,263"/>
+<area shape="rect" id="node7" href="$d1/d78/for__each__value__proxy_8cpp.html" title="for_each_value_proxy.cpp" alt="" coords="418,237,589,263"/>
+<area shape="rect" id="node8" href="$dc/d4a/block__allocator_8cpp.html" title="block_allocator.cpp" alt="" coords="613,237,748,263"/>
+<area shape="rect" id="node9" href="$d9/dd1/partitioned__vector__target_8cpp.html" title="partitioned_vector\l_target.cpp" alt="" coords="773,229,895,271"/>
+</map>

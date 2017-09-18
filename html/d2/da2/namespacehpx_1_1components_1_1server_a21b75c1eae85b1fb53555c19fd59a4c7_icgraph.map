@@ -1,0 +1,5 @@
+<map id="hpx::components::server::create_with_args" name="hpx::components::server::create_with_args">
+<area shape="rect" id="node2" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a158c6874c847422beb28c9deee381907" title="hpx::components::component\l_base\&lt; row \&gt;::get_current\l_address" alt="" coords="217,5,412,61"/>
+<area shape="rect" id="node3" href="$d2/d7d/structhpx_1_1components_1_1component__factory__base.html#af0d1c8956edec41e3af84da827bf9d97" title="hpx::components::component\l_factory_base::~component\l_factory_base" alt="" coords="217,85,412,141"/>
+<area shape="rect" id="node4" href="$dc/d4c/classhpx_1_1components_1_1managed__component.html#a70e953edc2577d6b83c6ce55ce1265f0" title="Return the global id of this future instance. " alt="" coords="223,165,407,221"/>
+</map>

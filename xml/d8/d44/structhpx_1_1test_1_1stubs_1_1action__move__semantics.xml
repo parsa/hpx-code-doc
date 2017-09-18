@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d8/d44/structhpx_1_1test_1_1stubs_1_1action__move__semantics" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::test::stubs::action_move_semantics</compoundname>
+    <basecompoundref refid="de/dfa/structhpx_1_1components_1_1stub__base" prot="public" virt="non-virtual">hpx::components::stub_base&lt; server::action_move_semantics &gt;</basecompoundref>
+    <includes refid="d1/da8/stubs_2action__move__semantics_8hpp" local="no">action_move_semantics.hpp</includes>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="241">
+        <label>hpx::test::stubs::action_move_semantics</label>
+        <link refid="d8/d44/structhpx_1_1test_1_1stubs_1_1action__move__semantics"/>
+        <childnode refid="242" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="242">
+        <label>hpx::components::stub_base&lt; server::action_move_semantics &gt;</label>
+        <link refid="de/dfa/structhpx_1_1components_1_1stub__base"/>
+        <childnode refid="243" relation="template-instance">
+          <edgelabel>&lt; server::action_move_semantics &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="243">
+        <label>hpx::components::stub_base&lt; ServerComponent &gt;</label>
+        <link refid="de/dfa/structhpx_1_1components_1_1stub__base"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="244">
+        <label>hpx::test::stubs::action_move_semantics</label>
+        <link refid="d8/d44/structhpx_1_1test_1_1stubs_1_1action__move__semantics"/>
+        <childnode refid="245" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="245">
+        <label>hpx::components::stub_base&lt; server::action_move_semantics &gt;</label>
+        <link refid="de/dfa/structhpx_1_1components_1_1stub__base"/>
+        <childnode refid="246" relation="template-instance">
+          <edgelabel>&lt; server::action_move_semantics &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="246">
+        <label>hpx::components::stub_base&lt; ServerComponent &gt;</label>
+        <link refid="de/dfa/structhpx_1_1components_1_1stub__base"/>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/tests/regressions/actions/components/stubs/action_move_semantics.hpp" line="17" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tests/regressions/actions/components/stubs/action_move_semantics.hpp" bodystart="15" bodyend="17"/>
+    <listofallmembers>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1a268ea33c68c29f4c3f5221afd6ca42a3" prot="public" virt="non-virtual"><scope>hpx::test::stubs::action_move_semantics</scope><name>bulk_create</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1a6a68ca7a26f10ac3d61e8f2167bee5ac" prot="public" virt="non-virtual"><scope>hpx::test::stubs::action_move_semantics</scope><name>bulk_create_async</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1ad551b512974d7d4bf11f6b76b589e096" prot="public" virt="non-virtual"><scope>hpx::test::stubs::action_move_semantics</scope><name>bulk_create_colocated</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1af4dca498f0cb050e876cd5b6c22f4ca0" prot="public" virt="non-virtual"><scope>hpx::test::stubs::action_move_semantics</scope><name>bulk_create_colocated_async</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1adee1f5c75c8ac30f06df9476cc64e777" prot="public" virt="non-virtual"><scope>hpx::test::stubs::action_move_semantics</scope><name>create</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1a352a867161e19ad1e6f5ebd321e6b2d3" prot="public" virt="non-virtual"><scope>hpx::test::stubs::action_move_semantics</scope><name>create_async</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1a83fc1860a9728bb34ec620ac40abbcc1" prot="public" virt="non-virtual"><scope>hpx::test::stubs::action_move_semantics</scope><name>create_colocated</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1abd66d6f66b31a32cb547eb3de2dc63a6" prot="public" virt="non-virtual"><scope>hpx::test::stubs::action_move_semantics</scope><name>create_colocated_async</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1ae572f0885b90806fc41c4e5feeb99d03" prot="public" virt="non-virtual"><scope>hpx::test::stubs::action_move_semantics</scope><name>free</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1acbc8b7903b53744c08b7079fcb587df2" prot="public" virt="non-virtual"><scope>hpx::test::stubs::action_move_semantics</scope><name>free</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1abc28ca541f2e2eb38bb5fd4f0e057185" prot="public" virt="non-virtual"><scope>hpx::test::stubs::action_move_semantics</scope><name>get_component_type</name></member>
+      <member refid="de/dfa/structhpx_1_1components_1_1stub__base_1a2abb441ab365b980e6f19002357163ff" prot="public" virt="non-virtual"><scope>hpx::test::stubs::action_move_semantics</scope><name>server_component_type</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

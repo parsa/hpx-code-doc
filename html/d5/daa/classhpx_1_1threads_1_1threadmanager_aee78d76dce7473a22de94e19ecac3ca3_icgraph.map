@@ -1,0 +1,6 @@
+<map id="hpx::threads::threadmanager::get_worker_thread_num" name="hpx::threads::threadmanager::get_worker_thread_num">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#adc17eda7c3c7c6b2a0f7cb1affed8520" title="Return the number of the current OS&#45;thread running in the runtime instance the current HPX&#45;thread is ..." alt="" coords="241,5,431,32"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#a07988ae2ec7a1b2c43d282cb6d99245b" title="hpx::is_scheduler_numa\l_sensitive" alt="" coords="255,57,417,98"/>
+<area shape="rect" id="node5" href="$d0/d07/system__characteristics_8hpp.html#ab89dcd3f8f12bd35634d3849f0e93d90" title="print_system_characteristics" alt="" coords="241,123,431,149"/>
+<area shape="rect" id="node4" href="$da/dce/thread__affinity_8cpp.html#a7294900b54d4eeed58981c93d6c74ed6" title="thread_affinity_worker" alt="" coords="479,64,625,91"/>
+</map>

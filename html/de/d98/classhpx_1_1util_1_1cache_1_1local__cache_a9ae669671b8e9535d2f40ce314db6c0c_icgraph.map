@@ -1,0 +1,8 @@
+<map id="hpx::util::cache::local_cache::insert" name="hpx::util::cache::local_cache::insert">
+<area shape="rect" id="node2" href="$de/d98/classhpx_1_1util_1_1cache_1_1local__cache.html#ac0411cb5e31466edd42fa22796adba4b" title="Update an existing element in this cache. " alt="" coords="200,169,347,211"/>
+<area shape="rect" id="node5" href="$de/d98/classhpx_1_1util_1_1cache_1_1local__cache.html#a65dd7011d1a0560d53c703f8ca738510" title="Update an existing element in this cache. " alt="" coords="395,267,541,308"/>
+<area shape="rect" id="node3" href="$de/d98/classhpx_1_1util_1_1cache_1_1local__cache.html#a9195a948e76c0ecb5d8dfcc6c09da064" title="Get a specific entry identified by the given key. " alt="" coords="395,5,541,47"/>
+<area shape="rect" id="node4" href="$de/d98/classhpx_1_1util_1_1cache_1_1local__cache.html#a164b687f9b63e40eb0efc9dff2ca4e76" title="Insert a new entry into this cache. " alt="" coords="395,71,541,112"/>
+<area shape="rect" id="node6" href="$de/d98/classhpx_1_1util_1_1cache_1_1local__cache.html#aefc44eb2716ec5837b1b535fd116c4c9" title="Update an existing entry in this cache. " alt="" coords="395,136,541,177"/>
+<area shape="rect" id="node7" href="$de/d98/classhpx_1_1util_1_1cache_1_1local__cache.html#aa905ae311904f062e894d07f2dbb7c41" title="Remove stored entries from the cache for which the supplied function object returns true..." alt="" coords="395,201,541,243"/>
+</map>

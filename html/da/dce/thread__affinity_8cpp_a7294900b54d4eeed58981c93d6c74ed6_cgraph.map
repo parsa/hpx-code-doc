@@ -1,0 +1,12 @@
+<map id="thread_affinity_worker" name="thread_affinity_worker">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#ad438935ca2f8603f9cab036b68b34f36" title="Return the number of the current OS&#45;thread running in the runtime instance the current HPX&#45;thread is ..." alt="" coords="200,13,389,39"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#a07988ae2ec7a1b2c43d282cb6d99245b" title="hpx::is_scheduler_numa\l_sensitive" alt="" coords="213,64,376,105"/>
+<area shape="rect" id="node11" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="235,130,354,157"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="461,13,602,39"/>
+<area shape="rect" id="node6" href="$d0/d7b/classhpx_1_1runtime.html#a865b12d57fcd44a8d3dda3e35414f563" title="hpx::runtime::get_thread\l_manager" alt="" coords="450,64,613,105"/>
+<area shape="rect" id="node7" href="$d5/daa/classhpx_1_1threads_1_1threadmanager.html#aee78d76dce7473a22de94e19ecac3ca3" title="hpx::threads::threadmanager\l::get_worker_thread_num" alt="" coords="437,129,625,171"/>
+<area shape="rect" id="node5" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="677,5,839,47"/>
+<area shape="rect" id="node8" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="673,103,843,130"/>
+<area shape="rect" id="node10" href="$d7/d24/classhpx_1_1threads_1_1detail_1_1thread__num__tss.html#a5b13dea127bd6a3013b42e8965c58fd3" title="hpx::threads::detail\l::thread_num_tss::get\l_worker_thread_num" alt="" coords="683,154,833,210"/>
+<area shape="rect" id="node9" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="891,103,1037,130"/>
+</map>

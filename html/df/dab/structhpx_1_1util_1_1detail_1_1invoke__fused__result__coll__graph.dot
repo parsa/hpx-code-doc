@@ -1,0 +1,11 @@
+digraph "hpx::util::detail::invoke_fused_result&lt; F, Tuple &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node5 [label="hpx::util::detail::\linvoke_fused_result\l\< F, Tuple \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hpx::util::detail::\lfused_result_of_impl\l\< F, Tuple &&, fused\l_index_pack\< Tuple \>::\ltype \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d10/structhpx_1_1util_1_1detail_1_1fused__result__of__impl.html"];
+  Node7 -> Node6 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< F, Tuple &&, fused\l_index_pack\< Tuple \>\l::type \>" ,fontname="Helvetica"];
+  Node7 [label="hpx::util::detail::\lfused_result_of_impl\l\< F, Tuple, Is \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d10/structhpx_1_1util_1_1detail_1_1fused__result__of__impl.html"];
+}

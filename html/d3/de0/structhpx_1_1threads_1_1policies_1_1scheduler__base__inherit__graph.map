@@ -1,0 +1,4 @@
+<map id="hpx::threads::policies::scheduler_base" name="hpx::threads::policies::scheduler_base">
+<area shape="rect" id="node2" href="$d7/d87/classhpx_1_1threads_1_1policies_1_1local__priority__queue__scheduler.html" title="hpx::threads::policies\l::local_priority_queue\l_scheduler\&lt; Mutex, PendingQueuing,\l StagedQueuing, TerminatedQueuing \&gt;" alt="" coords="214,5,461,76"/>
+<area shape="rect" id="node3" href="$d8/d52/classhpx_1_1threads_1_1policies_1_1shared__priority__scheduler.html" title="hpx::threads::policies\l::shared_priority_scheduler\l\&lt; Mutex, PendingQueuing, StagedQueuing,\l TerminatedQueuing \&gt;" alt="" coords="200,100,475,171"/>
+</map>

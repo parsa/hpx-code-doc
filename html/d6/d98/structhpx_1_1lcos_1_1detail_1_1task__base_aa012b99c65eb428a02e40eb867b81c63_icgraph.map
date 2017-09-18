@@ -1,0 +1,5 @@
+<map id="hpx::lcos::detail::task_base::wait" name="hpx::lcos::detail::task_base::wait">
+<area shape="rect" id="node2" href="$d3/d41/classhpx_1_1process_1_1process.html#acc7ec4687f3bf5ae121ef7b494d991d8" title="hpx.process.process.join" alt="" coords="176,5,343,32"/>
+<area shape="rect" id="node3" href="$de/d77/structhpx_1_1lcos_1_1detail_1_1promise__data.html#a0e80944e498cacab58c2a39cdde11067" title="hpx::lcos::detail::\lpromise_data::mark_as\l_started" alt="" coords="180,56,339,112"/>
+<area shape="rect" id="node4" href="$d4/def/classhpx_1_1lcos_1_1detail_1_1promise__base.html#a2517464a9b53f71a7531c5cf75323ef5" title="hpx::lcos::detail::\lpromise_base\&lt; Result,\l RemoteResult, detail\l::promise_data\&lt; Result\l \&gt; \&gt;::get_id" alt="" coords="391,41,548,127"/>
+</map>

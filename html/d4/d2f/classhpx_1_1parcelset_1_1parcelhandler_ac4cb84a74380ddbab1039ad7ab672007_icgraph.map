@@ -1,0 +1,6 @@
+<map id="hpx::parcelset::parcelhandler::get_raw_localities" name="hpx::parcelset::parcelhandler::get_raw_localities">
+<area shape="rect" id="node2" href="$da/dcb/classhpx_1_1applier_1_1applier.html#a40cfc6d661a9fd01ea77b62ec415804c" title="Return list of locality_ids of all localities registered with the AGAS service for a specific compone..." alt="" coords="243,5,377,47"/>
+<area shape="rect" id="node3" href="$da/dcb/classhpx_1_1applier_1_1applier.html#a1d4a6d6d2a6e941d365075f597ce590f" title="hpx::applier::applier\l::get_localities" alt="" coords="243,71,377,112"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#a265cd11a586a37b9c3f3c9dfd44eb958" title="Return the list of global ids representing all localities available to this application which support..." alt="" coords="425,53,575,79"/>
+<area shape="rect" id="node5" href="$d8/d83/namespacehpx.html#adde1eeefca5bbb4863e54ca81dfb1b6f" title="Return the global id representing an arbitrary locality which supports the given component type..." alt="" coords="441,103,559,130"/>
+</map>

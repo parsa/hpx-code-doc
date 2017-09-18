@@ -1,0 +1,6 @@
+<map id="hpx::util::hardware::timestamp" name="hpx::util::hardware::timestamp">
+<area shape="rect" id="node2" href="$de/d24/classhpx_1_1threads_1_1detail_1_1switch__status.html#a937000b6e938ee0d1f106acc411d599b" title="hpx::threads::detail\l::switch_status::get\l_next_thread" alt="" coords="192,5,328,61"/>
+<area shape="rect" id="node3" href="$de/dae/classhpx_1_1threads_1_1detail_1_1thread__pool__base.html#a47417fb07fe61b5c39eb9928b6bdd724" title="hpx::threads::detail\l::thread_pool_base::init\l_pool_time_scale" alt="" coords="181,85,339,141"/>
+<area shape="rect" id="node4" href="$d2/d13/classhpx_1_1util_1_1tick__counter.html#a2395d20220fe2a8e79c435ea4c0e9c21" title="hpx::util::tick_counter\l::take_time_stamp" alt="" coords="187,166,333,207"/>
+<area shape="rect" id="node5" href="$d2/d13/classhpx_1_1util_1_1tick__counter.html#a953d47a77655f59faa8bf0864832f8d1" title="hpx::util::tick_counter\l::~tick_counter" alt="" coords="387,166,533,207"/>
+</map>

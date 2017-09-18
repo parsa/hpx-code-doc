@@ -1,0 +1,5 @@
+<map id="hpx::lcos::latch::count_down_and_wait" name="hpx::lcos::latch::count_down_and_wait">
+<area shape="rect" id="node2" href="$db/d7c/partitioned__vector__spmd__foreach_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="268,5,347,32"/>
+<area shape="rect" id="node3" href="$dc/d80/classhpx_1_1runtime__impl.html#a701851190a0f98e3ed6d94c2bde4b6f8" title="The destructor makes sure all HPX runtime services are properly shut down before exiting. " alt="" coords="241,57,374,98"/>
+<area shape="rect" id="node4" href="$da/d3f/classhpx_1_1components_1_1process_1_1posix_1_1initializers_1_1wait__on__latch.html#aae2741258494929581e61df8b7f56628" title="hpx::components::process\l::posix::initializers::\lwait_on_latch::on_fork_success" alt="" coords="204,123,411,179"/>
+</map>

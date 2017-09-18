@@ -1,0 +1,51 @@
+<map id="hpx::performance_counters::performance_counter_set::add_counters" name="hpx::performance_counters::performance_counter_set::add_counters">
+<area shape="rect" id="node2" href="$d8/dfd/id__type__ref__counting__1032_8cpp.html#ab811b86ea5107ffb3351fcaa29d2c652" title="func" alt="" coords="298,185,345,211"/>
+<area shape="rect" id="node24" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="1421,741,1572,767"/>
+<area shape="rect" id="node28" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="271,970,371,997"/>
+<area shape="rect" id="node29" href="$df/d08/classhpx_1_1performance__counters_1_1performance__counter__set.html#a848fe9c57582888c33da9340854c43ae" title="hpx::performance_counters\l::performance_counter_set\l::find_counter" alt="" coords="232,1021,411,1077"/>
+<area shape="rect" id="node47" href="$df/dad/namespacehpx_1_1util.html#ac476e97ca5c1dec44106cb68a534ea22" title="hpx::util::expand" alt="" coords="262,1265,381,1291"/>
+<area shape="rect" id="node50" href="$d0/d36/namespacehpx_1_1performance__counters.html#a790341c5b1fd81ec20123edc6003dcb5" title="Call the supplied function for the given registered counter type. " alt="" coords="232,1316,411,1357"/>
+<area shape="rect" id="node3" href="$d8/dfd/id__type__ref__counting__1032_8cpp.html#a5264b94bf7c262ac0e521fb290d476d5" title="ensure_garbage_collect" alt="" coords="475,185,633,211"/>
+<area shape="rect" id="node4" href="$d9/d52/namespacehpx_1_1this__thread.html#afc042a5a5fa52eef2d1d177a343435cf" title="hpx::this_thread::sleep_for" alt="" coords="699,181,874,207"/>
+<area shape="rect" id="node15" href="$dc/d54/namespacehpx_1_1agas.html#a951337adc4f9bd6df00a50737468e911" title="hpx::agas::garbage\l_collect" alt="" coords="720,552,853,593"/>
+<area shape="rect" id="node5" href="$d9/d52/namespacehpx_1_1this__thread.html#ae12a853980115b23ff0ab8ca06622658" title="hpx::this_thread::sleep\l_until" alt="" coords="941,291,1095,332"/>
+<area shape="rect" id="node8" href="$d9/d4f/classhpx_1_1util_1_1steady__duration.html#a0132206d767cd0f7395507b40111a153" title="hpx::util::steady_duration\l::from_now" alt="" coords="934,173,1102,215"/>
+<area shape="rect" id="node10" href="$de/d9b/classhpx_1_1thread.html#a4535ef82cec3b953d2c941d20e3e3904" title="hpx::thread::get_thread_data" alt="" coords="924,67,1112,94"/>
+<area shape="rect" id="node13" href="$de/d9b/classhpx_1_1thread.html#a7317a3cf5251f3b33c990449570d4cea" title="hpx::thread::set_thread_data" alt="" coords="1403,13,1591,39"/>
+<area shape="rect" id="node6" href="$d9/d52/namespacehpx_1_1this__thread.html#aca220026fb3014c0881d129fe31c0073" title="hpx::this_thread::suspend" alt="" coords="1171,290,1343,317"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="1409,290,1584,317"/>
+<area shape="rect" id="node9" href="$de/db3/1d__stencil__1__omp_8cpp.html#a89e9667753dccfac455bd37a7a3a7b16" title="now" alt="" coords="1235,181,1280,207"/>
+<area shape="rect" id="node11" href="$d7/d28/namespacehpx_1_1threads.html#a8737931ff6303807225f735b2b384ae4" title="hpx::threads::get_thread_data" alt="" coords="1160,71,1355,98"/>
+<area shape="rect" id="node12" href="$de/d9b/classhpx_1_1thread.html#acf48190d264ab64c1c4ec99d0b421b5a" title="hpx::thread::native\l_handle" alt="" coords="1193,5,1321,47"/>
+<area shape="rect" id="node14" href="$d7/d28/namespacehpx_1_1threads.html#a00a625acc149fce3ae38e4340454acf7" title="hpx::threads::set_thread_data" alt="" coords="1639,13,1833,39"/>
+<area shape="rect" id="node16" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="941,1089,1095,1131"/>
+<area shape="rect" id="node19" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a87dcae0eacf6e62d5103ebf516d86f63" title="hpx::agas::addressing\l_service::garbage_collect" alt="" coords="934,552,1102,593"/>
+<area shape="rect" id="node17" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="1198,1271,1317,1298"/>
+<area shape="rect" id="node18" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="1180,1089,1335,1131"/>
+<area shape="rect" id="node20" href="$d1/d43/structhpx_1_1agas_1_1primary__namespace.html#a7630ff0f30ff8c23b13b4672c5350e2e" title="hpx::agas::primary\l_namespace::get_service\l_instance" alt="" coords="1173,391,1342,447"/>
+<area shape="rect" id="node21" href="$df/dad/namespacehpx_1_1util.html#a06fa74211a987d208e013f400a9f5328" title="hpx::util::make_tuple" alt="" coords="1186,471,1329,498"/>
+<area shape="rect" id="node22" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#afb2ea48b0902f52ee4d8b764807b4316" title="hpx::util::detail::\lrange_impl::end" alt="" coords="1200,523,1315,564"/>
+<area shape="rect" id="node23" href="$d8/d83/namespacehpx.html#aa87762f0db0731d385f3fdfdb25d59fc" title="hpx::apply" alt="" coords="1216,589,1299,615"/>
+<area shape="rect" id="node26" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="1214,639,1301,666"/>
+<area shape="rect" id="node27" href="$d2/dc9/namespacehpx_1_1lcos.html#a1a6fb024d8690923fb185d5aee204d54" title="hpx::lcos::when_all" alt="" coords="1191,690,1324,717"/>
+<area shape="rect" id="node25" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="1676,733,1796,775"/>
+<area shape="rect" id="node30" href="$d0/d36/namespacehpx_1_1performance__counters.html#a20efd215ad44c2a1d6bf36731b07094c" title="Fill the given counter_path_elements instance from the given full name of a counter. " alt="" coords="459,1028,649,1069"/>
+<area shape="rect" id="node31" href="$d8/d83/namespacehpx.html#a158d7c54a657bb364c1704033010697b" title="Return the number of the locality this function is being called from. " alt="" coords="487,1102,621,1129"/>
+<area shape="rect" id="node37" href="$d0/d36/namespacehpx_1_1performance__counters.html#ab7849064e361c28c8975a47717e5f05e" title="hpx::performance_counters\l::get_counter" alt="" coords="465,1169,643,1211"/>
+<area shape="rect" id="node40" href="$d0/ddf/classhpx_1_1error__code.html#a70ab613bf2dfd57edc658b4acc680a63" title="hpx::error_code::get\l_message" alt="" coords="485,959,623,1000"/>
+<area shape="rect" id="node32" href="$dc/d54/namespacehpx_1_1agas.html#a491cc2ddecdf0f1a9129900caa6a4d3e" title="hpx::agas::get_locality_id" alt="" coords="701,1158,872,1185"/>
+<area shape="rect" id="node33" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="947,1286,1089,1313"/>
+<area shape="rect" id="node34" href="$d0/d7b/classhpx_1_1runtime.html#ab405f80e060dac95d624520f38b0524c" title="hpx::runtime::get_state" alt="" coords="940,1337,1096,1363"/>
+<area shape="rect" id="node35" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ab52c19a37c2a7a006c6c15f90ad0539c" title="hpx::agas::addressing\l_service::get_local_locality" alt="" coords="929,1155,1107,1196"/>
+<area shape="rect" id="node36" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="935,1220,1101,1261"/>
+<area shape="rect" id="node38" href="$d0/d36/namespacehpx_1_1performance__counters.html#aa69496dbba46619d8d3179c86801f1c7" title="Get the global id of an existing performance counter, if the counter does not exist yet..." alt="" coords="697,1260,876,1301"/>
+<area shape="rect" id="node39" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a8c28269486d5620ac48af349f17bb41c" title="hpx::lcos::future::get" alt="" coords="716,1209,857,1235"/>
+<area shape="rect" id="node41" href="$d5/dbe/namespacehpx_1_1detail.html#aee8c9834a58f5c303ab3458b3b47d557" title="hpx::detail::rethrow\l_exception" alt="" coords="721,959,853,1000"/>
+<area shape="rect" id="node46" href="$d8/d83/namespacehpx.html#ad28bf0e2a07a99c4d3eedaf1339af32c" title="Return the error message of the thrown exception. " alt="" coords="719,907,855,934"/>
+<area shape="rect" id="node42" href="$d5/dbe/namespacehpx_1_1detail.html#a6366f24c7da7fddd56679cb4f108689d" title="hpx::detail::throw\l_exception" alt="" coords="957,959,1079,1000"/>
+<area shape="rect" id="node43" href="$de/d25/classhpx_1_1exception.html#a427fc21f422d4a796cf7e8f7b74c1fe1" title="hpx::exception::get\l_error" alt="" coords="951,1024,1085,1065"/>
+<area shape="rect" id="node44" href="$d8/d83/namespacehpx.html#a0af92c8ff70bbc40c078ef06a2ff4647" title="Return the (source code) file name of the function from which the exception was thrown. " alt="" coords="936,842,1100,869"/>
+<area shape="rect" id="node45" href="$d8/d83/namespacehpx.html#ae0112fceccd5a51798ed81d88906468e" title="Return the line number in the (source code) file of the function from which the exception was thrown..." alt="" coords="953,893,1083,935"/>
+<area shape="rect" id="node48" href="$d0/d7b/classhpx_1_1runtime.html#a0bfe0241e54b1fe1dd4ec181d944de43" title="access configuration information " alt="" coords="473,1235,635,1262"/>
+<area shape="rect" id="node49" href="$dd/de4/classhpx_1_1util_1_1section.html#aeee54430eca7e62d11765c45d1c58420" title="hpx::util::section\l::expand" alt="" coords="495,1287,613,1328"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="test_receive_buffer_server::do_work" name="test_receive_buffer_server::do_work">
+<area shape="rect" id="node2" href="$d1/ded/classtest__receive__buffer__server.html#ab9abf19445fcd72cab42923727f9569d" title="test_receive_buffer\l_server::send" alt="" coords="192,5,321,47"/>
+<area shape="rect" id="node3" href="$d1/ded/classtest__receive__buffer__server.html#a23e0cbce810988b3902a16ef37eb8695" title="test_receive_buffer\l_server::receive" alt="" coords="192,71,321,112"/>
+<area shape="rect" id="node4" href="$d0/d33/classhpx_1_1lcos_1_1future.html#a17045dee172c36e208b2cbd400fa8797" title="hpx::lcos::future::then" alt="" coords="183,137,331,163"/>
+<area shape="rect" id="node5" href="$d2/dc9/namespacehpx_1_1lcos.html#aa22f424df487aac588e30b71f15dd2fe" title="hpx::lcos::wait_all" alt="" coords="193,187,320,214"/>
+</map>

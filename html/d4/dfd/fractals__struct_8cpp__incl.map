@@ -1,0 +1,45 @@
+<map id="fractals_struct.cpp" name="fractals_struct.cpp">
+<area shape="rect" id="node2" href="$d5/df5/hpx__init_8hpp.html" title="hpx/hpx_init.hpp" alt="" coords="1512,244,1629,271"/>
+<area shape="rect" id="node20" href="$d4/dad/actions_8hpp.html" title="hpx/include/actions.hpp" alt="" coords="4318,244,4477,271"/>
+<area shape="rect" id="node32" href="$df/d72/include_2util_8hpp.html" title="hpx/include/util.hpp" alt="" coords="3071,333,3206,360"/>
+<area shape="rect" id="node47" href="$d5/deb/lcos_8hpp.html" title="hpx/include/lcos.hpp" alt="" coords="3955,80,4096,107"/>
+<area shape="rect" id="node50" href="$d8/d21/serialization_8hpp.html" title="hpx/include/serialization.hpp" alt="" coords="4120,80,4307,107"/>
+<area shape="rect" id="node3" href="$d8/dfd/config_8hpp.html" title="hpx/config.hpp" alt="" coords="3275,601,3381,628"/>
+<area shape="rect" id="node6" href="$d0/d0c/hpx__finalize_8hpp.html" title="hpx/hpx_finalize.hpp" alt="" coords="2155,333,2295,360"/>
+<area shape="rect" id="node7" href="$dc/d89/runtime__mode_8hpp.html" title="hpx/runtime/runtime\l_mode.hpp" alt="" coords="891,512,1029,553"/>
+<area shape="rect" id="node9" href="$d3/def/shutdown__function_8hpp.html" title="hpx/runtime/shutdown\l_function.hpp" alt="" coords="1720,423,1869,464"/>
+<area shape="rect" id="node10" href="$d4/dd0/startup__function_8hpp.html" title="hpx/runtime/startup\l_function.hpp" alt="" coords="1894,423,2029,464"/>
+<area shape="rect" id="node11" href="$d7/d7c/function_8hpp.html" title="hpx/util/function.hpp" alt="" coords="1795,519,1933,546"/>
+<area shape="rect" id="node16" href="$d3/d6b/hpx__init__impl_8hpp.html" title="hpx/hpx_init_impl.hpp" alt="" coords="1497,333,1645,360"/>
+<area shape="rect" id="node4" href="$d0/d47/cat_8hpp.html" title="hpx/util/detail/pp\l/cat.hpp" alt="" coords="4895,676,5012,717"/>
+<area shape="rect" id="node5" href="$de/ded/stringize_8hpp.html" title="hpx/util/detail/pp\l/stringize.hpp" alt="" coords="3269,676,3387,717"/>
+<area shape="rect" id="node17" href="$d2/d54/assert_8hpp.html" title="hpx/util/assert.hpp" alt="" coords="3901,519,4030,546"/>
+<area shape="rect" id="node18" href="$d3/df8/util_2bind_8hpp.html" title="hpx/util/bind.hpp" alt="" coords="3779,430,3896,457"/>
+<area shape="rect" id="node19" href="$df/d37/decay_8hpp.html" title="hpx/util/decay.hpp" alt="" coords="4277,519,4405,546"/>
+<area shape="rect" id="node21" href="$d6/ded/action__invoke__no__more__than_8hpp.html" title="hpx/runtime/actions\l/action_invoke_no_more\l_than.hpp" alt="" coords="4042,319,4203,375"/>
+<area shape="rect" id="node22" href="$d3/d82/continuation_8hpp.html" title="hpx/runtime/actions\l/continuation.hpp" alt="" coords="4581,423,4717,464"/>
+<area shape="rect" id="node24" href="$d9/da6/component__action_8hpp.html" title="hpx/runtime/actions\l/component_action.hpp" alt="" coords="5121,326,5279,367"/>
+<area shape="rect" id="node28" href="$d7/d57/lambda__to__action_8hpp.html" title="hpx/runtime/actions\l/lambda_to_action.hpp" alt="" coords="2319,326,2473,367"/>
+<area shape="rect" id="node29" href="$d3/dec/make__continuation_8hpp.html" title="hpx/runtime/actions\l/make_continuation.hpp" alt="" coords="4395,326,4555,367"/>
+<area shape="rect" id="node30" href="$de/dd2/manage__object__action_8hpp.html" title="hpx/runtime/actions\l/manage_object_action.hpp" alt="" coords="4123,423,4304,464"/>
+<area shape="rect" id="node31" href="$d7/d19/plain__action_8hpp.html" title="hpx/runtime/actions\l/plain_action.hpp" alt="" coords="4792,326,4928,367"/>
+<area shape="rect" id="node25" href="$d7/d63/expand_8hpp.html" title="hpx/util/detail/pp\l/expand.hpp" alt="" coords="5141,512,5259,553"/>
+<area shape="rect" id="node26" href="$dd/d99/nargs_8hpp.html" title="hpx/util/detail/pp\l/nargs.hpp" alt="" coords="5141,423,5259,464"/>
+<area shape="rect" id="node27" href="$d1/dcf/strip__parens_8hpp.html" title="Defines the HPX_PP_STRIP_PARENS macro. " alt="" coords="4843,423,4965,464"/>
+<area shape="rect" id="node33" href="$d1/dab/activate__counters_8hpp.html" title="hpx/util/activate_counters.hpp" alt="" coords="1400,430,1595,457"/>
+<area shape="rect" id="node34" href="$da/daf/annotated__function_8hpp.html" title="hpx/util/annotated\l_function.hpp" alt="" coords="3104,512,3229,553"/>
+<area shape="rect" id="node35" href="$d1/d58/atomic__count_8hpp.html" title="hpx/util/atomic_count.hpp" alt="" coords="3304,519,3475,546"/>
+<area shape="rect" id="node36" href="$df/d73/get__and__reset__value_8hpp.html" title="hpx/util/get_and_reset\l_value.hpp" alt="" coords="2617,423,2767,464"/>
+<area shape="rect" id="node37" href="$dc/d04/high__resolution__clock_8hpp.html" title="hpx/util/high_resolution\l_clock.hpp" alt="" coords="3549,512,3704,553"/>
+<area shape="rect" id="node38" href="$dd/d63/high__resolution__timer_8hpp.html" title="hpx/util/high_resolution\l_timer.hpp" alt="" coords="3277,423,3432,464"/>
+<area shape="rect" id="node39" href="$d0/d72/interval__timer_8hpp.html" title="hpx/util/interval_timer.hpp" alt="" coords="1206,430,1375,457"/>
+<area shape="rect" id="node40" href="$de/daf/iterator__adaptor_8hpp.html" title="hpx/util/iterator_adaptor.hpp" alt="" coords="2307,430,2490,457"/>
+<area shape="rect" id="node41" href="$dc/dc6/iterator__facade_8hpp.html" title="hpx/util/iterator_facade.hpp" alt="" coords="2589,519,2768,546"/>
+<area shape="rect" id="node42" href="$d0/d67/parse__command__line_8hpp.html" title="hpx/util/parse_command\l_line.hpp" alt="" coords="915,423,1079,464"/>
+<area shape="rect" id="node43" href="$d2/d60/safe__lexical__cast_8hpp.html" title="hpx/util/safe_lexical\l_cast.hpp" alt="" coords="2176,512,2312,553"/>
+<area shape="rect" id="node44" href="$d7/dc8/thread__aware__timer_8hpp.html" title="hpx/util/thread_aware\l_timer.hpp" alt="" coords="3507,423,3653,464"/>
+<area shape="rect" id="node45" href="$d0/d06/unwrap_8hpp.html" title="hpx/util/unwrap.hpp" alt="" coords="2945,519,3079,546"/>
+<area shape="rect" id="node46" href="$d4/d3f/util_2zip__iterator_8hpp.html" title="hpx/util/zip_iterator.hpp" alt="" coords="2893,430,3051,457"/>
+<area shape="rect" id="node48" href="$de/daa/base__lco_8hpp.html" title="hpx/lcos/base_lco.hpp" alt="" coords="5172,244,5324,271"/>
+<area shape="rect" id="node49" href="$d2/df5/base__lco__with__value_8hpp.html" title="hpx/lcos/base_lco_with\l_value.hpp" alt="" coords="4955,155,5112,196"/>
+</map>

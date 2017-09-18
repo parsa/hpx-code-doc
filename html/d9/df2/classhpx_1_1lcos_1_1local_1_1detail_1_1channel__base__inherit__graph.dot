@@ -1,0 +1,20 @@
+digraph "hpx::lcos::local::detail::channel_base&lt; T &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::lcos::local::detail\l::channel_base\< T \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="darkgreen",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="hpx::lcos::local::channel\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d55/classhpx_1_1lcos_1_1local_1_1channel.html"];
+  Node1 -> Node2 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< result_type \>" ,fontname="Helvetica"];
+  Node2 [label="hpx::lcos::local::channel\l\< result_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d55/classhpx_1_1lcos_1_1local_1_1channel.html"];
+  Node0 -> Node3 [dir="back",color="darkgreen",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hpx::lcos::local::one\l_element_channel\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/daf/classhpx_1_1lcos_1_1local_1_1one__element__channel.html"];
+  Node0 -> Node4 [dir="back",color="darkgreen",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hpx::lcos::local::receive\l_channel\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d37/classhpx_1_1lcos_1_1local_1_1receive__channel.html"];
+  Node0 -> Node5 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="hpx::lcos::local::send\l_channel\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d77/classhpx_1_1lcos_1_1local_1_1send__channel.html"];
+  Node0 -> Node6 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< result_type \>" ,fontname="Helvetica"];
+  Node6 [label="hpx::lcos::local::detail\l::channel_base\< result_type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d49/classhpx_1_1lcos_1_1local_1_1detail_1_1channel__base.html"];
+  Node6 -> Node2 [dir="back",color="darkgreen",fontsize="10",style="solid",fontname="Helvetica"];
+}

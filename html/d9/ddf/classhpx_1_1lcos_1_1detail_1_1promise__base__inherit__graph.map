@@ -1,0 +1,7 @@
+<map id="hpx::lcos::detail::promise_base&lt; Result, RemoteResult, SharedState &gt;" name="hpx::lcos::detail::promise_base&lt; Result, RemoteResult, SharedState &gt;">
+<area shape="rect" id="node3" href="$d1/d35/classhpx_1_1lcos_1_1promise.html" title="promise\&lt; Result, hpx\l::traits::extract_action\l\&lt; Action \&gt;::remote_result_type \&gt;" alt="" coords="465,5,680,61"/>
+<area shape="rect" id="node6" href="$d1/d35/classhpx_1_1lcos_1_1promise.html" title="promise\&lt; void \&gt;" alt="" coords="515,85,630,112"/>
+<area shape="rect" id="node2" href="$d5/da1/classhpx_1_1lcos_1_1local_1_1detail_1_1promise__base.html" title="hpx::lcos::local::detail\l::promise_base\&lt; Result,\l SharedState \&gt;" alt="" coords="5,39,169,95"/>
+<area shape="rect" id="node4" href="$df/da7/classhpx_1_1lcos_1_1packaged__action_3_01_action_00_01_result_00_01false_01_4.html" title="hpx::lcos::packaged\l_action\&lt; Action, Result,\l false \&gt;" alt="" coords="728,5,891,61"/>
+<area shape="rect" id="node5" href="$db/d7f/classhpx_1_1lcos_1_1packaged__action_3_01_action_00_01_result_00_01true_01_4.html" title="hpx::lcos::packaged\l_action\&lt; Action, Result,\l true \&gt;" alt="" coords="939,5,1101,61"/>
+</map>

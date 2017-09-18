@@ -1,0 +1,9 @@
+<map id="block_matrix_t::block" name="block_matrix_t::block">
+<area shape="rect" id="node2" href="$da/d92/algorithms_8hh.html#aa76a75931ed4a3e23ff31ffd106274c8" title="axpy" alt="" coords="217,5,268,32"/>
+<area shape="rect" id="node3" href="$da/d92/algorithms_8hh.html#a6f5d35d92bab8499e9b4a71e7354fb6f" title="copy" alt="" coords="217,56,268,83"/>
+<area shape="rect" id="node4" href="$da/d92/algorithms_8hh.html#ac38de6d057aae7d754cffa82994b6b7b" title="gemv" alt="" coords="217,107,269,133"/>
+<area shape="rect" id="node5" href="$da/d92/algorithms_8hh.html#a5b778a712109641e32df08e905519916" title="nrm2" alt="" coords="217,157,268,184"/>
+<area shape="rect" id="node6" href="$da/d92/algorithms_8hh.html#aabc4f7eaeb9c5cfb6e224f1f1c0d1305" title="scal" alt="" coords="219,208,266,235"/>
+<area shape="rect" id="node7" href="$da/d92/algorithms_8hh.html#aa0e032a3d9de48fadd8dd171dce167f6" title="gemm" alt="" coords="213,259,272,285"/>
+<area shape="rect" id="node8" href="$dc/de8/block__matrix_8hh.html#a312a917ecc61f15de4f9391ddfb55e03" title="operator\&lt;\&lt;" alt="" coords="200,309,285,336"/>
+</map>

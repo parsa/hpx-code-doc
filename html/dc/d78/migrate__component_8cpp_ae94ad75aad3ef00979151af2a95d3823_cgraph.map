@@ -1,0 +1,12 @@
+<map id="test_migrate_component2" name="test_migrate_component2">
+<area shape="rect" id="node2" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a0cdfe4b8fed578eb1ce34222c0f07b03" title="hpx::components::client\l_base::get_id" alt="" coords="231,5,393,47"/>
+<area shape="rect" id="node3" href="$d8/df6/structtest__client.html#a415572be44e40d3a3a518c559cadcade" title="test_client::call" alt="" coords="257,71,367,98"/>
+<area shape="rect" id="node5" href="$d8/df6/structtest__client.html#aac4daf87ac22f1914749ba92676258b2" title="test_client::get_data" alt="" coords="242,122,382,149"/>
+<area shape="rect" id="node6" href="$d5/d76/namespacehpx_1_1components.html#aa6180d7bf575d567745beec0e308830b" title="hpx::components::migrate" alt="" coords="225,173,399,199"/>
+<area shape="rect" id="node7" href="$d2/d7a/namespacehpx_1_1compute.html#aaaff8090fc8dfbf017866ab8203e20d5" title="Effects: x.swap(y);. " alt="" coords="243,223,381,250"/>
+<area shape="rect" id="node11" href="$d8/d83/namespacehpx.html#ad28bf0e2a07a99c4d3eedaf1339af32c" title="Return the error message of the thrown exception. " alt="" coords="244,274,380,301"/>
+<area shape="rect" id="node4" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="447,89,641,131"/>
+<area shape="rect" id="node8" href="$d3/d81/classhpx_1_1compute_1_1vector.html#a8e24c9f3b4b2c93542a1d78a08974d0d" title="hpx::compute::vector\l::swap" alt="" coords="473,216,615,257"/>
+<area shape="rect" id="node9" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="689,223,840,250"/>
+<area shape="rect" id="node10" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="888,216,1008,257"/>
+</map>

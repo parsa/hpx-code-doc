@@ -1,0 +1,16 @@
+digraph "hpx::lcos::local::channel_async_iterator&lt; T &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node5 [label="hpx::lcos::local::channel\l_async_iterator\< T \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hpx::util::iterator\l_facade\< channel_async\l_iterator\< T \>, hpx::future\l\< T \>, std::input_iterator\l_tag, hpx::future\< T \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d7c/structhpx_1_1util_1_1iterator__facade.html"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hpx::util::detail::\literator_facade_base\l\< channel_async_iterator\l\< T \>, hpx::future\< T \>,\l std::input_iterator_tag,\l hpx::future\< T \>, std::ptrdiff\l_t, void \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d11/classhpx_1_1util_1_1detail_1_1iterator__facade__base.html"];
+  Node8 -> Node7 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< channel_async_iterator\l\< T \>, hpx::future\< T \>\l, std::input_iterator_tag,\l hpx::future\< T \>, std::ptrdiff\l_t, void \>" ,fontname="Helvetica"];
+  Node8 [label="hpx::util::detail::\literator_facade_base\l\< Derived, T, Category,\l Reference, Distance, Pointer \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d11/classhpx_1_1util_1_1detail_1_1iterator__facade__base.html"];
+  Node9 -> Node6 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< channel_async_iterator\l\< T \>, hpx::future\< T \>\l, std::input_iterator_tag,\l hpx::future\< T \> \>" ,fontname="Helvetica"];
+  Node9 [label="hpx::util::iterator\l_facade\< Derived, T,\l Category, Reference,\l Distance, Pointer \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d7c/structhpx_1_1util_1_1iterator__facade.html"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

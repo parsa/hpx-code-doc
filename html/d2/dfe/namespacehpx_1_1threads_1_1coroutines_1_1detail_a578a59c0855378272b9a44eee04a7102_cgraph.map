@@ -1,0 +1,5 @@
+<map id="hpx::threads::coroutines::detail::add_new_tss_node" name="hpx::threads::coroutines::detail::add_new_tss_node">
+<area shape="rect" id="node2" href="$d7/d28/namespacehpx_1_1threads.html#a22877ae347ad884cde3a51397dad6c53" title="hpx::threads::get_self_ptr" alt="" coords="237,5,407,32"/>
+<area shape="rect" id="node4" href="$d3/dbe/classhpx_1_1threads_1_1coroutines_1_1detail_1_1tss__storage.html#a78862307d6f3e3dd3e847815bfa67dba" title="hpx::threads::coroutines\l::detail::tss_storage::insert" alt="" coords="233,57,411,98"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#a07daf4d6d29233f20d66d41ab7b5b8e8" title="hpx::threads::get_self" alt="" coords="459,5,605,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hpx::partitioned_vector_partition::get_copied_data" name="hpx::partitioned_vector_partition::get_copied_data">
+<area shape="rect" id="node2" href="$da/d87/classhpx_1_1partitioned__vector__partition.html#ad01087577640b889ad21b3f3c30f12c9" title="hpx::partitioned_vector\l_partition::get_copied_data" alt="" coords="232,49,411,90"/>
+<area shape="rect" id="node4" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="532,115,571,141"/>
+<area shape="rect" id="node3" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a0cdfe4b8fed578eb1ce34222c0f07b03" title="hpx::components::client\l_base\&lt; partitioned_vector\l_partition\&lt; T, Data \&gt;, server\l::partitioned_vector\&lt; T, Data\l \&gt; \&gt;::get_id" alt="" coords="459,5,644,91"/>
+<area shape="rect" id="node5" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="692,115,779,141"/>
+<area shape="rect" id="node6" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="827,107,992,149"/>
+</map>

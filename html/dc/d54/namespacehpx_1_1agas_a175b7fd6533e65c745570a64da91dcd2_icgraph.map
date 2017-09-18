@@ -1,0 +1,6 @@
+<map id="hpx::agas::mark_as_migrated" name="hpx::agas::mark_as_migrated">
+<area shape="rect" id="node2" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a64b37e2590775a28e72c2c692f13489d" title="hpx::agas::addressing\l_service::update_cache_entry" alt="" coords="195,5,390,47"/>
+<area shape="rect" id="node3" href="$dc/d54/namespacehpx_1_1agas.html#abb5e5584ed3b536ace8e3f58415e24c2" title="hpx::agas::is_local\l_lva_encoded_address" alt="" coords="216,71,369,112"/>
+<area shape="rect" id="node4" href="$db/d0d/structhpx_1_1components_1_1migration__support.html#a3c619b5c05d6d4124566d02f06ff2894" title="hpx::components::migration\l_support\&lt; hpx::components\l::component_base\&lt; test_server\l \&gt; \&gt;::unpin" alt="" coords="191,136,395,207"/>
+<area shape="rect" id="node5" href="$db/d0d/structhpx_1_1components_1_1migration__support.html#a2da47308438f2c4f33c3c31d061946c7" title="hpx::components::migration\l_support\&lt; hpx::components\l::component_base\&lt; test_server\l \&gt; \&gt;::mark_as_migrated" alt="" coords="191,231,395,301"/>
+</map>

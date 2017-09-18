@@ -1,0 +1,4 @@
+<map id="hpx::parallel::util::detail::foreach_static_partitioner::call" name="hpx::parallel::util::detail::foreach_static_partitioner::call">
+<area shape="rect" id="node2" href="$db/d4c/structhpx_1_1parallel_1_1util_1_1detail_1_1foreach__partitioner_3_01_ex_policy___00_01_result_00f0905d86233521b217e190864e1ef9bf.html#aec3e49e5b0760bc3e17e7151fbb130db" title="hpx::parallel::util\l::detail::foreach_partitioner\l\&lt; ExPolicy_, Result, parallel\l::traits::static_partitioner\l_tag \&gt;::call" alt="" coords="221,5,407,91"/>
+<area shape="rect" id="node3" href="$dc/dea/structhpx_1_1parallel_1_1util_1_1detail_1_1foreach__partitioner_3_01execution_1_1parallel__task_15c413fade2c2ea381c529c90fb01b95.html#a8231aec9aa2b550686dfb09068355222" title="hpx::parallel::util\l::detail::foreach_partitioner\l\&lt; execution::parallel_task\l_policy, Result, parallel::\ltraits::static_partitioner_tag \&gt;::call" alt="" coords="204,115,424,200"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="hpx::parcelset::parcelhandler::get_message_handler" name="hpx::parcelset::parcelhandler::get_message_handler">
+<area shape="rect" id="node2" href="$d8/d83/namespacehpx.html#ad63f161016caf12ec8d76ec5ccdf2b9c" title="Create an instance of a message handler plugin. " alt="" coords="257,35,403,76"/>
+<area shape="rect" id="node6" href="$d7/d8f/classhpx_1_1parcelset_1_1locality.html#a84a591db6c252c5db26ea53b7b4f2c5e" title="hpx::parcelset::locality\l::type" alt="" coords="253,100,407,141"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="243,166,417,193"/>
+<area shape="rect" id="node8" href="$d8/d83/namespacehpx.html#a154bc03d8bffebc41d36767f98aea4b0" title="Returns a new error_code constructed from the given parameters. " alt="" coords="255,217,405,243"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="465,13,607,39"/>
+<area shape="rect" id="node5" href="$d0/d7b/classhpx_1_1runtime.html#a06af7c99772ef36ee89f8350fe9ee8d9" title="hpx::runtime::create\l_message_handler" alt="" coords="467,64,605,105"/>
+<area shape="rect" id="node4" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="655,5,817,47"/>
+</map>

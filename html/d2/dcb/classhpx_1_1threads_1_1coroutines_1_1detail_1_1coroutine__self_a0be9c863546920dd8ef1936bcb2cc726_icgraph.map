@@ -1,0 +1,5 @@
+<map id="hpx::threads::coroutines::detail::coroutine_self::get_self" name="hpx::threads::coroutines::detail::coroutine_self::get_self">
+<area shape="rect" id="node2" href="$d7/dd2/classhpx_1_1threads_1_1coroutines_1_1detail_1_1coroutine__impl.html#a9e9734e8516ed51824b453f5abaa8435" title="hpx::threads::coroutines\l::detail::coroutine_impl\l::operator()" alt="" coords="247,5,409,61"/>
+<area shape="rect" id="node4" href="$d2/dcb/classhpx_1_1threads_1_1coroutines_1_1detail_1_1coroutine__self.html#a5ef08868707f6acee675aa16fad43379" title="hpx::threads::coroutines\l::detail::coroutine_self\l::get_continuation_recursion_count" alt="" coords="216,85,440,141"/>
+<area shape="rect" id="node3" href="$d7/dd2/classhpx_1_1threads_1_1coroutines_1_1detail_1_1coroutine__impl.html#a0d0ac8814a0f567b7a6733974e3ceed4" title="hpx::threads::coroutines\l::detail::coroutine_impl\l::destroy" alt="" coords="488,5,651,61"/>
+</map>

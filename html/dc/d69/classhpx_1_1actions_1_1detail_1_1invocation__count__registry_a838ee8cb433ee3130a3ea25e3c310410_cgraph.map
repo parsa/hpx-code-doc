@@ -1,0 +1,8 @@
+<map id="hpx::actions::detail::invocation_count_registry::counter_discoverer" name="hpx::actions::detail::invocation_count_registry::counter_discoverer">
+<area shape="rect" id="node2" href="$d0/d36/namespacehpx_1_1performance__counters.html#af277aab5e2e75f4d32dedcb1f4cdf21d" title="Create a full name of a counter from the contents of the given counter_path_elements instance..." alt="" coords="230,5,409,47"/>
+<area shape="rect" id="node3" href="$d0/df8/namespacehpx_1_1performance__counters_1_1detail.html#ab6413c4f17884bc8d3c30b52e7f0ca63" title="hpx::performance_counters\l::detail::regex_from_pattern" alt="" coords="229,123,409,164"/>
+<area shape="rect" id="node4" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#afb2ea48b0902f52ee4d8b764807b4316" title="hpx::util::detail::\lrange_impl::end" alt="" coords="509,64,624,105"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="232,189,407,215"/>
+<area shape="rect" id="node5" href="$d0/df8/namespacehpx_1_1performance__counters_1_1detail.html#ac305c0b7328b67a6ccaf4fe7b0ad33e7" title="hpx::performance_counters\l::detail::regex_from_character_set" alt="" coords="457,129,676,171"/>
+<area shape="rect" id="node6" href="$d8/d83/namespacehpx.html#a7e832bd3c4af93a4619dbe97a5b1c3d2" title="Main non&#45;blocking entry point for launching the HPX runtime system. " alt="" coords="724,137,801,163"/>
+</map>

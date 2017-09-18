@@ -1,0 +1,12 @@
+<map id="hpx::detail::apply_colocated" name="hpx::detail::apply_colocated">
+<area shape="rect" id="node2" href="$d4/dc9/namespacehpx_1_1naming.html#a960045d29982b0fda774809643cf2be8" title="hpx::naming::is_locality" alt="" coords="180,45,339,71"/>
+<area shape="rect" id="node8" href="$d1/d43/structhpx_1_1agas_1_1primary__namespace.html#a7630ff0f30ff8c23b13b4672c5350e2e" title="hpx::agas::primary\l_namespace::get_service\l_instance" alt="" coords="175,95,344,151"/>
+<area shape="rect" id="node9" href="$db/dee/structhpx_1_1naming_1_1id__type.html#a0375af42ca6b0ff79e627d91bfae571b" title="hpx::naming::id_type\l::get_gid" alt="" coords="188,176,331,217"/>
+<area shape="rect" id="node10" href="$dd/d20/namespacehpx_1_1util_1_1functional.html#a803a60a19d91e117ae0285e4d37409fb" title="hpx::util::functional\l::apply_continuation" alt="" coords="190,241,329,283"/>
+<area shape="rect" id="node11" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="209,307,309,334"/>
+<area shape="rect" id="node3" href="$d4/dc9/namespacehpx_1_1naming.html#a0b1c0ab6510a7a869fa4e3c7717748e5" title="hpx::naming::get_locality\l_from_gid" alt="" coords="392,5,559,47"/>
+<area shape="rect" id="node6" href="$d4/dc9/namespacehpx_1_1naming.html#a27ed9275dccbd5fb677b350f040c21b4" title="hpx::naming::replace\l_locality_id" alt="" coords="404,71,547,112"/>
+<area shape="rect" id="node4" href="$d4/dc9/namespacehpx_1_1naming.html#ae50a3ecdb5854b6a25a556ebc9830541" title="hpx::naming::get_gid\l_from_locality_id" alt="" coords="611,35,753,76"/>
+<area shape="rect" id="node5" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="805,5,972,47"/>
+<area shape="rect" id="node7" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html#a31d0fb49a563fb184fecaabdced4dcd9" title="hpx::naming::gid_type\l::get_msb" alt="" coords="607,100,757,141"/>
+</map>

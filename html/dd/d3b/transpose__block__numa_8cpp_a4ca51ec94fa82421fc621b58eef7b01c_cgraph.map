@@ -1,0 +1,51 @@
+<map id="hpx_main" name="hpx_main">
+<area shape="rect" id="node2" href="$dd/d3b/transpose__block__numa_8cpp.html#ab70a11b2c271588eeef9d54a2599ed7a" title="retrieve_topology" alt="" coords="149,50,268,77"/>
+<area shape="rect" id="node5" href="$dd/d3b/transpose__block__numa_8cpp.html#a00ec6ec36e166825a9dc1603f51d0ae4" title="get_num_numa_nodes" alt="" coords="132,229,285,255"/>
+<area shape="rect" id="node9" href="$dd/d3b/transpose__block__numa_8cpp.html#a2119534bc83be3941891ba477f8c82e2" title="get_num_numa_pus" alt="" coords="139,137,278,163"/>
+<area shape="rect" id="node11" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="380,319,483,346"/>
+<area shape="rect" id="node15" href="$d8/d83/namespacehpx.html#a91f701414a6c667c3b58a2e50b93ad0a" title="Return the global id representing the root locality. " alt="" coords="135,841,283,867"/>
+<area shape="rect" id="node28" href="$d8/d83/namespacehpx.html#a8e7953a6163ccfab68ebf6e708b45615" title="Asynchronously return the number of localities which are currently registered for the running applica..." alt="" coords="352,497,511,523"/>
+<area shape="rect" id="node31" href="$d8/d83/namespacehpx.html#a158d7c54a657bb364c1704033010697b" title="Return the number of the locality this function is being called from. " alt="" coords="141,898,276,925"/>
+<area shape="rect" id="node35" href="$d8/d83/namespacehpx.html#acde05ad9cc5b5ed75cc4dccf33537c5a" title="hpx::find_all_from\l_basename" alt="" coords="629,1291,752,1332"/>
+<area shape="rect" id="node37" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a7669848e3e4ff6cee42c8f645101970f" title="hpx::parallel::v1::\lfor_each" alt="" coords="149,1124,269,1165"/>
+<area shape="rect" id="node39" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#a31e165df2b865cdd961f35ce938db41a" title="hpx::util::detail::\lrange_impl::begin" alt="" coords="147,1241,271,1283"/>
+<area shape="rect" id="node40" href="$d4/d4a/namespacehpx_1_1util_1_1detail_1_1range__impl.html#afb2ea48b0902f52ee4d8b764807b4316" title="hpx::util::detail::\lrange_impl::end" alt="" coords="151,1307,266,1348"/>
+<area shape="rect" id="node41" href="$d8/d83/namespacehpx.html#acf88178dc8c98cb0d7396325b3ccffdd" title="Register the given id using the given base name. " alt="" coords="147,956,271,997"/>
+<area shape="rect" id="node43" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#aa7c4ede081ce786c9d1eb1adff495cfc" title="hpx::parallel::v1::move" alt="" coords="615,1407,766,1434"/>
+<area shape="rect" id="node48" href="$d8/d3c/simple__future__continuation_8cpp.html#a64b28a4bbb16e7f78fc14c60466ddd8d" title="get_id" alt="" coords="180,1373,237,1399"/>
+<area shape="rect" id="node49" href="$d2/dc9/namespacehpx_1_1lcos.html#aa22f424df487aac588e30b71f15dd2fe" title="hpx::lcos::wait_all" alt="" coords="145,1423,272,1450"/>
+<area shape="rect" id="node50" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="165,1190,252,1217"/>
+<area shape="rect" id="node3" href="$d7/d28/namespacehpx_1_1threads.html#aa4cc56111111c0910b6705047d8e6588" title="hpx::threads::create\l_topology" alt="" coords="362,5,501,47"/>
+<area shape="rect" id="node4" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a2967c633948a3bf17a3b5405ef5a8318" title="hpx::util::static_::get" alt="" coords="620,46,761,73"/>
+<area shape="rect" id="node6" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a1d9640c6881db1bc293767cb139d30ef" title="Return the number of available NUMA domains. " alt="" coords="333,188,529,229"/>
+<area shape="rect" id="node7" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a0df3d82a468c182ee628ce76b81cc343" title="Return the number of available NUMA domains. " alt="" coords="347,253,515,295"/>
+<area shape="rect" id="node8" href="$df/dad/namespacehpx_1_1util.html#aca0372e368b829ebac21ebfb2f50a82b" title="hpx::util::safe_lexical_cast" alt="" coords="343,137,519,163"/>
+<area shape="rect" id="node10" href="$d7/d28/namespacehpx_1_1threads.html#aa8752a235478d2ad7b5ac467b63ab527" title="hpx::threads::hardware\l_concurrency" alt="" coords="354,71,509,112"/>
+<area shape="rect" id="node12" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="599,243,782,270"/>
+<area shape="rect" id="node14" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="611,294,771,321"/>
+<area shape="rect" id="node13" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="856,287,1019,328"/>
+<area shape="rect" id="node16" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="620,345,761,371"/>
+<area shape="rect" id="node17" href="$d0/d7b/classhpx_1_1runtime.html#aeb5dddd30d6b9861669af8ad44d1a96a" title="hpx::runtime::get_agas\l_client" alt="" coords="860,439,1015,480"/>
+<area shape="rect" id="node18" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#aae7aeb51157efaed2271de8e0b49e917" title="Get locality locality_id of the console locality. " alt="" coords="356,891,507,947"/>
+<area shape="rect" id="node20" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="603,847,778,874"/>
+<area shape="rect" id="node19" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a4d0305db2b63435b0418e4603b70533d" title="hpx::agas::addressing\l_service::get_status" alt="" coords="615,899,766,940"/>
+<area shape="rect" id="node21" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#aab78f53372b45edb3de49e2030af215b" title="Returns whether this addressing_service represents the console locality. " alt="" coords="615,964,766,1005"/>
+<area shape="rect" id="node22" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#ab52c19a37c2a7a006c6c15f90ad0539c" title="hpx::agas::addressing\l_service::get_local_locality" alt="" coords="602,781,779,823"/>
+<area shape="rect" id="node23" href="$d4/dc9/namespacehpx_1_1naming.html#ae50a3ecdb5854b6a25a556ebc9830541" title="hpx::naming::get_gid\l_from_locality_id" alt="" coords="619,1029,762,1071"/>
+<area shape="rect" id="node25" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a958dcde257f99d445f7d9cafa6d55fbe" title="hpx::agas::addressing\l_service::resolve_name" alt="" coords="613,1095,769,1136"/>
+<area shape="rect" id="node26" href="$d4/dc9/namespacehpx_1_1naming.html#af568527a84c2ea192f494afa8a236e8c" title="hpx::naming::get_locality\l_id_from_id" alt="" coords="607,1225,774,1267"/>
+<area shape="rect" id="node27" href="$db/dee/structhpx_1_1naming_1_1id__type.html#a0375af42ca6b0ff79e627d91bfae571b" title="hpx::naming::id_type\l::get_gid" alt="" coords="619,1160,762,1201"/>
+<area shape="rect" id="node24" href="$d4/dc9/namespacehpx_1_1naming.html#a7fd43037784560bd04fda9b49e33529f" title="hpx::naming::get_locality\l_id_from_gid" alt="" coords="854,851,1021,892"/>
+<area shape="rect" id="node29" href="$d8/d83/namespacehpx.html#aef902cc6c7dd3b9fbadf34d1e850a070" title="hpx::get_runtime" alt="" coords="878,563,997,590"/>
+<area shape="rect" id="node30" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a58ab179aa064fcb808a90d22e3b058f4" title="Query for the number of all known localities. " alt="" coords="577,548,804,589"/>
+<area shape="rect" id="node32" href="$dc/d54/namespacehpx_1_1agas.html#a491cc2ddecdf0f1a9129900caa6a4d3e" title="hpx::agas::get_locality_id" alt="" coords="346,729,517,755"/>
+<area shape="rect" id="node33" href="$d0/d7b/classhpx_1_1runtime.html#ab405f80e060dac95d624520f38b0524c" title="hpx::runtime::get_state" alt="" coords="613,730,769,757"/>
+<area shape="rect" id="node34" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="613,613,768,655"/>
+<area shape="rect" id="node36" href="$d8/d83/namespacehpx.html#a47c8bdc52ad959f867dc5675f915d3dc" title="hpx::find_from_basename" alt="" coords="852,1323,1023,1350"/>
+<area shape="rect" id="node38" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="410,1307,453,1334"/>
+<area shape="rect" id="node42" href="$d5/dbe/namespacehpx_1_1detail.html#a17936e745575748af23abfcf86ea8961" title="hpx::detail::name_from\l_basename" alt="" coords="354,1073,509,1115"/>
+<area shape="rect" id="node45" href="$dc/d54/namespacehpx_1_1agas.html#a3812793adbf5e7d8c6b468595ac0823f" title="hpx::agas::register_name" alt="" coords="347,625,516,651"/>
+<area shape="rect" id="node46" href="$d8/d83/namespacehpx.html#aa2d980857394fc543909a6d3478ef0b5" title="Unregister the given id using the given base name. " alt="" coords="362,1191,501,1232"/>
+<area shape="rect" id="node47" href="$dc/d54/namespacehpx_1_1agas.html#a4bb445d0aa556ce729cddab9dc49152a" title="hpx::agas::unregister_name" alt="" coords="340,677,523,703"/>
+<area shape="rect" id="node44" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#ab1b56a05e1885ca7cc7ffa1804dd2f3c" title="hpx::parallel::v1::\ldetail::transfer" alt="" coords="877,1400,997,1441"/>
+</map>

@@ -1,0 +1,29 @@
+digraph "hpx::actions::basic_action&lt; Component, Signature, Derived &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hpx::actions::basic\l_action\< Component,\l Signature, Derived \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< plain_data\< Derived\l \>, void(T), Derived \>" ,fontname="Helvetica"];
+  Node1 [label="hpx::actions::basic\l_action\< plain_data\l\< Derived \>, void(T),\l Derived \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/db6/structhpx_1_1actions_1_1basic__action.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="data_set_action_base\l\< T, Derived \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d33/structdata__set__action__base.html"];
+  Node2 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< std::remove_pointer\l\< T \>::type, hpx::actions\l::detail::action_type\< data\l_set_action\< T, Data, Derived\l \>, Derived \>::type \>" ,fontname="Helvetica"];
+  Node3 [label="data_set_action_base\l\< std::remove_pointer\l\< T \>::type, hpx::actions\l::detail::action_type\< data\l_set_action\< T, Data, Derived\l \>, Derived \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d33/structdata__set__action__base.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="data_set_action\< T,\l Data, Derived \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d62/structdata__set__action.html"];
+  Node0 -> Node5 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< plain_data\< hpx::\lactions::detail::action\l_type\< data_get_action\l\< T, Data, Derived \>, Derived\l \>::type \>, std::remove_pointer\l\< std::remove_pointer\< T \>::type\l \>::type(), hpx::actions::detail\l::action_type\< data_get_action\< T,\l Data, Derived \>, Derived \>::type \>" ,fontname="Helvetica"];
+  Node5 [label="hpx::actions::basic\l_action\< plain_data\l\< hpx::actions::detail\l::action_type\< data_get\l_action\< T, Data, Derived\l \>, Derived \>::type \>, std\l::remove_pointer\< std::remove\l_pointer\< T \>::type \>::type()\l, hpx::actions::detail::action\l_type\< data_get_action\< T, Data,\l Derived \>, Derived \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/db6/structhpx_1_1actions_1_1basic__action.html"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="data_get_action_base\l\< std::remove_pointer\l\< T \>::type, hpx::actions\l::detail::action_type\< data\l_get_action\< T, Data, Derived\l \>, Derived \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/de6/structdata__get__action__base.html"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="data_get_action\< T,\l Data, Derived \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d20/structdata__get__action.html"];
+  Node0 -> Node8 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< plain_data\< Derived\l \>, std::remove_pointer\l\< T \>::type(), Derived \>" ,fontname="Helvetica"];
+  Node8 [label="hpx::actions::basic\l_action\< plain_data\l\< Derived \>, std::remove\l_pointer\< T \>::type(), Derived \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/db6/structhpx_1_1actions_1_1basic__action.html"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="data_get_action_base\l\< T, Derived \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/de6/structdata__get__action__base.html"];
+  Node9 -> Node6 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< std::remove_pointer\l\< T \>::type, hpx::actions\l::detail::action_type\< data\l_get_action\< T, Data, Derived\l \>, Derived \>::type \>" ,fontname="Helvetica"];
+  Node0 -> Node10 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< plain_data\< hpx::\lactions::detail::action\l_type\< data_set_action\l\< T, Data, Derived \>, Derived\l \>::type \>, void(std::remove\l_pointer\< T \>::type), hpx::actions\l::detail::action_type\< data_set_action\l\< T, Data, Derived \>, Derived \>::type \>" ,fontname="Helvetica"];
+  Node10 [label="hpx::actions::basic\l_action\< plain_data\l\< hpx::actions::detail\l::action_type\< data_set\l_action\< T, Data, Derived\l \>, Derived \>::type \>, void\l(std::remove_pointer\< T \>::type)\l, hpx::actions::detail::action\l_type\< data_set_action\< T, Data,\l Derived \>, Derived \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/db6/structhpx_1_1actions_1_1basic__action.html"];
+  Node10 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

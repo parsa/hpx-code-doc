@@ -1,0 +1,7 @@
+<map id="worker" name="worker">
+<area shape="rect" id="node2" href="$d6/d0f/classhpx_1_1util_1_1high__resolution__timer.html#abdf9bf5837743b9abdccc618a1c86736" title="hpx::util::high_resolution\l_timer::elapsed" alt="" coords="113,5,276,47"/>
+<area shape="rect" id="node6" href="$d0/dce/qthreads__homogeneous__timed__task__spawn_8cpp.html#a1715854accc4af4574e31be9f7c849db" title="donecount" alt="" coords="153,71,236,98"/>
+<area shape="rect" id="node3" href="$d6/d0f/classhpx_1_1util_1_1high__resolution__timer.html#abdc7f9511dd3bfe1c5da2c38fe295851" title="hpx::util::high_resolution\l_timer::take_time_stamp" alt="" coords="324,5,491,47"/>
+<area shape="rect" id="node4" href="$dd/d16/structhpx_1_1util_1_1high__resolution__clock.html#aaf1ff59c3ef8d3b70696fadb0a55842c" title="hpx::util::high_resolution\l_clock::now" alt="" coords="539,5,701,47"/>
+<area shape="rect" id="node5" href="$de/db3/1d__stencil__1__omp_8cpp.html#a89e9667753dccfac455bd37a7a3a7b16" title="now" alt="" coords="749,13,795,39"/>
+</map>

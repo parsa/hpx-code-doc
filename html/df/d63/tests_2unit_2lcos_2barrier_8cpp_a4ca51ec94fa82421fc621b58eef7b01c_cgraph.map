@@ -1,0 +1,18 @@
+<map id="hpx_main" name="hpx_main">
+<area shape="rect" id="node2" href="$df/d63/tests_2unit_2lcos_2barrier_8cpp.html#adfee0f3e737c1b6eb1504cceb8a2f264" title="local_tests" alt="" coords="161,198,246,225"/>
+<area shape="rect" id="node16" href="$df/d63/tests_2unit_2lcos_2barrier_8cpp.html#a9adc8ac951de324bf3ffe4f67be7bb19" title="remote_test_multiple" alt="" coords="132,274,275,301"/>
+<area shape="rect" id="node17" href="$d8/d83/namespacehpx.html#a8f5d18e423b3ad43e343d1571acd5f64" title="Main function to gracefully terminate the HPX runtime system. " alt="" coords="158,325,249,351"/>
+<area shape="rect" id="node3" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="323,67,425,94"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacehpx.html#acb7d8e37b73b823956ce144f9a57eaa4" title="hpx::async" alt="" coords="331,122,417,149"/>
+<area shape="rect" id="node13" href="$df/dad/namespacehpx_1_1util.html#ad844caedf82a0173d6909d910c3e48c6" title="hpx::util::bind" alt="" coords="324,173,424,199"/>
+<area shape="rect" id="node14" href="$df/d63/tests_2unit_2lcos_2barrier_8cpp.html#a6566296f75c74632e18b039e48a255af" title="barrier_test" alt="" coords="331,223,417,250"/>
+<area shape="rect" id="node15" href="$d9/dab/classhpx_1_1lcos_1_1barrier.html#af0e09dd00764a182081cf2e356bfa824" title="hpx::lcos::barrier\l::wait" alt="" coords="505,267,624,308"/>
+<area shape="rect" id="node4" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="473,15,656,42"/>
+<area shape="rect" id="node6" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="485,67,645,94"/>
+<area shape="rect" id="node5" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="704,5,867,47"/>
+<area shape="rect" id="node8" href="$d2/d67/promise__1620_8cpp.html#a58357f0b82bc761e1d0b9091ed563a70" title="call" alt="" coords="543,122,586,149"/>
+<area shape="rect" id="node9" href="$d8/d89/structtest.html#ab42d5ece712d716b04cb3f686f297a26" title="test::test" alt="" coords="748,71,823,98"/>
+<area shape="rect" id="node10" href="$d2/d67/promise__1620_8cpp.html#ab96aab827a4b1fcaf66cfe0ba83fef23" title="HPX_PLAIN_ACTION" alt="" coords="713,122,858,149"/>
+<area shape="rect" id="node11" href="$d8/d89/structtest.html#aeb29e7ed6518b9426ccf1344c52620ae" title="test::call" alt="" coords="749,173,821,199"/>
+<area shape="rect" id="node12" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="915,165,1109,207"/>
+</map>

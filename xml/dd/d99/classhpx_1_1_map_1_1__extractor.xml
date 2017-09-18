@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="dd/d99/classhpx_1_1_map_1_1__extractor" kind="class" language="Python" prot="public">
+    <compoundname>hpx::Map::_extractor</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">object</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="dd/d99/classhpx_1_1_map_1_1__extractor_1a72077ba853c5500799e5da1d02e25647" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def hpx.Map._extractor.key</definition>
+        <argsstring>(self, node)</argsstring>
+        <name>key</name>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <param>
+          <type>node</type>
+          <defname>node</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" line="103" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" bodystart="103" bodyend="105"/>
+      </memberdef>
+      <memberdef kind="function" id="dd/d99/classhpx_1_1_map_1_1__extractor_1a687a181864f0e1767c2d41a28195eaf0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def hpx.Map._extractor.value</definition>
+        <argsstring>(self, node)</argsstring>
+        <name>value</name>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <param>
+          <type>node</type>
+          <defname>node</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" line="106" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" bodystart="106" bodyend="108"/>
+      </memberdef>
+      <memberdef kind="function" id="dd/d99/classhpx_1_1_map_1_1__extractor_1a633752b0c171c6fcf3436dd131c48ace" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def hpx.Map._extractor.make_type</definition>
+        <argsstring>(self, key, value)</argsstring>
+        <name>make_type</name>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <param>
+          <type><ref refid="dd/d99/classhpx_1_1_map_1_1__extractor_1a72077ba853c5500799e5da1d02e25647" kindref="member">key</ref></type>
+          <defname>key</defname>
+        </param>
+        <param>
+          <type><ref refid="db/d16/structvalue" kindref="compound">value</ref></type>
+          <defname>value</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" line="109" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" bodystart="109" bodyend="111"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="0">
+        <label>hpx.Map._extractor</label>
+        <link refid="dd/d99/classhpx_1_1_map_1_1__extractor"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>hpx.Map._extractor</label>
+        <link refid="dd/d99/classhpx_1_1_map_1_1__extractor"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>object</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" line="101" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/tools/gdb/hpx.py" bodystart="101" bodyend="111"/>
+    <listofallmembers>
+      <member refid="dd/d99/classhpx_1_1_map_1_1__extractor_1a72077ba853c5500799e5da1d02e25647" prot="public" virt="non-virtual"><scope>hpx::Map::_extractor</scope><name>key</name></member>
+      <member refid="dd/d99/classhpx_1_1_map_1_1__extractor_1a633752b0c171c6fcf3436dd131c48ace" prot="public" virt="non-virtual"><scope>hpx::Map::_extractor</scope><name>make_type</name></member>
+      <member refid="dd/d99/classhpx_1_1_map_1_1__extractor_1a687a181864f0e1767c2d41a28195eaf0" prot="public" virt="non-virtual"><scope>hpx::Map::_extractor</scope><name>value</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

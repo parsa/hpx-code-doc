@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="da/d06/structhpx_1_1traits_1_1acquire__shared__state" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::traits::acquire_shared_state</compoundname>
+    <basecompoundref refid="d2/d48/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl" prot="public" virt="non-virtual">hpx::traits::detail::acquire_shared_state_impl&lt; std::decay&lt; T &gt;::type &gt;</basecompoundref>
+    <includes refid="d4/d49/acquire__shared__state_8hpp" local="no">acquire_shared_state.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>typename <ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+      </param>
+      <param>
+        <type>typename Enable</type>
+        <defval>void</defval>
+      </param>
+    </templateparamlist>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="190">
+        <label>hpx::traits::detail::acquire_shared_state_impl&lt; std::decay&lt; T &gt;::type &gt;</label>
+        <link refid="d2/d48/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl"/>
+        <childnode refid="191" relation="template-instance">
+          <edgelabel>&lt; std::decay&lt; T &gt;::type &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="189">
+        <label>hpx::traits::acquire_shared_state&lt; T, Enable &gt;</label>
+        <link refid="da/d06/structhpx_1_1traits_1_1acquire__shared__state"/>
+        <childnode refid="190" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="191">
+        <label>hpx::traits::detail::acquire_shared_state_impl&lt; T, Enable &gt;</label>
+        <link refid="d2/d48/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="193">
+        <label>hpx::traits::detail::acquire_shared_state_impl&lt; std::decay&lt; T &gt;::type &gt;</label>
+        <link refid="d2/d48/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl"/>
+        <childnode refid="194" relation="template-instance">
+          <edgelabel>&lt; std::decay&lt; T &gt;::type &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="192">
+        <label>hpx::traits::acquire_shared_state&lt; T, Enable &gt;</label>
+        <link refid="da/d06/structhpx_1_1traits_1_1acquire__shared__state"/>
+        <childnode refid="193" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="194">
+        <label>hpx::traits::detail::acquire_shared_state_impl&lt; T, Enable &gt;</label>
+        <link refid="d2/d48/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl"/>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/acquire_shared_state.hpp" line="39" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/acquire_shared_state.hpp" bodystart="37" bodyend="39"/>
+    <listofallmembers>
+      <member refid="d2/d48/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl_1a182870cb372c198f79a9e0b56d1c02e3" prot="public" virt="non-virtual"><scope>hpx::traits::acquire_shared_state</scope><name>operator()</name></member>
+      <member refid="d2/d48/structhpx_1_1traits_1_1detail_1_1acquire__shared__state__impl_1a6e26c3e9693186cf2bf01b0587cee22c" prot="public" virt="non-virtual"><scope>hpx::traits::acquire_shared_state</scope><name>type</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

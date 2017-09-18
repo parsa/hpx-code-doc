@@ -1,0 +1,51 @@
+<map id="hpx::threads::topology::~topology" name="hpx::threads::topology::~topology">
+<area shape="rect" id="node2" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a09ca79becb25e0767526941f4008c946" title="Return the Socket number of the processing unit the given thread is running on. " alt="" coords="243,5,393,47"/>
+<area shape="rect" id="node3" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a0fca52d7995f620df4a66b4495ace0d2" title="Return the NUMA node number of the processing unit the given thread is running on. " alt="" coords="232,71,404,112"/>
+<area shape="rect" id="node4" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a872fd0090ee8f8f6f32b7799c81c9bff" title="Return a bit mask where each set bit corresponds to a processing unit available to the application..." alt="" coords="225,136,411,177"/>
+<area shape="rect" id="node5" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a9f0786c5c16ca3dac8d5555451ebf793" title="Return a bit mask where each set bit corresponds to a processing unit available to the service thread..." alt="" coords="229,201,407,243"/>
+<area shape="rect" id="node7" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a63ed06b92fda8543423d184c8eec6efc" title="Return a bit mask where each set bit corresponds to a processing unit available to the given thread i..." alt="" coords="229,267,407,308"/>
+<area shape="rect" id="node8" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a299680f317973d7a438cf86fcbd12480" title="Return a bit mask where each set bit corresponds to a processing unit available to the given thread i..." alt="" coords="215,332,421,373"/>
+<area shape="rect" id="node9" href="$d5/daf/structhpx_1_1threads_1_1topology.html#adc744f20fc1d78bf857c84e774dfb8c4" title="Return a bit mask where each set bit corresponds to a processing unit associated with the given NUMA ..." alt="" coords="235,398,401,454"/>
+<area shape="rect" id="node10" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a8fb151e6f7f7811642e8ab7170c294a2" title="Return a bit mask where each set bit corresponds to a processing unit available to the given thread i..." alt="" coords="237,479,399,520"/>
+<area shape="rect" id="node11" href="$d5/daf/structhpx_1_1threads_1_1topology.html#ad16a61ac48911d098be73a23cce9066e" title="Return a bit mask where each set bit corresponds to a processing unit available to the given thread..." alt="" coords="231,544,405,585"/>
+<area shape="rect" id="node12" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a42b784e52c610fa3c7998f2b41396f04" title="Use the given bit mask to set the affinity of the given thread. Each set bit corresponds to a process..." alt="" coords="231,609,405,651"/>
+<area shape="rect" id="node13" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a5e7dce5f150893c46b245dcdfcd9dbf6" title="Return a bit mask where each set bit corresponds to a processing unit co&#45;located with the memory the ..." alt="" coords="243,675,393,731"/>
+<area shape="rect" id="node14" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a28d9a9cf49a83e8a299a6f9555546739" title="Prints the. " alt="" coords="243,756,393,797"/>
+<area shape="rect" id="node15" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a3752f213bc1a82cc001736ecdcdcc675" title="Reduce thread priority of the current thread. " alt="" coords="239,821,397,863"/>
+<area shape="rect" id="node16" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a0df3d82a468c182ee628ce76b81cc343" title="Return the number of available NUMA domains. " alt="" coords="234,887,402,928"/>
+<area shape="rect" id="node17" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a1d9640c6881db1bc293767cb139d30ef" title="Return the number of available NUMA domains. " alt="" coords="220,952,416,993"/>
+<area shape="rect" id="node18" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a9cb80b28851c76bd97e46c635defe7dd" title="Return the number of available cores. " alt="" coords="241,1017,395,1059"/>
+<area shape="rect" id="node19" href="$d5/daf/structhpx_1_1threads_1_1topology.html#ab0f4f0ceb376bfc37b9e1ecdd55ead91" title="Return the number of available hardware processing units. " alt="" coords="243,1083,393,1124"/>
+<area shape="rect" id="node20" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a0274d4efb13d6f44cde0549e7f6cd238" title="Return number of cores in given numa domain. " alt="" coords="204,1148,432,1189"/>
+<area shape="rect" id="node21" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a4cc2f23cf2ea3ea82944e8a640f58411" title="Return number of processing units in a given numa domain. " alt="" coords="209,1213,427,1255"/>
+<area shape="rect" id="node22" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a738c69ba6eefa87e5cd2658e8d52db77" title="Return number of processing units in a given socket. " alt="" coords="223,1279,413,1320"/>
+<area shape="rect" id="node23" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a1b632e123ba3ee570f0fe1fa5ccf0583" title="Return number of processing units in given core. " alt="" coords="231,1344,405,1385"/>
+<area shape="rect" id="node24" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a771ebc99f9d6a42c0df6d8fb36ed1ce1" title="hpx::threads::topology\l::get_core_number" alt="" coords="243,1409,393,1451"/>
+<area shape="rect" id="node25" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a7cbe24b9a0f5109e65e7976e3ed548a6" title="hpx::threads::topology\l::get_cpubind_mask" alt="" coords="243,1475,393,1516"/>
+<area shape="rect" id="node26" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a3a02b980b1b0fe24a36ef00bcf4b4c0f" title="hpx::threads::topology\l::write_to_log" alt="" coords="243,1540,393,1581"/>
+<area shape="rect" id="node27" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a832f9341e40249b2ace8fab709e6fee9" title="hpx::threads::topology\l::allocate" alt="" coords="243,1605,393,1647"/>
+<area shape="rect" id="node28" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a305642afa5d7e3b9b4dbd56b83cdc462" title="Free memory that was previously allocated by allocate. " alt="" coords="243,1671,393,1712"/>
+<area shape="rect" id="node29" href="$d5/daf/structhpx_1_1threads_1_1topology.html#a20c77d2b9c3970a55b289c1aa41228ab" title="hpx::threads::topology\l::print_hwloc" alt="" coords="243,1736,393,1777"/>
+<area shape="rect" id="node30" href="$d7/d28/namespacehpx_1_1threads.html#aa8752a235478d2ad7b5ac467b63ab527" title="hpx::threads::hardware\l_concurrency" alt="" coords="241,1801,395,1843"/>
+<area shape="rect" id="node32" href="$d7/d28/namespacehpx_1_1threads.html#a2d22148118979eb7cad63c6ae4cab1c7" title="hpx::threads::get_topology" alt="" coords="230,1867,406,1894"/>
+<area shape="rect" id="node6" href="$d8/d83/namespacehpx.html#a0e8512a8f49e2a6c8185061181419d8f" title="Returns error_code(hpx::success, &quot;success&quot;, mode). " alt="" coords="481,209,655,235"/>
+<area shape="rect" id="node31" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a2967c633948a3bf17a3b5405ef5a8318" title="hpx::util::static_::get" alt="" coords="497,1809,639,1835"/>
+<area shape="rect" id="node33" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="924,2155,1065,2182"/>
+<area shape="rect" id="node35" href="$d0/d7b/classhpx_1_1runtime.html#aa55a57060c6d0c1ea5ce4e6ef818526e" title="hpx::runtime::get_topology" alt="" coords="480,1863,656,1890"/>
+<area shape="rect" id="node34" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="1123,2148,1285,2189"/>
+<area shape="rect" id="node36" href="$df/d90/qt_8cpp.html#a7e15a887e130d217ac6841a6b3409c88" title="run" alt="" coords="765,1471,805,1498"/>
+<area shape="rect" id="node37" href="$d2/dc9/namespacehpx_1_1lcos.html#afff729d1ecad56e04dee234689931b12" title="hpx::lcos::wait" alt="" coords="941,1522,1048,1549"/>
+<area shape="rect" id="node38" href="$d8/dfd/id__type__ref__counting__1032_8cpp.html#ab811b86ea5107ffb3351fcaa29d2c652" title="func" alt="" coords="762,1775,809,1802"/>
+<area shape="rect" id="node39" href="$d5/dbe/namespacehpx_1_1detail.html#aee8c9834a58f5c303ab3458b3b47d557" title="hpx::detail::rethrow\l_exception" alt="" coords="719,1827,851,1868"/>
+<area shape="rect" id="node40" href="$d8/d83/namespacehpx.html#a7e832bd3c4af93a4619dbe97a5b1c3d2" title="Main non&#45;blocking entry point for launching the HPX runtime system. " alt="" coords="747,1893,824,1919"/>
+<area shape="rect" id="node41" href="$d8/d83/namespacehpx.html#a01a3c286e028da685dd9d616fb7c33c7" title="Stop the runtime system. " alt="" coords="747,1943,823,1970"/>
+<area shape="rect" id="node42" href="$d7/d28/namespacehpx_1_1threads.html#a076973c3a53beadde7d967e22c4f6cce" title="hpx::threads::get_thread\l_manager" alt="" coords="704,1995,867,2036"/>
+<area shape="rect" id="node43" href="$d4/dc9/namespacehpx_1_1naming.html#a0408fffd5d34b620712a801b0ae3b032" title="hpx::naming::get_agas\l_client" alt="" coords="917,2060,1072,2101"/>
+<area shape="rect" id="node44" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="915,1863,1075,1890"/>
+<area shape="rect" id="node45" href="$d8/d83/namespacehpx.html#ad3a47f9cb15f1800be181e4f249a0ede" title="The function report_error reports the given exception to the console. " alt="" coords="727,2061,844,2087"/>
+<area shape="rect" id="node46" href="$dc/d54/namespacehpx_1_1agas.html#a60ba57eced2a11f9dfa8e011cfed1ddb" title="hpx::agas::get_next_id" alt="" coords="708,2111,863,2138"/>
+<area shape="rect" id="node47" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a19d058114a2bd44801aab4176b188e23" title="hpx::parallel::v1::\lcount" alt="" coords="725,2163,845,2204"/>
+<area shape="rect" id="node48" href="$d8/d83/namespacehpx.html#a70e0fdd6c4daa17767b9d1bf6d25d813" title="hpx::keep_factory_alive" alt="" coords="707,2229,864,2255"/>
+<area shape="rect" id="node49" href="$d8/d83/namespacehpx.html#a028d0bc1a7bf003e699001e1321d8d11" title="hpx::get_thread_pool" alt="" coords="714,1522,857,1549"/>
+<area shape="rect" id="node50" href="$d8/d83/namespacehpx.html#a0bdf7871dfff58e68ae5eab9af23f2aa" title="hpx::register_thread" alt="" coords="717,1623,854,1650"/>
+</map>

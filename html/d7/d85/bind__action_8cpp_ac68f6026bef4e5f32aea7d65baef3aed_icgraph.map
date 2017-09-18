@@ -1,0 +1,11 @@
+<map id="HPX_PLAIN_ACTION" name="HPX_PLAIN_ACTION">
+<area shape="rect" id="node2" href="$d7/d85/bind__action_8cpp.html#a24456fdbd1682ff80739bbd834a178c4" title="test0" alt="" coords="199,5,249,32"/>
+<area shape="rect" id="node7" href="$d7/d85/bind__action_8cpp.html#a15717a93d980ad60f379da9a976f8555" title="test1" alt="" coords="199,56,249,83"/>
+<area shape="rect" id="node9" href="$d7/d85/bind__action_8cpp.html#a8a3fd3780b4e4f403b9954e671ebb99d" title="test2" alt="" coords="199,107,249,133"/>
+<area shape="rect" id="node10" href="$d7/d85/bind__action_8cpp.html#ae1a3ed9398b8347bb9bcc797bf5bedcc" title="test3" alt="" coords="199,157,249,184"/>
+<area shape="rect" id="node3" href="$d7/d85/bind__action_8cpp.html#a6e170bc8301135a73d989a36b5949f31" title="async_test0" alt="" coords="297,5,391,32"/>
+<area shape="rect" id="node4" href="$d7/d85/bind__action_8cpp.html#a66ce417481659548c78f69005137fa56" title="run_tests" alt="" coords="439,31,515,57"/>
+<area shape="rect" id="node5" href="$d7/d85/bind__action_8cpp.html#a344a9bb316c276641af2d061a2558c97" title="hpx_main" alt="" coords="563,31,641,57"/>
+<area shape="rect" id="node6" href="$d8/d1e/namespacehpx_1_1resource_1_1detail.html#a7cf4126748bdc4c7a71cb3c68e7d8a40" title="hpx::resource::detail\l::create_partitioner" alt="" coords="689,23,829,65"/>
+<area shape="rect" id="node8" href="$d7/d85/bind__action_8cpp.html#a0cbd5e553ad5bc0f68c30d8c6cde5f22" title="async_test2" alt="" coords="297,56,391,83"/>
+</map>

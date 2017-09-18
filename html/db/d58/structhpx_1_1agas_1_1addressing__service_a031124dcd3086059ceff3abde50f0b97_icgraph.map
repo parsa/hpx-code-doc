@@ -1,0 +1,13 @@
+<map id="hpx::agas::addressing_service::garbage_collect_non_blocking" name="hpx::agas::addressing_service::garbage_collect_non_blocking">
+<area shape="rect" id="node2" href="$dc/d54/namespacehpx_1_1agas.html#afad9c8faca41f9a5ec2c50b98ad1e05f" title="hpx::agas::garbage\l_collect_non_blocking" alt="" coords="249,108,400,149"/>
+<area shape="rect" id="node12" href="$de/d5c/runtime__support__server_8cpp.html#a2c7fd60adfab122ae67b173ad73fc706" title="HPX_REGISTER_BROADCAST\l_ACTION_ID" alt="" coords="221,173,428,215"/>
+<area shape="rect" id="node3" href="$db/d58/structhpx_1_1agas_1_1addressing__service.html#a0155cfd6dbb903623ae403c6f53b86c3" title="Returns whether this addressing_service is connecting to a running application. " alt="" coords="495,5,653,47"/>
+<area shape="rect" id="node6" href="$dc/d54/namespacehpx_1_1agas.html#abb5e5584ed3b536ace8e3f58415e24c2" title="hpx::agas::is_local\l_lva_encoded_address" alt="" coords="497,71,651,112"/>
+<area shape="rect" id="node7" href="$da/d36/structhpx_1_1components_1_1stubs_1_1runtime__support.html#ab76dc3ec60d4ceeb7e52494c307a7cfd" title="hpx::components::stubs\l::runtime_support::create\l_memory_block" alt="" coords="491,137,657,193"/>
+<area shape="rect" id="node8" href="$dd/d7e/structhpx_1_1threads_1_1policies_1_1scheduler__base.html#a956709c6ebb9953e01eb3426faf083d5" title="hpx::threads::policies\l::scheduler_base::background\l_callback" alt="" coords="476,217,672,273"/>
+<area shape="rect" id="node4" href="$dc/d54/namespacehpx_1_1agas.html#a3c98dc053a97fca0f3f3b5719d9f8336" title="hpx::agas::register\l_worker" alt="" coords="736,5,867,47"/>
+<area shape="rect" id="node5" href="$de/dae/structhpx_1_1agas_1_1notification__header.html#aa028cf0e80baf9259523c340c4568634" title="hpx::agas::notification\l_header::serialize" alt="" coords="937,5,1087,47"/>
+<area shape="rect" id="node9" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a32d8c1d6d55b20d42149c5710792142f" title="hpx::threads::detail\l::scheduled_thread_pool\l::thread_func" alt="" coords="720,217,883,273"/>
+<area shape="rect" id="node10" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a18f2b38df9ce10cde72b3a19174b18fe" title="hpx::threads::detail\l::scheduled_thread_pool\l::get_os_thread_handle" alt="" coords="931,177,1093,233"/>
+<area shape="rect" id="node11" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a83df1a54306c268c2cc95d0c4b9b9eb6" title="hpx::threads::detail\l::scheduled_thread_pool\l::add_processing_unit" alt="" coords="931,257,1093,313"/>
+</map>

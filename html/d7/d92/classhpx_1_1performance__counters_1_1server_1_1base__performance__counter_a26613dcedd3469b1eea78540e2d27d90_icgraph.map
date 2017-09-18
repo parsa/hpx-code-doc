@@ -1,0 +1,8 @@
+<map id="hpx::performance_counters::server::base_performance_counter::finalize" name="hpx::performance_counters::server::base_performance_counter::finalize">
+<area shape="rect" id="node2" href="$d4/d45/classhpx_1_1performance__counters_1_1server_1_1arithmetics__counter.html#a01c60d33e97eb25cffaef0c321671f68" title="hpx::performance_counters\l::server::arithmetics_counter\l::finalize" alt="" coords="232,5,419,61"/>
+<area shape="rect" id="node3" href="$df/d89/classhpx_1_1performance__counters_1_1server_1_1arithmetics__counter__extended.html#a92a978a9796ee08d0ab8942b3d4fe64f" title="hpx::performance_counters\l::server::arithmetics_counter\l_extended::finalize" alt="" coords="232,85,419,141"/>
+<area shape="rect" id="node4" href="$d0/dbd/classhpx_1_1performance__counters_1_1server_1_1elapsed__time__counter.html#ad23f2f450a9556664837836c5c5020ed" title="finalize() will be called just before the instance gets destructed " alt="" coords="236,165,415,221"/>
+<area shape="rect" id="node5" href="$d9/df1/classhpx_1_1performance__counters_1_1server_1_1raw__counter.html#a23e76c497fa0986225b45c3411fb5142" title="finalize() will be called just before the instance gets destructed " alt="" coords="236,245,415,301"/>
+<area shape="rect" id="node6" href="$d5/d6d/classhpx_1_1performance__counters_1_1server_1_1raw__values__counter.html#a709f8842b94142e018bdf4ba2280809f" title="finalize() will be called just before the instance gets destructed " alt="" coords="233,325,418,381"/>
+<area shape="rect" id="node7" href="$d6/d3f/classhpx_1_1performance__counters_1_1server_1_1statistics__counter.html#aca2b5ee7ab4e31109abb1d450ef93222" title="finalize() will be called just before the instance gets destructed " alt="" coords="236,405,415,461"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="wait_for_flag" name="wait_for_flag">
+<area shape="rect" id="node2" href="$d2/dd8/classhpx_1_1lcos_1_1local_1_1mutex.html" title="hpx::lcos::local::mutex" alt="" coords="268,50,423,77"/>
+<area shape="rect" id="node3" href="$d2/d39/classhpx_1_1lcos_1_1local_1_1detail_1_1condition__variable.html" title="hpx::lcos::local::detail\l::condition_variable" alt="" coords="14,5,163,47"/>
+<area shape="rect" id="node4" href="$da/dbc/structhpx_1_1lcos_1_1local_1_1spinlock.html" title="boost::mutex&#45;compatible spinlock class " alt="" coords="5,86,172,113"/>
+<area shape="rect" id="node5" href="$df/db3/classhpx_1_1lcos_1_1local_1_1condition__variable.html" title="hpx::lcos::local::condition\l_variable" alt="" coords="260,164,431,205"/>
+<area shape="rect" id="node6" href="$d4/d84/classhpx_1_1lcos_1_1local_1_1condition__variable__any.html" title="hpx::lcos::local::condition\l_variable_any" alt="" coords="260,229,431,271"/>
+</map>

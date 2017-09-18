@@ -1,0 +1,7 @@
+<map id="foo&lt; T &gt;" name="foo&lt; T &gt;">
+<area shape="rect" id="node2" href="$d2/de6/classhpx_1_1components_1_1component__base.html" title="hpx::components::simple\l_component_base\&lt; foo \&gt;" alt="" coords="312,63,481,104"/>
+<area shape="rect" id="node3" href="$d8/d79/structhpx_1_1traits_1_1detail_1_1component__tag.html" title="hpx::traits::detail\l::component_tag" alt="" coords="21,5,140,47"/>
+<area shape="rect" id="node4" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html" title="Global identifier for components across the HPX system. " alt="" coords="5,71,156,98"/>
+<area shape="rect" id="node5" href="$d9/dad/classhpx_1_1components_1_1client__base.html" title="hpx::components::client\l_base\&lt; foo, foo_server \&gt;" alt="" coords="315,128,479,169"/>
+<area shape="rect" id="node6" href="$de/dfa/structhpx_1_1components_1_1stub__base.html" title="detail::make_stub\&lt;\l foo_server &#160;\&gt;::type" alt="" coords="14,125,147,167"/>
+</map>

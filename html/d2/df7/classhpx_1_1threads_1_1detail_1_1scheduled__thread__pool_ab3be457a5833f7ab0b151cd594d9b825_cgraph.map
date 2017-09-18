@@ -1,0 +1,10 @@
+<map id="hpx::threads::detail::scheduled_thread_pool::stop_locked" name="hpx::threads::detail::scheduled_thread_pool::stop_locked">
+<area shape="rect" id="node2" href="$db/d62/structhpx_1_1threads_1_1detail_1_1pool__id__type.html#a3031d19c1ce8d88f6b9092cc0e322308" title="hpx::threads::detail\l::pool_id_type::name" alt="" coords="446,5,589,47"/>
+<area shape="rect" id="node3" href="$d2/df7/classhpx_1_1threads_1_1detail_1_1scheduled__thread__pool.html#a0fd402babe450ca5f82831ad0effedea" title="hpx::threads::detail\l::scheduled_thread_pool\l::remove_processing_unit" alt="" coords="216,63,385,119"/>
+<area shape="rect" id="node4" href="$dd/da5/namespacehpx_1_1resource.html#af91354c369d9a22a00581d6b6da7d0ee" title="hpx::resource::get\l_partitioner" alt="" coords="454,71,581,112"/>
+<area shape="rect" id="node8" href="$d0/dab/classhpx_1_1resource_1_1detail_1_1partitioner.html#a14ab510a725b2002bc1e9673087de6fe" title="hpx::resource::detail\l::partitioner::unassign_pu" alt="" coords="433,136,601,177"/>
+<area shape="rect" id="node5" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a2967c633948a3bf17a3b5405ef5a8318" title="hpx::util::static_::get" alt="" coords="674,31,815,58"/>
+<area shape="rect" id="node6" href="$d8/d83/namespacehpx.html#af29daf2bb3e01b4d6495a1742b6cce64" title="hpx::get_runtime_ptr" alt="" coords="674,82,815,109"/>
+<area shape="rect" id="node7" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="888,75,1051,116"/>
+<area shape="rect" id="node9" href="$dc/d21/classhpx_1_1resource_1_1detail_1_1init__pool__data.html#a1c6393f51304130d45b483f38cc2c35d" title="hpx::resource::detail\l::init_pool_data::unassign_pu" alt="" coords="649,136,840,177"/>
+</map>

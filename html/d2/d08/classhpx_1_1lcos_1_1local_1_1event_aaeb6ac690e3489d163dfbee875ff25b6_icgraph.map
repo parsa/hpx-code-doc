@@ -1,0 +1,9 @@
+<map id="hpx::lcos::local::event::wait" name="hpx::lcos::local::event::wait">
+<area shape="rect" id="node2" href="$df/d9a/local__event_8cpp.html#aa10b06d96e04ebdac4a4fe55ac8dff07" title="local_event_test" alt="" coords="231,24,345,51"/>
+<area shape="rect" id="node4" href="$d0/d47/namespacehpx_1_1lcos_1_1local.html#a3fa67464391720578b24d35907853756" title="hpx::lcos::local::call_once" alt="" coords="201,111,375,137"/>
+<area shape="rect" id="node8" href="$d3/d41/classhpx_1_1process_1_1process.html#acc7ec4687f3bf5ae121ef7b494d991d8" title="hpx.process.process.join" alt="" coords="205,161,371,188"/>
+<area shape="rect" id="node3" href="$df/d9a/local__event_8cpp.html#aaf67a3863f19ff7033e239ebb1204fb7" title="hpx_main" alt="" coords="480,5,559,32"/>
+<area shape="rect" id="node5" href="$d4/d04/structhpx_1_1lcos_1_1local_1_1reinitializable__static.html#a5be89efcb123484e955a72ee512d0ea2" title="hpx::lcos::local::reinitializable\l_static::reinitializable_static" alt="" coords="423,57,616,98"/>
+<area shape="rect" id="node6" href="$d2/db7/structhpx_1_1util_1_1reinitializable__static.html#a8ebb2d00ae9b9ed3bef5751a326e57b3" title="hpx::util::reinitializable\l_static::reinitializable_static" alt="" coords="428,122,611,163"/>
+<area shape="rect" id="node7" href="$d3/dbb/structhpx_1_1util_1_1static__.html#a469d6f838e6368a1517bc1082099b8da" title="hpx::util::static_\l::static_" alt="" coords="462,187,577,229"/>
+</map>

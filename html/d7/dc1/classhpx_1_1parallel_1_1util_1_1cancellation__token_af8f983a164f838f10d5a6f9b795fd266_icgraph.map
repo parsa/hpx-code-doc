@@ -1,0 +1,22 @@
+<map id="hpx::parallel::util::cancellation_token::was_cancelled" name="hpx::parallel::util::cancellation_token::was_cancelled">
+<area shape="rect" id="node2" href="$db/db9/namespacehpx_1_1parallel_1_1v1.html#a85efa0a779518b75859d9c55fd211cb0" title="hpx::parallel::v1::\lis_sorted" alt="" coords="192,257,312,298"/>
+<area shape="rect" id="node3" href="$d7/d7f/is__sorted__tests_8hpp.html#af092ec0df033820c3dff0d54672d8c37" title="test_sorted1" alt="" coords="388,5,483,32"/>
+<area shape="rect" id="node4" href="$d7/d7f/is__sorted__tests_8hpp.html#a723a02fd111726dae729982168652a33" title="test_sorted1_async" alt="" coords="367,239,503,265"/>
+<area shape="rect" id="node10" href="$d7/d7f/is__sorted__tests_8hpp.html#a15acfe05ecec007febc4170b1ace3f1e" title="test_sorted2" alt="" coords="388,340,483,367"/>
+<area shape="rect" id="node11" href="$d7/d7f/is__sorted__tests_8hpp.html#af0f8973061875d0d752061179a828fb0" title="test_sorted2_async" alt="" coords="367,289,503,316"/>
+<area shape="rect" id="node13" href="$d7/d7f/is__sorted__tests_8hpp.html#a6b1f4bbebeac246d0501b26775c72c8e" title="test_sorted3" alt="" coords="388,391,483,417"/>
+<area shape="rect" id="node14" href="$d7/d7f/is__sorted__tests_8hpp.html#aad6598d23fc8cb39839ee7a18c230a33" title="test_sorted3_async" alt="" coords="367,56,503,83"/>
+<area shape="rect" id="node16" href="$d7/d7f/is__sorted__tests_8hpp.html#afc4298a076e5a7064fd3a93d09177198" title="test_sorted_exception" alt="" coords="360,441,511,468"/>
+<area shape="rect" id="node17" href="$d7/d7f/is__sorted__tests_8hpp.html#a36cea3e6b5cc6d82d5bba72b2fb7927c" title="test_sorted_exception\l_async" alt="" coords="360,107,511,149"/>
+<area shape="rect" id="node19" href="$d7/d7f/is__sorted__tests_8hpp.html#a23485776bc98f537fb51b5b3efbf9d53" title="test_sorted_bad_alloc" alt="" coords="361,492,510,519"/>
+<area shape="rect" id="node20" href="$d7/d7f/is__sorted__tests_8hpp.html#a5a28251790d2853cf06edec134b56fb6" title="test_sorted_bad_alloc\l_async" alt="" coords="361,173,510,214"/>
+<area shape="rect" id="node5" href="$df/d8f/is__sorted_8cpp.html#aed8e91e4395ae68a39f84ac76114ab63" title="test_sorted1" alt="" coords="587,249,681,276"/>
+<area shape="rect" id="node9" href="$d1/d98/is__sorted__executors__v1_8cpp.html#a930d409ea07ad974379591f1f0531b59" title="test_executors_async" alt="" coords="559,199,709,225"/>
+<area shape="rect" id="node6" href="$d1/d98/is__sorted__executors__v1_8cpp.html#aa2a590bab3d01b2e0c3f5ebb551e6df0" title="test_executors" alt="" coords="757,148,865,175"/>
+<area shape="rect" id="node7" href="$d1/d98/is__sorted__executors__v1_8cpp.html#afa1ce77233e5dafb8a2b46c34746c25a" title="sorted_executors_test" alt="" coords="913,173,1064,200"/>
+<area shape="rect" id="node8" href="$d1/d98/is__sorted__executors__v1_8cpp.html#a4ca51ec94fa82421fc621b58eef7b01c" title="hpx_main" alt="" coords="1112,173,1191,200"/>
+<area shape="rect" id="node12" href="$df/d8f/is__sorted_8cpp.html#a3e59549925ddc9cd2e7ab881e20066e5" title="test_sorted2" alt="" coords="587,300,681,327"/>
+<area shape="rect" id="node15" href="$df/d8f/is__sorted_8cpp.html#a4590466dfab74605ed9b575acfd6373a" title="test_sorted3" alt="" coords="587,47,681,73"/>
+<area shape="rect" id="node18" href="$df/d8f/is__sorted_8cpp.html#a6537707fb24f2c699b09632dbe91bd61" title="test_sorted_exception" alt="" coords="559,97,709,124"/>
+<area shape="rect" id="node21" href="$df/d8f/is__sorted_8cpp.html#a2064f2225a48ac94150e50240bdf025a" title="test_sorted_bad_alloc" alt="" coords="559,148,709,175"/>
+</map>

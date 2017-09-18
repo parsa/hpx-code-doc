@@ -1,0 +1,7 @@
+<map id="hpx::components::memory_block::create" name="hpx::components::memory_block::create">
+<area shape="rect" id="node2" href="$d1/d4c/classhpx_1_1components_1_1memory__block.html#af2f19e98a4eae8c2e739cde009fda3c0" title="hpx::components::memory\l_block::create" alt="" coords="231,15,408,57"/>
+<area shape="rect" id="node4" href="$db/d33/polymorphic__semiintrusive__template_8cpp.html#ad187658f9cb91c1312b39ae7e896f1ea" title="T" alt="" coords="300,83,339,109"/>
+<area shape="rect" id="node3" href="$d9/dad/classhpx_1_1components_1_1client__base.html#ab57228eb99827ba33f2e47febd266608" title="hpx::components::client\l_base\&lt; memory_block, stubs\l::memory_block \&gt;::create" alt="" coords="456,5,651,61"/>
+<area shape="rect" id="node5" href="$d7/da0/struct_a.html#a5f5c287cf471e274ed9dda0da1592212" title="A::serialize" alt="" coords="510,85,597,112"/>
+<area shape="rect" id="node6" href="$d7/da0/struct_a.html#ada978cc156cebbafddb1f3aa4c01918c" title="A::HPX_SERIALIZATION\l_POLYMORPHIC" alt="" coords="699,78,864,119"/>
+</map>

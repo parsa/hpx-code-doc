@@ -1,0 +1,7 @@
+<map id="hpx::components::detail::logger" name="hpx::components::detail::logger">
+<area shape="rect" id="node2" href="$d5/d76/namespacehpx_1_1components.html#a9bee50e4538fc24c4e0706261135f072" title="hpx::components::console\l_logging" alt="" coords="215,15,389,57"/>
+<area shape="rect" id="node4" href="$d5/d76/namespacehpx_1_1components.html#ac5d6aa2c2676512c45973181465756e4" title="hpx::components::cleanup\l_logging" alt="" coords="215,82,389,123"/>
+<area shape="rect" id="node6" href="$d5/d76/namespacehpx_1_1components.html#ad19abfea66d61d58a9952628d8bd7ee9" title="hpx::components::activate\l_logging" alt="" coords="215,147,389,189"/>
+<area shape="rect" id="node3" href="$d4/df3/classhpx_1_1components_1_1server_1_1console__logging__action.html#affa8a5bc6851eb40d6cb87d57a5f474f" title="hpx::components::server\l::console_logging_action\l::execute_function" alt="" coords="458,5,623,61"/>
+<area shape="rect" id="node5" href="$de/d5c/runtime__support__server_8cpp.html#a2c7fd60adfab122ae67b173ad73fc706" title="HPX_REGISTER_BROADCAST\l_ACTION_ID" alt="" coords="437,86,644,127"/>
+</map>

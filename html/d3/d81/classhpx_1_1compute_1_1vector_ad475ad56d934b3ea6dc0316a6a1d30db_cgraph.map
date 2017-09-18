@@ -1,0 +1,10 @@
+<map id="hpx::compute::vector::vector" name="hpx::compute::vector::vector">
+<area shape="rect" id="node2" href="$df/dc6/namespacehpx_1_1parallel_1_1util.html#a3c9a6e04890282cd683a3f8449a11d1d" title="hpx::parallel::util\l::copy" alt="" coords="209,8,326,49"/>
+<area shape="rect" id="node6" href="$d3/d81/classhpx_1_1compute_1_1vector.html#a2830e2513d247b9d086552c186124679" title="hpx::compute::vector\l::begin" alt="" coords="196,75,339,116"/>
+<area shape="rect" id="node3" href="$db/d59/structhpx_1_1parallel_1_1util_1_1detail_1_1copy__helper.html#ac801832edc0b6a84595880bb4613cb60" title="hpx::parallel::util\l::detail::copy_helper::call" alt="" coords="387,7,553,48"/>
+<area shape="rect" id="node4" href="$d2/ddd/namespacehpx_1_1parallel_1_1v1_1_1detail.html#a6bea3c6a5f470cad11f27ee6bab4a33f" title="hpx::parallel::v1::\ldetail::distance" alt="" coords="611,5,731,47"/>
+<area shape="rect" id="node5" href="$db/dfa/structhpx_1_1parallel_1_1v1_1_1detail_1_1calculate__distance.html#a950a6627830a7d019ac0e734b0a447bf" title="hpx::parallel::v1::\ldetail::calculate_distance::call" alt="" coords="788,5,985,47"/>
+<area shape="rect" id="node7" href="$dc/d38/structhpx_1_1compute_1_1traits_1_1allocator__traits.html#a04281ead6c9504b26486936780357261" title="hpx::compute::traits\l::allocator_traits::target" alt="" coords="392,75,548,116"/>
+<area shape="rect" id="node8" href="$d5/df2/namespacehpx_1_1compute_1_1traits_1_1detail.html#a0d88ef1b9e4768039d92c7831c50f690" title="hpx::compute::traits\l::detail::call_target\l_helper" alt="" coords="601,71,740,127"/>
+<area shape="rect" id="node9" href="$d9/d69/structhpx_1_1compute_1_1traits_1_1detail_1_1target__helper.html#a8037483c79c51b54ce113552c2409592" title="hpx::compute::traits\l::detail::target_helper::call" alt="" coords="801,79,973,120"/>
+</map>

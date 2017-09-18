@@ -1,0 +1,9 @@
+<map id="hpx::lcos::channel::close" name="hpx::lcos::channel::close">
+<area shape="rect" id="node2" href="$dd/d5f/channel_8cpp.html#a3d606b83e4ff5fddcaf60e1e4724c219" title="dispatch_work" alt="" coords="197,5,303,32"/>
+<area shape="rect" id="node4" href="$dd/d5f/channel_8cpp.html#a38b0840217b66b16fd29fa66bb69bb1e" title="channel_range" alt="" coords="197,56,303,83"/>
+<area shape="rect" id="node5" href="$dd/d5f/channel_8cpp.html#a3cf409af54af985dbcbcfd63382bad85" title="channel_range_void" alt="" coords="183,107,317,133"/>
+<area shape="rect" id="node6" href="$dd/d5f/channel_8cpp.html#a613769bacba4c3e39fac846a58393bff" title="closed_channel_get" alt="" coords="181,157,319,184"/>
+<area shape="rect" id="node7" href="$dd/d5f/channel_8cpp.html#a615cc57b47b12d65521e307be7560ca1" title="closed_channel_get\l_generation" alt="" coords="181,209,319,250"/>
+<area shape="rect" id="node8" href="$dd/d5f/channel_8cpp.html#abba54cc420f5b1095c9cb6cf183749c0" title="closed_channel_set" alt="" coords="181,275,319,301"/>
+<area shape="rect" id="node3" href="$dd/d5f/channel_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="367,132,417,159"/>
+</map>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="d0/d7d/structhpx_1_1traits_1_1acquire__future" kind="struct" language="C++" prot="public">
+    <compoundname>hpx::traits::acquire_future</compoundname>
+    <basecompoundref refid="d2/d39/structhpx_1_1traits_1_1detail_1_1acquire__future__impl" prot="public" virt="non-virtual">hpx::traits::detail::acquire_future_impl&lt; std::decay&lt; T &gt;::type &gt;</basecompoundref>
+    <includes refid="d5/dae/acquire__future_8hpp" local="no">acquire_future.hpp</includes>
+    <templateparamlist>
+      <param>
+        <type>typename <ref refid="db/d33/polymorphic__semiintrusive__template_8cpp_1ad187658f9cb91c1312b39ae7e896f1ea" kindref="member">T</ref></type>
+      </param>
+      <param>
+        <type>typename Enable</type>
+        <defval>void</defval>
+      </param>
+    </templateparamlist>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="170">
+        <label>hpx::traits::detail::acquire_future_impl&lt; std::decay&lt; T &gt;::type &gt;</label>
+        <link refid="d2/d39/structhpx_1_1traits_1_1detail_1_1acquire__future__impl"/>
+        <childnode refid="171" relation="template-instance">
+          <edgelabel>&lt; std::decay&lt; T &gt;::type &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="169">
+        <label>hpx::traits::acquire_future&lt; T, Enable &gt;</label>
+        <link refid="d0/d7d/structhpx_1_1traits_1_1acquire__future"/>
+        <childnode refid="170" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="171">
+        <label>hpx::traits::detail::acquire_future_impl&lt; T, Enable &gt;</label>
+        <link refid="d2/d39/structhpx_1_1traits_1_1detail_1_1acquire__future__impl"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="173">
+        <label>hpx::traits::detail::acquire_future_impl&lt; std::decay&lt; T &gt;::type &gt;</label>
+        <link refid="d2/d39/structhpx_1_1traits_1_1detail_1_1acquire__future__impl"/>
+        <childnode refid="174" relation="template-instance">
+          <edgelabel>&lt; std::decay&lt; T &gt;::type &gt;</edgelabel>
+        </childnode>
+      </node>
+      <node id="172">
+        <label>hpx::traits::acquire_future&lt; T, Enable &gt;</label>
+        <link refid="d0/d7d/structhpx_1_1traits_1_1acquire__future"/>
+        <childnode refid="173" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="174">
+        <label>hpx::traits::detail::acquire_future_impl&lt; T, Enable &gt;</label>
+        <link refid="d2/d39/structhpx_1_1traits_1_1detail_1_1acquire__future__impl"/>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/acquire_future.hpp" line="37" column="1" bodyfile="C:/Users/Parsa/Source/Repos/hpx/hpx/traits/acquire_future.hpp" bodystart="35" bodyend="37"/>
+    <listofallmembers>
+      <member refid="d2/d39/structhpx_1_1traits_1_1detail_1_1acquire__future__impl_1ae42a20da3b776729c04be8f76f8f4a8f" prot="public" virt="non-virtual"><scope>hpx::traits::acquire_future</scope><name>operator()</name></member>
+      <member refid="d2/d39/structhpx_1_1traits_1_1detail_1_1acquire__future__impl_1af8f9e81fc8d63e393f52e973973f5d92" prot="public" virt="non-virtual"><scope>hpx::traits::acquire_future</scope><name>type</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

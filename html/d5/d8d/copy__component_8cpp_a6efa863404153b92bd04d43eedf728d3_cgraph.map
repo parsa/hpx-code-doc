@@ -1,0 +1,10 @@
+<map id="test_copy_component_here" name="test_copy_component_here">
+<area shape="rect" id="node2" href="$d9/dad/classhpx_1_1components_1_1client__base.html#ab57228eb99827ba33f2e47febd266608" title="hpx::components::client\l_base\&lt; test_client, test\l_server \&gt;::create" alt="" coords="236,5,397,61"/>
+<area shape="rect" id="node3" href="$d9/dad/classhpx_1_1components_1_1client__base.html#a0cdfe4b8fed578eb1ce34222c0f07b03" title="hpx::components::client\l_base::get_id" alt="" coords="236,86,397,127"/>
+<area shape="rect" id="node4" href="$d8/d83/namespacehpx.html#af07c1b6e26bcdfb1138643a1a2133cf4" title="Return the global id representing this locality. " alt="" coords="265,152,368,179"/>
+<area shape="rect" id="node8" href="$d8/df6/structtest__client.html#a415572be44e40d3a3a518c559cadcade" title="test_client::call" alt="" coords="261,207,372,233"/>
+<area shape="rect" id="node5" href="$d8/dcb/namespacehpx_1_1applier.html#a617483cf2b77ad3a0aa428ade7b35299" title="hpx::applier::get_applier_ptr" alt="" coords="451,101,634,128"/>
+<area shape="rect" id="node7" href="$d8/dcb/namespacehpx_1_1applier.html#aba1147ab54a476403b37f20a39b1e239" title="hpx::applier::get_applier" alt="" coords="463,152,623,179"/>
+<area shape="rect" id="node6" href="$d4/d4c/structhpx_1_1util_1_1thread__specific__ptr.html#a3b27d8520710478aa41d1f74206bdba9" title="hpx::util::thread_specific\l_ptr::get" alt="" coords="688,94,851,135"/>
+<area shape="rect" id="node9" href="$d2/de6/classhpx_1_1components_1_1component__base.html#a4c8fd93514039bdf01c48d66d82b19cd" title="hpx::components::component\l_base::get_id" alt="" coords="445,203,640,245"/>
+</map>

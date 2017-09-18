@@ -1,0 +1,15 @@
+<map id="managed_refcnt_checker.hpp" name="managed_refcnt_checker.hpp">
+<area shape="rect" id="node2" href="$db/dd0/managed__refcnt__checker_8hpp.html" title="managed_refcnt_checker.hpp" alt="" coords="911,80,1103,107"/>
+<area shape="rect" id="node3" href="$d6/d80/credit__exhaustion_8cpp.html" title="credit_exhaustion.cpp" alt="" coords="5,162,155,189"/>
+<area shape="rect" id="node4" href="$d6/d54/local__embedded__ref__to__local__object_8cpp.html" title="local_embedded_ref\l_to_local_object.cpp" alt="" coords="179,155,320,196"/>
+<area shape="rect" id="node5" href="$d6/d34/local__embedded__ref__to__remote__object_8cpp.html" title="local_embedded_ref\l_to_remote_object.cpp" alt="" coords="344,155,499,196"/>
+<area shape="rect" id="node6" href="$d9/deb/refcnted__symbol__to__local__object_8cpp.html" title="refcnted_symbol_to\l_local_object.cpp" alt="" coords="523,155,658,196"/>
+<area shape="rect" id="node7" href="$dd/d20/refcnted__symbol__to__remote__object_8cpp.html" title="refcnted_symbol_to\l_remote_object.cpp" alt="" coords="683,155,819,196"/>
+<area shape="rect" id="node8" href="$d4/ded/remote__embedded__ref__to__local__object_8cpp.html" title="remote_embedded_ref\l_to_local_object.cpp" alt="" coords="843,155,994,196"/>
+<area shape="rect" id="node9" href="$dc/dca/remote__embedded__ref__to__remote__object_8cpp.html" title="remote_embedded_ref\l_to_remote_object.cpp" alt="" coords="1019,155,1173,196"/>
+<area shape="rect" id="node10" href="$d6/da4/scoped__ref__to__local__object_8cpp.html" title="scoped_ref_to_local\l_object.cpp" alt="" coords="1198,155,1335,196"/>
+<area shape="rect" id="node11" href="$de/d85/scoped__ref__to__remote__object_8cpp.html" title="scoped_ref_to_remote\l_object.cpp" alt="" coords="1359,155,1510,196"/>
+<area shape="rect" id="node12" href="$dc/d1c/split__credit_8cpp.html" title="split_credit.cpp" alt="" coords="1534,162,1645,189"/>
+<area shape="rect" id="node13" href="$de/d5f/uncounted__symbol__to__local__object_8cpp.html" title="uncounted_symbol_to\l_local_object.cpp" alt="" coords="1669,155,1819,196"/>
+<area shape="rect" id="node14" href="$d5/d86/uncounted__symbol__to__remote__object_8cpp.html" title="uncounted_symbol_to\l_remote_object.cpp" alt="" coords="1843,155,1992,196"/>
+</map>

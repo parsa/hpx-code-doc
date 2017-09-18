@@ -1,0 +1,6 @@
+<map id="hpx::agas::check_for_collisions" name="hpx::agas::check_for_collisions">
+<area shape="rect" id="node2" href="$d0/d9c/structhpx_1_1agas_1_1addressing__service_1_1gva__cache__key.html#a708ed959cf225ceef95f3328a99e29ff" title="hpx::agas::addressing\l_service::gva_cache_key\l::get_gid" alt="" coords="196,5,363,61"/>
+<area shape="rect" id="node3" href="$d0/d9c/structhpx_1_1agas_1_1addressing__service_1_1gva__cache__key.html#a3568b745efded9c94e11f1f175928a40" title="hpx::agas::addressing\l_service::gva_cache_key\l::get_count" alt="" coords="196,85,363,141"/>
+<area shape="rect" id="node4" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html#a31d0fb49a563fb184fecaabdced4dcd9" title="hpx::naming::gid_type\l::get_msb" alt="" coords="411,59,561,101"/>
+<area shape="rect" id="node5" href="$d3/d67/structhpx_1_1naming_1_1gid__type.html#ad7dfeee6436c3b055ee759590b09b4a5" title="hpx::naming::gid_type\l::get_lsb" alt="" coords="411,125,561,166"/>
+</map>
